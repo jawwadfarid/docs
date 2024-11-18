@@ -1,52 +1,11 @@
----
-icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+# Overview
 
-# Mintlify Starter Kit
+CodeWords is the idea-to-software platform that turns your digital ideas into tools. Whether you are a software developer or not, you can build software in minutes.
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+CodeWords is best for people who have an idea of what software they want to build but do not know where or how to start.
 
-* Guide pages
-* Navigation
-* Customizations
-* API Reference pages
-* Use of popular components
-
-### Development
-
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
-
-```
-npm i -g mintlify
-```
-
-Run the following command at the root of your documentation (where mint.json is)
-
-```
-mintlify dev
-```
-
-### Publishing Changes
-
-Install our Github App to auto propagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard.
-
-#### Troubleshooting
-
-* Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-* Page loads as a 404 - Make sure you are running in a folder with `mint.json`
+* **Create**. Users can build complex back-end systems in minutes from a prompt. These are called “CodeWords functions”. Check out the prompting [Best Practices](https://www.notion.so/CodeWords-Documentation-136c873bb9c7406d8ebf5ac8c4b5dcba?pvs=21) and the [Example Library](https://www.notion.so/CodeWords-Documentation-136c873bb9c7406d8ebf5ac8c4b5dcba?pvs=21) to see what is possible.
+* **Manage**. Everything you create on CodeWords lives in your own library under “My Functions”.
+* **Compose**. The real power of CodeWords comes from the ability to compose multiple functions with each other to build more complex software. Like assembling LEGO blocks.
+* **Run.** Every function is automatically deployed on the cloud in one-click, allowing users to use the created software directly.
+* **API.** Functions are made available via the Run page and can be integrated anywhere. See [API Reference](https://www.notion.so/CodeWords-Documentation-136c873bb9c7406d8ebf5ac8c4b5dcba?pvs=21) for more information.
