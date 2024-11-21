@@ -16,7 +16,7 @@
 
 * [Key Features](documentation/key-features/README.md)
   * [Create](documentation/key-features/create.md)
-  * [Mange](documentation/key-features/mange.md)
+  * [Manage](documentation/key-features/manage.md)
   * [Run](documentation/key-features/run.md)
 * [Capabilities](documentation/capabilities.md)
 * [CodeWords Library](documentation/codewords-library.md)
