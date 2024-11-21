@@ -1,12 +1,6 @@
 # Quick Start
 
-Prerequisites
-
-* [Log in](https://app.codewords.ai/) to CodeWords
-* (Optional) Knowledge of how APIs work
-* (Optional) Identify a problem to solve or tasks to automate and define the requirements: steps, inputs and outputs, features
-
-#### Build a function in minutes
+### Build a function in minutes
 
 <div>
 
@@ -18,7 +12,7 @@ Prerequisites
 
 </div>
 
-**Deploy and Run your function in one-click**
+### **Deploy and Run your function in one-click**
 
 <div>
 

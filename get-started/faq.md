@@ -92,7 +92,7 @@ The CodeWords Chat Function, also known as Wordshop, can be thought of as an AI 
 
 <details>
 
-<summary>Where do the CodeWords 'live'?</summary>
+<summary>Where do CodeWords 'live'?</summary>
 
 CodeWords functions are automatically deployed on the most secure infrastructure, powered by Amazon Web Services, and managed by CodeWords. We offer custom deployment for enterprise customers as well.
 
