@@ -18,7 +18,7 @@ Prerequisites
 
 </div>
 
-Deploy and Run your function in one-click
+**Deploy and Run your function in one-click**
 
 <div>
 
