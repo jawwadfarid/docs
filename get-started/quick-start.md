@@ -1,25 +1,29 @@
+---
+description: Learn how to get going fast on CodeWords
+---
+
 # Quick Start
 
-### Build a function in minutes
+All you need to get started with is an idea that you type in the prompt bar. In need of inspiration? Check existing functions in "Explore" or in the homepage gallery.
 
-<div>
+<figure><img src="../.gitbook/assets/AZ - Arc -2024-12-10 at 17.30.31@2x.png" alt=""><figcaption><p>CodeWords homepage</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/AZ - Arc -2024-08-30 at 15.24.49@2x.png" alt="" width="375"><figcaption><p>Start with a Prompt or Adapt an existing prompt</p></figcaption></figure>
+> CodeWords is currently optimized for desktop use only.
 
- 
 
-<figure><img src="../.gitbook/assets/AZ - Screen Studio -2024-08-30 at 15.07.05.gif" alt="" width="375"><figcaption><p>A rough idea is all you need</p></figcaption></figure>
 
-</div>
+## Start Building
 
-### **Deploy and Run your function in one-click**
+Enter your idea in as many words as you like.
 
-<div>
+<figure><img src="../.gitbook/assets/codewords-homepage-20241210-1080p (1).gif" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/AZ - Screen Studio -2024-08-30 at 16.03.27 (1).gif" alt="" width="375"><figcaption><p>Run your function on CodeWords</p></figcaption></figure>
+When you click enter, you land in Wordshop, the creation environment.
 
- 
+<figure><img src="../.gitbook/assets/AZ - Arc -2024-12-10 at 17.53.39@2x.png" alt=""><figcaption><p>Wordshop</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/AZ - Arc -2024-08-30 at 16.05.46@2x.png" alt="" width="375"><figcaption><p>Integrate your function anywhere with the CodeWords Client</p></figcaption></figure>
+Use the "Chat" on the left to enter any requirements and build the "Spec" on the right. Think of the Spec as your project brief.&#x20;
 
-</div>
+Once the "Build" button appears, your function is ready to be generated.
+
+<figure><img src="../.gitbook/assets/codewords-wordshop-build-20241210-1080p (1).gif" alt=""><figcaption></figcaption></figure>

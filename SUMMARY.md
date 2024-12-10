@@ -2,8 +2,9 @@
 
 ## Get Started
 
-* [Overview](README.md)
+* [Introduction](README.md)
 * [Quick Start](get-started/quick-start.md)
+* [Concepts](get-started/concepts.md)
 * [FAQ](get-started/faq.md)
 
 ## Guides&#x20;
