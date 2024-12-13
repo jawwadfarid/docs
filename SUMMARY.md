@@ -4,17 +4,17 @@
 
 * [Introduction](README.md)
 * [Quick Start](get-started/quick-start.md)
-* [Concepts](get-started/concepts.md)
-* [FAQ](get-started/faq.md)
-
-## Guides&#x20;
-
-* [Prompt Writing](guides/prompt-writing.md)
-* [Tips & Tricks](guides/tips-and-tricks.md)
-* [Demo Videos](guides/demo-videos.md)
 
 ## Documentation
 
+* [Concepts](documentation/concepts/README.md)
+  * [Functions](documentation/concepts/functions.md)
+  * [Spec](documentation/concepts/spec.md)
+  * [Wordshop](documentation/concepts/wordshop.md)
+  * [Credits](documentation/concepts/credits.md)
+  * [Run](documentation/concepts/run.md)
+  * [Scheduling](documentation/concepts/scheduling.md)
+* [FAQ](documentation/faq.md)
 * [Key Features](documentation/key-features/README.md)
   * [Create](documentation/key-features/create.md)
   * [Manage](documentation/key-features/manage.md)
@@ -22,3 +22,9 @@
 * [Capabilities](documentation/capabilities.md)
 * [CodeWords Library](documentation/codewords-library.md)
 * [API Reference](documentation/api-reference.md)
+
+## Guides&#x20;
+
+* [Prompt Writing](guides/prompt-writing.md)
+* [Tips & Tricks](guides/tips-and-tricks.md)
+* [Demo Videos](guides/demo-videos.md)

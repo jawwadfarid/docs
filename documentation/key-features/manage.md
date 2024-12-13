@@ -1,4 +1,8 @@
-# Mange
+---
+hidden: true
+---
+
+# Manage
 
 All your created functions are stored under “My Functions”. You can search, rename, delete and run them again.
 

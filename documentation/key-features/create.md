@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Create
 
 ### Time to Create
@@ -10,15 +14,7 @@ Use your words to create a new function
 
 You can also use the CodeWords built-in Integrations or your CodeWords functions to build your new function.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/AZ - Arc -2024-08-30 at 16.22.29.gif" alt=""><figcaption><p>Built-In Integrations</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/AZ - Arc -2024-08-30 at 16.21.38@2x.png" alt=""><figcaption><p>Use existing functions to build</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/AZ - Arc -2024-08-30 at 16.22.29.gif" alt=""><figcaption><p>Built-In Integrations</p></figcaption></figure> <figure><img src="../../.gitbook/assets/AZ - Arc -2024-08-30 at 16.21.38@2x.png" alt=""><figcaption><p>Use existing functions to build</p></figcaption></figure></div>
 
 ### Attach Example File
 

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Run
 
 Each function created has its own Run page generated. Simply provide the input(s) and click “Run” to use your tool.
@@ -6,19 +10,7 @@ Each function created has its own Run page generated. Simply provide the input(s
 
 ### Other Features in Run
 
-<div>
-
-<figure><img src="../../.gitbook/assets/AZ - Arc -2024-08-30 at 16.34.11@2x (1).png" alt=""><figcaption><p>“View Graph” shows you the architecture of your function</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>“API” gives you all information to integrate your function</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/AZ - Arc -2024-08-30 at 16.35.44@2x.png" alt=""><figcaption><p>Share your function </p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/AZ - Arc -2024-08-30 at 16.34.11@2x (1).png" alt=""><figcaption><p>“View Graph” shows you the architecture of your function</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>“API” gives you all information to integrate your function</p></figcaption></figure> <figure><img src="../../.gitbook/assets/AZ - Arc -2024-08-30 at 16.35.44@2x.png" alt=""><figcaption><p>Share your function </p></figcaption></figure></div>
 
 
 

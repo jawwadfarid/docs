@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Capabilities
 
 Today, CodeWords is best suited for building back-end systems, complemented with a simple front-end.

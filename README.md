@@ -1,5 +1,7 @@
 # Introduction
 
+<figure><img src=".gitbook/assets/AZ - Arc -2024-12-13 at 17.04.31@2x.png" alt=""><figcaption><p>CodeWords homepage</p></figcaption></figure>
+
 CodeWords is the **idea-to-software platform that turns your ideas into working tools**. Whether you are a software developer, product manager or tinkerer, CodeWords allows you to build reusable and composable software in minutes.
 
 CodeWords is best for people who have an idea of what software they want to build, but do not know where or how to start. **Use your own words to describe** what you want to build and iterate alongside the AI Builder.
