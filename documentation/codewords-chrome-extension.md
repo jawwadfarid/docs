@@ -18,6 +18,8 @@ This means you can have a workflow scrape data on LinkedIn (see [LinkedIn Profil
 
 ### **2. Manual Installation**
 
+> 🖐  Facing issues with the installation? Try installing it manually.
+
 * Download the latest version of the extension [here](https://drive.google.com/file/d/1XXw5NFM6fSdDSMPJAt9tV6N0o8Rz2xby/view?usp=sharing)
 * Uninstall any previous version of the extension in `Settings > Manage Extensions`&#x20;
 * Find the CodeWords Chrome Extension and click on `Remove`
@@ -33,4 +35,4 @@ This means you can have a workflow scrape data on LinkedIn (see [LinkedIn Profil
 
 • Not working on some pages? Make sure you’ve granted permissions in the extension settings.
 
-• Need help? Reach out at [support@agemo.ai](mailto:support@codewords.ai) or through the Help tab in the extension.
+> ⚠️ Still facing issues? Try installing the extension manually or reach out at [support@agemo.ai](mailto:support@codewords.ai).
