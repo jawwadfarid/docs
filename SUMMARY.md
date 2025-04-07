@@ -22,6 +22,7 @@
 * [Capabilities](documentation/capabilities.md)
 * [CodeWords Library](documentation/codewords-library.md)
 * [API Reference](documentation/api-reference.md)
+* [CodeWords Chrome Extension](documentation/codewords-chrome-extension.md)
 
 ## Guides&#x20;
 
