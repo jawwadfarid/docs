@@ -84,7 +84,7 @@ If you encounter any issues, please reach out to us at support@agemo.ai, or if y
 
 <details>
 
-<summary><strong>How is this different from tools like ScrapeX or ChangeDetection.io?</strong></summary>
+<summary>How is this different from tools like ScrapeX or ChangeDetection.io?</summary>
 
 Website Watcher is built for teams who live in Slack. Unlike generic page monitoring tools, it summarizes meaningful changes in plain English and delivers them directly to your Slack channel—no dashboards to check, no code to configure. It’s designed for real-time collaboration, not just passive tracking.
 
@@ -92,7 +92,7 @@ Website Watcher is built for teams who live in Slack. Unlike generic page monito
 
 <details>
 
-<summary><strong>Why not just subscribe to their newsletter?</strong></summary>
+<summary>Why not just subscribe to their newsletter?</summary>
 
 Newsletters are delayed (and often filtered). Website Watcher gives you real-time alerts for competitive or strategic updates.
 
@@ -100,7 +100,7 @@ Newsletters are delayed (and often filtered). Website Watcher gives you real-tim
 
 <details>
 
-<summary><strong>How often does it check for changes?</strong></summary>
+<summary>How often does it check for changes?</summary>
 
 The agent checks your selected everyday and sends alerts when there's a meaningful update—not just minor text edits.
 
@@ -116,7 +116,7 @@ You can use [this workflow](https://codewords.agemo.ai/run/website_monitoring_to
 
 <details>
 
-<summary><strong>Can I track more than one site?</strong></summary>
+<summary>Can I track more than one site?</summary>
 
 Yes. You can set up multiple workflows to monitor different websites or pages.
 
@@ -124,7 +124,7 @@ Yes. You can set up multiple workflows to monitor different websites or pages.
 
 <details>
 
-<summary><strong>Can I choose which types of changes trigger alerts?</strong></summary>
+<summary>Can I choose which types of changes trigger alerts?</summary>
 
 Yes. When you're setting it up, specify what kind of changes you're looking for (this is where the LLM comes in).
 
@@ -132,7 +132,7 @@ Yes. When you're setting it up, specify what kind of changes you're looking for 
 
 <details>
 
-<summary><strong>Will it monitor behind login pages or paywalls?</strong></summary>
+<summary>Will it monitor behind login pages or paywalls?</summary>
 
 Not at the moment. In a future version it will be able to use your credentials to access pages behind a login in a safe and secure manner within your browser.
 
@@ -140,7 +140,7 @@ Not at the moment. In a future version it will be able to use your credentials t
 
 <details>
 
-<summary><strong>What if the page requires interaction (like clicking “View More”)?</strong></summary>
+<summary>What if the page requires interaction (like clicking “View More”)?</summary>
 
 We’re rolling out an advanced version of this workflow that can actively interact with pages—like clicking buttons or expanding sections. If that’s something you need, let us know and we’ll get you early access.
 
@@ -156,7 +156,7 @@ You can simply go to 'Scheduled Runs' on CodeWords, and disable the workflow.
 
 <details>
 
-<summary><strong>What if it misses something or sends a false alert?</strong></summary>
+<summary>What if it misses something or sends a false alert?</summary>
 
 If you notice something off, just let us know via the chat widget on CodeWords, at support@agemo.ai or on Slack if you're in our Beta group. We’re constantly improving detection.
 
