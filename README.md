@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Introduction
 
 <figure><img src=".gitbook/assets/AZ - Arc -2024-12-13 at 17.04.31@2x.png" alt=""><figcaption><p>CodeWords homepage</p></figcaption></figure>

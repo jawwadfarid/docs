@@ -1,5 +1,6 @@
 ---
 description: Learn how to get going fast on CodeWords
+hidden: true
 ---
 
 # Quick Start

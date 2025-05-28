@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Prompt Writing
 
 **1. What makes a good prompt for a CodeWords function?**
