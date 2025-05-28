@@ -33,11 +33,11 @@ layout:
 
 {% stepper %}
 {% step %}
-### Visit CodeWords and go to the [Person Finder Workflow](https://codewords.agemo.ai/run/person_finder)&#x20;
+### Log in to [CodeWords](https://codewords.agemo.ai) and go to the [Person Finder Workflow](https://codewords.agemo.ai/run/person_finder)
 {% endstep %}
 
 {% step %}
-### Complete your set up&#x20;
+### Complete your set up (it takes two clicks)&#x20;
 
 Download the CodeWords Chrome Extension if you haven't already.
 
@@ -53,7 +53,7 @@ Add in the person's full name and any additional info you have, such as location
 {% step %}
 ### Click Run
 
-Wait about 3-5 minutes for the workflow to run. You can leave the tab open and continue your work in the background.&#x20;
+Wait about 3-5 minutes for the workflow to run. Leave the tab open and continue your work in the background.&#x20;
 {% endstep %}
 
 {% step %}
@@ -69,13 +69,13 @@ You'll see a detailed profile report with social links, professional summary, wo
 
 {% stepper %}
 {% step %}
-### Visit CodeWords and go to the [Person Finder from Slack Workflow](https://codewords.agemo.ai/run/person_finder)&#x20;
+### Log in to [CodeWords](https://codewords.agemo.ai) and go to the [Person Finder from Slack Workflow](https://codewords.agemo.ai/run/person_finder)&#x20;
 
 
 {% endstep %}
 
 {% step %}
-### Complete your set up&#x20;
+### Complete your set up (it takes four clicks)
 
 1. **Add CodeWords to your Slack workspace**\
    Add CodeWords to your Slack workspace using the 'Add to Slack' button. You will need to give permission to CodeWords to access your slack workspace.&#x20;
