@@ -31,11 +31,11 @@ layout:
 
 {% stepper %}
 {% step %}
-### Visit CodeWords and go to the [LinkedIn Scraping and Enrichment to Google Sheets](https://codewords.agemo.ai/run/scrape_and_enrich_linkedin_post_to_google_sheets) workflow
+### Log in to [CodeWords](https://codewords.agemo.ai/) and go to the [LinkedIn Post Scraping and Enrichment](https://codewords.agemo.ai/run/scrape_and_enrich_linkedin_post_to_google_sheets) workflow
 {% endstep %}
 
 {% step %}
-### Complete your set up&#x20;
+### Complete your set up (it takes four clicks)
 
 Connect to Google Sheets and download the CodeWords Chrome Extension if you haven't already.
 
@@ -78,9 +78,10 @@ If you encounter any issues, please reach out to us at support@agemo.ai, or if y
 
 This workflow is easier to use, more flexible, and much more affordable.&#x20;
 
-* **No setup or coding required**—just paste a URL and run.
-* **Customizable**—you can specify what data to extract in plain English.
-* **Lower cost**—runs typically cost **under $1**, compared to PhantomBuster’s significantly higher pricing.
+* **No setup or coding required.** Just paste a URL and run.
+* **Customizable**. You can specify what data to extract in plain English.
+* **Lower cost**. Runs typically cost **under $1**, compared to PhantomBuster’s significantly higher pricing.
+* **Everything stays in your browser.** None of your data is being uploaded to a remote server.
 
 </details>
 

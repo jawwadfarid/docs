@@ -31,7 +31,7 @@ layout:
 
 {% stepper %}
 {% step %}
-### Visit CodeWords and go to the [Person Finder from Slack Workflow](https://codewords.agemo.ai/run/website_monitoring_to_slack_trigger)
+### Log in to [CodeWords](https://codewords.agemo.ai/) and go to the [ Website Watcher Workflow](https://codewords.agemo.ai/run/website_monitoring_to_slack_trigger)
 {% endstep %}
 
 {% step %}
@@ -93,6 +93,8 @@ If you encounter any issues, please reach out to us at support@agemo.ai, or if y
 
 Website Watcher is built for teams who live in Slack. Unlike generic page monitoring tools, it summarizes meaningful changes in plain English and delivers them directly to your Slack channel—no dashboards to check, no code to configure. It’s designed for real-time collaboration, not just passive tracking.
 
+You also only pay for this single workflow and how much you use it, instead of a recurring SaaS bill.
+
 </details>
 
 <details>
@@ -131,7 +133,7 @@ Yes. You can set up multiple workflows to monitor different websites or pages.
 
 <summary>Can I choose which types of changes trigger alerts?</summary>
 
-Yes. When you're setting it up, specify what kind of changes you're looking for (this is where the LLM comes in).
+Yes. When you're setting it up, specify what kind of changes you're looking for. Simply specify in natural language what you want to track.
 
 </details>
 
