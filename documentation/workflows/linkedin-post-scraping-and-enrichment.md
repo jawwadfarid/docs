@@ -3,7 +3,7 @@ description: >-
   Track competitor, partner, or prospect websites—and get instant Slack alerts
   when something meaningful changes (like product updates or pricing shifts). No
   more refreshing pages multiple times a week.
-icon: globe-pointer
+icon: linkedin
 coverY: 0
 layout:
   cover:
@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# Website Watcher (Slack Agent)
+# LinkedIn Post Scraping and Enrichment
 
 ## Who is this for?
 
@@ -43,13 +43,10 @@ layout:
 <img src="../../.gitbook/assets/Screenshot 2025-05-28 at 12.28.28.png" alt="" data-size="original">
 
 2. **Connect your Slack account** \
-   You can do this via the Set Up section.
-
-<img src="../../.gitbook/assets/Screenshot 2025-05-28 at 15.40.42.png" alt="" data-size="original">
-
-2. **(optional) Create a new Slack channel**\
+   You can do this via the Set Up section.![](<../../.gitbook/assets/Screenshot 2025-05-28 at 15.40.42.png>)
+3. **(optional) Create a new Slack channel**\
    Create a **public** Slack channel for the notifications to be sent to. You can also use an existing one if you prefer.
-3. **Add the CodeWords bot to your selected Slack channel**\
+4. **Add the CodeWords bot to your selected Slack channel**\
    In the channel, simply type "/invite @CodeWords". You should then see a confirmation that CodeWords has been added to the channel.
 {% endstep %}
 
@@ -81,9 +78,7 @@ Wait about a minute the workflow to run and get set up.&#x20;
 {% endstep %}
 {% endstepper %}
 
-{% hint style="info" %}
 If you encounter any issues, please reach out to us at support@agemo.ai, or if you're a beta user, get in touch with one of our team members on Slack.
-{% endhint %}
 
 ## FAQs
 

@@ -136,7 +136,9 @@ It's best to test out this workflow on Slack to see if it's working as you expec
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-05-28 at 12.38.23.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
 If you encounter any issues, please reach out to us at support@agemo.ai, or if you're a beta user, get in touch with one of our team members on Slack.
+{% endhint %}
 
 ## FAQs
 
