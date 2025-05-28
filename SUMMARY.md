@@ -9,6 +9,7 @@
 
 * [Workflows](documentation/workflows/README.md)
   * [Person Finder](documentation/workflows/person-finder.md)
+  * [Website Watcher (Slack Agent)](documentation/workflows/website-watcher-slack-agent.md)
 * [Concepts](documentation/concepts/README.md)
   * [Functions](documentation/concepts/functions.md)
   * [Spec](documentation/concepts/spec.md)

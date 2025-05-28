@@ -203,3 +203,11 @@ Even if you do, Person Finder is helpful for refreshing context—especially on 
 Reach out at support@agemo.ai, or message our team on Slack if you're in the beta group.
 
 </details>
+
+<details>
+
+<summary>I like the workflow but want to tweak something (like the output format or inputs). Is that possible?</summary>
+
+Yes! Just reach out via the chat widget on CodeWords and type in the variation you'd like. Plus, we're rolling out an edit feature soon, so you'll be able to customize workflows on your own with just a few clicks or message.
+
+</details>
