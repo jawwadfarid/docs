@@ -37,29 +37,32 @@ layout:
 {% step %}
 ### Complete your set up&#x20;
 
-1.
+Connect to Google Sheets and download the CodeWords Chrome Extension if you haven't already.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-28 at 16.35.26.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### Complete the Input section
 
-1.
+* **Paste the LinkedIn post URL** into the **Post URL** input field.
+* _(Optional)_ Add any specific enrichment instructions\
+  Example: “Include years of experience and current location.”
+* **Choose what info you want to extract** (e.g. name, company, job title, etc.).
 {% endstep %}
 
 {% step %}
 ### Click Run
 
-1.
+The workflow will scrape and enrich up to 250 profiles from the post.&#x20;
 {% endstep %}
 
 {% step %}
-### Check the Output for Confirmation
+### View Results in your Google Sheet
 
-1.
-{% endstep %}
-
-{% step %}
-###
+We'll create a Google Sheet for you with the enriched details (the link will be in the output). You’ll get a clean table with LinkedIn URLs, names, job titles, companies, and any extra info you selected.\
+\
+It usually takes a few minutes, depending on the number of reactions to the post. For example, if there are 20 reactions, it can take up to 3 minutes; if 250 reactions, up to 15 minutes. The good news is that you can just leave the tab and come back in a few minutes to check the enriched data. You'll also receive an email confirmation when it's complete.
 {% endstep %}
 {% endstepper %}
 
