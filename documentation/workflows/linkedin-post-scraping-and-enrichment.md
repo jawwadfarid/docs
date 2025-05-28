@@ -1,8 +1,8 @@
 ---
 description: >-
-  Track competitor, partner, or prospect websites—and get instant Slack alerts
-  when something meaningful changes (like product updates or pricing shifts). No
-  more refreshing pages multiple times a week.
+  Turn any public LinkedIn post into a structured contact list. This workflow
+  scrapes profiles from people who reacted to a post, then enriches those
+  profiles and saves everything to a Google Sheet.
 icon: linkedin
 coverY: 0
 layout:
@@ -23,142 +23,109 @@ layout:
 
 # LinkedIn Post Scraping and Enrichment
 
-## Who is this for?
+Who is this for?
 
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><h4>Marketers &#x26; Founders</h4></td><td>Stay on top of competitor launches, content, and positioning changes—so you can adapt faster.</td></tr><tr><td><h4>Product Teams</h4></td><td>Keep an eye on how competitors evolve their UX, features, and pricing. Spot trends and gaps early to inform roadmap decisions.</td></tr><tr><td><h4>Sales &#x26; BD Teams</h4></td><td>Spot new opportunities for outreach—like case studies, hires, or partnerships—as soon as they go live.</td></tr><tr><td><h4>Content &#x26; SEO Teams</h4></td><td>Track when relevant sites publish new content. Use it to plan timely responses or stay competitive on keywords.</td></tr><tr><td><h4>Investors &#x26; Analysts</h4></td><td>Monitor startup websites for traction signals—like new customers, hiring activity, or messaging shifts.</td></tr><tr><td><h4>Recruiters &#x26; Talent Teams</h4></td><td>See when companies update careers pages or announce new exec hires—ideal timing for outreach.</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Marketers</strong></td><td>Capture leads or audience data from posts that sparked interest. Use it to retarget, segment, or personalize campaigns.</td></tr><tr><td><h4>Founders</h4></td><td>See exactly who’s engaging with your thought leadership—or that of your competitors. Use it to identify potential hires, investors, or partners.</td></tr><tr><td><h4>Sales &#x26; BD Teams</h4></td><td>Mine high-intent leads from relevant industry posts. Reach out while your brand (or topic) is still top-of-mind.</td></tr><tr><td><h4>Recruiters</h4></td><td>Engage people who are reacting to job posts, industry updates, or team announcements—often a sign of interest or availability.</td></tr><tr><td><h4>Community &#x26; Events Managers</h4></td><td>See who’s active around your brand’s posts or related content. Perfect for follow-ups, invites, or engagement loops.</td></tr><tr><td><h4>Analysts &#x26; Researchers</h4></td><td>Export and analyze audiences engaging with specific topics. Spot trends, segment personas, or map networks.</td></tr></tbody></table>
 
 ## Set up guide
 
 {% stepper %}
 {% step %}
-### Visit CodeWords and go to the [Person Finder from Slack Workflow](https://codewords.agemo.ai/run/website_monitoring_to_slack_trigger)
+### Visit CodeWords and go to the [LinkedIn Scraping and Enrichment to Google Sheets](https://codewords.agemo.ai/run/scrape_and_enrich_linkedin_post_to_google_sheets) workflow
 {% endstep %}
 
 {% step %}
 ### Complete your set up&#x20;
 
-1. **Add CodeWords to your Slack workspace**\
-   Add CodeWords to your Slack workspace using the 'Add to Slack' button. You will need to give permission to CodeWords to access your slack workspace.&#x20;
-
-<img src="../../.gitbook/assets/Screenshot 2025-05-28 at 12.28.28.png" alt="" data-size="original">
-
-2. **Connect your Slack account** \
-   You can do this via the Set Up section.![](<../../.gitbook/assets/Screenshot 2025-05-28 at 15.40.42.png>)
-3. **(optional) Create a new Slack channel**\
-   Create a **public** Slack channel for the notifications to be sent to. You can also use an existing one if you prefer.
-4. **Add the CodeWords bot to your selected Slack channel**\
-   In the channel, simply type "/invite @CodeWords". You should then see a confirmation that CodeWords has been added to the channel.
+1.
 {% endstep %}
 
 {% step %}
 ### Complete the Input section
 
-1. **Add in the URL(s) you want to monitor.** You can just monitor one, or multiple. We recommend starting with a small number to test out the workflow first.&#x20;
-2. Specify the **slack channel** where you want to get notifications about detected changes
-3. **(optional) Specify changes you want to track** \
-   Describe the exact section of the website you want to track (e.g. pricing changes, product updates)
+1.
 {% endstep %}
 
 {% step %}
 ### Click Run
 
-Wait about a minute the workflow to run and get set up.&#x20;
+1.
 {% endstep %}
 
 {% step %}
 ### Check the Output for Confirmation
 
-1. You should see a **confirmation** that everything has been set up correctly in 'Status'
-2. You can check **Slack preview** for an example of the output
-3. Also check your **Slack channel** for a confirmation that everything has been set up correctly&#x20;
+1.
 {% endstep %}
 
 {% step %}
-### That's it - now you'll just get a slack notification anytime a change happens on your specified website(s).&#x20;
+###
 {% endstep %}
 {% endstepper %}
 
+{% hint style="info" %}
 If you encounter any issues, please reach out to us at support@agemo.ai, or if you're a beta user, get in touch with one of our team members on Slack.
+{% endhint %}
 
 ## FAQs
 
 <details>
 
-<summary>How is this different from tools like ScrapeX or ChangeDetection.io?</summary>
+<summary>How is this different from tools like PhantomBuster? </summary>
 
-Website Watcher is built for teams who live in Slack. Unlike generic page monitoring tools, it summarizes meaningful changes in plain English and delivers them directly to your Slack channel—no dashboards to check, no code to configure. It’s designed for real-time collaboration, not just passive tracking.
+This workflow is easier to use, more flexible, and much more affordable.&#x20;
 
-</details>
-
-<details>
-
-<summary>Why not just subscribe to their newsletter?</summary>
-
-Newsletters are delayed (and often filtered). Website Watcher gives you real-time alerts for competitive or strategic updates.
+* **No setup or coding required**—just paste a URL and run.
+* **Customizable**—you can specify what data to extract in plain English.
+* **Lower cost**—runs typically cost **under $1**, compared to PhantomBuster’s significantly higher pricing.
 
 </details>
 
 <details>
 
-<summary>How often does it check for changes?</summary>
+<summary>Is this compliant with LinkedIn’s policies?</summary>
 
-The agent checks your selected everyday and sends alerts when there's a meaningful update—not just minor text edits.
-
-</details>
-
-<details>
-
-<summary>What if I want to schedule when the agent checks the website? </summary>
-
-You can use [this workflow](https://codewords.agemo.ai/run/website_monitoring_to_slack) for that.
+Yes. The workflow scrapes publicly available data from non-authenticated LinkedIn views, staying compliant with LinkedIn’s Terms of Service.
 
 </details>
 
 <details>
 
-<summary>Can I track more than one site?</summary>
+<summary>Will people know I viewed their profile?</summary>
 
-Yes. You can set up multiple workflows to monitor different websites or pages.
-
-</details>
-
-<details>
-
-<summary>Can I choose which types of changes trigger alerts?</summary>
-
-Yes. When you're setting it up, specify what kind of changes you're looking for (this is where the LLM comes in).
+That depends on **their privacy settings** and whether you have LinkedIn open in an active browser window. Some users may see a profile view if their settings show all visitors. If you're concerned, we recommend using LinkedIn in private or logged-out mode.
 
 </details>
 
 <details>
 
-<summary>Will it monitor behind login pages or paywalls?</summary>
+<summary>How many profiles can it scrape from one post?</summary>
 
-Not at the moment. In a future version it will be able to use your credentials to access pages behind a login in a safe and secure manner within your browser.
-
-</details>
-
-<details>
-
-<summary>What if the page requires interaction (like clicking “View More”)?</summary>
-
-We’re rolling out an advanced version of this workflow that can actively interact with pages—like clicking buttons or expanding sections. If that’s something you need, let us know and we’ll get you early access.
+Up to **250 profiles per post** for now. We're working on increasing that limit soon. This cap is in place to stay within LinkedIn usage boundaries and ensure compliance with their ToS.
 
 </details>
 
 <details>
 
-<summary>How do I turn off Website Watcher?</summary>
+<summary>Can I use this on posts I didn’t publish myself?</summary>
 
-You can simply go to 'Scheduled Runs' on CodeWords, and disable the workflow.
+Yes—any **public** LinkedIn post can be scraped, regardless of who posted it.
 
 </details>
 
 <details>
 
-<summary>What if it misses something or sends a false alert?</summary>
+<summary>Can I choose what data gets extracted?</summary>
 
-If you notice something off, just let us know via the chat widget on CodeWords, at support@agemo.ai or on Slack if you're in our Beta group. We’re constantly improving detection.
+Absolutely. You can check off the standard fields you want (e.g., job title, company) and also add free-text instructions for custom enrichment.
+
+</details>
+
+<details>
+
+<summary>What if I get an error or it's returning false results?</summary>
+
+If you notice something off, just let us know via the chat widget on CodeWords, at support@agemo.ai or on Slack if you're in our Beta group. We’re constantly improving our workflows.
 
 </details>
 
