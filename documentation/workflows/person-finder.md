@@ -108,7 +108,11 @@ Wait about a minute the workflow to run and get set up.&#x20;
 {% step %}
 ### Check the Output for Instructions
 
-1. **Ensure the CodeWords bot is invited to your selected channel**
+You'll see the following message if Person Finder is successfully installed (with instructions on how to practically use it below).
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-28 at 16.58.38 (1).png" alt=""><figcaption></figcaption></figure>
+
+1. **Double check the CodeWords bot is invited to your selected channel**
    * If not, type `/invite @CodeWords` to add our bot
 2. **Start using the workflow**
    * Mention a person naturally in the channel.
