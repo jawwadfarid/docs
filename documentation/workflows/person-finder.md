@@ -1,8 +1,8 @@
 ---
 description: >-
-  Quickly generate a full professional profile for any individual based on name
-  and context. This workflow compiles social links, career history, recent
-  posts, and skills into a clean, scannable report.
+  Quickly generate a full professional profile for any individual. This workflow
+  compiles social links, career history, recent posts, and skills into a clean,
+  scannable report.
 icon: user
 coverY: 0
 layout:
