@@ -60,6 +60,8 @@ layout:
 2. Specify the **slack channel** where you want to get notifications about detected changes
 3. **(optional) Specify changes you want to track** \
    Describe the exact section of the website you want to track (e.g. pricing changes, product updates)
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-29 at 10.53.24.png" alt=""><figcaption><p>Example input</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -72,12 +74,17 @@ Wait about a minute the workflow to run and get set up.&#x20;
 ### Check the Output for Confirmation
 
 1. You should see a **confirmation** that everything has been set up correctly in 'Status'
-2. You can check **Slack preview** for an example of the output
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-29 at 10.58.02.png" alt=""><figcaption><p>Example success message</p></figcaption></figure>
+
+2. You can check the **Slack preview** for an example of the output
 3. Also check your **Slack channel** for a confirmation that everything has been set up correctly&#x20;
 {% endstep %}
 
 {% step %}
 ### That's it - now you'll just get a slack notification anytime a change happens on your specified website(s).&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-29 at 14.13.41.png" alt=""><figcaption><p>Example notification</p></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
