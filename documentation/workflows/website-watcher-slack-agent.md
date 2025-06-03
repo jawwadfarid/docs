@@ -21,13 +21,13 @@ layout:
     visible: true
 ---
 
-# Website Watcher (Slack Agent)
+# Website Watcher Slack Agent
 
 ## Who is this for?
 
 <table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><h4>Marketers &#x26; Founders</h4></td><td>Stay on top of competitor launches, content, and positioning changes—so you can adapt faster.</td></tr><tr><td><h4>Product Teams</h4></td><td>Keep an eye on how competitors evolve their UX, features, and pricing. Spot trends and gaps early to inform roadmap decisions.</td></tr><tr><td><h4>Sales &#x26; BD Teams</h4></td><td>Spot new opportunities for outreach—like case studies, hires, or partnerships—as soon as they go live.</td></tr><tr><td><h4>Content &#x26; SEO Teams</h4></td><td>Track when relevant sites publish new content. Use it to plan timely responses or stay competitive on keywords.</td></tr><tr><td><h4>Investors &#x26; Analysts</h4></td><td>Monitor startup websites for traction signals—like new customers, hiring activity, or messaging shifts.</td></tr><tr><td><h4>Recruiters &#x26; Talent Teams</h4></td><td>See when companies update careers pages or announce new exec hires—ideal timing for outreach.</td></tr></tbody></table>
 
-## Set up guide
+## Set Up Guide
 
 {% stepper %}
 {% step %}
@@ -91,6 +91,10 @@ Wait about a minute the workflow to run and get set up.&#x20;
 {% hint style="info" %}
 If you encounter any issues, please reach out to us at support@agemo.ai, or if you're a beta user, get in touch with one of our team members on Slack.
 {% endhint %}
+
+## Video Set Up
+
+{% embed url="https://youtu.be/Ei483OSwxYQ" %}
 
 ## FAQs
 

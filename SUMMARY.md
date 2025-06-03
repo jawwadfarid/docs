@@ -9,7 +9,7 @@
 
 * [Workflows](documentation/workflows/README.md)
   * [Person Finder](documentation/workflows/person-finder.md)
-  * [Website Watcher (Slack Agent)](documentation/workflows/website-watcher-slack-agent.md)
+  * [Website Watcher Slack Agent](documentation/workflows/website-watcher-slack-agent.md)
   * [LinkedIn Post Scraping and Enrichment](documentation/workflows/linkedin-post-scraping-and-enrichment.md)
 * [Concepts](documentation/concepts/README.md)
   * [Functions](documentation/concepts/functions.md)
