@@ -31,6 +31,8 @@ layout:
 
 ### Option 1: In Your Browser&#x20;
 
+{% embed url="https://youtu.be/iEmFduuO3r4" %}
+
 {% stepper %}
 {% step %}
 ### Log in to [CodeWords](https://codewords.agemo.ai) and go to the [Person Finder Workflow](https://codewords.agemo.ai/run/person_finder)
