@@ -7,10 +7,11 @@
 
 ## Documentation
 
-* [Workflows](documentation/workflows/README.md)
-  * [Person Finder](documentation/workflows/person-finder.md)
-  * [Website Watcher Slack Agent](documentation/workflows/website-watcher-slack-agent.md)
-  * [LinkedIn Post Scraping and Enrichment](documentation/workflows/linkedin-post-scraping-and-enrichment.md)
+* [CodeWords Workflows](documentation/codewords-workflows/README.md)
+  * [Person Finder](documentation/codewords-workflows/person-finder.md)
+  * [Website Watcher Slack Agent](documentation/codewords-workflows/website-watcher-slack-agent.md)
+  * [LinkedIn Post Scraping and Enrichment](documentation/codewords-workflows/linkedin-post-scraping-and-enrichment.md)
+* [CodeWords Builder DevX](documentation/codewords-builder-devx.md)
 * [Concepts](documentation/concepts/README.md)
   * [Functions](documentation/concepts/functions.md)
   * [Spec](documentation/concepts/spec.md)
