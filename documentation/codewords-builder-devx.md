@@ -1,11 +1,10 @@
 ---
-description: You can find details regarding our core workflows here.
 icon: bars-staggered
 ---
 
 # CodeWords Builder DevX
 
-## CodeWords Developer Experience (DevX) Documentation
+## CodeWords Developer Experience Documentation
 
 ### Table of Contents
 
@@ -42,97 +41,52 @@ CodeWords is a serverless AI automation platform that enables developers to rapi
 
 * Python 3.11+ knowledge
 * FastAPI familiarity (helpful but not required)
-* Chrome browser (for browser automation features)
+* Chromium-based browser (for browser automation features)
 
 #### Step 1: Get Your API Key
 
 1. Sign up at [CodeWords Platform](https://codewords.agemo.ai)
 2. Navigate to your dashboard and copy your API key
-3. Store it securely - you'll need it for workflow execution
+3. Store it securely - you'll need it to build workflows
 
 #### Step 2: Install Chrome Extension (Optional but Recommended)
 
 1. Visit the Chrome Web Store and search for "CodeWords"
 2. Click "Add to Chrome" to install the extension
-3. The extension enables browser automation and data extraction capabilities
+3. The extension enables powerful browser automation and data extraction capabilities
 
-#### Step 3: Your First Workflow
+#### Step 3: Set Up the CodeWords MCP
 
-Create your first workflow using one of these methods:
+**On Cursor**
 
-**Method A: Use a Template**
+* Add to your Cursor settings (`Settings` → `Tools & Integrations` → `New MCP Server`&#x20;
 
-```bash
-# Browse available templates
-curl -X GET "https://api.codewords.agemo.ai/templates" \
-  -H "Authorization: Bearer YOUR_API_KEY"
-
-# Deploy a template
-curl -X POST "https://api.codewords.agemo.ai/deploy" \
-  -H "Authorization: Bearer YOUR_API_KEY" \
-  -H "Content-Type: application/json" \
-  -d '{"template_id": "person_finder"}'
+```json
+{
+  "mcpServers": {
+    "CodeWords": {
+      "url": "https://runtime.codewords.ai/run/devx_mcp/mcp/",
+      "headers": {
+        "Authorization": "Bearer <YOUR_CODEWORDS_API_KEY>"
+      }
+}
 ```
 
-**Method B: Write Custom Code**
+2. **Enable in Cursor**
+   * Restart Cursor IDE
+   * Open Command Palette (`Cmd/Ctrl + Shift + P`)
+   * Type "MCP: Connect to CodeWords"
+   * Verify connection in the MCP panel
 
-```python
-# /// script
-# requires-python = "==3.11.*"
-# dependencies = [
-#   "fastapi==0.115.12",
-#   "uvicorn[standard]==0.34.2",
-#   "pydantic==2.11.3",
-#   "structlog==25.2.0",
-#   "httpx==0.25.0",
-#   "codewords-client==0.2.4"
-# ]
-# [tool.env-checker]
-# env_vars = [
-#   "PORT=8000",
-#   "LOGLEVEL=INFO",
-#   "CODEWORDS_API_KEY",
-#   "CODEWORDS_RUNTIME_URI"
-# ]
-# ///
+**On Claude**
 
-import logging
-import os
-from fastapi import FastAPI
-from pydantic import BaseModel
+_coming soon_
 
-logging.basicConfig(level=os.environ.get("LOGLEVEL", "INFO"))
+**On ChatGPT**
 
-app = FastAPI(title="My First CodeWords Workflow")
+_coming soon_
 
-class GreetingRequest(BaseModel):
-    name: str
 
-class GreetingResponse(BaseModel):
-    message: str
-
-@app.post("/", response_model=GreetingResponse)
-async def greet(request: GreetingRequest):
-    return GreetingResponse(message=f"Hello {request.name}!")
-
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=int(os.environ.get("PORT", 8000)))
-```
-
-#### Step 4: Deploy Your Workflow
-
-```python
-# Save your workflow and deploy
-from codewords_client import CodewordsClient
-
-client = CodewordsClient(api_key="your_api_key")
-result = client.deploy_workflow(
-    code=workflow_code,
-    name="My First Workflow"
-)
-print(f"Deployed! URL: {result.url}")
-```
 
 ***
 
@@ -391,84 +345,29 @@ async def use_pipedream_integration():
 
 ### Integration Capabilities
 
-#### 1. Authentication Management
+CodeWords provides access to over **2,000+ third-party integrations** through Pipedream, enabling you to connect with virtually any tool in your tech stack:
 
-**OAuth Integration**
+**Popular Categories:**
 
-```python
-# Check authentication status
-auth_status = client.discover_pipedream_integrations(
-    operation="check_auth",
-    app_slug="google_calendar"
-)
+* **CRM & Sales**: Salesforce, HubSpot, Pipedrive, Airtable, Monday.com
+* **Communication**: Slack, Discord, Microsoft Teams, Zoom, WhatsApp
+* **Email & Marketing**: Gmail, Outlook, Mailchimp, SendGrid, Constant Contact
+* **Data & Analytics**: Google Sheets, Notion, Zapier, Snowflake, BigQuery
+* **E-commerce**: Shopify, WooCommerce, Stripe, PayPal, Square
+* **Social Media**: LinkedIn, Twitter, Facebook, Instagram, YouTube
+* **Project Management**: Asana, Trello, Jira, Linear, ClickUp
+* **Cloud Storage**: Google Drive, Dropbox, OneDrive, Box, AWS S3
+* **Databases**: MySQL, PostgreSQL, MongoDB, Redis, Supabase
+* **Developer Tools**: GitHub, GitLab, Docker, Jenkins, Vercel
 
-if not auth_status.connected:
-    print(f"Please authenticate: {auth_status.connect_link_url}")
-```
+**What This Means for You:**
 
-**API Key Management**
+* **No Integration Limits**: Access enterprise-grade APIs without worrying about rate limits or complex authentication
+* **Unified Interface**: Use the same simple CodeWords syntax across all 2000+ services
+* **OAuth Handled**: We manage authentication flows, tokens, and refreshes automatically
+* **Enterprise Ready**: Connect to internal tools, databases, and custom APIs seamlessly
 
-```python
-# Store API keys securely
-client.manage_secrets(
-    operation="add",
-    secret_name="STRIPE_API_KEY",
-    secret_value="sk_test_..."
-)
-
-# Use in environment variables
-# [tool.env-checker]
-# env_vars = ["STRIPE_API_KEY"]
-```
-
-#### 2. Data Integration Patterns
-
-**Google Sheets**
-
-```python
-async def update_sheet(sheet_id: str, data: List[List[str]]):
-    # Read existing data
-    existing_data = await read_data_from_sheet(sheet_id, "A:Z")
-    
-    # Update with new data
-    updates = [{"range": "A1:Z100", "values": data}]
-    await update_sheet_batch(sheet_id, updates)
-```
-
-**Airtable**
-
-```python
-async def sync_airtable(base_id: str, table_name: str):
-    # Read records
-    records = await read_airtable_records(base_id, table_name)
-    
-    # Process and update
-    updates = []
-    for record in records:
-        updated_fields = process_record(record)
-        updates.append({
-            "id": record["id"],
-            "fields": updated_fields
-        })
-    
-    await update_airtable_records(base_id, table_name, updates)
-```
-
-#### 3. Workflow Scheduling
-
-```python
-async def setup_monitoring():
-    async with AsyncCodewordsClient() as client:
-        # Schedule workflow to run every hour
-        await client.run(
-            service_id="schedule_runs",
-            data={
-                "service_id": "website_monitor",
-                "cron_expression": "0 * * * *",  # Every hour
-                "input_data": {"url": "https://example.com"}
-            }
-        )
-```
+Whether you're building a simple automation or a complex multi-system workflow, CodeWords' extensive integration library ensures you can connect to the tools your organization already uses.
 
 ***
 
@@ -606,7 +505,9 @@ if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=int(os.environ.get("PORT", 8000)))
 ```
 
-**Usage**:
+**Try with a generated UI here:** [Scrape And Enrich Linkedin Post To Google Sheets](https://codewords.agemo.ai/run/scrape_and_enrich_linkedin_post_to_google_sheets)
+
+OR
 
 ```bash
 curl -X POST "https://your-workflow-url/" \
@@ -1267,31 +1168,20 @@ async with AsyncCodewordsClient() as client:
 #### Documentation & Learning
 
 * **Official Documentation**: [docs.codewords.agemo.ai](https://docs.codewords.agemo.ai)
-* **API Reference**: [api.codewords.agemo.ai/docs](https://api.codewords.agemo.ai/docs)
-* **Video Tutorials**: YouTube channel with step-by-step guides
-* **Blog**: Technical articles and use case studies
+* **Video Tutorials**: [@agemohq](https://www.youtube.com/@agemohq)
+* **Blog**: [agemo.ai/blog](https://agemo.ai/blog)
 
 #### Community & Support
 
-* **Discord Community**: Join developers building with CodeWords
-* **GitHub Examples**: Open-source workflow examples
-* **Office Hours**: Weekly Q\&A sessions with the team
-* **Support Email**: support@codewords.agemo.ai
-
-#### Development Tools
-
-* **Chrome Extension**: Essential for browser automation
-* **CLI Tool**: Coming soon for local development
-* **VS Code Extension**: Syntax highlighting and debugging
-* **Postman Collection**: API testing and exploration
+* **Discord Community**: Join our [discord.codewords.ai](https://discord.codewords.ai)
+* **Support Email**: support@agemo.ai
+* **Office Hours**: Weekly Q\&A sessions with the team _coming soon!_
 
 #### Quick Links
 
 * 🚀 **Platform**: [codewords.agemo.ai](https://codewords.agemo.ai)
-* 📚 **Templates**: Browse 30+ ready-to-use workflows
-* 🛠️ **API Explorer**: Test library services interactively
-* 📊 **Dashboard**: Monitor usage and performance
-* 💬 **Community**: [Discord](https://discord.gg/codewords)
+* 📚 **Templates**: [codewords.agemo.ai/template-gallery](https://codewords.agemo.ai/template-gallery)
+* 💬 **Community**: [Discord](https://discord.codewords.ai)
 
 ***
 
