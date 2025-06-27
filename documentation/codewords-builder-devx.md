@@ -4,8 +4,6 @@ icon: bars-staggered
 
 # CodeWords Builder DevX
 
-## CodeWords Developer Experience Documentation
-
 ### Table of Contents
 
 1. Introduction
