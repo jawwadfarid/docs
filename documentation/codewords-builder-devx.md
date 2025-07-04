@@ -67,6 +67,8 @@ CodeWords is a serverless AI automation platform that enables developers to rapi
       "headers": {
         "Authorization": "Bearer <YOUR_CODEWORDS_API_KEY>"
       }
+    }
+  }
 }
 ```
 
@@ -78,7 +80,13 @@ CodeWords is a serverless AI automation platform that enables developers to rapi
 
 **On Claude**
 
-_coming soon_
+* Go to [https://claude.ai/settings/profile](https://claude.ai/settings/profile).&#x20;
+* Click on Integrations.&#x20;
+* Click on Add integration.&#x20;
+* Type: `CodeWords` in the Integration name and`https://runtime.codewords.ai/run/devx_mcp/mcp/` as the Integration URL
+* Click Add and follow the Authentication process that takes you CodeWords
+* Once connected, you can view the tools in a new chat.
+* Make sure to use Claude Sonnet 4 with extended thinking
 
 **On ChatGPT**
 
