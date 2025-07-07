@@ -55,9 +55,11 @@ CodeWords is a serverless AI automation platform that enables developers to rapi
 
 #### Step 3: Set Up the CodeWords MCP
 
+
+
 **On Cursor**
 
-* Add to your Cursor settings (`Settings` → `Tools & Integrations` → `New MCP Server`&#x20;
+1. Add to your Cursor settings (`Settings` → `Tools & Integrations` → `New MCP Server`&#x20;
 
 ```json
 {
@@ -77,16 +79,21 @@ CodeWords is a serverless AI automation platform that enables developers to rapi
    * Open Command Palette (`Cmd/Ctrl + Shift + P`)
    * Type "MCP: Connect to CodeWords"
    * Verify connection in the MCP panel
+3. **Start a new chat** and start building. Make sure to use Claude Sonnet 4 MAX.
+
+
 
 **On Claude**
 
-* Go to [https://claude.ai/settings/profile](https://claude.ai/settings/profile).&#x20;
-* Click on Integrations.&#x20;
-* Click on Add integration.&#x20;
-* Type: `CodeWords` in the Integration name and`https://runtime.codewords.ai/run/devx_mcp/mcp/` as the Integration URL
-* Click Add and follow the Authentication process that takes you CodeWords
-* Once connected, you can view the tools in a new chat.
-* Make sure to use Claude Sonnet 4 with extended thinking
+1. Go to [https://claude.ai/settings/profile](https://claude.ai/settings/profile).&#x20;
+2. Click on Integrations.&#x20;
+3. Click on Add integration.&#x20;
+   1. Type: `CodeWords` in the Integration name and`https://runtime.codewords.ai/run/devx_mcp/mcp/` as the Integration URL
+   2. Click Add and follow the Authentication process that takes you CodeWords
+4. Once connected, you can view the tools in a new chat.
+   1. Make sure to use Claude Sonnet 4 with extended thinking
+
+
 
 **On ChatGPT**
 
