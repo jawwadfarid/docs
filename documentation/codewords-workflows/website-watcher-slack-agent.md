@@ -5,20 +5,6 @@ description: >-
   more refreshing pages multiple times a week.
 icon: globe-pointer
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Website Watcher Slack Agent

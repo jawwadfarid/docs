@@ -5,27 +5,13 @@ description: >-
   profiles and saves everything to a Google Sheet.
 icon: linkedin
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # LinkedIn Post Scraping and Enrichment
 
 ## Who is this for?
 
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Marketers</strong></td><td>Capture leads or audience data from posts that sparked interest. Use it to retarget, segment, or personalize campaigns.</td></tr><tr><td><h4>Founders</h4></td><td>See exactly who’s engaging with your thought leadership—or that of your competitors. Use it to identify potential hires, investors, or partners.</td></tr><tr><td><h4>Sales &#x26; BD Teams</h4></td><td>Mine high-intent leads from relevant industry posts. Reach out while your brand (or topic) is still top-of-mind.</td></tr><tr><td><h4>Recruiters</h4></td><td>Engage people who are reacting to job posts, industry updates, or team announcements—often a sign of interest or availability.</td></tr><tr><td><h4>Community &#x26; Events Managers</h4></td><td>See who’s active around your brand’s posts or related content. Perfect for follow-ups, invites, or engagement loops.</td></tr><tr><td><h4>Analysts &#x26; Researchers</h4></td><td>Export and analyze audiences engaging with specific topics. Spot trends, segment personas, or map networks.</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><h4>Marketers</h4></td><td>Capture leads or audience data from posts that sparked interest. Use it to retarget, segment, or personalize campaigns.</td></tr><tr><td><h4>Founders</h4></td><td>See exactly who’s engaging with your thought leadership—or that of your competitors. Use it to identify potential hires, investors, or partners.</td></tr><tr><td><h4>Sales &#x26; BD Teams</h4></td><td>Mine high-intent leads from relevant industry posts. Reach out while your brand (or topic) is still top-of-mind.</td></tr><tr><td><h4>Recruiters</h4></td><td>Engage people who are reacting to job posts, industry updates, or team announcements—often a sign of interest or availability.</td></tr><tr><td><h4>Community &#x26; Events Managers</h4></td><td>See who’s active around your brand’s posts or related content. Perfect for follow-ups, invites, or engagement loops.</td></tr><tr><td><h4>Analysts &#x26; Researchers</h4></td><td>Export and analyze audiences engaging with specific topics. Spot trends, segment personas, or map networks.</td></tr></tbody></table>
 
 ## Set up guide
 
