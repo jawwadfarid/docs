@@ -679,7 +679,7 @@ if __name__ == "__main__":
 
 ***
 
-### Best Practices
+### Best Practices (Advanced)
 
 #### 1. Workflow Design
 
