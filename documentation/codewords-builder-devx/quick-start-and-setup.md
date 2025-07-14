@@ -25,7 +25,7 @@ To get started with building workflows, you'll need an API key from the CodeWord
    * Locate and copy your Standard API Key.
 4. Store Securely: Store this API key in a secure location. You will need it to authenticate and build your workflows.
 
-### <sup>Step 2: Set Up the CodeWords MCP in Cursor</sup>
+### <sup>Step 2: Set Up the CodeWords MCP in a chosen Client</sup>
 
 This step guides you through configuring the CodeWords MCP within a Client
 
