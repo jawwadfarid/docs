@@ -34,7 +34,7 @@ This step guides you through configuring the CodeWords MCP within a Client
 1. Access Cursor Settings:
    * Open Cursor.
    * Navigate to Cursor Settings (usually found in the application's preferences or settings menu) (`Cmd/Ctrl + Shift + P`).
-   * Go to Tools & Integrations.
+   * Go to Tools & Integrations/MCP Tools.
    * Select MCP Tools.
    * Click on New MCP Server.
    * Add a Custom MCP Server.
@@ -61,12 +61,14 @@ This step guides you through configuring the CodeWords MCP within a Client
     * Save the `mcp.json` file.
 3. Connect and Authenticate:
    * Return to Cursor Settings.
-   * Locate and connect to CodeWords. This action will initiate an authentication workflow in your browser. Follow the prompts to complete the authentication process.
+   * Locate and connect to CodeWords (Click Log in/Authenticate). This action will initiate an authentication workflow in your browser. Follow the prompts to complete the authentication process.
 4. Activate the MCP:
-   * Once successfully authenticated, click on the toggle switch next to the CodeWords MCP entry to turn it on.
+   * Once successfully authenticated, click on the toggle switch next to the CodeWords MCP entry to turn it off/on.
+   * Now you should be connected
 5.  Select LLM in Cursor Chat:
 
-    * Select Claude-4 Sonnet MAX Mode
+    * Select Claude-4 Sonnet MAX Mode (you may have to switch off Auto)
+    * Go to `Cursor Settings -> Chat -> Turn "Auto-Run Mode" ON`.&#x20;
 
 
 
