@@ -87,6 +87,6 @@ This step guides you through configuring the CodeWords MCP within a Client
 
 **No Client**
 
-1. Run [https://codewords.agemo.ai/run/usecase\_discovery](https://codewords.agemo.ai/run/usecase_discovery) with any input
+1. Run [https://codewords.agemo.ai/run/pipedream\_trigger\_recorder](https://codewords.agemo.ai/run/pipedream_trigger_recorder)
 2. Use the CodeWords Client - [https://chatbot.agemo.ai/](https://chatbot.agemo.ai/)&#x20;
 
