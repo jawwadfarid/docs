@@ -79,5 +79,12 @@ This step guides you through configuring the CodeWords MCP within a Client
 3. Click on Add integration.&#x20;
    1. Type: `CodeWords` in the Integration name and`https://runtime.codewords.ai/run/devx_mcp/mcp/` as the Integration URL
    2. Click Add and follow the authentication workflow in your browser. Follow the prompts to complete the authentication process.
-4. Once connected, you can view the tools in a new chat.
-   1. Make sure to use Claude Sonnet 4 with extended thinking
+4.  Once connected, you can view the tools in a new chat.
+
+    1. Make sure to use Claude Sonnet 4 with extended thinking
+
+
+
+**No Client**
+
+1. Use the CodeWords Client - [https://chatbot.agemo.ai/](https://chatbot.agemo.ai/)&#x20;
