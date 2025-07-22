@@ -1,5 +1,13 @@
 # Quick Start & Setup
 
+**Build on Cody the CodeWords Build Agent**&#x20;
+
+[https://chatbot.agemo.ai/](https://chatbot.agemo.ai/)&#x20;
+
+
+
+**Build on your own Client**\
+\
 Before you begin, please ensure you meet the following requirements:
 
 #### Prerequisites
@@ -84,9 +92,4 @@ This step guides you through configuring the CodeWords MCP within a Client
     1. Make sure to use Claude Sonnet 4 with extended thinking
 
 
-
-**No Client**
-
-1. Run [https://codewords.agemo.ai/run/pipedream\_trigger\_recorder](https://codewords.agemo.ai/run/pipedream_trigger_recorder)
-2. Use the CodeWords Client - [https://chatbot.agemo.ai/](https://chatbot.agemo.ai/)&#x20;
 
