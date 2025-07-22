@@ -1,6 +1,6 @@
 # Quick Start & Setup
 
-**Build on Cody the CodeWords Build Agent**&#x20;
+## **Build on Cody the CodeWords Build Agent**&#x20;
 
 [https://chatbot.agemo.ai/](https://chatbot.agemo.ai/)&#x20;
 
@@ -9,6 +9,7 @@
 **Build on your own Client**\
 \
 Before you begin, please ensure you meet the following requirements:
+--------------------------------------------------------------------
 
 #### Prerequisites
 
