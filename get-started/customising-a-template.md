@@ -21,4 +21,7 @@ You can customise any existing workflow template by clicking the 'edit' button, 
 
 This is a great way to explore the capabilities that you want to build.
 
-**Note that customising a workflow creates a new workflow with changes instead of changing the existing one.**
+{% hint style="warning" %}
+Customising a workflow creates a new workflow with changes instead of changing the existing one.
+{% endhint %}
+

@@ -19,6 +19,6 @@ layout:
 
 If you encounter any issues with your automation workflow, such as errors or unexpected output, you can ask in the CodeWords chat.
 
-**Example:**
-
+{% hint style="info" %}
 _"Check the last execution of the workflow with the URL: \[Input your workflow URL here]. Why did I get an error?"_
+{% endhint %}

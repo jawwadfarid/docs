@@ -26,6 +26,6 @@ CodeWords makes it simple by allowing you to build a workflow with prompts:
 * Once you have given a prompt, CodeWords will ask a few simple questions to help you refine the automation that you want to build
 * You can refine or edit it as you go
 
-**Example:**
-
+{% hint style="info" %}
 _"Create a workflow that will label all my emails in my Gmail inbox every 30 minutes."_
+{% endhint %}
