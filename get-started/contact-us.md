@@ -17,7 +17,7 @@ layout:
 
 # Contact Us
 
-Have questions or feedback? Click the blue chat icon on the right and we'll help you out!”
+Have questions or feedback? Click the blue chat icon on the right and we'll help you out!
 
 #### Community & Support
 

@@ -17,7 +17,7 @@ layout:
 
 # Intro
 
-Here’s everything you need to know about how to deploy workflows. Welcome to this step-by-step guide on how to create a workflow automation.
+Here’s everything you need to know about how to build and use workflows. Welcome to this step-by-step guide on how to create a workflow automation.
 
 #### What is CodeWords?
 
