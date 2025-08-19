@@ -4,6 +4,16 @@
 
 * [Introduction](README.md)
 * [Quick Start](get-started/quick-start.md)
+* [Intro](get-started/intro.md)
+* [Creating your first workflow](get-started/creating-your-first-workflow.md)
+* [Prompting](get-started/prompting.md)
+* [Customising a template](get-started/customising-a-template.md)
+* [Best Practices](get-started/best-practices.md)
+* [Integrations](get-started/integrations.md)
+* [API Keys](get-started/api-keys.md)
+* [Viewing the code](get-started/viewing-the-code.md)
+* [Troubleshooting](get-started/troubleshooting.md)
+* [Contact Us](get-started/contact-us.md)
 
 ## Documentation
 
