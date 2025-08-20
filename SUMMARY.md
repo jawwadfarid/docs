@@ -9,6 +9,7 @@
 * [Prompting](get-started/prompting.md)
 * [Customising a template](get-started/customising-a-template.md)
 * [Best Practices](get-started/best-practices.md)
+* [AI models](get-started/ai-models.md)
 * [Integrations](get-started/integrations.md)
 * [API Keys](get-started/api-keys.md)
 * [Viewing the code](get-started/viewing-the-code.md)
