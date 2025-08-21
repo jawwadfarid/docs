@@ -27,7 +27,7 @@ This will be your first point of contact with the CodeWords agent, where you can
 
 CodeWords makes it simple by allowing you to build a workflow by prompting with the agent.
 
-The Foundation? Being Specific About Your Goal
+Be Specific About Your Goal
 
 To get the best results from Cody, start with a clear, specific description of what you want to accomplish.
 
