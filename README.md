@@ -17,23 +17,33 @@ layout:
 
 # Introduction
 
-### What is Codewords?
+### What is CodeWords?
 
-Codewords is an AI-powered platform that transforms how you build, deploy, and manage workflow automations. Instead of wrestling with complex interfaces or writing code, you simply describe what you need in plain English.
+[CodeWords](https://codewords.ai/) is an AI-powered platform that transforms how you build, deploy, and manage workflow automations. Instead of wrestling with complex interfaces or writing code, you simply describe what you need in plain English.
 
 #### The Magic Behind the Platform
 
-At its core, Codewords bridges the gap between intention and execution. You bring the vision—"I want to automatically save email attachments to Google Drive and notify my team"—and our AI handles the technical complexity of making it happen.
+At its core, CodeWords bridges the gap between intention and execution. You bring the vision: "I want to automatically save email attachments to Google Drive and notify my team", and our AI handles the technical complexity of making it happen.
 
-**For everyday users**, Codewords replaces tedious manual work with intelligent automations. Think Zapier's connectivity meets ChatGPT's conversational ease.
+**For everyday users**, CodeWords replaces tedious manual work with intelligent automations. Think Zapier's connectivity meets ChatGPT's conversational ease.
 
-**For technical builders**, Codewords collapses traditional development cycles into minutes. Imagine having Cursor's speed, but for workflow automation instead of code.
+**For technical builders**, CodeWords collapses traditional development cycles into minutes. Imagine having Cursor's speed, but for workflow automation instead of code.
+
+### Powered by Cody
+
+[Cody](https://codewords.ai/) is your Automation Building Partner, an AI assistant who specializes in building business automation on the CodeWords platform. It can help you:
+
+* **ideate** on what to automate
+* **build and iterate** on your automation
+* **setup and test** your automation
+
+All from one single chat interface.
 
 ***
 
 ### Understanding Workflows
 
-A **workflow** is your digital assistant—a sequence of connected steps that execute automatically when triggered. Think of it as a recipe that follows itself.
+A **workflow** is your digital assistant, a sequence of connected steps that execute automatically when triggered. Think of it as a recipe that follows itself.
 
 #### A Day in the Life: Sales Lead Processing
 
@@ -48,7 +58,7 @@ Let's walk through a common scenario that illustrates the power of automation:
 
 This process takes 10-15 minutes per lead, is prone to human error, and often gets delayed during busy periods.
 
-**The Codewords Way (Automated):** The moment that email hits your inbox, your workflow springs into action:
+**The CodeWords Way (Automated):** The moment that email hits your inbox, your workflow springs into action:
 
 * Attachment automatically saved to the right folder
 * Sales team gets an instant, formatted Slack notification
@@ -59,13 +69,13 @@ This process takes 10-15 minutes per lead, is prone to human error, and often ge
 
 ***
 
-### Who Codewords Serves
+### Who CodeWords Serves
 
 #### Software Agencies & No-Code Specialists
 
 **Your Challenge:** Clients want faster delivery without sacrificing quality.
 
-**How Codewords Helps:**
+**How CodeWords Helps:**
 
 * Gather requirements directly in our chat interface
 * Generate working prototypes from client descriptions in real-time
@@ -76,7 +86,7 @@ This process takes 10-15 minutes per lead, is prone to human error, and often ge
 
 **Your Challenge:** Finding new revenue streams while managing operational complexity.
 
-**How Codewords Helps:**
+**How CodeWords Helps:**
 
 * Offer automation-as-a-service to your clients
 * Build, host, and monitor workflows on our infrastructure
@@ -87,7 +97,7 @@ This process takes 10-15 minutes per lead, is prone to human error, and often ge
 
 **Your Challenge:** Great ideas get bogged down in boilerplate and infrastructure setup.
 
-**How Codewords Helps:**
+**How CodeWords Helps:**
 
 * Skip the authentication, API documentation, and error handling setup
 * Go from concept to deployed automation in one interface
@@ -98,7 +108,7 @@ This process takes 10-15 minutes per lead, is prone to human error, and often ge
 
 **Your Challenge:** You know what needs automating, but lack the technical skills.
 
-**How Codewords Helps:**
+**How CodeWords Helps:**
 
 * Browse our library of proven workflows for your industry
 * Describe your specific needs and watch automations come to life

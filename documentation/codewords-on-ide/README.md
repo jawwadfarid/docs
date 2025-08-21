@@ -1,6 +1,7 @@
 ---
+hidden: true
 icon: bars-staggered
 ---
 
-# CodeWords Builder DevX
+# CodeWords on IDE
 
