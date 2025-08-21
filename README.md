@@ -1,24 +1,48 @@
 ---
-hidden: true
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
-# Introduction
+# Intro
 
-**CodeWords is the** **AI workflow automation platform** to build production-grade, multi-step automations from a chat.&#x20;
+Here’s everything you need to know about how to build on CodeWords. Welcome to this step-by-step guide on how to create a workflow automation.
 
-We enable technical builders to create without the boilerplate and business teams to benefit from powerful automations without limits.
+#### What is CodeWords?
 
-## Why use CodeWords ?
+CodeWords lets you build AI-powered workflows that run automatically. Connect your favorite apps, add some AI magic, and watch your repetitive tasks handle themselves helping you build production-grade, multi-step automations from a chat.&#x20;
 
-As a non-technical user, replace manual tasks with a collection of AI workflows in a single platform. Not exactly what you need? You can build a new workflow from a chat. **Think Zapier meets ChatGPT with no limits.**
+**What is a workflow?**\
+\
+A workflow is basically a series of steps that happen automatically to complete a task.
 
-As a technical builder, you can build, iterate, deploy workflows and automations without the boilerplate. All within a few minutes without having to worry about infrastructure. **Think Cursor for workflow automation.**
+Think of it like a recipe, but for getting work done:
 
-CodeWords merges no-code and full-code in a single platform.
+**Real-world example:** When you get a new email with an attachment:
 
-## How do I get access?
+1. Save the attachment to Google Drive
+2. Send a Slack message to your team about the new file
+3. Add a reminder to your calendar to review it
+4. Update a spreadsheet with the file details
 
-Fill our this [form](https://forms.gle/LfUbWXzLcNgrNHrZA) and we'll reach out!
+Instead of doing these 4 steps manually every time, a workflow does them all automatically when that email arrives.\
+\
+Workflows save you time by handling repetitive tasks so you can focus on more important work. With  CodeWords, you can set these up without needing to code anything yourself.
+
+For a non-technical user, replace manual tasks with a collection of AI workflows in a single platform. Not exactly what you need? You can build a new automation from a chat. **Think Zapier meets ChatGPT with no limits.**
+
+For a technical builder, you can build, iterate, and deploy workflows and automations without the boilerplate, all within a few minutes without having to worry about infrastructure. **Think Cursor for workflow automation.**"
 
 ## Who is CodeWords best for?
 
@@ -26,8 +50,3 @@ Fill our this [form](https://forms.gle/LfUbWXzLcNgrNHrZA) and we'll reach out!
 * Business owners: add recurring revenue: host, monitor, and upsell client automations on CodeWords while we handle scaling, security, and uptime.
 * Software developer and tinkerers: collapse spec → build → deploy into one interface, delivery automations in minutes and at a fraction of the cost.
 * Entry-level professionals: access a library of curated AI workflows built by domain experts in marketing, software and more.
-
-
-
-
-

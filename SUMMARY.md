@@ -2,9 +2,9 @@
 
 ## Get Started
 
-* [Introduction](README.md)
+* [Intro](README.md)
+* [Introduction](<README (1).md>)
 * [Quick Start](get-started/quick-start.md)
-* [Intro](get-started/intro.md)
 * [Creating your first workflow](get-started/creating-your-first-workflow.md)
 * [Prompting](get-started/prompting.md)
 * [Customising a template](get-started/customising-a-template.md)
