@@ -53,8 +53,6 @@ Error messages are designed to tell you what went wrong. They generally fall int
 | Service & Execution   | `500 Internal Server Error`, `Stack Trace`, `Cannot read property 'x' of undefined` | There is a problem with the code or logic within the workflow step itself. This may indicate a bug. | Isolate the issue. Try running the step with a known-good, simple input. If it still fails, escalate the issue.            |
 | Connectivity & API    | `Network Error`, `Connection Refused`, `403 Forbidden`, `API key invalid`           | The workflow could not connect to an external application or service.                               | Check the connection. Verify API keys, authentication tokens, and ensure the third-party service is online and accessible. |
 
-Export to Sheets
-
 ***
 
 #### 3. Investigating Unexpected Outputs
