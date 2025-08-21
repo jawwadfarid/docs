@@ -21,13 +21,13 @@ To get started, head over to [codewords.agemo.ai](http://codewords.agemo.ai/) an
 
 Once registered, you will be able to create your first workflow.
 
-This will be your first point of contact with the CodeWords agent, where you can chat to build workflows. Enter a prompt to get started, and CodeWords will do the rest!
+This will be your first point of contact with Cody, where you can chat to build workflows. Enter a prompt to get started, and CodeWords will do the rest!
 
 ## Prompting
 
-CodeWords makes it simple by allowing you to build a workflow by prompting with the agent.
+CodeWords makes it simple by allowing you to build a workflow by prompting Cody.
 
-Be Specific About Your Goal
+### **Be Specific About Your Goal**
 
 To get the best results from Cody, start with a clear, specific description of what you want to accomplish.
 
@@ -43,7 +43,7 @@ What **Doesn't Work**:
 What Works **Great**:
 
 {% hint style="success" %}
-1. _"Create a workflow that will scrape website X and summarise the content and email me the response"_
+1. "Create a workflow that will scrape website X and summarise the content and email me the response"
 2. "Build me a workflow which scrapes google review data for restaurants and saves it into a CSV file "
 3. "Build me something can extract text data from an image of a hand written letter"
 4. "Create a workflow that transcribes a youtube video, distills it into notes and stores in my google doc"
@@ -51,7 +51,7 @@ What Works **Great**:
 
 The difference is clear: Cody needs to understand the specific business problem you're solving.
 
-**Focus on Outcomes, Not Tools**&#x20;
+### **Focus on Outcomes, Not Tools**&#x20;
 
 Instead of asking for specific technologies, describe what you want to achieve&#x20;
 
@@ -69,11 +69,9 @@ Instead of asking for specific technologies, describe what you want to achieve&#
 
 When you focus on what you want to achieve rather than how you think it should be built, Cody can choose the best tools and approach for your needs.
 
-**Provide Context and Details** Give Cody enough information to make smart decisions about your workflow&#x20;
-
-**Instead of Vague Requests:** "Build me a lead generation workflow"&#x20;
-
-**Provide Rich Context:**&#x20;
+* **Provide Context and Details** Give Cody enough information to make smart decisions about your workflow&#x20;
+* **Instead of Vague Requests:** "Build me a lead generation workflow"&#x20;
+* **Provide Rich Context:**&#x20;
 
 {% hint style="info" %}
 "Build me a lead generation workflow that:
@@ -85,7 +83,9 @@ When you focus on what you want to achieve rather than how you think it should b
 * Processes about 50 leads per week"
 {% endhint %}
 
-**Describe Your Current Process** Walk Cody through exactly what you do now, step by step&#x20;
+### **Describe Your Current Process**&#x20;
+
+Walk Cody through exactly what you do now, step by step&#x20;
 
 **Example:** "Right now I manually:
 
@@ -96,7 +96,9 @@ When you focus on what you want to achieve rather than how you think it should b
 
 I want a workflow that does this automatically and emails me the report."
 
-**Be Specific About Data** Show Cody exactly what data you're working with, including examples **Good**&#x20;
+### **Be Specific About Data**&#x20;
+
+Show Cody exactly what data you're working with, including examples
 
 **Example:** "I have a Google Spreadsheet with:
 
@@ -113,7 +115,7 @@ I want to add job titles and company size in columns D and E."
 * Send a Slack message to our #sales channel with the count
 * Email me a summary if it finds more than 10 high-priority leads"
 
-#### **The Perfect Request Template**
+### **The Perfect Request Template**
 
 Use this structure to get the best results:
 
@@ -143,19 +145,18 @@ Use this structure to get the best results:
 **Success Criteria:** Catches changes within 24 hours, 95% accurate, no false alerts
 {% endhint %}
 
-Start simple and add features progressively. Provide business context so Cody understands your industry and challenges.
+### Start Simple&#x20;
+
+Once your first workflow is working, add features progressively. Provide business context so Cody understands your industry and challenges.
 
 {% hint style="info" %}
 **Example:** "I run a digital marketing agency managing social media for 25 local restaurants. My biggest challenge is creating enough content while tracking what performs best."
 {% endhint %}
 
-In order to understand what apps CodeWords can work with, Simply ask in the chat if it can connect to any specific apps.
-
-\
-"Can CodeWords connect to my Google Sheets/Hubspot/Slack app?"
-
 ## Customising a Template
 
-You can customise any existing workflow template by clicking the 'edit' button, or you can click into Cody. The customised option on a workflow template or on a workflow that's yours allows you to change that automation to your vision. Just describe how you want to customise it!
+You can customise any existing workflow template by clicking the 'Edit' button, or you can click into Cody. The customised option on a workflow template or on one of your workflows allow you to change that automation to your vision, just from expressing it.
+
+**Just describe how you want to customise it**
 
 This is a great way to explore the capabilities that you want to build.
