@@ -43,10 +43,10 @@ What **Doesn't Work**:
 What Works **Great**:
 
 {% hint style="success" %}
-1. _"Create a workflow that will label all my emails in my Gmail inbox every 30 minutes."_
-2. "I need a workflow that finds email addresses for LinkedIn profiles in a spreadsheet"
-3. "Build me something that monitors competitor websites and alerts me to price changes"
-4. "Create a workflow that analyses customer feedback and categorises complaints"
+1. _"Create a workflow that will scrape website X and summarise the content and email me the response"_
+2. "Build me a workflow which scrapes google review data for restaurants and saves it into a CSV file "
+3. "Build me something can extract text data from an image of a hand written letter"
+4. "Create a workflow that transcribes a youtube video, distills it into notes and stores in my google doc"
 {% endhint %}
 
 The difference is clear: Cody needs to understand the specific business problem you're solving.
@@ -149,7 +149,7 @@ Start simple and add features progressively. Provide business context so Cody un
 **Example:** "I run a digital marketing agency managing social media for 25 local restaurants. My biggest challenge is creating enough content while tracking what performs best."
 {% endhint %}
 
-Inorder to understand what apps CodeWords can work with, Simply ask in the chat if it can connect to any specific apps.
+In order to understand what apps CodeWords can work with, Simply ask in the chat if it can connect to any specific apps.
 
 \
 "Can CodeWords connect to my Google Sheets/Hubspot/Slack app?"

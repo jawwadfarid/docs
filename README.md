@@ -1,4 +1,5 @@
 ---
+hidden: true
 layout:
   width: default
   title:
@@ -50,7 +51,7 @@ This process takes 10-15 minutes per lead, is prone to human error, and often ge
 
 **The Codewords Way (Automated):** The moment that email hits your inbox, your workflow springs into action:
 
-* &#x20;Attachment automatically saved to the right folder
+* Attachment automatically saved to the right folder
 * Sales team gets an instant, formatted Slack notification
 * Follow-up reminder appears in your calendar
 * Spreadsheet updates with all relevant details
