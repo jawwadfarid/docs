@@ -1,10 +1,6 @@
 # Troubleshooting - shahel
 
-Of course. Here is a revised version of your troubleshooting page. This version introduces a more systematic process, uses clearer headings, and adds crucial sections like an escalation procedure, which is essential for internal documentation.
-
-***
-
-#### Troubleshooting Workflows
+Troubleshooting Workflows
 
 This guide provides a systematic approach to diagnosing and resolving issues within Codewords workflows. Follow these steps to identify the root cause of a problem, whether it's a clear error or unexpected behavior.
 
