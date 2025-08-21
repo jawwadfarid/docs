@@ -38,7 +38,7 @@ What to do:
 3. Try again - Sometimes it's just a temporary glitch
 4. Look at the logs (see below) for more details
 
-#### It Ran But Gave Weird Results:
+#### Wired results
 
 What you see:
 
@@ -48,7 +48,7 @@ What you see:
 
 Detective work:
 
-1. Check your input data - Garbage in, garbage out
+1. Check your input data - Bad data in, data out
 2. Look at the progress logs - See what steps actually ran
 3. Test with simpler data - Start small and build up
 4. Check the examples - Are you using the workflow correctly?
