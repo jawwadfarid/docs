@@ -11,7 +11,7 @@
 * [Best Practices](get-started/best-practices.md)
 * [AI models](get-started/ai-models.md)
 * [Integrations](get-started/integrations.md)
-* [API Keys](get-started/api-keys.md)
+* [Integrations & API Keys](get-started/integrations-and-api-keys.md)
 * [Viewing the code](get-started/viewing-the-code.md)
 * [Troubleshooting](get-started/troubleshooting.md)
 * [Contact Us](get-started/contact-us.md)
