@@ -17,7 +17,11 @@ layout:
 
 # Viewing the code
 
-If you're in the **same chat** where the workflow was created, simply ask the chat agent to display the workflow code directly.
+If you're in the **same chat** where the workflow was created, simply ask Cody to display the code directly.
+
+{% hint style="info" %}
+"Show me the full code."
+{% endhint %}
 
 If you're in a **new chat session**, you'll need to reference the specific workflow URL.&#x20;
 

@@ -25,11 +25,11 @@ Having your integrations already connected when building the workflow increases 
 
 You should only need to provide your own API key if:
 
-* The agent specifically states they don't have access to a particular service you're trying to use
+* Cody specifically states they don't have access to a particular service you're trying to use
 * You prefer to use your own API quota for cost control
 * You're integrating with specialized or enterprise services that require your credentials
 
-**Example**: If the agent asks for an OpenAI API key, you can respond: _"Please use your own API key for the LLM models instead."_
+**Example**: If Cody asks for an OpenAI API key, you can respond: _"Please use your own API key for the LLM models instead."_
 
 <details>
 

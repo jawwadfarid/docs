@@ -17,7 +17,7 @@ layout:
 
 # Resources
 
-Documentation & Learning
+## Documentation & Learning
 
 * **Official Documentation**: [docs.codewords.ai](https://docs.codewords.ai/)
 * **Video Tutorials**: [@agemohq](https://www.youtube.com/@agemohq)
