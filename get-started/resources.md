@@ -19,7 +19,7 @@ layout:
 
 Documentation & Learning
 
-* **Official Documentation**: [docs.codewords.agemo.ai](https://docs.codewords.agemo.ai)
+* **Official Documentation**: [docs.codewords.ai](https://docs.codewords.ai/)
 * **Video Tutorials**: [@agemohq](https://www.youtube.com/@agemohq)
 * **Blog**: [agemo.ai/blog](https://agemo.ai/blog)
 
