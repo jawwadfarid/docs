@@ -21,7 +21,7 @@
   * [Platform Overview](codewords-on-ide/platform-overview.md)
   * [Quick Start & Setup](codewords-on-ide/quick-start-and-setup.md)
   * [Understanding CodeWords](codewords-on-ide/understanding-codewords.md)
-  * [CodeWords MCP Agent: Your AI Development Toolkit](codewords-on-ide/codewords-mcp-agent-your-ai-development-toolkit.md)
+  * [CodeWords MCP Agent: Your AI Development Toolkit](codewords-on-ide/codewords-devx-mcp-agent-your-ai-development-toolkit.md)
   * [FAQ](codewords-on-ide/faq.md)
 * [Codewords Templates](codewords-templates/README.md)
   * [Person Finder](codewords-templates/person-finder.md)
