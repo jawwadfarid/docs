@@ -66,5 +66,3 @@ Use this straightforward approach:
 Start with simpler models and upgrade only when needed. Often a Speed models can handle 80% of your workflow, with a Deep Thinker handling just the final analysis step.
 
 Consider the cost-benefit ratio. Speed models cost significantly less, so use them wherever possible in your automation pipeline.
-
-**Example Workflow Strategy**:

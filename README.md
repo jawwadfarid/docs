@@ -17,8 +17,6 @@ layout:
 
 # Introduction
 
-#### Introduction to Codewords
-
 Welcome to the internal documentation for Codewords. This guide provides a comprehensive overview of the platform, its core concepts, and its target users. The goal is to equip you with the foundational knowledge needed to build, support, and innovate on the Codewords platform.
 
 ***

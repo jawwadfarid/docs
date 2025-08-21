@@ -19,10 +19,10 @@ layout:
 
 If you're in the **same chat** where the workflow was created, simply ask the chat agent to display the workflow code directly.
 
-If you're in a **new chat session**, you'll need to reference the specific workflow by name.&#x20;
+If you're in a **new chat session**, you'll need to reference the specific workflow URL.&#x20;
 
 {% hint style="info" %}
-"Could you show me the code for the '\[Input the workflow URL]' workflow?"
+"Could you show me the code for the '\[Input the workflow URL]' ?"
 {% endhint %}
 
 This approach ensures you can access your workflow code regardless of which chat session you're currently using.
