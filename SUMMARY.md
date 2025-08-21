@@ -2,19 +2,16 @@
 
 ## Get Started
 
-* [Intro](README.md)
-* [Introduction - Shahel](get-started/introduction-shahel.md)
-* [Introduction](<README (1).md>)
+* [Introduction](README.md)
+* [Introduction](get-started/introduction-1.md)
+* [Introduction](get-started/introduction-2.md)
 * [Quick Start](get-started/quick-start.md)
-* [Creating your first workflow](get-started/creating-your-first-workflow.md)
-* [Prompting](get-started/prompting.md)
-* [Customising a template](get-started/customising-a-template.md)
-* [Best Practices](get-started/best-practices.md)
+* [Creating Workflows](get-started/creating-workflows.md)
 * [AI models](get-started/ai-models.md)
 * [Integrations & API Keys](get-started/integrations-and-api-keys.md)
 * [Viewing the code](get-started/viewing-the-code.md)
 * [Troubleshooting](get-started/troubleshooting.md)
-* [Troubleshooting - shahel](get-started/troubleshooting-shahel.md)
+* [Troubleshooting](get-started/troubleshooting-1.md)
 * [Contact Us](get-started/contact-us.md)
 * [Resources](get-started/resources.md)
 

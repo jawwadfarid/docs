@@ -1,6 +1,21 @@
-# Troubleshooting - shahel
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
 
-Troubleshooting Workflows
+# Troubleshooting
 
 This guide provides a systematic approach to diagnosing and resolving issues within Codewords workflows. Follow these steps to identify the root cause of a problem, whether it's a clear error or unexpected behavior.
 
