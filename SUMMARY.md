@@ -14,6 +14,7 @@
 * [Integrations & API Keys](get-started/integrations-and-api-keys.md)
 * [Viewing the code](get-started/viewing-the-code.md)
 * [Troubleshooting](get-started/troubleshooting.md)
+* [Troubleshooting - shahel](get-started/troubleshooting-shahel.md)
 * [Contact Us](get-started/contact-us.md)
 * [Resources](get-started/resources.md)
 
