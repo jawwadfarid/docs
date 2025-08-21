@@ -51,7 +51,8 @@ If you have followed the steps above and cannot resolve the issue, it's time to 
 
 Escalation Channels:
 
-* Primary: Post in the `#dev-support` Slack channel.
+* Primary: Post in the Blue Chat Support on the webpage.
+* Secondary: Use our Discord Channel to post any issues.
 
 Information to Include:
 
