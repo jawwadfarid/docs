@@ -10,7 +10,6 @@
 * [Customising a template](get-started/customising-a-template.md)
 * [Best Practices](get-started/best-practices.md)
 * [AI models](get-started/ai-models.md)
-* [Integrations](get-started/integrations.md)
 * [Integrations & API Keys](get-started/integrations-and-api-keys.md)
 * [Viewing the code](get-started/viewing-the-code.md)
 * [Troubleshooting](get-started/troubleshooting.md)
