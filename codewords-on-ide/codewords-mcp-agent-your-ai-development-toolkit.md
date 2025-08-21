@@ -1,6 +1,6 @@
-# CodeWords DevX MCP Agent: Your AI Development Toolkit
+# CodeWords MCP Agent: Your AI Development Toolkit
 
-The CodeWords DevX MCP (Model Context Protocol) Agent is an advanced AI assistant designed to streamline and enhance your workflow development on the CodeWords platform. It provides a comprehensive suite of tools to help you build, deploy, manage, and monitor your CodeWords workflows efficiently.
+The CodeWords MCP (Model Context Protocol) Agent is an advanced AI assistant designed to streamline and enhance your workflow development on the CodeWords platform. It provides a comprehensive suite of tools to help you build, deploy, manage, and monitor your CodeWords workflows efficiently.
 
 ### Overview of Capabilities
 
@@ -223,10 +223,10 @@ These tools enable you to upload and download files to and from CodeWords storag
 This special tool allows for the creation of temporary development environments.
 
 * Sandbox Creation Endpoint
-  * Purpose: Create live sandboxes running the DevX service.
+  * Purpose: Create live sandboxes running the service.
   * Access: This is accessed via a `POST` request to the service root.
   * When to Use: For setting up temporary, isolated development environments.
-  * What it Does: Deploys the DevX service within an isolated sandbox.
+  * What it Does: Deploys the service within an isolated sandbox.
   * Parameters:
     * `codewords_api_key`: Your CodeWords API key.
     * `service_type`: "Streamable HTTPS (MCP)" or "Server-Sent Events (SSE)".
@@ -235,7 +235,7 @@ This special tool allows for the creation of temporary development environments.
 
 ### How the Agent Works: Typical Development Workflow
 
-The CodeWords DevX MCP Agent is designed to guide you through a systematic development process, ensuring best practices are followed at each stage.
+The CodeWords MCP Agent is designed to guide you through a systematic development process, ensuring best practices are followed at each stage.
 
 #### Phase 0: Intent Understanding (Discovery & Planning)
 
@@ -311,4 +311,4 @@ To maximise your efficiency and build high-quality workflows, consider these cri
 * User Consent: When interacting with tools that perform actions with side effects (like Pipedream `execute` operations), always obtain explicit user permission.
 * URL Handling: Present any authentication or external URLs exactly as provided by the agent to ensure security and proper functionality.
 
-This documentation provides comprehensive guidance for leveraging each tool within the CodeWords DevX MCP Agent. These tools are designed to work together seamlessly, supporting the complete workflow development lifecycle from initial exploration to production deployment.
+This documentation provides comprehensive guidance for leveraging each tool within the CodeWords MCP Agent. These tools are designed to work together seamlessly, supporting the complete workflow development lifecycle from initial exploration to production deployment.
