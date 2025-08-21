@@ -19,7 +19,7 @@ layout:
 
 ### What is CodeWords?
 
-[CodeWords](https://codewords.ai/) is an AI-powered platform that transforms how you build, deploy, and manage workflow automations. Instead of wrestling with complex interfaces or writing code, you simply describe what you need in plain English.
+[CodeWords](https://codewords.ai/) is an AI-powered platform that transforms how you build, deploy, and manage workflow automations. Instead of wrestling with complex interfaces or writing code, you simply describe what you need in plain English. With built-in AI models, seamless integration to 2000+ applications, and a powerful Chrome extension, you can build sophisticated automations without the complexity.
 
 #### The Magic Behind the Platform
 

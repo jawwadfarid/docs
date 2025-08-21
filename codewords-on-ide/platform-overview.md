@@ -1,10 +1,25 @@
-# Introduction
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
 
-### Introduction
+# Platform Overview
 
-CodeWords is a serverless AI automation platform that enables developers to rapidly build, deploy, and scale intelligent workflows. With built-in AI models, 2000+ third-party integrations, and a powerful chrome extension, CodeWords transforms how you build automation solutions.
+CodeWords is a serverless AI automation platform that enables developers to rapidly build, deploy, and scale intelligent workflows.&#x20;
 
-#### Why CodeWords?
+#### Key features
 
 * **⚡ Zero Infrastructure Setup** - Deploy workflows instantly without managing servers
 * **🤖 AI-First Architecture** - Built-in access to OpenAI, Anthropic, and Gemini models
