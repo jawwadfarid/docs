@@ -105,9 +105,3 @@ This process takes 10-15 minutes per lead, is prone to human error, and often ge
 * Describe your specific needs and watch automations come to life
 * Customise existing templates without touching code
 * Focus on your expertise while automation handles the busywork
-
-***
-
-#### Next Steps
-
-Now that you have a foundational understanding of Codewords, you can proceed to the following sections:
