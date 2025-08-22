@@ -19,11 +19,11 @@ layout:
 
 ### What is CodeWords?
 
-[CodeWords](https://codewords.ai/) is an AI-powered platform that transforms how you build, deploy, and manage workflow automations. Instead of wrestling with complex interfaces or writing code, you simply describe what you need in plain English. With built-in AI models, seamless integration to 2000+ applications, and a powerful Chrome extension, you can build sophisticated automations without the complexity.
+[CodeWords](https://codewords.ai/) is an AI-powered platform that transforms how you build, deploy, and manage workflow automations. Instead of wrestling with complex interfaces or writing code, you simply describe what you need in plain English and Cody, our workflow Agent, builds and deploys. With built-in AI models, seamless integration to 2000+ applications, and a powerful Chrome extension, you can build sophisticated automations without the complexity.
 
 #### The Magic Behind the Platform
 
-At its core, CodeWords bridges the gap between intention and execution. You bring the vision: "I want to automatically save email attachments to Google Drive and notify my team", and our AI handles the technical complexity of making it happen.
+CodeWords bridges the gap between intention and execution. You bring the vision: "I want to automatically save email attachments to Google Drive and notify my team", and our AI handles the technical complexity of making it happen.
 
 **For everyday users**, CodeWords replaces tedious manual work with intelligent automations. Think Zapier's connectivity meets ChatGPT's conversational ease.
 
@@ -43,7 +43,7 @@ All from one single chat interface.
 
 ### Understanding Workflows
 
-A **workflow** is your digital assistant, a sequence of connected steps that execute automatically when triggered. Think of it as a recipe that follows itself.
+A **workflow** is your digital assistant, a sequence of connected defined steps that execute automatically when triggered.&#x20;
 
 #### A Day in the Life: Sales Lead Processing
 
