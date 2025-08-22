@@ -160,3 +160,7 @@ You can customize any existing workflow template by clicking the 'Edit' button, 
 **Just describe how you want to customize it**
 
 This is a great way to explore the capabilities that you want to build.
+
+## Version History
+
+You can revert a workflow to a previous version by asking Cody to change the workflow to the Implementation ID of the previous one. You would need to specify the Implementation ID for&#x20;
