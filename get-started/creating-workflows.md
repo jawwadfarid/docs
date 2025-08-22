@@ -163,4 +163,4 @@ This is a great way to explore the capabilities that you want to build.
 
 ## Version History
 
-You can revert a workflow to a previous version by asking Cody to change the workflow to the Implementation ID of the previous one. You would need to specify the Implementation ID for&#x20;
+You can revert a workflow to a previous version by providing Cody with the Implementation ID of the desired version. Simply ask Cody to change the workflow to that specific Implementation ID.
