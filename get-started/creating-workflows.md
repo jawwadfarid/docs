@@ -43,10 +43,10 @@ What **Doesn't Work**:
 What Works **Great**:
 
 {% hint style="success" %}
-1. "Create a workflow that will scrape website X and summarise the content and email me the response"
-2. "Build me a workflow which scrapes google review data for restaurants and saves it into a CSV file "
-3. "Build me something can extract text data from an image of a hand written letter"
-4. "Create a workflow that transcribes a youtube video, distills it into notes and stores in my google doc"
+1. handwritten"Create a workflow that will scrape website X and summarise the content and email me the response"
+2. "Build me a workflow that scrapes Google review data for restaurants and saves it into a CSV file "
+3. "Build me something can extract text data from an image of a handwritten letter"
+4. "Create a workflow that transcribes a YouTube video, distills it into notes, and stores it in my Google Doc"
 {% endhint %}
 
 The difference is clear: Cody needs to understand the specific business problem you're solving.
@@ -64,7 +64,7 @@ Instead of asking for specific technologies, describe what you want to achieve&#
 **Focus on the What:**
 
 * "I want to extract product prices from competitor websites every week."
-* "I want to analyse customer reviews and tell me the main themes."
+* "I want to analyze customer reviews and tell me the main themes."
 * "I want to automatically respond to simple customer emails."
 
 When you focus on what you want to achieve rather than how you think it should be built, Cody can choose the best tools and approach for your needs.
@@ -132,15 +132,15 @@ Use this structure to get the best results:
 **Success Criteria:** \[How you'll know it's working well]
 
 {% hint style="info" %}
-**What I Want to Accomplish:** Monitor competitor pricing and get alerts when prices change
+**What I Want to Accomplish:** Monitor competitor pricing and get alerts when prices change.
 
-**My Current Process:** Every Friday, manually check 5 competitor websites for prices on 20 products, record in a spreadsheet
+**My Current Process:** Every Friday, manually check 5 competitor websites for prices on 20 products, and record them in a spreadsheet
 
 **My Data/Inputs:** Google Sheet with product names, competitor URLs, and current prices
 
 **Desired Outputs:** Updated prices, email alerts for 10%+ drops, weekly summary
 
-**Integration Needs:** Update Google Sheet, email me and sales manager, Slack notification
+**Integration Needs:** Update Google Sheet, email me and the sales manager, Slack notification
 
 **Success Criteria:** Catches changes within 24 hours, 95% accurate, no false alerts
 {% endhint %}
@@ -153,10 +153,10 @@ Once your first workflow is working, add features progressively. Provide busines
 **Example:** "I run a digital marketing agency managing social media for 25 local restaurants. My biggest challenge is creating enough content while tracking what performs best."
 {% endhint %}
 
-## Customising a Template
+## Customizing a Template
 
-You can customise any existing workflow template by clicking the 'Edit' button, or you can click into Cody. The customised option on a workflow template or on one of your workflows allows you to change that automation to your vision, just by expressing it.
+You can customize any existing workflow template by clicking the 'Edit' button, or you can click into Cody. The customized option on a workflow template or on one of your workflows allows you to change that automation to your vision, just by expressing it.
 
-**Just describe how you want to customise it**
+**Just describe how you want to customize it**
 
 This is a great way to explore the capabilities that you want to build.

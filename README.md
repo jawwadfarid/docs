@@ -112,5 +112,5 @@ This process takes 10-15 minutes per lead, is prone to human error, and often ge
 
 * Browse our library of proven workflows for your industry
 * Describe your specific needs and watch automations come to life
-* Customise existing templates without touching code
+* Customize existing templates without touching code
 * Focus on your expertise while automation handles the busywork

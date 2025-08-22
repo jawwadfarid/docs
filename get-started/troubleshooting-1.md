@@ -23,9 +23,9 @@ This guide provides a systematic approach to diagnosing and resolving issues wit
 
 #### 1. The First Step: Ask Cody
 
-Before diving into manual checks, always leverage the platform's built-in diagnostic capabilities. Cody can analyse the last execution, interpret error messages, and often provide a direct explanation and solution.
+Before diving into manual checks, always leverage the platform's built-in diagnostic capabilities. Cody can analyze the last execution, interpret error messages, and often provide a direct explanation and solution.
 
-Within the same chat or by in a new one, ask Cody about:
+Within the same chat or in a new one, ask Cody about:
 
 **What you can build**
 
@@ -42,7 +42,7 @@ Within the same chat or by in a new one, ask Cody about:
 **Running and testing Workflows**
 
 * "Can you run this workflow \[your workflow URL] with my data?"
-* "Something isn't working, check the logs and fix it?"
+* "Something isn't working. Check the logs and fix it?"
 * "Can you modify my existing workflow at this URL \[your workflow URL]?"
 
 **Learning and Guidance**
@@ -65,7 +65,7 @@ Diagnostic Checklist:
 * Validate the Input Data: Was the initial data that triggered the workflow correct and in the expected format?
 * Trace the Data Flow: Use the execution logs to follow the data from step to step. Where did it get modified unexpectedly? Was a step skipped due to incorrect logic (e.g., a filter)?
 * Isolate with Simple Data: Rerun the workflow with a very simple, predictable trigger. For example, use "Test Name" instead of a complex variable. If the simple test works, the issue lies in the complexity of your real data.
-* Review Your Logic: Double-check any filters, conditional paths, or data transformation steps. Is a filter too restrictive? Is a variable being mapped to the wrong field?
+* Review Your Logic: Double-check any filters, conditional paths, or data transformation steps. Is the filter too restrictive? Is a variable being mapped to the wrong field?
 * Consult the Examples: Review the documentation or examples for the specific service you're connecting to. Are you using the API or action correctly?
 
 {% hint style="info" %}
