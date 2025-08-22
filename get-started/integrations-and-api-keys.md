@@ -35,7 +35,7 @@ You should only need to provide your own API key if:
 
 <summary>Airtable</summary>
 
-To connect CodeWords with your Airtable data, you'll need to provide an API Key that has access to your Workspaces and Bases Getting your Airtable API Key is straightforward:
+To connect CodeWords with your Airtable data, you'll need to provide an API Key that has access to your Workspaces and Bases. Getting your Airtable API Key is straightforward:
 
 * In your Airtable Account, navigate to the Builder Hub from the dropdown menu options when you click on your profile section
 * Once in Builder Hub, look for the Personal Access Token option under the Developers section

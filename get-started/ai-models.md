@@ -30,8 +30,8 @@ The key is matching the model's capabilities to your task complexity and speed r
 These models are optimized for speed and efficiency, making them perfect for high-volume, straightforward operations
 
 * **gpt-4o-mini** - Super fast processing, excellent for simple data extractions and repetitive automation work
-* **claude-haiku** - Lightning quick responses that are perfect for basic classification and simple text processing tasks
-* **gemini-flash-lite** - The most cost-effective option that handles simple parsing and basic operations exceptionally well
+* **Claude-haiku** - Lightning quick responses that are perfect for basic classification and simple text processing tasks
+* **Gemini-flash-lite** - The most cost-effective option that handles simple parsing and basic operations exceptionally well
 * Use these when you need to process large volumes of simple tasks quickly
 * Great for initial data sorting and basic text manipulation
 
@@ -44,8 +44,8 @@ These models are optimized for speed and efficiency, making them perfect for hig
 The reliable workhorses that handle the majority of your automation needs with consistent quality
 
 * **gpt-4o** - The dependable all-rounder that handles most workflow tasks with solid performance across the board
-* **claude-sonnet** - Exceptional at understanding context and nuance, making it ideal for more sophisticated text analysis
-* **gemini-flash** - Outstanding value proposition with good performance across all types of automation tasks
+* **Claude-sonnet** - Exceptional at understanding context and nuance, making it ideal for more sophisticated text analysis
+* **Gemini-flash** - Outstanding value proposition with good performance across all types of automation tasks
 * These are your go-to models for standard workflow automation
 * Perfect for content creation, moderate analysis, and general processing tasks
 * The sweet spot between speed and intelligence for most use cases
@@ -59,8 +59,8 @@ The reliable workhorses that handle the majority of your automation needs with c
 When you need the highest level of reasoning and analysis for critical automation workflows
 
 * **o3** - The most advanced reasoner available, use this for workflows requiring complex problem-solving and multi-step logic
-* **claude-opus** - Exceptional at complex analysis, deep understanding, and handling nuanced automation requirements
-* **gemini-pro** - Can process and analyze huge amounts of information simultaneously, perfect for large-scale data workflows
+* **Claude-opus** - Exceptional at complex analysis, deep understanding, and handling nuanced automation requirements
+* **Gemini-pro** - Can process and analyze huge amounts of information simultaneously, perfect for large-scale data workflows
 * Reserve these for your most important and complex automations
 * Use when accuracy and sophisticated reasoning are more important than speed
 * Best for final analysis, complex decision-making, and critical business processes
@@ -80,6 +80,6 @@ Use this straightforward approach:
 
 **Best Practices**
 
-Start with simpler models and upgrade only when needed. Often a Speed models can handle 80% of your workflow, with a Deep Thinker handling just the final analysis step.
+Start with simpler models and upgrade only when needed. Often, a Speed model can handle 80% of your workflow, with a Deep Thinker handling just the final analysis step.
 
 Consider the cost-benefit ratio. Speed models cost significantly less, so use them wherever possible in your automation pipeline.

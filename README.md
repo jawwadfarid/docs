@@ -33,9 +33,9 @@ At its core, CodeWords bridges the gap between intention and execution. You brin
 
 [Cody](https://codewords.ai/) is your Automation Building Partner, an AI assistant who specializes in building business automation on the CodeWords platform. It can help you:
 
-* **ideate** on what to automate
-* **build and iterate** on your automation
-* **setup and test** your automation
+* **Ideate** on what to automate
+* **Build and iterate** on your automation
+* **Set up and test** your automation
 
 All from one single chat interface.
 

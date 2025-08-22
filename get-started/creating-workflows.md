@@ -63,13 +63,13 @@ Instead of asking for specific technologies, describe what you want to achieve&#
 
 **Focus on the What:**
 
-* "I want to extract product prices from competitor websites every week"
-* "I want to analyse customer reviews and tell me the main themes"
-* "I want to automatically respond to simple customer emails"
+* "I want to extract product prices from competitor websites every week."
+* "I want to analyse customer reviews and tell me the main themes."
+* "I want to automatically respond to simple customer emails."
 
 When you focus on what you want to achieve rather than how you think it should be built, Cody can choose the best tools and approach for your needs.
 
-* **Provide Context and Details** Give Cody enough information to make smart decisions about your workflow&#x20;
+* **Provide Context and Details:** Give Cody enough information to make smart decisions about your workflow&#x20;
 * **Instead of Vague Requests:** "Build me a lead generation workflow"&#x20;
 * **Provide Rich Context:**&#x20;
 
@@ -77,10 +77,10 @@ When you focus on what you want to achieve rather than how you think it should b
 "Build me a lead generation workflow that:
 
 * Finds marketing agency owners on LinkedIn
-* In the US with 10-50 employees
+* In the US, with 10-50 employees
 * Gets their contact info and company details
 * Outputs to a Google Sheet for my sales team
-* Processes about 50 leads per week"
+* Processes about 50 leads per week."
 {% endhint %}
 
 ### **Describe Your Current Process**&#x20;
@@ -105,15 +105,15 @@ Show Cody exactly what data you're working with, including examples
 * Column A: Customer names
 * Column B: Their LinkedIn URLs
 * Column C: Company names
-* About 200 rows updated weekly
+* About 200 rows are updated weekly
 
 I want to add job titles and company size in columns D and E."
 
-**Clear Integration Requirements** Specify exactly where results should go and what notifications you need **Example:** "When the workflow finds new leads, I want it to:
+**Clear Integration Requirements:** Specify exactly where results should go and what notifications you need. **Example:** "When the workflow finds new leads, I want it to:
 
 * Add them to my HubSpot CRM in the 'Marketing Qualified' pipeline
 * Send a Slack message to our #sales channel with the count
-* Email me a summary if it finds more than 10 high-priority leads"
+* Email me a summary if it finds more than 10 high-priority leads."
 
 ### **The Perfect Request Template**
 
@@ -134,9 +134,9 @@ Use this structure to get the best results:
 {% hint style="info" %}
 **What I Want to Accomplish:** Monitor competitor pricing and get alerts when prices change
 
-**My Current Process:** Every Friday, manually check 5 competitor websites for prices on 20 products, record in spreadsheet
+**My Current Process:** Every Friday, manually check 5 competitor websites for prices on 20 products, record in a spreadsheet
 
-**My Data/Inputs:** Google Sheet with product names, competitor URLs, current prices
+**My Data/Inputs:** Google Sheet with product names, competitor URLs, and current prices
 
 **Desired Outputs:** Updated prices, email alerts for 10%+ drops, weekly summary
 
@@ -155,7 +155,7 @@ Once your first workflow is working, add features progressively. Provide busines
 
 ## Customising a Template
 
-You can customise any existing workflow template by clicking the 'Edit' button, or you can click into Cody. The customised option on a workflow template or on one of your workflows allow you to change that automation to your vision, just from expressing it.
+You can customise any existing workflow template by clicking the 'Edit' button, or you can click into Cody. The customised option on a workflow template or on one of your workflows allows you to change that automation to your vision, just by expressing it.
 
 **Just describe how you want to customise it**
 

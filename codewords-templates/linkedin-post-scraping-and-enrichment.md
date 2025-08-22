@@ -21,11 +21,11 @@ coverY: 0
 {% endstep %}
 
 {% step %}
-### Complete your set up (it takes four clicks)
+### Complete your setup (it takes four clicks)
 
 Connect to Google Sheets and download the CodeWords Chrome Extension if you haven't already.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-05-28 at 16.35.26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-28 at 16.35.26.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -34,7 +34,7 @@ Connect to Google Sheets and download the CodeWords Chrome Extension if you have
 * **Paste the LinkedIn post URL** into the **Post URL** input field.
 * _(Optional)_ Add any specific enrichment instructions\
   Example: “Include years of experience and current location.”
-* **Choose what info you want to extract** (e.g. name, company, job title, etc.).
+* **Choose what info you want to extract** (e.g., name, company, job title, etc.).
 {% endstep %}
 
 {% step %}
@@ -115,7 +115,7 @@ Absolutely. You can check off the standard fields you want (e.g., job title, com
 
 <summary>What if I get an error or it's returning false results?</summary>
 
-If you notice something off, just let us know via the chat widget on CodeWords, at support@agemo.ai or on Slack if you're in our Beta group. We’re constantly improving our workflows.
+If you notice something off, just let us know via the chat widget on CodeWords, at support@agemo.ai, or on Slack if you're in our Beta group. We’re constantly improving our workflows.
 
 </details>
 
@@ -123,6 +123,6 @@ If you notice something off, just let us know via the chat widget on CodeWords, 
 
 <summary>I like the workflow but want to tweak something (like the output format or inputs). Is that possible?</summary>
 
-Yes! Just reach out via the chat widget on CodeWords and type in the variation you'd like. Plus, we're rolling out an edit feature soon, so you'll be able to customize workflows on your own with just a few clicks or message.
+Yes! Just reach out via the chat widget on CodeWords and type in the variation you'd like. Plus, we're rolling out an edit feature soon, so you'll be able to customize workflows on your own with just a few clicks or a message.
 
 </details>
