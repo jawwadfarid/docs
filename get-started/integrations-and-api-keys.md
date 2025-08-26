@@ -59,6 +59,48 @@ You can create an Index or use an existing Index from Pinecone by using codeword
 
 </details>
 
+<details>
+
+<summary>Telegram</summary>
+
+**Setting Up a Telegram Bot Webhook**
+
+This guide walks you through connecting your Telegram bot to CodeWords using webhooks.
+
+### Step 1: Create or Get Your Bot Token
+
+1. Open Telegram and search for **@BotFather**
+2. Start a conversation with BotFather
+3. Choose one of the following options:
+   * **For a new bot**: Send `/newbot` and follow the prompts to create your bot
+   * **For existing bots**: Send `/mybots` to see your current bots
+4. Select your bot from the list
+5. Click **"API Token"** from the available options
+6. Copy the bot token (format: `123456789:ABC-DEF1234ghIkl-zyx57W2v1u123ew11`)
+
+### Step 2: Configure the Webhook
+
+1.  Take the webhook URL template:
+
+    ```
+    https://api.telegram.org/bot<YOUR_BOT_TOKEN>/setWebhook?url=https://runtime.codewords.ai/webhook/pipedream/webhook/<UNIQUE_TRIGGER_ID>/pipedream_trigger_recorder
+    ```
+2. Replace `<YOUR_BOT_TOKEN>` with your actual bot token from Step 1
+3.  Replace `<UNIQUE_TRIGGER_ID>` with your CodeWords trigger ID **Example:**
+
+    ```
+    https://api.telegram.org/bot8152067608:AAHHmeW42ZlMDHL_yAjg95WX_vcNHuXrDO8/setWebhook?url=https://runtime.codewords.ai/webhook/pipedream/webhook/abc123xyz/pipedream_trigger_recorder
+    ```
+
+### Step 3: Activate the Webhook
+
+1. Copy the complete URL from Step 2
+2. Paste it into your browser's address bar
+3. Press Enter to navigate to the URL
+4. You should see a confirmation message indicating the webhook has been activated
+
+</details>
+
 **Best Practice**: Only grant the minimum permissions needed for your specific automation. If your workflow only reads data, don't grant Write or Manage permissions. Once configured, CodeWords will be able to seamlessly interact with your Airtable data as part of your automated workflows.
 
 
