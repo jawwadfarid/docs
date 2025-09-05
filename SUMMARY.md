@@ -3,8 +3,13 @@
 ## Get Started
 
 * [Introduction](README.md)
-* [Introduction](get-started/introduction-1.md)
+* [Introduction](get-started/introduction-1/README.md)
+  * [Welcome](get-started/introduction-1/welcome.md)
+  * [Get to know the platform](get-started/introduction-1/get-to-know-the-platform.md)
+  * [Getting started](get-started/introduction-1/getting-started.md)
+  * [Credits](get-started/introduction-1/credits.md)
 * [Introduction](get-started/introduction-2.md)
+* [Introduction](get-started/introduction-3.md)
 * [Quick Start](get-started/quick-start.md)
 * [Creating Workflows](get-started/creating-workflows.md)
 * [AI models](get-started/ai-models.md)
