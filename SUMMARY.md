@@ -14,7 +14,7 @@
 * [Troubleshooting](get-started/troubleshooting-1.md)
 * [Contact Us](get-started/contact-us.md)
 * [Resources](get-started/resources.md)
-* [Page](get-started/page.md)
+* [How to submit a template \[NEEDS REVIEW\]](get-started/how-to-submit-a-template-needs-review.md)
 
 ***
 
