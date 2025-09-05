@@ -15,6 +15,7 @@
 * [Contact Us](get-started/contact-us.md)
 * [Resources](get-started/resources.md)
 * [How to submit a template \[NEEDS REVIEW\]](get-started/how-to-submit-a-template-needs-review.md)
+* [Changelog](get-started/changelog.md)
 
 ***
 
