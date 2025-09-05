@@ -14,6 +14,8 @@ Templates are the fastest way to get started. They are pre-built solutions for p
 4. Follow the on-screen prompts to connect your apps (e.g., grant access to Gmail and Dropbox).
 5. Activate the workflow. That's it! Your automation is now live.
 
+{% embed url="https://www.youtube.com/watch?v=NxAUsL9tmJE" %}
+
 #### Build your first automation (from scratch)
 
 For custom needs, building from scratch with Cody is simple and intuitive.
