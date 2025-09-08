@@ -187,7 +187,9 @@ https://codewords.agemo.ai/run/lead-qualifier-automation-abc123
 
 <summary>Summary</summary>
 
-You've built a complete lead management automation that:
+Cody provides you with a summary of the automation that you have built.
+
+&#x20;You've built a complete lead management automation that:
 
 * Research prospects automatically
 * Updates your CRM with enriched data
