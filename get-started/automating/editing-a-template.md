@@ -122,7 +122,7 @@ There's no shame in taking a step back and trying a different path forward.
 
 #### Getting help
 
-If you're stuck, visit the CodeWords Discord or use the help chat. Reference your editing session and describe what you're trying to accomplish.
+If you're stuck, visit the [CodeWords Discord](https://discord.codewords.ai) or use the help chat. Reference your editing session and describe what you're trying to accomplish.
 
 ### Best practices and tips
 
