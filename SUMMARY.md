@@ -13,6 +13,7 @@
 * [Quick Start](get-started/quick-start.md)
 * [Quickstart](get-started/quickstart.md)
 * [Automating](get-started/automating/README.md)
+  * [Templates](get-started/automating/templates.md)
   * [Editing a Template](get-started/automating/editing-a-template.md)
   * [Running Automations](get-started/automating/running-automations.md)
 * [Integrations](get-started/integrations.md)
