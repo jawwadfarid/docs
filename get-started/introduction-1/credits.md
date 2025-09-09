@@ -9,6 +9,7 @@ Credits are the currency of CodeWords. They give you a simple, transparent way t
   2. Click Add Top Up Wallet.
   3. Choose the credit package that works best for you and complete the purchase. Your new credits will be added to your account instantly.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-05 at 16.15.28.png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FC0KQHHlFG9y1F0pBotb8%2Fuploads%2FmJdUWArjblO8DDjVw2OQ%2FCredit%20top%20up.mp4?alt=media&token=4ecad66f-1adf-4fc6-b51a-3f67064c4aa0" %}
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-05 at 16.12.04.png" alt=""><figcaption></figcaption></figure>
+
+
