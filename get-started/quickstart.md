@@ -1,4 +1,8 @@
-# Building an automation
+---
+hidden: true
+---
+
+# Quickstart
 
 To get started, visit [codewords.agemo.ai](http://codewords.agemo.ai/) and create an account. Once you're registered, you'll be able to create your first workflow.&#x20;
 
@@ -6,31 +10,27 @@ This is where you'll meet Cody, our AI automation assistant, who you can chat to
 
 ### Step-by-step guide to building your automation
 
-<details>
+Building your first lead follow-up workflow
 
-<summary>Business Scenario for an automation</summary>
+-Video Here-
 
-You're a B2B sales consultant. When prospects fill out your website contact form, you currently:
+You'll create an agent that:
 
-1. Manually research them on LinkedIn
-2. Look up their company information
-3. Add them to your CRM with notes
-4. Send a personalized follow-up email
-5. Set a reminder to follow up in 3 days
+* **Captures new leads from contact forms** and automatically starts the qualification process
+* **Research prospects on LinkedIn** using their name and company to find their complete professional profile and recent activity
+* **Enriches with company intelligence** by analyzing their company website, recent news, and industry information using web scraping
+* **Updates your CRM automatically** (Salesforce, HubSpot, or Pipedream integrations) with detailed prospect notes and lead scoring
+* **Generates personalized follow-up emails** using AI that references their LinkedIn activity, company challenges, and industry trends
+* **Sends an email** with professional formatting and your signature (Gmail, Outlook)
+* **Sets follow-up reminders in your calendar** (Google Calendar, Outlook) and CRM to ensure consistent lead nurturing
 
-This takes 15-20 minutes per lead, and you get 5-10 leads per day.
+### Step 1: Planning your automation
 
-</details>
-
-<details>
-
-<summary>Phase 1: Planning your automation</summary>
-
-**1.1 Describe your process and tell what you want to automate**
+**Describe your process and tell what you want to automate**
 
 > "I want to automate my lead follow-up process. When someone fills out my contact form, I want to automatically research them and send a personalized email."
 
-**1.2 Cody researches what's possible**
+**Cody researches what's possible**
 
 Cody will:
 
@@ -38,7 +38,7 @@ Cody will:
 * Explore the 2000+ app integrations available through the platform
 * Verify all the connections and data sources needed
 
-**1.3 Review the automation plan**
+**Review the automation plan**
 
 Cody presents a plan:
 
@@ -49,13 +49,9 @@ Cody presents a plan:
 
 Once you approve, Cody starts building.
 
-</details>
+### Step 2: Incremental building
 
-<details>
-
-<summary>Phase 2: Incremental building</summary>
-
-**2.1 LinkedIn Research**
+**LinkedIn Research**
 
 **What Cody builds:**
 
@@ -75,7 +71,7 @@ Results:
 ✅ Confidence: 95% match
 ```
 
-**2.2 CRM integration**&#x20;
+**CRM integration**&#x20;
 
 **What Cody adds:**
 
@@ -92,7 +88,7 @@ Results:
 ✅ Tagged as: Website Lead - Researched
 ```
 
-**2.3 Personalized email**
+**Personalized email**
 
 **What Cody adds:**
 
@@ -118,7 +114,7 @@ Best regards,
 [Your name]
 </code></pre>
 
-**2.4 Follow-up reminder**
+#### **Follow-up reminder**
 
 **What Cody adds:**
 
@@ -126,11 +122,7 @@ Best regards,
 * Includes contact info and research notes
 * Creates a task in your CRM
 
-</details>
-
-<details>
-
-<summary>Phase 3: Final testing</summary>
+### Step 3: Final testing
 
 Cody runs the complete workflow end-to-end to ensure everything works together seamlessly.
 
@@ -145,11 +137,7 @@ The complete automation worked perfectly with Sarah's real data. The LinkedIn re
 ```
 {% endcode %}
 
-</details>
-
-<details>
-
-<summary>Phase 4: Your automation is ready</summary>
+### Step 4: Automation is Ready
 
 Once you've confirmed that you're happy with the output, Cody will provide you with your automation URL:
 
@@ -157,11 +145,7 @@ Once you've confirmed that you're happy with the output, Cody will provide you w
 https://codewords.agemo.ai/run/lead-qualifier-automation-abc123
 ```
 
-</details>
-
-<details>
-
-<summary>Troubleshooting</summary>
+### Step 5: Automation is Ready
 
 **LinkedIn profiles not found**
 
@@ -181,11 +165,7 @@ https://codewords.agemo.ai/run/lead-qualifier-automation-abc123
 * Adjust the tone settings in email preferences
 * Test with different contact data
 
-</details>
-
-<details>
-
-<summary>Summary</summary>
+### Summary
 
 Cody provides you with a summary of the automation that you have built.
 
@@ -195,6 +175,4 @@ Cody provides you with a summary of the automation that you have built.
 * Updates your CRM with enriched data
 * Sends personalized follow-up emails
 * Sets reminders for future outreach
-
-</details>
 
