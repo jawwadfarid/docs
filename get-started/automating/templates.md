@@ -10,14 +10,6 @@ Think of templates as professional automation services that are available instan
 
 Templates give you instant access to powerful automations without any technical work. You'll get professional workflow solutions that would typically require hours of development or expensive custom tools.
 
-Templates handle the complex stuff so you don't have to:
-
-* Connect to LinkedIn, Gmail, websites, and other platforms seamlessly
-* Process information using AI and smart algorithms
-* Format results professionally for immediate use
-* Handle errors and edge cases gracefully
-* Scale to handle multiple requests reliably
-
 You'll solve business problems faster: Instead of manually researching prospects, monitoring competitors, or processing data, you'll have automations that do it for you with consistent, high-quality results.
 
 ### Step-by-step guide to using templates
