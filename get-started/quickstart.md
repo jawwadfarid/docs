@@ -137,7 +137,7 @@ The complete automation worked perfectly with Sarah's real data. The LinkedIn re
 ```
 {% endcode %}
 
-### Step 4: Automation is Ready
+### Step 4: Congratulations, Your Automation is Ready
 
 Once you've confirmed that you're happy with the output, Cody will provide you with your automation URL:
 
@@ -145,7 +145,7 @@ Once you've confirmed that you're happy with the output, Cody will provide you w
 https://codewords.agemo.ai/run/lead-qualifier-automation-abc123
 ```
 
-### Step 5: Automation is Ready
+### Step 5: Troubleshooting
 
 **LinkedIn profiles not found**
 
