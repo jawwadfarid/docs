@@ -4,9 +4,9 @@ hidden: true
 
 # Quickstart
 
-### Step-by-step guide to building your first automation
+## Building your first automation
 
-Building your first lead follow-up workflow
+In this guide, you will learn how to build your first lead follow-up workflow automation.
 
 -Video Here-
 
@@ -20,7 +20,7 @@ You'll create an agent that:
 * **Sends an email** with professional formatting and your signature (Gmail, Outlook)
 * **Sets follow-up reminders in your calendar** (Google Calendar, Outlook) and CRM to ensure consistent lead nurturing
 
-### Step 1: Planning your automation
+## Step 1: Planning your automation
 
 **Describe your process and tell what you want to automate**
 
@@ -45,7 +45,7 @@ Cody presents a plan:
 
 Once you approve, Cody starts building.
 
-### Step 2: Incremental building
+## Step 2: Incremental building
 
 **LinkedIn Research**
 
@@ -118,7 +118,7 @@ Best regards,
 * Includes contact info and research notes
 * Creates a task in your CRM
 
-### Step 3: Final testing
+## Step 3: Final testing
 
 Cody runs the complete workflow end-to-end to ensure everything works together seamlessly.
 
@@ -133,7 +133,7 @@ The complete automation worked perfectly with Sarah's real data. The LinkedIn re
 ```
 {% endcode %}
 
-### Step 4: Congratulations, Your Automation is Ready
+## Step 4: Congratulations, Your Automation is Ready
 
 Once you've confirmed that you're happy with the output, Cody will provide you with your automation URL:
 
@@ -141,7 +141,7 @@ Once you've confirmed that you're happy with the output, Cody will provide you w
 https://codewords.agemo.ai/run/lead-qualifier-automation-abc123
 ```
 
-### Step 5: Troubleshooting
+## Step 5: Troubleshooting
 
 **LinkedIn profiles not found**
 
@@ -161,7 +161,7 @@ https://codewords.agemo.ai/run/lead-qualifier-automation-abc123
 * Adjust the tone settings in email preferences
 * Test with different contact data
 
-### Summary
+## Summary
 
 Cody provides you with a summary of the automation that you have built.
 
