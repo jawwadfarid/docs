@@ -4,11 +4,7 @@ hidden: true
 
 # Quickstart
 
-To get started, visit [codewords.agemo.ai](http://codewords.agemo.ai/) and create an account. Once you're registered, you'll be able to create your first workflow.&#x20;
-
-This is where you'll meet Cody, our AI automation assistant, who you can chat to build workflows.&#x20;
-
-### Step-by-step guide to building your automation
+### Step-by-step guide to building your first automation
 
 Building your first lead follow-up workflow
 
