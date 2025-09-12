@@ -2,7 +2,7 @@
 
 ## Welcome to Cody
 
-Cody is your dedicated AI automation assistant. It’s the conversational engine that powers CodeWords, allowing you to build, validate, and deploy your automations by simply describing what you need in natural language.
+Cody is your dedicated AI automation assistant that powers CodeWords, allowing you to build, validate, and deploy your automations by simply describing what you need in natural language.
 
 How does it work? Cody understands your instructions. When you describe a workflow, Cody translates your words into a structured workflow, identifies the required steps and integrations, and creates a plan. It will ask clarifying questions to resolve ambiguity and ensure the final automation matches your intent perfectly.
 
