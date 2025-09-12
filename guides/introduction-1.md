@@ -1,62 +1,117 @@
 ---
 hidden: true
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Introduction
 
-## Welcome to Cody
+### What is CodeWords?
 
-Cody is your AI automation assistant that builds powerful workflows through simple conversation. The difference? Cody doesn't just connect apps — it creates real automation code that thinks, adapts, and handles complex scenarios that traditional workflow tools can't touch.
+[CodeWords](https://codewords.ai/) is an AI-powered platform that transforms how you build, deploy, and manage workflow automations. Instead of wrestling with complex interfaces or writing code, you simply describe what you need in plain English and Cody, our workflow Agent, builds and deploys. With built-in AI models, seamless integration to 2000+ applications, and a powerful Chrome extension, you can build sophisticated automations without the complexity.
 
-## How it works
+#### The Magic Behind the Platform
 
-**Understands your needs:** You describe what you want to accomplish, and Cody figures out the steps and integrations needed.
+CodeWords bridges the gap between intention and execution. You bring the vision: "I want to automatically save email attachments to Google Drive and notify my team", and our AI handles the technical complexity of making it happen.
 
-**Builds the workflow:** Cody creates the automation, handles the technical details, and makes sure everything works together.
+**For everyday users**, CodeWords replaces tedious manual work with intelligent automations. Think Zapier's connectivity meets ChatGPT's conversational ease.
 
-**Asks clarifying questions:** If anything's unclear, Cody will ask follow-up questions to get it right.
+**For technical builders**, CodeWords collapses traditional development cycles into minutes. Imagine having Cursor's speed, but for workflow automation instead of code.
 
-**Deploys and tests:** Your automation goes live and gets tested with real data to make sure it works perfectly.
+### Powered by Cody
 
-## What you can do
+[Cody](https://codewords.ai/) is your Automation Building Partner, an AI assistant who specializes in building business automation on the CodeWords platform. It can help you:
 
-**Build new workflows:** Turn ideas into working automations
+* **Ideate** on what to automate
+* **Build and iterate** on your automation
+* **Set up and test** your automation
 
-**Modify existing ones:** Change or add features to current workflows
+All from one single chat interface.
 
-**Debug issues:** Fix problems when things aren't working, or you can let
+***
 
-**Call workflows using other apps:** Connect your workflows with other apps that are built on lovable, bolt, etc
+### Understanding Workflows
 
-## How is Cody different?
+A **workflow** is your digital assistant, a sequence of connected defined steps that execute automatically when triggered.&#x20;
 
-**Conversational automation:** Most workflow tools make you drag boxes around or fill out forms. With CodeWords, you just have a conversation with Cody. Describe what you want in plain English, and it gets built.
+#### A Day in the Life: Sales Lead Processing
 
-**Real code, no coding:** Other tools limit you to pre-built actions and simple logic. CodeWords generates actual Python code behind the scenes, so it can handle complex scenarios, custom logic, and integrations that rigid workflow builders can't touch.
+Let's walk through a common scenario that illustrates the power of automation:
 
-## Ready to automate?
+**The Old Way (Manual):** Every time a new sales inquiry arrives via email with an attachment, someone needs to:
 
-{% stepper %}
-{% step %}
-### Sign up for free
+1. **Save** the attachment to the correct Google Drive folder
+2. **Notify** the sales team via Slack
+3. **Schedule** a follow-up reminder
+4. **Update** the master lead tracking spreadsheet
 
-Go to [codewords.agemo.ai/](https://codewords.agemo.ai/) to get started
-{% endstep %}
+This process takes 10-15 minutes per lead, is prone to human error, and often gets delayed during busy periods.
 
-{% step %}
-### Build your first workflow
+**The CodeWords Way (Automated):** The moment that email hits your inbox, your workflow springs into action:
 
-Open the [Quickstart guide](https://docs.codewords.ai/get-started/quickstart) & build your first workflow in minutes
-{% endstep %}
+* Attachment automatically saved to the right folder
+* Sales team gets an instant, formatted Slack notification
+* Follow-up reminder appears in your calendar
+* Spreadsheet updates with all relevant details
 
-{% step %}
-### Explore Templates
+**Result:** What once took 15 minutes of focused attention now happens in seconds, every time, without fail.
 
-Browse from our pre-built templates in the [Template Gallery](https://codewords.agemo.ai/template-gallery)
-{% endstep %}
-{% endstepper %}
+***
 
+### Who CodeWords Serves
 
+#### Software Agencies & No-Code Specialists
 
+**Your Challenge:** Clients want faster delivery without sacrificing quality.
 
+**How CodeWords Helps:**
 
+* Gather requirements directly in our chat interface
+* Generate working prototypes from client descriptions in real-time
+* Deliver functional automations in client meetings, not weeks later
+* Scale your team's output without hiring more developers
+
+#### Business Owners & Entrepreneurs
+
+**Your Challenge:** Finding new revenue streams while managing operational complexity.
+
+**How CodeWords Helps:**
+
+* Offer automation-as-a-service to your clients
+* Build, host, and monitor workflows on our infrastructure
+* Focus on client relationships while we handle the technical backbone
+* Create recurring revenue from workflow maintenance and monitoring
+
+#### Software Developers & Technical Tinkerers
+
+**Your Challenge:** Great ideas get bogged down in boilerplate and infrastructure setup.
+
+**How CodeWords Helps:**
+
+* Skip the authentication, API documentation, and error handling setup
+* Go from concept to deployed automation in one interface
+* Build at prototype speed, deploy at production quality
+* Experiment with integrations without the usual overhead
+
+#### Professionals & Domain Experts
+
+**Your Challenge:** You know what needs automating, but lack the technical skills.
+
+**How CodeWords Helps:**
+
+* Browse our library of proven workflows for your industry
+* Describe your specific needs and watch automations come to life
+* Customize existing templates without touching code
+* Focus on your expertise while automation handles the busywork

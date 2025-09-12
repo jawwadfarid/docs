@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Get to know the platform
 
 When you first sign in to CodeWords, you'll land on your main dashboard. Here’s a quick tour of the key areas to help you get familiar with the layout.

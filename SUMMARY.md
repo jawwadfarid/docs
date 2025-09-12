@@ -7,10 +7,12 @@
   * [Get to know the platform](get-started/introduction/get-to-know-the-platform.md)
   * [Getting started](get-started/introduction/getting-started.md)
 * [Quickstart](get-started/quickstart.md)
+* [Introduction](get-started/introduction-1.md)
 
 ## Fundamentals
 
 * [CodeWords 101](fundamentals/codewords-101/README.md)
+  * [Introduction to Cody](fundamentals/codewords-101/introduction-to-cody.md)
   * [Intorduction to Cody](fundamentals/codewords-101/cody.md)
   * [Graph View](fundamentals/codewords-101/graph-view.md)
   * [Code View](fundamentals/codewords-101/code-view.md)
@@ -50,8 +52,7 @@
   * [Person Finder](guides/codewords-templates/person-finder.md)
   * [Website Watcher Slack Agent](guides/codewords-templates/website-watcher-slack-agent.md)
   * [LinkedIn Post Scraping and Enrichment](guides/codewords-templates/linkedin-post-scraping-and-enrichment.md)
-* [Introduction](guides/introduction-1.md)
 * [Integrations](guides/integrations.md)
 * [Changelog](guides/changelog.md)
 * [How to submit a template \[NEEDS REVIEW\]](guides/how-to-submit-a-template-needs-review.md)
-* [Introduction](guides/introduction-2.md)
+* [Introduction](guides/introduction-1.md)

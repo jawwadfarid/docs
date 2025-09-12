@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Intorduction to Cody
 
 ## Welcome to Cody

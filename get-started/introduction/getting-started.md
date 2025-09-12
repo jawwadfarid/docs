@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Getting started
 
 ### Getting started
