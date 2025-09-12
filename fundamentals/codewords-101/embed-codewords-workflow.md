@@ -1,14 +1,10 @@
----
-hidden: true
----
-
 # API Integration & Endpoints
 
 The CodeWords API lets any external application trigger your workflows with simple HTTP requests. Whether you're building a web app, mobile app, or connecting to third-party services, it's as easy as making a POST request.
 
 ### Getting your API key
 
-First things first — you'll need credentials. Grab your API key from the [CodeWords Dashboard ](https://codewords.agemo.ai/account/keys).
+First things first — you'll need credentials. Grab your API key from the [Codewords account dashboard](https://codewords.agemo.ai/account/keys).
 
 Your API key will be under the **Your API keys section**:
 
