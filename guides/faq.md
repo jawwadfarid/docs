@@ -89,14 +89,6 @@ Data processing, social media automation, email workflows, research pipelines, m
 
 <details>
 
-<summary>Can I add third-party APIs to my workflow?</summary>
-
-Yes, you can add any external APIs to your workflow. Read more here.
-
-</details>
-
-<details>
-
 <summary>Do I need to start from scratch?</summary>
 
 No. CodeWords provides 100+ pre-build templates you can customize. You can choose from options like Linkedin enrichers, sentiment analyzers, or email automation.

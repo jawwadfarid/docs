@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# LLM models
+# AI models
 
 To get started with LLM model selection, it's important to understand the three main categories of models available. Each category serves different purposes and excels at different types of tasks.
 
