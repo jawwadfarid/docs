@@ -31,7 +31,7 @@ Basically, if there's a platform you use for work, there's probably a trigger fo
 
 #### Custom webhooks
 
-Need to connect something that doesn't have a pre-built trigger? No problem. CodeWords gives you custom webhook URLs that you can plug into any system that can send HTTP requests.
+Need to connect something that doesn't have a pre-built trigger? No problem. CodeWords gives you custom webhook URLs that you can plug into any system that can send HTTP requests. You can ask Cody to set this up for you.
 
 ## **Setting up event-triggers**
 
