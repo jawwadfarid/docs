@@ -145,14 +145,6 @@ Once your first workflow is working, add features progressively. Provide busines
 **Example:** "I run a digital marketing agency managing social media for 25 local restaurants. My biggest challenge is creating enough content while tracking what performs best."
 {% endhint %}
 
-## Customizing a Template
-
-You can customize any existing workflow template by clicking the 'Edit' button, or you can click into Cody. The customized option on a workflow template or on one of your workflows allows you to change that automation to your vision, just by expressing it.
-
-**Just describe how you want to customize it**
-
-This is a great way to explore the capabilities that you want to build.
-
 ## Version History
 
 You can revert a workflow to a previous version by providing Cody with the Implementation ID of the desired version. Simply ask Cody to change the workflow to that specific Implementation ID.
