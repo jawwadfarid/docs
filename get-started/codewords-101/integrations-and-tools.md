@@ -1,4 +1,8 @@
-# AI models
+# Integrations & Tools
+
+Pipedream integrations & AI models, APIs (voice, OCR...)
+
+
 
 Beyond building automations with Cody, you can also embed the power of AI directly _inside_ your workflows. The AI models feature allows you to add steps that use generative AI to process, transform, or create new content.
 
