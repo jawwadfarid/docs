@@ -1,4 +1,4 @@
-# API Integration & Endpoints
+# CodeWords API key
 
 The CodeWords API lets any external application trigger your workflows with simple HTTP requests. Whether you're building a web app, mobile app, or connecting to third-party services, it's as easy as making a POST request.
 
