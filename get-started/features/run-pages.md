@@ -1,4 +1,4 @@
-# Run pages
+# Run Pages
 
 A Run page is a detailed log of a single execution of one of your workflows. Whenever a workflow is triggered, a new Run page is generated, giving you a complete audit trail of the process.
 

@@ -1,4 +1,4 @@
-# Template gallery
+# Template Gallery
 
 The Template gallery is your library of pre-built, ready-to-use automations designed by our team and community. It’s the fastest way to automate common tasks and discover new ways to use CodeWords.
 

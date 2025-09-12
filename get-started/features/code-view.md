@@ -1,4 +1,4 @@
-# Code view
+# Code View
 
 For technical users who want to look under the hood, the Code view displays the underlying configuration of your workflow. This provides a detailed, text-based representation of every step, parameter, and integration.
 
