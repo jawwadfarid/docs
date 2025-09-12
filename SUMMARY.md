@@ -21,7 +21,7 @@
   * [Templates](fundamentals/codewords-101/templates.md)
   * [Editing a Template](fundamentals/codewords-101/editing-a-template.md)
   * [Template Gallery](fundamentals/codewords-101/template-gallery.md)
-  * [Embed CodeWords Workflow](fundamentals/codewords-101/embed-codewords-workflow.md)
+  * [API Integration & Endpoints](fundamentals/codewords-101/api-integration-and-endpoints.md)
 * [Integrations & Tools](fundamentals/integrations-and-tools/README.md)
   * [Popular Integrations](fundamentals/integrations-and-tools/popular-integrations.md)
   * [Integrations & API Keys](fundamentals/integrations-and-tools/integrations-and-api-keys.md)
