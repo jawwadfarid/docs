@@ -15,17 +15,9 @@ layout:
     visible: true
 ---
 
-# Creating Workflows
+# Tips and Tricks
 
-To get started, head over to [codewords.agemo.ai](http://codewords.agemo.ai/) and create an account.
 
-Once registered, you will be able to create your first workflow.
-
-This will be your first point of contact with Cody, where you can chat to build workflows. Enter a prompt to get started, and CodeWords will do the rest!
-
-## Prompting
-
-CodeWords makes it simple by allowing you to build a workflow by prompting Cody.
 
 ### **Be Specific About Your Goal**
 

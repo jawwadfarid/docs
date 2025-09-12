@@ -30,7 +30,7 @@
   * [Editing a Template](get-started/automating/editing-a-template.md)
   * [Running Automations](get-started/automating/running-automations.md)
 * [Integrations](get-started/integrations.md)
-* [Creating Workflows](get-started/creating-workflows.md)
+* [Tips and Tricks](get-started/tips-and-tricks.md)
 * [Troubleshooting](get-started/troubleshooting-1.md)
 * [Contact Us](get-started/contact-us.md)
 * [Resources](get-started/resources.md)
