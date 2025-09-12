@@ -23,6 +23,7 @@
   * [Templates](fundamentals/codewords-101/templates.md)
   * [Editing a Template](fundamentals/codewords-101/editing-a-template.md)
   * [Template Gallery](fundamentals/codewords-101/template-gallery.md)
+  * [Using your own API Key](fundamentals/codewords-101/using-your-own-api-key.md)
   * [API Integration & Endpoints](fundamentals/codewords-101/embed-codewords-workflow.md)
 * [Popular Integrarions](fundamentals/popular-integrarions/README.md)
   * [Airtable](fundamentals/popular-integrarions/airtable.md)
