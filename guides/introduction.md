@@ -18,80 +18,100 @@ layout:
 
 # Introduction
 
-Welcome to the internal documentation for Codewords. This guide provides a comprehensive overview of the platform, its core concepts, and its target users. The goal is to equip you with the foundational knowledge needed to build, support, and innovate on the Codewords platform.
+### What is CodeWords?
+
+[CodeWords](https://codewords.ai/) is an AI-powered platform that transforms how you build, deploy, and manage workflow automations. Instead of wrestling with complex interfaces or writing code, you simply describe what you need in plain English and Cody, our workflow Agent, builds and deploys. With built-in AI models, seamless integration to 2000+ applications, and a powerful Chrome extension, you can build sophisticated automations without the complexity.
+
+#### The Magic Behind the Platform
+
+CodeWords bridges the gap between intention and execution. You bring the vision: "I want to automatically save email attachments to Google Drive and notify my team", and our AI handles the technical complexity of making it happen.
+
+**For everyday users**, CodeWords replaces tedious manual work with intelligent automations. Think Zapier's connectivity meets ChatGPT's conversational ease.
+
+**For technical builders**, CodeWords collapses traditional development cycles into minutes. Imagine having Cursor's speed, but for workflow automation instead of code.
+
+### Powered by Cody
+
+[Cody](https://codewords.ai/) is your Automation Building Partner, an AI assistant who specializes in building business automation on the CodeWords platform. It can help you:
+
+* **Ideate** on what to automate
+* **Build and iterate** on your automation
+* **Set up and test** your automation
+
+All from one single chat interface.
 
 ***
 
-#### 1. What is Codewords?
+### Understanding Workflows
 
-Codewords is an AI-powered platform for building, deploying, and managing workflow automations through a conversational interface.
+A **workflow** is your digital assistant, a sequence of connected defined steps that execute automatically when triggered.&#x20;
 
-It allows users to connect their favourite applications, inject custom logic and AI models, and automate repetitive tasks. Unlike traditional automation tools, Codewords enables users to generate production-grade, multi-step workflows simply by describing their needs in a chat.
+#### A Day in the Life: Sales Lead Processing
 
-The core value proposition can be understood through two key lenses:
+Let's walk through a common scenario that illustrates the power of automation:
 
-* For Non-Technical Users: It replaces manual tasks with a powerful, centralised library of AI-driven workflows. If a specific automation doesn't exist, users can create it conversationally. It combines the connectivity of Zapier with the intuitive, natural language interface of ChatGPT.
-* For Technical Builders: It dramatically shortens the development cycle by collapsing the specification, building, and deployment phases into a single interface. Builders can deliver robust automations in minutes without managing boilerplate code or infrastructure. Think of it as Cursor, but for workflow automation.
+**The Old Way (Manual):** Every time a new sales inquiry arrives via email with an attachment, someone needs to:
 
-***
+1. **Save** the attachment to the correct Google Drive folder
+2. **Notify** the sales team via Slack
+3. **Schedule** a follow-up reminder
+4. **Update** the master lead tracking spreadsheet
 
-#### 2. Core Concept: Workflows
+This process takes 10-15 minutes per lead, is prone to human error, and often gets delayed during busy periods.
 
-A workflow is a sequence of connected steps that execute automatically to complete a task. Think of it as a recipe for getting digital work done.
+**The CodeWords Way (Automated):** The moment that email hits your inbox, your workflow springs into action:
 
-A Real-World Example:
+* Attachment automatically saved to the right folder
+* Sales team gets an instant, formatted Slack notification
+* Follow-up reminder appears in your calendar
+* Spreadsheet updates with all relevant details
 
-Imagine a common manual process: receiving a new sales lead via an email with an attachment.
-
-1. Manual Step 1: Save the attachment to a specific Google Drive folder.
-2. Manual Step 2: Send a Slack message to the `#sales` channel about the new lead.
-3. Manual Step 3: Add a reminder to your calendar to follow up.
-4. Manual Step 4: Update a master spreadsheet with the lead's details.
-
-Instead of performing these four manual steps every time, a Codewords workflow automates the entire sequence the moment the email arrives. This saves time, reduces errors, and allows the user to focus on higher-value work.
+**Result:** What once took 15 minutes of focused attention now happens in seconds, every time, without fail.
 
 ***
 
-#### 3. Target Personas & Key Use Cases
+### Who CodeWords Serves
 
-Codewords is designed to serve a diverse range of users, each with specific needs and goals.
+#### Software Agencies & No-Code Specialists
 
-**Software Agencies & No-Code Experts**
+**Your Challenge:** Clients want faster delivery without sacrificing quality.
 
-* Goal: Deliver more client projects faster and more efficiently.
-* How Codewords Helps:
-  * Collect client requirements directly within the chat interface.
-  * Auto-generate functional workflow prototypes from plain English descriptions.
-  * Hand off working automations in minutes, drastically reducing development time and the need for engineering resources.
+**How CodeWords Helps:**
 
-**Business Owners & Entrepreneurs**
+* Gather requirements directly in our chat interface
+* Generate working prototypes from client descriptions in real-time
+* Deliver functional automations in client meetings, not weeks later
+* Scale your team's output without hiring more developers
 
-* Goal: Create new, recurring revenue streams by offering automation services.
-* How Codewords Helps:
-  * Build, host, and monitor client automations on a single platform.
-  * Upsell custom workflows as a service while Codewords handles the underlying infrastructure, security, and uptime.
+#### Business Owners & Entrepreneurs
 
-**Software Developers & Tinkerers**
+**Your Challenge:** Finding new revenue streams while managing operational complexity.
 
-* Goal: Build and ship integrations and automations without operational overhead.
-* How Codewords Helps:
-  * Go from idea to deployed workflow in a single, streamlined interface.
-  * Eliminate the need to write boilerplate code for authentication, APIs, and error handling.
-  * Deploy automations at a fraction of the cost and time of traditional development.
+**How CodeWords Helps:**
 
-**Entry-Level Professionals & Domain Experts**
+* Offer automation-as-a-service to your clients
+* Build, host, and monitor workflows on our infrastructure
+* Focus on client relationships while we handle the technical backbone
+* Create recurring revenue from workflow maintenance and monitoring
 
-* Goal: Leverage powerful automation without a technical background.
-* How Codewords Helps:
-  * Access a curated library of pre-built AI workflows for marketing, sales, operations, and more.
-  * Easily customise or create new workflows by describing what they need.
+#### Software Developers & Technical Tinkerers
 
-***
+**Your Challenge:** Great ideas get bogged down in boilerplate and infrastructure setup.
 
-#### Next Steps
+**How CodeWords Helps:**
 
-Now that you have a foundational understanding of Codewords, you can proceed to the following sections:
+* Skip the authentication, API documentation, and error handling setup
+* Go from concept to deployed automation in one interface
+* Build at prototype speed, deploy at production quality
+* Experiment with integrations without the usual overhead
 
-* Creating Your First Workflow
-* Connecting Your Apps
-* The Codewords AI Engine
+#### Professionals & Domain Experts
+
+**Your Challenge:** You know what needs automating, but lack the technical skills.
+
+**How CodeWords Helps:**
+
+* Browse our library of proven workflows for your industry
+* Describe your specific needs and watch automations come to life
+* Customize existing templates without touching code
+* Focus on your expertise while automation handles the busywork
