@@ -8,7 +8,6 @@
   * [Get to know the platform](get-started/introduction-1/get-to-know-the-platform.md)
   * [Getting started](get-started/introduction-1/getting-started.md)
 * [Quickstart](get-started/quickstart.md)
-* [Accounts and Billing](get-started/accounts-and-billing.md)
 * [CodeWords 101](get-started/features/README.md)
   * [Cody](get-started/features/cody.md)
   * [Graph View](get-started/features/graph-view.md)
@@ -19,6 +18,7 @@
   * [Schedules & Triggers](get-started/codewords-101/schedules-and-triggers.md)
   * [Embed CodeWords Workflow](get-started/codewords-101/embed-codewords-workflow.md)
   * [Template Gallery](get-started/features/template-gallery.md)
+* [Accounts and Billing](get-started/accounts-and-billing.md)
 * [Integrations & Tools](get-started/integrations-and-tools/README.md)
   * [Popular Integrations](get-started/integrations-and-tools/popular-integrations.md)
   * [Integrations & API Keys](get-started/integrations-and-tools/integrations-and-api-keys.md)
@@ -32,11 +32,11 @@
 * [Integrations](get-started/integrations.md)
 * [Tips and Tricks](get-started/tips-and-tricks.md)
 * [Troubleshooting](get-started/troubleshooting-1.md)
+* [Glossary](get-started/glossary.md)
 * [Contact Us](get-started/contact-us.md)
 * [Resources](get-started/resources.md)
 * [How to submit a template \[NEEDS REVIEW\]](get-started/how-to-submit-a-template-needs-review.md)
 * [Changelog](get-started/changelog.md)
-* [Glossary](get-started/glossary.md)
 
 ***
 
