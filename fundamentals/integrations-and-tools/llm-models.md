@@ -15,9 +15,9 @@ layout:
     visible: true
 ---
 
-# AI models
+# LLM models
 
-To get started with AI model selection, it's important to understand the three main categories of models available. Each category serves different purposes and excels at different types of tasks.
+To get started with LLM model selection, it's important to understand the three main categories of models available. Each category serves different purposes and excels at different types of tasks.
 
 Once you understand these categories, you'll be able to match the right model to your specific workflow requirements.
 
@@ -67,7 +67,7 @@ When you need the highest level of reasoning and analysis for critical automatio
 
 </details>
 
-**Simple Strategy: Match the AI to Your Task**
+**Simple Strategy: Match the LLM to Your Task**
 
 The key to successful workflow automation is choosing the right model for each step of your process.
 

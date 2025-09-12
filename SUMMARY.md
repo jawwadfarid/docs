@@ -25,7 +25,7 @@
 * [Integrations & Tools](fundamentals/integrations-and-tools/README.md)
   * [Popular Integrations](fundamentals/integrations-and-tools/popular-integrations.md)
   * [Integrations & API Keys](fundamentals/integrations-and-tools/integrations-and-api-keys.md)
-  * [AI models](fundamentals/integrations-and-tools/ai-models.md)
+  * [LLM models](fundamentals/integrations-and-tools/llm-models.md)
 * [Accounts and Billing](fundamentals/accounts-and-billing.md)
 
 ## Guides&#x20;
