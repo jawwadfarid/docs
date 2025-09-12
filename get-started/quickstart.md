@@ -4,8 +4,6 @@
 
 In this guide, you'll learn how to build your first lead follow-up workflow automation.
 
--Video Here-
-
 You'll create an automation that:
 
 * **Captures new leads from contact forms** and automatically starts the qualification process
