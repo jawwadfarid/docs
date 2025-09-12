@@ -1,4 +1,8 @@
-# Integrations & Tools
+---
+hidden: true
+---
+
+# Popular Integrations
 
 Pipedream integrations & AI models, APIs (voice, OCR...)
 

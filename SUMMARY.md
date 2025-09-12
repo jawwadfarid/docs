@@ -22,10 +22,11 @@
   * [Editing a Template](fundamentals/codewords-101/editing-a-template.md)
   * [Template Gallery](fundamentals/codewords-101/template-gallery.md)
   * [API Integration & Endpoints](fundamentals/codewords-101/embed-codewords-workflow.md)
-* [Integrations & Tools](fundamentals/integrations-and-tools/README.md)
-  * [Popular Integrations](fundamentals/integrations-and-tools/popular-integrations.md)
-  * [Integrations & API Keys](fundamentals/integrations-and-tools/integrations-and-api-keys.md)
-  * [LLM models](fundamentals/integrations-and-tools/llm-models.md)
+* [Popular Integrarions](fundamentals/popular-integrarions/README.md)
+  * [Airtable](fundamentals/popular-integrarions/airtable.md)
+  * [Popular Integrations](fundamentals/popular-integrarions/popular-integrations.md)
+  * [Integrations & API Keys](fundamentals/popular-integrarions/integrations-and-api-keys.md)
+  * [LLM models](fundamentals/popular-integrarions/llm-models.md)
 * [Accounts and Billing](fundamentals/accounts-and-billing.md)
 
 ## Guides&#x20;
