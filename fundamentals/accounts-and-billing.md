@@ -23,7 +23,7 @@ Running low on credits? No worries:
 
 **Pro tip:** Buy credits in larger packages for better value, and you won't have to think about topping up as often.
 
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FC0KQHHlFG9y1F0pBotb8%2Fuploads%2FmJdUWArjblO8DDjVw2OQ%2FCredit%20top%20up.mp4?alt=media&token=4ecad66f-1adf-4fc6-b51a-3f67064c4aa0" %}
+<figure><img src="../.gitbook/assets/Adobe Express - Credit top up (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### Understanding usage
 
