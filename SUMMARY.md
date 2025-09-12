@@ -2,9 +2,8 @@
 
 ## Get Started
 
-* [Introduction](README.md)
-  * [Quickstart](get-started/introduction/quickstart.md)
-  * [Welcome](get-started/introduction/welcome.md)
+* [Quickstart](README.md)
+* [Introduction](<README (1).md>)
   * [Get to know the platform](get-started/introduction/get-to-know-the-platform.md)
   * [Getting started](get-started/introduction/getting-started.md)
 
@@ -18,8 +17,8 @@
   * [Testing & Debugging](fundamentals/codewords-101/testing-and-debugging.md)
   * [Running Workflows](fundamentals/codewords-101/running-workflows.md)
   * [Schedules & Triggers](fundamentals/codewords-101/schedules-and-triggers.md)
-  * [CodeWords API key](fundamentals/codewords-101/codewords-api-key/README.md)
-    * [Using your own API Key](fundamentals/codewords-101/codewords-api-key/using-your-own-api-key.md)
+  * [CodeWords API key](fundamentals/codewords-101/codewords-api-key.md)
+  * [Using your own API Key](fundamentals/codewords-101/using-your-own-api-key.md)
   * [Templates](fundamentals/codewords-101/templates.md)
   * [Editing a Template](fundamentals/codewords-101/editing-a-template.md)
   * [Template Gallery](fundamentals/codewords-101/template-gallery.md)

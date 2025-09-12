@@ -162,7 +162,7 @@ Three ways:&#x20;
 * Through an automatically generated custom UI available at `codewords.agemo.ai/run/{service_id}`
 * On a [schedule](../fundamentals/codewords-101/schedules-and-triggers.md) or with a trigger
 
-- via [API calls](../fundamentals/codewords-101/codewords-api-key/)
+- via [API calls](../fundamentals/codewords-101/codewords-api-key.md)
 
 </details>
 

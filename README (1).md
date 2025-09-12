@@ -1,4 +1,21 @@
-# Welcome
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
+# Introduction
 
 Welcome to CodeWords. We’re excited that you’re here to build faster, smarter, and more efficient automations. This documentation is designed to guide you from your first steps to mastering the platform.
 
@@ -27,3 +44,4 @@ Open the [Quickstart guide](https://docs.codewords.ai/get-started/quickstart) & 
 Browse from our pre-built templates in the [Template Gallery](https://codewords.agemo.ai/template-gallery)
 {% endstep %}
 {% endstepper %}
+
