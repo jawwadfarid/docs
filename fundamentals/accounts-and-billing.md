@@ -32,6 +32,7 @@ Running low on credits? No worries:
 * Each time an automation runs counts as one execution
 * Scheduled runs, trigger events, and manual runs all count
 * Failed runs still count (they used resources)
+* Tool callings and the user messages to Cody are also considered part of the usage, but they amount to very minimal consumption of your credits.
 
 **Resource consumption**
 
