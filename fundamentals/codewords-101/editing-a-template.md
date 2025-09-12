@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Editing a Template
 
 ### Overview

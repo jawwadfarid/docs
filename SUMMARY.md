@@ -3,34 +3,39 @@
 ## Get Started
 
 * [Introduction](README.md)
+  * [Quickstart](get-started/introduction/quickstart.md)
   * [Welcome](get-started/introduction/welcome.md)
   * [Get to know the platform](get-started/introduction/get-to-know-the-platform.md)
   * [Getting started](get-started/introduction/getting-started.md)
-* [Quickstart](get-started/quickstart.md)
-* [Introduction](get-started/introduction-1.md)
 
 ## Fundamentals
 
 * [CodeWords 101](fundamentals/codewords-101/README.md)
   * [Introduction to Cody](fundamentals/codewords-101/introduction-to-cody.md)
-  * [Intorduction to Cody](fundamentals/codewords-101/cody.md)
   * [Graph View](fundamentals/codewords-101/graph-view.md)
   * [Code View](fundamentals/codewords-101/code-view.md)
   * [Web Agent](fundamentals/codewords-101/web-agent.md)
-  * [Testing](fundamentals/codewords-101/test-view.md)
-  * [Run Pages](fundamentals/codewords-101/run-pages.md)
+  * [Testing & Debugging](fundamentals/codewords-101/testing-and-debugging.md)
+  * [Running Workflows](fundamentals/codewords-101/running-workflows.md)
   * [Schedules & Triggers](fundamentals/codewords-101/schedules-and-triggers.md)
+  * [CodeWords API key](fundamentals/codewords-101/codewords-api-key/README.md)
+    * [Using your own API Key](fundamentals/codewords-101/codewords-api-key/using-your-own-api-key.md)
   * [Templates](fundamentals/codewords-101/templates.md)
   * [Editing a Template](fundamentals/codewords-101/editing-a-template.md)
   * [Template Gallery](fundamentals/codewords-101/template-gallery.md)
-  * [Using your own API Key](fundamentals/codewords-101/using-your-own-api-key.md)
-  * [API Integration & Endpoints](fundamentals/codewords-101/embed-codewords-workflow.md)
+* [Intorduction to Cody](fundamentals/intorduction-to-cody.md)
 * [Popular Integrations](fundamentals/popular-integrarions/README.md)
   * [Airtable](fundamentals/popular-integrarions/airtable.md)
   * [Popular Integrations](fundamentals/popular-integrarions/popular-integrations.md)
   * [Integrations & API Keys](fundamentals/popular-integrarions/integrations-and-api-keys.md)
   * [AI models](fundamentals/popular-integrarions/llm-models.md)
 * [Accounts and Billing](fundamentals/accounts-and-billing.md)
+
+***
+
+* [Use Cases](use-cases/README.md)
+  * [Call CodeWords Workflows via API](use-cases/call-codewords-workflows-via-api.md)
+  * [Building web apps with a CodeWords back-end](use-cases/building-web-apps-with-a-codewords-back-end.md)
 
 ## Guides&#x20;
 
