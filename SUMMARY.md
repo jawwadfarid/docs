@@ -35,11 +35,6 @@
   * [Integrations & API Keys](fundamentals/integrations-and-tools/integrations-and-api-keys.md)
   * [AI models](fundamentals/integrations-and-tools/ai-models.md)
 * [Accounts and Billing](fundamentals/accounts-and-billing.md)
-* [Tips and Tricks](fundamentals/tips-and-tricks.md)
-* [Troubleshooting](fundamentals/troubleshooting.md)
-* [Glossary](fundamentals/glossary.md)
-* [Contact Us](fundamentals/contact-us.md)
-* [Resources](fundamentals/resources.md)
 
 ***
 
@@ -56,6 +51,11 @@
 
 ## Guides&#x20;
 
+* [Tips and Tricks](guides/tips-and-tricks.md)
+* [Troubleshooting](guides/troubleshooting.md)
+* [Resources](guides/resources.md)
+* [Glossary](guides/glossary.md)
+* [Contact Us](guides/contact-us.md)
 * [Prompt Writing](guides/prompt-writing.md)
-* [Tips & Tricks](guides/tips-and-tricks.md)
+* [Tips & Tricks](guides/tips-and-tricks-1.md)
 * [Demo Videos](guides/demo-videos.md)
