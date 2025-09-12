@@ -1,5 +1,6 @@
 ---
 description: Here you'll find all the key terms and concepts needed for using CodeWords.
+hidden: true
 ---
 
 # Glossary

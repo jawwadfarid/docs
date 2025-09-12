@@ -1,4 +1,5 @@
 ---
+hidden: true
 layout:
   width: default
   title:
@@ -24,3 +25,4 @@ Have questions or feedback? Click the blue chat icon on the right and we'll help
 * **Discord Community**: Join our [discord.codewords.ai](https://discord.codewords.ai)
 * **Support Email**: support@agemo.ai
 * **Office Hours**: Weekly Q\&A sessions with the team _coming soon!_
+

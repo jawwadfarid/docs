@@ -33,7 +33,7 @@
 
 * [Tips and Tricks](guides/tips-and-tricks.md)
 * [Troubleshooting](guides/troubleshooting.md)
-* [Resources](guides/resources.md)
+* [FAQ](guides/faq.md)
 * [Glossary](guides/glossary.md)
 * [Contact Us](guides/contact-us.md)
 * [Prompt Writing](guides/prompt-writing.md)
