@@ -29,6 +29,7 @@
 * [AI models](get-started/ai-models.md)
 * [Integrations & API Keys](get-started/integrations-and-api-keys.md)
 * [Viewing the code](get-started/viewing-the-code.md)
+* [Integrations](get-started/integrations-1.md)
 * [Troubleshooting](get-started/troubleshooting.md)
 * [Troubleshooting](get-started/troubleshooting-1.md)
 * [Contact Us](get-started/contact-us.md)
