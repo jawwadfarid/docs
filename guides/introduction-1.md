@@ -40,7 +40,7 @@ Cody is your AI automation assistant that builds powerful workflows through simp
 {% step %}
 ### Sign up for free
 
-Go to [https://codewords.agemo.ai/](https://codewords.agemo.ai/) to get started
+Go to [codewords.agemo.ai/](https://codewords.agemo.ai/) to get started
 {% endstep %}
 
 {% step %}
