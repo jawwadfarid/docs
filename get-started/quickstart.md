@@ -135,6 +135,8 @@ Once you've confirmed that you're happy with the output, Cody will provide you w
 https://codewords.agemo.ai/run/lead-qualifier-automation-abc123
 ```
 
+And Cody provides you with a summary of the automation that you have built.
+
 ## Step 5: Troubleshooting
 
 **LinkedIn profiles not found**
@@ -156,8 +158,6 @@ https://codewords.agemo.ai/run/lead-qualifier-automation-abc123
 * Test with different contact data
 
 ## Summary
-
-Cody provides you with a summary of the automation that you have built.
 
 &#x20;You've built a complete lead management automation that:
 
