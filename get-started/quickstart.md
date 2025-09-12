@@ -7,18 +7,18 @@ In this guide, you'll learn how to build your first lead follow-up workflow auto
 You'll create an automation that:
 
 * **Captures new leads from contact forms** and automatically starts the qualification process
-* **Researches prospects on LinkedIn** using their name and company to find their complete professional profile and recent activity
+* **Research prospects on LinkedIn** using their name and company to find their complete professional profile and recent activity
 * **Enriches with company intelligence** by analyzing their company website, recent news, and industry information using web scraping
-* **Updates your CRM automatically** (Salesforce, HubSpot, or Pipedream integrations) with detailed prospect notes and lead scoring
+* **Updates your CRM automatically** on HubSpot with detailed prospect notes and lead scoring
 * **Generates personalized follow-up emails** using AI that references their LinkedIn activity, company challenges, and industry trends
-* **Sends an email with professional formatting** and your signature (Gmail, Outlook)
-* **Sets follow-up reminders in your calendar** (Google Calendar, Outlook) and CRM to ensure consistent lead nurturing
+* **Sends an email with professional formatting** and your signature through Gmail.
+* **Sets follow-up reminders in your calendar** and CRM to ensure consistent lead nurturing
 
 ## Step 1: Planning your automation
 
 **Describe your process and tell Cody what you want to automate**
 
-> "I want to automate my lead follow-up process. When someone fills out my contact form, I want to automatically research them and send a personalized email."
+> "I want to automate my lead follow-up process. When someone fills out my contact form, I want to automatically research them and send a personalized email through my Gmail."
 
 **Cody researches what's possible**
 

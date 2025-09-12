@@ -25,7 +25,7 @@ coverY: 0
 
 Connect to Google Sheets and download the CodeWords Chrome Extension if you haven't already.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-05-28 at 16.35.26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-28 at 16.35.26.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
