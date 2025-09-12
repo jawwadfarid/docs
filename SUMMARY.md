@@ -11,7 +11,7 @@
 ## Fundamentals
 
 * [CodeWords 101](fundamentals/codewords-101/README.md)
-  * [Intorduction to Cody](fundamentals/codewords-101/intorduction-to-cody.md)
+  * [Intorduction to Cody](fundamentals/codewords-101/cody.md)
   * [Graph View](fundamentals/codewords-101/graph-view.md)
   * [Code View](fundamentals/codewords-101/code-view.md)
   * [Web Agent View](fundamentals/codewords-101/web-agent-view.md)
