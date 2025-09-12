@@ -14,7 +14,7 @@
   * [Intorduction to Cody](fundamentals/codewords-101/cody.md)
   * [Graph View](fundamentals/codewords-101/graph-view.md)
   * [Code View](fundamentals/codewords-101/code-view.md)
-  * [Web Agent View](fundamentals/codewords-101/web-agent-view.md)
+  * [Web Agent](fundamentals/codewords-101/web-agent.md)
   * [Testing](fundamentals/codewords-101/test-view.md)
   * [Run Pages](fundamentals/codewords-101/run-pages.md)
   * [Schedules & Triggers](fundamentals/codewords-101/schedules-and-triggers.md)

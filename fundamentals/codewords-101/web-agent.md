@@ -1,4 +1,4 @@
-# Web Agent View
+# Web Agent
 
 Many essential tasks happen on websites that don’t offer a public Application Programming Interface (API). The Web agent feature solves this by acting like a robotic assistant that can interact with websites on your behalf.
 
