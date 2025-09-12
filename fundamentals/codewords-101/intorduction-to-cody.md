@@ -1,4 +1,6 @@
-# Cody
+# Intorduction to Cody
+
+## Welcome to Cody
 
 Cody is your dedicated AI automation assistant. It’s the conversational engine that powers CodeWords, allowing you to build, validate, and deploy your automations by simply describing what you need in natural language.
 

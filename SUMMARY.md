@@ -11,16 +11,16 @@
 ## Fundamentals
 
 * [CodeWords 101](fundamentals/codewords-101/README.md)
-  * [Cody](fundamentals/codewords-101/cody.md)
+  * [Intorduction to Cody](fundamentals/codewords-101/intorduction-to-cody.md)
   * [Graph View](fundamentals/codewords-101/graph-view.md)
   * [Code View](fundamentals/codewords-101/code-view.md)
   * [Web Agent View](fundamentals/codewords-101/web-agent-view.md)
   * [Test View](fundamentals/codewords-101/test-view.md)
   * [Run Pages](fundamentals/codewords-101/run-pages.md)
+  * [Schedules & Triggers](fundamentals/codewords-101/schedules-and-triggers.md)
   * [Templates](fundamentals/codewords-101/templates.md)
   * [Editing a Template](fundamentals/codewords-101/editing-a-template.md)
   * [Template Gallery](fundamentals/codewords-101/template-gallery.md)
-  * [Schedules & Triggers](fundamentals/codewords-101/schedules-and-triggers.md)
   * [Embed CodeWords Workflow](fundamentals/codewords-101/embed-codewords-workflow.md)
 * [Integrations & Tools](fundamentals/integrations-and-tools/README.md)
   * [Popular Integrations](fundamentals/integrations-and-tools/popular-integrations.md)
