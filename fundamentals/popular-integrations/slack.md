@@ -2,6 +2,8 @@
 
 ## Slack actions in CodeWords
 
+Here's a comprehensive list of all the actions you can perform with Google Sheets&#x20;
+
 1.  **upload-file**: Uploads a file to a channel or direct message.
 
     When to use it: To share documents, images, or files with your team instantly.

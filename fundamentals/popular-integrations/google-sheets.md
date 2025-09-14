@@ -2,7 +2,7 @@
 
 ## Google Sheets actions in CodeWords
 
-Here's a comprehensive list of all the actions you can perform with Google Sheets automations:
+Here's a comprehensive list of all the actions you can perform with Google Sheets&#x20;
 
 1.  **add-single-row**: Insert a new row with specific data.&#x20;
 

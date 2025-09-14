@@ -2,6 +2,8 @@
 
 ## Gmail actions in CodeWords
 
+Here's a comprehensive list of all the actions you can perform with Google Sheets&#x20;
+
 1.  **list-send-as-aliases**: Retrieves a list of all email aliases that can be used to send emails.
 
     When to use it: Perfect for businesses with multiple brands or departments, allowing you to ensure emails are sent from the correct alias.

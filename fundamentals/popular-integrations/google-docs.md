@@ -2,6 +2,8 @@
 
 ## Google Docs actions in CodeWords <a href="#actions" id="actions"></a>
 
+Here's a comprehensive list of all the actions you can perform with Google Sheets&#x20;
+
 1. **replace-text**: Replaces specific text in a document. When to use it: Use this action when you need to update recurring text in documents, like changing dates in contracts or updating placeholders with current information.
 2. **replace-image**: Replaces an existing image in a document with a new one.When to use it: Perfect for refreshing visual content in marketing materials or presentations without altering the document structure.
 3. **insert-text**: Inserts text at a specified location in a document.When to use it: Ideal for adding personalized messages or updates to templates, such as greeting cards or newsletters.
