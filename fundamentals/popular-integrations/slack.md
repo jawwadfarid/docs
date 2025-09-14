@@ -1,6 +1,6 @@
 # Slack
 
-
+## Slack actions in CodeWords
 
 1.  **upload-file**: Uploads a file to a channel or direct message.
 

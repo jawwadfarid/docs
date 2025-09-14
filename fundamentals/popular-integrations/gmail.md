@@ -1,6 +1,6 @@
 # Gmail
 
-## Available Gmail actions
+## Gmail actions in CodeWords
 
 1.  **list-send-as-aliases**: Retrieves a list of all email aliases that can be used to send emails.
 
@@ -16,7 +16,7 @@
     When to use it: Ideal for businesses needing to save and organize documents received via email.
 5.  **update-primary-signature**: Updates the primary email signature for the user.
 
-    When to use it: Great for when there's a need to update branding or contact details across all outgoing emails.
+    When to use it: Ideal for updating branding or contact details across all outgoing emails.
 6.  **update-org-signature**: Updates the organizational signature used for all users.
 
     When to use it: Use when there's a company-wide update to email signatures for consistency.
@@ -37,13 +37,13 @@
     When to use it: Great for preparing emails that require review before sending.
 12. **archive-email**: Moves emails to the archive.
 
-    When to use it: Use to declutter your inbox while keeping emails accessible for future reference.
+    When to use it: Use it to declutter your inbox while keeping emails accessible for future reference.
 13. **approve-workflow**: Approves a specified workflow step.
 
     When to use it: Perfect for businesses with approval processes integrated into email communication.
 14. **add-label-to-email**: Adds a specified label to an email.
 
-    When to use it: Use to categorize emails for better organization and retrieval.
+    When to use it: Use it to categorize emails for better organization and retrieval.
 15. **create-label**: Creates a new label in the Gmail account.
 
     When to use it: Ideal for setting up new organizational structures or categories within your inbox.
@@ -59,7 +59,7 @@
 
     When it fires: Triggers when a new email is labeled with a specified label.
 
-    Business scenario: Great for starting workflows based on categorized emails, like forwarding to a department.
+    Business scenario: Ideal for initiating workflows based on categorized emails, such as forwarding to a specific department.
 3.  **new-email-received**
 
     When it fires: Triggers when a new email arrives in your inbox.
