@@ -28,6 +28,7 @@
   * [Gmail](fundamentals/popular-integrations/gmail.md)
   * [Google Docs](fundamentals/popular-integrations/google-docs.md)
   * [Google Sheets](fundamentals/popular-integrations/google-sheets.md)
+  * [Slack](fundamentals/popular-integrations/slack.md)
   * [Popular Integrations](fundamentals/popular-integrarions/popular-integrations.md)
   * [Integrations & API Keys](fundamentals/popular-integrarions/integrations-and-api-keys.md)
   * [AI models](fundamentals/popular-integrarions/llm-models.md)
