@@ -25,6 +25,7 @@
 * [Intorduction to Cody](fundamentals/intorduction-to-cody.md)
 * [Popular Integrations](fundamentals/popular-integrarions/README.md)
   * [Airtable](fundamentals/popular-integrarions/airtable.md)
+  * [Google Sheets](fundamentals/popular-integrations/google-sheets.md)
   * [Popular Integrations](fundamentals/popular-integrarions/popular-integrations.md)
   * [Integrations & API Keys](fundamentals/popular-integrarions/integrations-and-api-keys.md)
   * [AI models](fundamentals/popular-integrarions/llm-models.md)

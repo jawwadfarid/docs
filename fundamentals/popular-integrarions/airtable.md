@@ -1,6 +1,6 @@
 # Airtable
 
-## &#x20;Available Actions (18)
+## Airtable actions in CodeWords
 
 #### 1. create-single-record
 
