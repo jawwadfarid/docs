@@ -1,10 +1,6 @@
----
-hidden: true
----
-
 # Airtable
 
-## &#x20;Actions (18)
+## &#x20;Available Actions (18)
 
 #### 1. create-single-record
 
@@ -95,7 +91,7 @@ hidden: true
 * **What it does**: Creates a new record or updates an existing one if it matches certain criteria.
 * **When to use it**: Great for maintaining up-to-date information, like syncing customer profiles.
 
-## &#x20;Triggers (8 )
+## &#x20;Available Triggers (8 )
 
 #### 1. new-records
 
