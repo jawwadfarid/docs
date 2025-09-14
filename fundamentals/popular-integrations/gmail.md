@@ -1,99 +1,91 @@
 # Gmail
 
-### Automate with Gmail actions
+## Available Gmail actions
 
-Once connected, you can create workflows using the following Gmail actions:
+1.  **list-send-as-aliases**: Retrieves a list of all email aliases that can be used to send emails.
 
-#### Send email
+    When to use it: Perfect for businesses with multiple brands or departments, allowing you to ensure emails are sent from the correct alias.
+2.  **get-send-as-alias**: Retrieves details of a specific send-as alias.
 
-* Automate sending emails for notifications, confirmations, or updates.
-* Specify recipients, subject, and body content.
+    When to use it: Use this when needing to verify or update settings for a specific email alias in your organization.
+3.  **delete-email**: Permanently deletes an email from your Gmail account.
 
-#### Create draft
+    When to use it: Useful for maintaining inbox hygiene by automatically removing unwanted emails.
+4.  **download-attachment**: Downloads attachments from an email and saves them to a specified location.
 
-* Prepare email drafts automatically for later review and sending.
-* Include attachments or CC/BCC recipients as needed.
+    When to use it: Ideal for businesses needing to save and organize documents received via email.
+5.  **update-primary-signature**: Updates the primary email signature for the user.
 
-#### Find email
+    When to use it: Great for when there's a need to update branding or contact details across all outgoing emails.
+6.  **update-org-signature**: Updates the organizational signature used for all users.
 
-* Search your inbox for specific emails based on criteria like sender, subject, or date.
+    When to use it: Use when there's a company-wide update to email signatures for consistency.
+7.  **send-email**: Sends an email from your Gmail account.
 
-#### List labels
+    When to use it: Perfect for automated responses, newsletters, or routine communication tasks.
+8.  **remove-label-from-email**: Removes a specific label from an email.
 
-* Retrieve a list of all your Gmail labels.
+    When to use it: Use this to tidy up your labeling system by removing outdated or incorrect labels.
+9.  **list-labels**: Lists all labels available in the Gmail account.
 
-#### Add label to email
+    When to use it: Useful for getting an overview of all existing labels to better organize your emails.
+10. **find-email**: Searches for emails based on specified criteria.
 
-* Assign labels to emails to keep your inbox organized.
+    When to use it: Ideal for locating specific emails that meet certain conditions, like sender or subject.
+11. **create-draft**: Creates a draft email with specified content.
 
-#### Remove label from email
+    When to use it: Great for preparing emails that require review before sending.
+12. **archive-email**: Moves emails to the archive.
 
-* Remove labels from emails to tidy things up.
+    When to use it: Use to declutter your inbox while keeping emails accessible for future reference.
+13. **approve-workflow**: Approves a specified workflow step.
 
-#### Create label
+    When to use it: Perfect for businesses with approval processes integrated into email communication.
+14. **add-label-to-email**: Adds a specified label to an email.
 
-* Automatically create new labels for better email categorization.
+    When to use it: Use to categorize emails for better organization and retrieval.
+15. **create-label**: Creates a new label in the Gmail account.
 
-#### Archive email
+    When to use it: Ideal for setting up new organizational structures or categories within your inbox.
 
-* Move emails to the archive to declutter your inbox.
+## Available Gmail triggers
 
-#### Delete email
+1.  **new-sent-email**
 
-* Permanently delete emails that are no longer needed.
+    When it fires: Triggers when a new email is sent from your Gmail account.
 
-#### Download attachment
+    Business scenario: Automate follow-up actions, like logging sent emails in a CRM.
+2.  **new-labeled-email**
 
-* Automatically download email attachments for easy access.
+    When it fires: Triggers when a new email is labeled with a specified label.
 
-#### List send-as aliases
+    Business scenario: Great for starting workflows based on categorized emails, like forwarding to a department.
+3.  **new-email-received**
 
-* View all email aliases you can send from.
+    When it fires: Triggers when a new email arrives in your inbox.
 
-#### Get send-as alias
+    Business scenario: Use to automate immediate responses or notifications for incoming emails.
+4.  **new-email-matching-search**
 
-* Retrieve details about a specific send-as alias.
+    When it fires: Triggers when an email matching specific search criteria is received.
 
-#### Update primary signature
+    Business scenario: Automatically process or flag important emails that meet set criteria.
+5.  **new-attachment-received**
 
-* Change your primary email signature automatically.
+    When it fires: Triggers when an email with an attachment is received.
 
-#### Update org signature
+    Business scenario: Automatically download and save attachments for record-keeping or review.
 
-* Update your organization's email signature seamlessly.
+## Building practical workflows
 
-#### Approve workflow
+Let's explore how you can bring these actions and triggers together to create seamless workflows.
 
-* Approve pending workflows to keep automations running smoothly.
+* **Automated client onboarding**: Connect new-email-received to search for emails with "Welcome" in the subject. Then, use download-attachment to save onboarding documents, and send-email to notify your team of new clients.
+* **Signature update launch**: Use update-org-signature to roll out new email signatures company-wide. Combine with send-email to inform your team about the update and its benefits.
+* **Weekly report distribution**: Schedule find-email to search for emails containing weekly report attachments, then use download-attachment and send-email to distribute them to stakeholders.
 
-### 3. Trigger automation with Gmail triggers
+## Practical tips
 
-Kick-off your automations with these Gmail triggers:
-
-#### New email received
-
-* Trigger workflows when new emails land in your inbox.
-
-#### New sent email
-
-* Start automations when you send an email.
-
-#### New labeled email
-
-* Trigger workflows when an email gets a new label.
-
-#### New email matching search
-
-* Start automations when an email matches a specific search query.
-
-#### New attachment received
-
-* Trigger workflows when a new email with an attachment arrives.
-
-## Real-world examples and simple explanations
-
-Imagine you're a sales manager, and you want to respond to customer inquiries faster. With CodeWords, you can:
-
-* Automatically send a confirmation email when a new inquiry lands in your inbox.
-* Create a draft response based on the inquiry details for quick replies.
-* Organize inquiries by adding labels like 'High Priority' or 'Follow-up Needed'.
+* **Organize with labels**: Use add-label-to-email and list-labels to keep your inbox tidy and efficient. Labeling helps in easy retrieval and categorization.
+* **Be proactive with triggers**: Implement new-email-received and new-attachment-received to stay on top of important communications and documents without manual checks.
+* **Draft wisely**: Use create-draft for emails requiring approval or further input, ensuring your communication is polished and accurate.
