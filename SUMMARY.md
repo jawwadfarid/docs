@@ -26,6 +26,7 @@
 * [Popular Integrations](fundamentals/popular-integrarions/README.md)
   * [Airtable](fundamentals/popular-integrarions/airtable.md)
   * [Google Sheets](fundamentals/popular-integrations/google-sheets.md)
+  * [Gmail](fundamentals/popular-integrations/gmail.md)
   * [Popular Integrations](fundamentals/popular-integrarions/popular-integrations.md)
   * [Integrations & API Keys](fundamentals/popular-integrarions/integrations-and-api-keys.md)
   * [AI models](fundamentals/popular-integrarions/llm-models.md)
