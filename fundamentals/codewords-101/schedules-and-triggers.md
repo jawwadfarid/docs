@@ -37,7 +37,7 @@ Need to connect something that doesn't have a pre-built trigger? No problem. Cod
 
 1. Connect your accounts  `https://codewords.agemo.ai/account/integrations/` for the particular app that you want to activate the workflow
 2. Specify to Cody to trigger the workflow based on an event trigger, and Cody will set up the necessary trigger for you
-3. If it's an event-driven trigger on an app event, you can find the trigger once set up from your triggers page
+3. If it's an event-driven trigger on an app event, you can find the trigger once set up from your [triggers page](https://codewords.agemo.ai/workflows/triggers)
 
 ## **Setting up schedules**
 
