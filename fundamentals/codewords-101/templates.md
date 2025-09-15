@@ -20,6 +20,8 @@ Browse the [template library](https://codewords.agemo.ai/template-gallery) to se
 
 Each template clearly explains what it does, what you'll need to provide, and what results you can expect.
 
+To learn more about templates on CodeWords, you can check the [template docs](https://docs.codewords.ai/templates/).
+
 #### Pick your first template
 
 Choose one that addresses a current business need you're facing. Don't overthink it — templates work best when you try them with real scenarios from your actual work.
