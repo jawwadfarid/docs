@@ -20,13 +20,9 @@ layout:
 
 To get started with LLM model selection, it's important to understand the three main categories of models available. Each category serves different purposes and excels at different types of tasks.
 
-Once you understand these categories, you'll be able to match the right model to your specific workflow requirements.
+Once you understand these categories, you'll be able to match the right model to your specific workflow requirements. Cody will auto-determine and choose the right model based on the workflow objectives.
 
 The key is matching the model's capabilities to your task complexity and speed requirements!
-
-<details>
-
-<summary><strong>The Speed  Models (For quick, simple tasks)</strong> </summary>
 
 These models are optimized for speed and efficiency, making them perfect for high-volume, straightforward operations
 
@@ -35,12 +31,6 @@ These models are optimized for speed and efficiency, making them perfect for hig
 * **Gemini-flash-lite** - The most cost-effective option that handles simple parsing and basic operations exceptionally well
 * Use these when you need to process large volumes of simple tasks quickly
 * Great for initial data sorting and basic text manipulation
-
-</details>
-
-<details>
-
-<summary><strong>The Balanced Models (For most everyday work)</strong></summary>
 
 The reliable workhorses that handle the majority of your automation needs with consistent quality
 
@@ -51,12 +41,6 @@ The reliable workhorses that handle the majority of your automation needs with c
 * Perfect for content creation, moderate analysis, and general processing tasks
 * The sweet spot between speed and intelligence for most use cases
 
-</details>
-
-<details>
-
-<summary><strong>The Deep Thinker Models (For complex, important work)</strong></summary>
-
 When you need the highest level of reasoning and analysis for critical automation workflows
 
 * **o3** - The most advanced reasoner available, use this for workflows requiring complex problem-solving and multi-step logic
@@ -65,8 +49,6 @@ When you need the highest level of reasoning and analysis for critical automatio
 * Reserve these for your most important and complex automations
 * Use when accuracy and sophisticated reasoning are more important than speed
 * Best for final analysis, complex decision-making, and critical business processes
-
-</details>
 
 **Simple Strategy: Match the LLM to Your Task**
 
