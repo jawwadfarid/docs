@@ -1,94 +1,119 @@
 # Google Sheets
 
-## Google Sheets actions in CodeWords
+## Google Docs actions in CodeWords
 
-Here's a comprehensive list of all the actions you can perform with Google Sheets&#x20;
+Here's a comprehensive guide to all the actions you can perform with Google Docs in CodeWords, designed to streamline your document workflows and enhance productivity.
 
-1.  **add-single-row**: Insert a new row with specific data.&#x20;
+### Available actions
 
-    Perfect for adding a new lead to your CRM sheet.
-2.  **add-multiple-rows**: Add several rows at once.&#x20;
+#### 1. replace-text
 
-    Useful for importing bulk data, like a list of new products.
-3. **add-column**: Create a new column. Handy when expanding your spreadsheet to include new data points.
-4.  **update-row**: Modify data in an existing row.&#x20;
+**What it does:** Replaces specific text in a document.
 
-    Great for updating a customer's contact information.
-5.  **update-multiple-rows**: Change data across multiple rows simultaneously.&#x20;
+**When to use it:** Use this action when you need to update recurring text in documents, like changing dates in contracts or updating placeholders with current information.
 
-    Ideal for revising product prices.
-6.  **update-cell**: Change the value in a specific cell.&#x20;
+#### 2. replace-image
 
-    Use it to correct a typo in your sales figures.
-7.  **upsert-row**: Update a row if it exists, or insert it if it doesn't.&#x20;
+**What it does:** Replaces an existing image in a document with a new one.
 
-    Perfect for managing inventory levels.
-8.  **find-row**: Locate a row based on criteria.&#x20;
+**When to use it:** Perfect for refreshing visual content in marketing materials or presentations without altering the document structure.
 
-    Use it to search for a specific order in your sales sheet.
-9.  **get-values-in-range**: Retrieve data from a specific range.&#x20;
+#### 3. insert-text
 
-    Useful for generating reports.
-10. **get-cell**: Access the value in a specific cell.&#x20;
+**What it does:** Inserts text at a specified location in a document.
 
-    Handy when a particular data point is needed.
-11. **get-spreadsheet-by-id**: Access a spreadsheet using its ID.&#x20;
+**When to use it:** Ideal for adding personalized messages or updates to templates, such as greeting cards or newsletters.
 
-    Ideal for working with multiple spreadsheets.
-12. **list-worksheets**: Display all worksheets within a spreadsheet.&#x20;
+#### 4. insert-table
 
-    Useful for navigation and organization.
-13. **create-spreadsheet**: Start a new spreadsheet from scratch.&#x20;
+**What it does:** Inserts a table at a specified location in a document.
 
-    Perfect for launching new projects.
-14. **create-worksheet**: Add a new worksheet to an existing spreadsheet.
+**When to use it:** Use this when you need to present data clearly, like adding a pricing table to a proposal.
 
-    Great for expanding existing data sets.
-15. **copy-worksheet**: Duplicate a worksheet.
+#### 5. insert-page-break
 
-    Ideal for creating templates or backups.
-16. **delete-rows**: Remove unwanted rows.
+**What it does:** Inserts a page break at a specified location in a document.
 
-    Useful for cleaning up outdated information.
-17. **delete-worksheet**: Erase an entire worksheet.&#x20;
+**When to use it:** Great for formatting long documents, ensuring each section starts on a new page.
 
-    Perfect for decluttering.
-18. **clear-rows**: Empty the contents of rows without deleting them.
+#### 6. get-tab-content
 
-    Great for resetting data for reuse.
-19. **clear-cell**: Clear data from a specific cell.&#x20;
+**What it does:** Retrieves content from a specified tab within a document.
 
-    Handy for correcting errors.
-20. **insert-comment**: Add a comment to a cell.&#x20;
+**When to use it:** Handy for pulling specific parts of a document for review or sharing, such as extracting the agenda from meeting notes.
 
-    Useful for leaving notes or instructions.
-21. **insert-anchored-note**: Attach a note to a specific cell.
+#### 7. get-document
 
-    Ideal for detailed explanations or reminders.
+**What it does:** Retrieves the entire content of a document.
 
-## Google Sheets triggers in CodeWords
+**When to use it:** Use this for archiving documents or when you need to analyze the complete text for insights.
 
-Triggers are the events that set your workflows in motion. Here are all the triggers you can use with Google Sheets:
+#### 8. find-document
 
-1. **new-records**: Fires when new rows are added.&#x20;
-2. **new-records-in-view**: Triggers when new rows appear in a specific view.
-3. **new-or-modified-records**: Activates on new or updated rows.
-4. **new-or-modified-records-in-view**: Fires for changes in a specific view.
-5. **new-or-modified-field**: Triggers when a specific field is altered.
-6. **new-field**: Activates when a new field is added. Perfect for documenting expansions.
-7. **new-modified-or-deleted-records**: Fires for any changes, additions, or deletions.&#x20;
-8. **new-modified-or-deleted-records-instant**: Instantly triggers on any record changes.
+**What it does:** Finds a document based on search criteria.
 
-## Real-world business scenarios
+**When to use it:** Useful for locating specific files quickly, especially in large collections of documents.
 
-Let's explore how you can use these actions and triggers in practical workflows:
+#### 9. create-document
 
-* **Sales tracking**: Use "add-single-row" to log new sales leads. Pair it with "new-records" to alert your sales team instantly.
-* **Inventory management**: Combine "upsert-row" and "new-or-modified-records" to keep your inventory levels accurate and your supply chain smooth.
-* **Project updates**: Use "update-multiple-rows" to adjust project timelines, and "new-or-modified-field" to notify stakeholders of any changes.
+**What it does:** Creates a new document.
 
-## Practical tips and what to watch out for
+**When to use it:** Perfect for generating new files for projects, reports, or any documentation needs.
 
-* **Keep it simple**: Start with basic automations and expand as you gain confidence.
-* **Test your workflows**: Before deploying, test the automations to ensure they work as expected.
-* **Backup data regularly**: While CodeWords is reliable, it's always good to have a backup of your critical data.
+#### 10. create-document-from-template
+
+**What it does:** Creates a document using a specified template.
+
+**When to use it:** Streamline processes by using templates for standard documents like invoices or memos.
+
+#### 11. append-text
+
+**What it does:** Appends text to the end of a document.
+
+**When to use it:** Use this to add closing remarks or additional information without altering the core content.
+
+#### 12. append-image
+
+**What it does:** Appends an image to the end of a document.
+
+**When to use it:** Great for adding signatures or visual confirmations at the end of reports.
+
+### Available Google Docs triggers
+
+#### 1. new-or-updated-document
+
+**When it fires:** This trigger activates when a document is created or modified.
+
+**Business scenario:** Use this to notify team members when important documents are updated, like changes in project plans.
+
+#### 2. new-document-created
+
+**When it fires:** This trigger activates whenever a new document is created.
+
+**Business scenario:** Automatically initiate review processes or notifications when new documents are added to your system.
+
+### Building practical workflows
+
+Let's explore how you can bring these actions and triggers together to create seamless workflows.
+
+#### Example workflow 1: Automatic meeting summary
+
+* **Trigger:** new-document-created
+* **Actions:** get-document, insert-table, append-text
+* **Workflow:** Whenever a new meeting notes document is created, retrieve its content, summarize it into a table format, and append additional notes or action items at the end.
+
+#### Example workflow 2: Customer onboarding document
+
+* **Trigger:** new-or-updated-document
+* **Actions:** create-document-from-template, replace-text, replace-image
+* **Workflow:** When a new customer onboarding document is updated, automatically generate a new document using a template, replace placeholders with customer-specific information, and update any branding images.
+
+### Practical tips
+
+**Optimize templates:** Use the **create-document-from-template** action to ensure consistency across your documents.
+
+**Stay notified:** Set up triggers to keep your team informed of critical document changes.
+
+**Security first:** Rest assured, CodeWords securely handles your Google Docs connections, keeping your data safe.
+
+**Experiment with Cody:** Let our AI automation assistant suggest workflow improvements or new automations to enhance your productivity.
