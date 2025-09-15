@@ -128,15 +128,31 @@
 
 ### Example workflow: Automated community management
 
-**Trigger:** new-guild-member — Fires when new members join your Discord server. **Action:** add-role — Assigns welcome roles to new members automatically. **Action:** send-message — Posts a personalized greeting in the welcome channel. **Action:** create-guild-channel — Creates a temporary introduction channel for new members.
+**Trigger:** new-guild-member — Fires when new members join your Discord server.&#x20;
+
+**Action:** add-role — Assigns welcome roles to new members automatically.&#x20;
+
+**Action:** send-message — Posts a personalized greeting in the welcome channel.&#x20;
+
+**Action:** create-guild-channel — Creates a temporary introduction channel for new members.
 
 ### Example workflow: Smart moderation system
 
-**Trigger:** new-message — Reacts to messages posted in monitored channels. **Action:** delete-message — Removes messages that violate community guidelines. **Action:** send-message-advanced — Notifies moderators with detailed violation reports using rich embeds. **Action:** modify-guild-member — Updates member status or applies temporary restrictions.
+**Trigger:** new-message — Reacts to messages posted in monitored channels.&#x20;
+
+**Action:** delete-message — Removes messages that violate community guidelines.&#x20;
+
+**Action:** send-message-advanced — Notifies moderators with detailed violation reports using rich embeds.&#x20;
+
+**Action:** modify-guild-member — Updates member status or applies temporary restrictions.
 
 ### Example workflow: Interactive feedback collection
 
-**Trigger:** reaction-added — Activates when users react to feedback posts with specific emojis. **Action:** list-users-with-emoji-reactions — Collects all users who participated in the feedback. **Action:** send-message-advanced — Shares feedback summaries with interactive elements and rich formatting.
+**Trigger:** reaction-added — Activates when users react to feedback posts with specific emojis.&#x20;
+
+**Action:** list-users-with-emoji-reactions — Collects all users who participated in the feedback.&#x20;
+
+**Action:** send-message-advanced — Shares feedback summaries with interactive elements and rich formatting.
 
 ## Practical Tips and What to Watch Out For
 
