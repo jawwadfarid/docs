@@ -58,11 +58,11 @@ Use this straightforward approach:
 
 * **Simple data extraction and parsing** → Deploy the Speed models for quick processing
 * **Content creation and standard analysis** → Rely on the Balanced models for consistent results
-* **Complex reasoning and critical decisions** → Trust the Deep Thinkers for sophisticated analysis
+* **Complex reasoning and critical decisions** → Trust the models with the highest level of reasoning for sophisticated analysis
 * **Processing large datasets** → Mix and match strategically (use fast models for initial sorting, then smart models for final analysis)
 
 **Best Practices**
 
-Start with simpler models and upgrade only when needed. Often, a Speed model can handle 80% of your workflow, with a Deep Thinker handling just the final analysis step.
+Start with simpler models and upgrade only when needed. Often, a faster model can handle 80% of your workflow, with a Deep thinking model handling just the final analysis step.
 
 Consider the cost-benefit ratio. Speed models cost significantly less, so use them wherever possible in your automation pipeline.
