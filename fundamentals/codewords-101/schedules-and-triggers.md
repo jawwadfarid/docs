@@ -6,7 +6,7 @@ Think of triggers as your automation's ears (always listening for events) and sc
 
 ## Event-driven triggers
 
-Triggers are where the magic happens — your automations become reactive, jumping into action the moment something important occurs.
+Triggers allow your automations to become reactive, jumping into action the moment something important occurs.
 
 #### Native CodeWords triggers
 
@@ -19,7 +19,7 @@ Just connect your accounts at  [Integrations page](https://codewords.agemo.ai/ac
 
 #### Pipedream platform triggers
 
-Here's where things get exciting — access to 2,000+ platforms, including:
+Here's where things get exciting — access to 2,700+ platforms, including:
 
 * Gmail — New emails, label changes, draft creation
 * Google Calendar — Events created, updated, or deleted

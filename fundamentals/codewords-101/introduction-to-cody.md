@@ -2,7 +2,7 @@
 
 ## Welcome to Cody
 
-Cody is your AI automation assistant that builds powerful workflows through simple conversation. The difference? Cody doesn't just connect apps — it creates real automation code that thinks, adapts, and handles complex scenarios that traditional workflow tools can't touch.
+Cody is your AI automation assistant that builds powerful workflows through simple conversation. The difference? Cody doesn't just connect apps — it creates real automation code. Cody thinks, adapts, and handles complex scenarios that traditional workflow tools can't touch.
 
 ## How it works
 

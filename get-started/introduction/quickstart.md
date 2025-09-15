@@ -2,30 +2,30 @@
 
 ## Building your first automation
 
-In this guide, you'll learn how to build your first lead follow-up workflow automation.
+In this guide, you'll learn how to build your first **lead follow-up** workflow automation.
 
 You'll create an automation that:
 
-* **Captures new leads from contact forms** and automatically starts the qualification process
-* **Research prospects on LinkedIn** using their name and company to find their complete professional profile and recent activity
-* **Enriches with company intelligence** by analyzing their company website, recent news, and industry information using web scraping
+* **Captures new leads from contact forms** and automatically starts the qualification process.
+* **Research prospects on LinkedIn** using their name and company to find their complete professional profile and recent activity.
+* **Enriches with company intelligence** by analyzing their company website, recent news, and industry information using web scraping.
 * **Updates your CRM automatically** on HubSpot with detailed prospect notes and lead scoring
-* **Generates personalized follow-up emails** using AI that references their LinkedIn activity, company challenges, and industry trends
+* **Generates personalized follow-up emails** using AI that references their LinkedIn activity, company challenges, and industry trends.
 * **Sends an email with professional formatting** and your signature through Gmail.
-* **Sets follow-up reminders in your calendar** and CRM to ensure consistent lead nurturing
+* **Sets follow-up reminders in your calendar** and CRM to ensure consistent lead nurturing.
 
 ## Step 1: Planning your automation
 
 **Describe your process and tell Cody what you want to automate**
 
-> "I want to automate my lead follow-up process. When someone fills out my contact form, I want to automatically research them and send a personalized email through my Gmail."
+> _"I want to automate my lead follow-up process. When someone fills out my contact form, I want to automatically research them and send a personalized email through my Gmail."_
 
 **Cody researches what's possible**
 
 Cody will:
 
 * Check if there are existing templates that match your needs (15+ proven templates available)
-* Explore the 2000+ app integrations available through the platform
+* Explore the 2700+ app integrations available through the platform
 * Verify all the connections and data sources needed
 
 **Review the automation plan**
