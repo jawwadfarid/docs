@@ -43,7 +43,7 @@ Need to connect something that doesn't have a pre-built trigger? No problem. Cod
 
 1. Run your workflow first — Head to the workflow from my workflows and make sure it works perfectly
 2. Create a new schedule — Click the schedule button and choose your timing
-3. Pick your frequency — Use simple options like "every hour" or "daily," or get fancy with cron expressions
+3. Pick your frequency — Use simple options like  "daily" at a particular time.
 4. Save and you're done — Your workflow will now run automatically
 5. Go to the schedules page — Visit `https://codewords.agemo.ai/workflows/schedule` to see all your scheduled automations
 
