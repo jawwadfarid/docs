@@ -2,132 +2,286 @@
 
 ## Slack actions in CodeWords
 
-Here's a comprehensive list of all the actions you can perform with Google Sheets&#x20;
+Here's a comprehensive guide to all the actions you can perform with Slack in CodeWords, designed to streamline your team communication and enhance workplace collaboration.
 
-1.  **upload-file**: Uploads a file to a channel or direct message.
+### Available actions
 
-    When to use it: To share documents, images, or files with your team instantly.
-2.  **find-message**: Searches for a specific message in a channel.
+#### 1. upload-file
 
-    When to use it: To quickly locate important conversation threads.
-3.  **update-profile**: Updates a user's profile information.
+**What it does:** Uploads a file to a channel or direct message.
 
-    When to use it: To keep team member contact details current.
-4.  **update-message**: Edits a previously sent message.
+**When to use it:** To share documents, images, or files with your team instantly.
 
-    When to use it: To correct typos or add information to a message.
-5.  **update-group-members**: Modifies group membership.
+#### 2. find-message
 
-    When to use it: To manage team member participation in group chats.
-6.  **set-status**: Sets a user's Slack status.
+**What it does:** Searches for a specific message in a channel.
 
-    When to use it: To inform your team of your current availability or activity.
-7.  **set-channel-topic**: Sets the topic of a Slack channel.&#x20;
+**When to use it:** To quickly locate important conversation threads or reference past discussions.
 
-    When to use it: To communicate the focus or purpose of a channel.
-8.  **set-channel-description**: Updates the channel's description.
+#### 3. update-profile
 
-    When to use it: To provide more context about channel activities.
-9.  **send-message**: Sends a message to a channel or user.
+**What it does:** Updates a user's profile information.
 
-    When to use it: For direct communication or announcements.
-10. **send-message-to-user-or-group**: Sends a message to a specific user or group.
+**When to use it:** To keep team member contact details current and accurate.
 
-    When to use it: For targeted communication within the team.
-11. **send-message-to-channel**: Posts a message in a specific channel.
+#### 4. update-message
 
-    When to use it: To broadcast information to all channel members.
-12. **send-message-advanced**: Sends a message with advanced formatting options. When to use it: For messages that require special formatting or attachments.
-13. **send-large-message**: Sends an extended message that exceeds typical limits.
+**What it does:** Edits a previously sent message.
 
-    When to use it: For detailed updates or reports.
-14. **send-block-kit-message**: Sends a message using Slack's Block Kit for rich formatting.
+**When to use it:** To correct typos or add information to a message without losing context.
 
-    When to use it: To create interactive and visually appealing messages.
-15. **reply-to-a-message:** Replies to a specific message in a thread.
+#### 5. update-group-members
 
-    When to use it: To maintain context in ongoing conversations.
-16. **list-users:** Retrieves a list of all users in the Slack workspace.
+**What it does:** Modifies group membership.
 
-    When to use it: To manage users or perform audits.
-17. **list-replies:** Lists replies to a specific message.
+**When to use it:** To manage team member participation in group chats and private discussions.
 
-    When to use it: To review conversations and follow-ups.
-18. **list-members-in-channel:** Lists all members of a specific channel.
+#### 6. set-status
 
-    When to use it: To assess channel participation and engagement.
-19. **list-group-members:** Lists members of a private group.
+**What it does:** Sets a user's Slack status.
 
-    When to use it: For private group management and organization.
-20. **list-files:** Lists all files shared in the workspace.
+**When to use it:** To inform your team of your current availability or activity automatically.
 
-    When to use it: To manage and organize shared documents and media.
-21. **list-channels:** Lists all channels in the workspace.
+#### 7. set-channel-topic
 
-    When to use it: To navigate or restructure workspace channels.
-22. kick-user: Removes a user from a channel.
+**What it does:** Sets the topic of a Slack channel.
 
-    When to use it: To maintain group integrity or security.
-23. **invite-user-to-channel:** Invites a user to join a channel.
+**When to use it:** To communicate the focus or purpose of a channel clearly.
 
-    When to use it: To include new members in relevant discussions.
-24. **get-file:** Retrieves a specific file from Slack.
+#### 8. set-channel-description
 
-    When to use it: To access shared files for reference or use.
-25. **find-user-by-email:** Locates a user in Slack using their email address.
+**What it does:** Updates the channel's description.
 
-    When to use it: To quickly find and connect with team members.
-26. **delete-message:** Deletes a specific message.
+**When to use it:** To provide more context about channel activities and guidelines.
 
-    When to use it: To remove outdated or incorrect information.
-27. **delete-file:** Removes a file from Slack.
+#### 9. send-message
 
-    When to use it: To clear outdated files or manage storage.
-28. **create-reminder:** Sets a reminder for yourself or others.&#x20;
+**What it does:** Sends a message to a channel or user.
 
-    When to use it: To ensure important tasks are not forgotten.
-29. **create-channel:** Creates a new Slack channel.
+**When to use it:** For direct communication or general announcements.
 
-    When to use it: To organize discussions by project or topic.
-30. **archive-channel:** Archives a channel that's no longer active.
+#### 10. send-message-to-user-or-group
 
-    When to use it: To declutter your Slack workspace.
-31. **approve-workflow:** Approves a pending workflow request.
+**What it does:** Sends a message to a specific user or group.
 
-    When to use it: For workflow management and task approval processes.
-32. **add-emoji-reaction:** Adds an emoji reaction to a message.
+**When to use it:** For targeted communication within the team or specific departments.
 
-    When to use it: To provide quick feedback or acknowledgment.
+#### 11. send-message-to-channel
 
-### Slack triggers <a href="#slack-triggers" id="slack-triggers"></a>
+**What it does:** Posts a message in a specific channel.
 
-1. **new-user-mention** When it fires: When a user is mentioned in a message.&#x20;
-2. **new-user-added** When it fires: When a new user joins the workspace.
-3. **new-saved-message** When it fires: When a message is saved by a user.
-4. **new-reaction-added** When it fires: When a reaction is added to a message.
-5. **new-message-in-channels** When it fires: When a new message is posted in a channel.
-6. **new-keyword-mention** When it fires: When a specific keyword is mentioned in a message.
-7. **new-interaction-event-received** When it fires: When a user interacts with an app feature.Business scenario: Tracking app usage and user engagement.
-8. **new-direct-message** When it fires: When a new direct message is received.
-9. **new-channel-created** When it fires: When a new channel is created in the workspace.
+**When to use it:** To broadcast information to all channel members simultaneously.
 
-### Building practical workflows <a href="#building-practical-workflows" id="building-practical-workflows"></a>
+#### 12. send-message-advanced
 
-#### Example workflow 1: Welcome new team members <a href="#example-workflow-1-welcome-new-team-members" id="example-workflow-1-welcome-new-team-members"></a>
+**What it does:** Sends a message with advanced formatting options.
 
-1. **Trigger**: new-user-added
-2. **Action**: send-message - Send a welcome message to the new user in a designated channel.
-3. **Action**: create-reminder - Set a reminder for HR to follow up with onboarding materials.
+**When to use it:** For messages that require special formatting, links, or attachments.
 
-#### Example workflow 2: File management <a href="#example-workflow-2-file-management" id="example-workflow-2-file-management"></a>
+#### 13. send-large-message
 
-1. **Trigger**: new-saved-message
-2. **Action**: list-files - List all files in the workspace.
-3. **Action**: delete-file - Remove outdated files based on conditions.
+**What it does:** Sends an extended message that exceeds typical limits.
 
-### Practical tips <a href="#practical-tips" id="practical-tips"></a>
+**When to use it:** For detailed updates, reports, or comprehensive announcements.
 
-* **Start simple**: Begin with basic workflows and gradually incorporate more complex automations.
-* **Iterate and improve**: Regularly review and refine your workflows to ensure they're meeting your business needs.
-* **Communicate clearly**: Use clear and descriptive names for workflows and actions to keep everything organized.
-* **Monitor and adapt**: Keep an eye on usage and effectiveness, and be ready to adjust as your business evolves.
+#### 14. send-block-kit-message
+
+**What it does:** Sends a message using Slack's Block Kit for rich formatting.
+
+**When to use it:** To create interactive and visually appealing messages with buttons or forms.
+
+#### 15. reply-to-a-message
+
+**What it does:** Replies to a specific message in a thread.
+
+**When to use it:** To maintain context in ongoing conversations and keep discussions organized.
+
+#### 16. list-users
+
+**What it does:** Retrieves a list of all users in the Slack workspace.
+
+**When to use it:** To manage users, perform audits, or analyze team composition.
+
+#### 17. list-replies
+
+**What it does:** Lists replies to a specific message.
+
+**When to use it:** To review conversations and follow-ups in message threads.
+
+#### 18. list-members-in-channel
+
+**What it does:** Lists all members of a specific channel.
+
+**When to use it:** To assess channel participation and engagement levels.
+
+#### 19. list-group-members
+
+**What it does:** Lists members of a private group.
+
+**When to use it:** For private group management and organization oversight.
+
+#### 20. list-files
+
+**What it does:** Lists all files shared in the workspace.
+
+**When to use it:** To manage and organize shared documents and media files.
+
+#### 21. list-channels
+
+**What it does:** Lists all channels in the workspace.
+
+**When to use it:** To navigate or restructure workspace channels effectively.
+
+#### 22. kick-user
+
+**What it does:** Removes a user from a channel.
+
+**When to use it:** To maintain group integrity or address security concerns.
+
+#### 23. invite-user-to-channel
+
+**What it does:** Invites a user to join a channel.
+
+**When to use it:** To include new members in relevant discussions and projects.
+
+#### 24. get-file
+
+**What it does:** Retrieves a specific file from Slack.
+
+**When to use it:** To access shared files for reference, download, or processing.
+
+#### 25. find-user-by-email
+
+**What it does:** Locates a user in Slack using their email address.
+
+**When to use it:** To quickly find and connect with team members across large workspaces.
+
+#### 26. delete-message
+
+**What it does:** Deletes a specific message.
+
+**When to use it:** To remove outdated or incorrect information from channels.
+
+#### 27. delete-file
+
+**What it does:** Removes a file from Slack.
+
+**When to use it:** To clear outdated files or manage storage efficiently.
+
+#### 28. create-reminder
+
+**What it does:** Sets a reminder for yourself or others.
+
+**When to use it:** To ensure important tasks or deadlines are not forgotten.
+
+#### 29. create-channel
+
+**What it does:** Creates a new Slack channel.
+
+**When to use it:** To organize discussions by project, topic, or team structure.
+
+#### 30. archive-channel
+
+**What it does:** Archives a channel that's no longer active.
+
+**When to use it:** To declutter your Slack workspace while preserving conversation history.
+
+#### 31. approve-workflow
+
+**What it does:** Approves a pending workflow request.
+
+**When to use it:** For workflow management and task approval processes.
+
+#### 32. add-emoji-reaction
+
+**What it does:** Adds an emoji reaction to a message.
+
+**When to use it:** To provide quick feedback, acknowledgment, or express sentiment.
+
+### Available Slack triggers
+
+#### 1. new-user-mention
+
+**When it fires:** When a user is mentioned in a message.
+
+**Business scenario:** Automatically notify users of important mentions or escalate urgent requests.
+
+#### 2. new-user-added
+
+**When it fires:** When a new user joins the workspace.
+
+**Business scenario:** Trigger onboarding workflows and welcome processes for new team members.
+
+#### 3. new-saved-message
+
+**When it fires:** When a message is saved by a user.
+
+**Business scenario:** Track important information that team members are bookmarking for reference.
+
+#### 4. new-reaction-added
+
+**When it fires:** When a reaction is added to a message.
+
+**Business scenario:** Monitor team engagement and sentiment on announcements or updates.
+
+#### 5. new-message-in-channels
+
+**When it fires:** When a new message is posted in a channel.
+
+**Business scenario:** Route messages to appropriate teams or systems based on channel activity.
+
+#### 6. new-keyword-mention
+
+**When it fires:** When a specific keyword is mentioned in a message.
+
+**Business scenario:** Alert relevant teams when critical topics like "outage" or "security" are discussed.
+
+#### 7. new-interaction-event-received
+
+**When it fires:** When a user interacts with an app feature.
+
+**Business scenario:** Track app usage and user engagement with custom integrations.
+
+#### 8. new-direct-message
+
+**When it fires:** When a new direct message is received.
+
+**Business scenario:** Route direct messages to support systems or escalate urgent communications.
+
+#### 9. new-channel-created
+
+**When it fires:** When a new channel is created in the workspace.
+
+**Business scenario:** Automatically set up channel templates, permissions, or notifications for new projects.
+
+### Building practical workflows
+
+Let's explore how you can bring these actions and triggers together to create seamless workflows.
+
+#### Example workflow 1: Welcome new team members
+
+* **Trigger:** new-user-added
+* **Action:** send-message — Send a welcome message to the new user in a designated channel
+* **Action:** create-reminder — Set a reminder for HR to follow up with onboarding materials
+
+#### Example workflow 2: Automated file management
+
+* **Trigger:** new-saved-message
+* **Action:** list-files — List all files in the workspace to assess storage usage
+* **Action:** delete-file — Remove outdated files based on predefined conditions
+
+#### Example workflow 3: Keyword alert system
+
+* **Trigger:** new-keyword-mention
+* **Action:** find-user-by-email — Locate the appropriate team lead
+* **Action:** send-message-to-user-or-group — Alert the relevant team about critical mentions
+
+### Practical tips
+
+**Start simple:** Begin with basic workflows and gradually incorporate more complex automations as your team becomes comfortable with the system.
+
+**Iterate and improve:** Regularly review and refine your workflows to ensure they're meeting your business needs and adapting to team changes.
+
+**Communicate clearly:** Use clear and descriptive names for workflows and actions to keep everything organized and maintainable.
+
+**Monitor and adapt:** Keep an eye on usage and effectiveness, and be ready to adjust workflows as your business and team dynamics evolve.
