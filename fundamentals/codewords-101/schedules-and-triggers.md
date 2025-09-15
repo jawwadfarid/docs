@@ -15,7 +15,7 @@ These work right out of the box with minimal fuss:
 * Slack — New messages, reactions, and when someone joins a channel
 * WhatsApp Business — Incoming messages and status updates
 
-Just connect your accounts at `https://codewords.agemo.ai/account/integrations` And you're ready to go.
+Just connect your accounts at  [Integrations page](https://codewords.agemo.ai/account/integrations/) and you're ready to go.
 
 #### Pipedream platform triggers
 
