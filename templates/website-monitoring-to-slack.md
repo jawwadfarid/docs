@@ -120,14 +120,6 @@ It stores a snapshot representation in Redis so it can compare the next run to t
 
 <details>
 
-<summary><strong>What does the API look like?</strong></summary>
-
-Send a POST request to/with { urls: \["https://example.com/pricing"], changes\_to\_track: "pricing changes", slack\_channel: "random" }. You’ll get a status message and a simple HTML preview in the response.
-
-</details>
-
-<details>
-
 <summary><strong>Can I monitor many URLs at once?</strong></summary>
 
 Yes. Include multiple URLs in the request. The automation will check each one and post Slack updates per site when changes are found.
