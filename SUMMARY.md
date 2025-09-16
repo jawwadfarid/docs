@@ -22,6 +22,7 @@
   * [Templates](fundamentals/codewords-101/templates.md)
   * [Editing a Template](fundamentals/codewords-101/editing-a-template.md)
   * [Template Gallery](fundamentals/codewords-101/template-gallery.md)
+  * [Chrome Extension](fundamentals/codewords-101/chrome-extension.md)
 * [Intorduction to Cody](fundamentals/intorduction-to-cody.md)
 * [Popular Integrations](fundamentals/popular-integrarions/README.md)
   * [Airtable](fundamentals/popular-integrarions/airtable.md)
