@@ -2,15 +2,15 @@
 
 <a href="https://codewords.agemo.ai/run/linkedin_profile_extractor" class="button primary">Use this template</a>
 
-### Overview
+## Overview
 
 This automation extracts rich, structured information from a public LinkedIn profile so you don’t have to copy and paste by hand. It visits the main profile and interest tabs through your browser, converts what it finds into clean text, and uses AI to pull out the important details—like personal info, work history, education, and who they follow. It’s built with FastAPI, uses AI technology for the parsing, and logs everything clearly so you can trust what’s happening behind the scenes.
 
-### Description
+## Description
 
 This automation turns a single LinkedIn profile link into a complete, structured profile by combining the main profile page and its interest tabs into a clean JSON output. It first generates the URLs for the main profile and each interest tab, then loads each page through a browser extension to capture the content. In parallel, it collects those pages and converts the HTML to readable text, while the AI technology processes each page to extract names, headlines, roles, dates, schools, and followed accounts. After processing all pages, it merges everything into a single, consistent data model to produce a comprehensive profile that’s easy to review, store, or send to your CRM.
 
-### Key Features
+## Key Features
 
 **Full-profile coverage**: Pulls personal info, work experience, education, and interests from one LinkedIn URL
 
@@ -28,7 +28,7 @@ This automation turns a single LinkedIn profile link into a complete, structured
 
 **Simple API endpoint**: One POST request to get a complete LinkedInProfileResponse with status and data
 
-### Instructions
+## Instructions
 
 {% stepper %}
 {% step %}
@@ -56,11 +56,11 @@ Check your results in the response—the structured JSON includes personal info,
 {% endstep %}
 {% endstepper %}
 
-### Use Cases
+## Use Cases
 
 This automation is perfect for sales, recruiting, and research teams who want a quick, reliable way to turn a LinkedIn profile into clean, structured data. Great for building prospect lists, enriching candidate records, prepping for outreach, or adding context to a CRM without manual copy-paste. If you want a complete snapshot of someone’s background and interests in a format your tools understand, this makes it easy.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 

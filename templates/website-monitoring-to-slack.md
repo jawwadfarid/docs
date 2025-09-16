@@ -2,15 +2,15 @@
 
 <a href="https://codewords.agemo.ai/run/website_monitoring_to_slack" class="button primary">Use this template</a>
 
-### Overview
+## Overview
 
 This automation keeps an eye on your websites and posts helpful updates to Slack when something changes. It uses AI to spot meaningful edits—like pricing updates, new logos, or feature tweaks—so your team doesn’t have to manually check pages all day. Under the hood, it grabs clean page content and screenshots, compares the latest version to the last snapshot, and sends a friendly summary to a Slack channel. It runs as a lightweight web app you can call whenever you want to (or schedule), and it ties together scraping, change detection, and Slack notifications in one place.
 
-### Description
+## Description
 
 This automation monitors one or more websites for changes by combining website content, AI technology, and Slack into a simple change report. It first loads each page and extracts clean content and a full-page screenshot, then compares what’s new against the last saved snapshot to find differences. In parallel, it uses AI technology to summarize what changed and how important it is, especially if you ask it to focus on things like pricing or customer logos. After processing those differences, it stores the new snapshot for next time and posts a friendly update to your Slack channel, producing a quick, readable summary that helps your team react faster without constant manual checks.
 
-### Key Features
+## Key Features
 
 **Website change tracking**: Monitors any list of URLs for updates and keeps a running snapshot history.
 
@@ -28,7 +28,7 @@ This automation monitors one or more websites for changes by combining website c
 
 **Simple web endpoint**: Trigger monitoring through a single POST request to the FastAPI endpoint.
 
-### Instructions
+## Instructions
 
 {% stepper %}
 {% step %}
@@ -56,11 +56,11 @@ Watch Slack for summaries. If you want to expand the list, just rerun with more 
 {% endstep %}
 {% endstepper %}
 
-### Use Cases
+## Use Cases
 
 This automation is perfect for product teams, marketing, and sales who need to know when key pages change—like pricing, competitor features, or new logos—without manually checking every day. It’s also great for customer success teams tracking updates to docs or terms, and for founders who want a quick pulse on what’s new on their site or competitors’ sites. You get timely, plain‑English updates in Slack so your team can respond quickly.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 

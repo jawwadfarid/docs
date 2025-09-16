@@ -2,15 +2,15 @@
 
 <a href="https://codewords.agemo.ai/run/rewrite_article_for_seo" class="button primary">Use this template</a>
 
-### Overview
+## Overview
 
 This automation takes any article on the web and rewrites it for better SEO using AI. You paste a URL, add your target keywords, and include any formatting or style notes you care about. It pulls clean content from the page, rewrites it into polished markdown, and gives you a ready-to-download HTML file. It’s a fast way to turn existing posts into search-friendly content—no copying, pasting, or manual cleanup required.
 
-### Description
+## Description
 
 This automation rewrites any web article for SEO by combining the original page content, your target keywords, and your style preferences into a clean markdown draft and a downloadable HTML file. It first fetches the article and extracts just the main content in readable markdown, then uses AI technology to rewrite it with your keywords and tone. In parallel, it prepares a styled HTML version you can use right away. After processing your notes on formatting and writing style, it converts the markdown to HTML and securely uploads the file, returning a link you can download and share. The result is an SEO-focused article that’s easy to publish and tailored to your brand voice.
 
-### Key Features
+## Key Features
 
 **URL-to-markdown extraction**: Pulls the main content from any public article and cleans it up for editing.
 
@@ -28,7 +28,7 @@ This automation rewrites any web article for SEO by combining the original page 
 
 **Clear, consistent output**: Returns both the rewritten markdown and the downloadable HTML so you can publish in any CMS.
 
-### Instructions
+## Instructions
 
 {% stepper %}
 {% step %}
@@ -56,11 +56,11 @@ Make any final edits in your CMS if needed, then publish.
 {% endstep %}
 {% endstepper %}
 
-### Use Cases
+## Use Cases
 
 This automation is perfect for content teams, SEO specialists, and solo creators who want to quickly refresh existing articles for search without starting from scratch. It’s great for turning competitor research into original insights, keeping older posts up to date with your brand voice, and generating a clean HTML version you can drop into your CMS. If you manage a blog or knowledge base and care about search visibility and consistency, this will save you time and help you publish with confidence.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 
