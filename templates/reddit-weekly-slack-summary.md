@@ -2,11 +2,11 @@
 
 <a href="https://codewords.agemo.ai/run/reddit_weekly_slack_summary" class="button primary">Use this template</a>
 
-### Description
+## Description
 
 This automation monitors selected Reddit communities and turns the most relevant posts into a weekly Slack summary by combining Reddit discussions with AI technology into a clear, actionable digest. It first searches your chosen subreddits for recent posts that match your query, then converts those posts into a readable format and analyzes them with AI to pull out top topics, challenges, and notable discussions. In parallel, it prepares a cross‑community view so you can see shared trends across all the subreddits you track. After processing everything, it formats the summary to look great in Slack and optionally schedules a weekly run so you don’t have to think about it, delivering a polished update that keeps your team informed without the time sink.
 
-### Key Features
+## Key Features
 
 **Weekly Reddit roundup to Slack**: Get a neatly formatted summary of key topics and discussions posted directly to a Slack channel you choose.
 
@@ -24,7 +24,7 @@ This automation monitors selected Reddit communities and turns the most relevant
 
 **Error‑tolerant analysis**: Falls back to a simpler summary if structured AI parsing fails, so you still get useful output.
 
-### Instructions
+## Instructions
 
 {% stepper %}
 {% step %}
@@ -52,11 +52,11 @@ Review the Slack message, tweak subreddits or focus if needed, and turn on weekl
 {% endstep %}
 {% endstepper %}
 
-### Use Cases
+## Use Cases
 
 This automation is perfect for product, marketing, ops, and community teams who want a quick, reliable pulse on what Reddit is saying about automation and no‑code tools—without living on Reddit. It’s great for weekly team standups, competitive scans, roadmap planning, or inspiration for content. If you track a few niche communities and want a fast way to see what’s trending, this keeps you informed in Slack, where your team already works.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 

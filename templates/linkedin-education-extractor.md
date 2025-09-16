@@ -2,15 +2,15 @@
 
 <a href="https://codewords.agemo.ai/run/linkedin_education_extractor" class="button primary">Use this template</a>
 
-### Overview
+## Overview
 
 This automation pulls a LinkedIn profile through your browser, uses AI to extract all the education details, and gives you a clean, beautiful summary you can share or embed. It solves the hassle of copy-pasting from LinkedIn and trying to make sense of scattered education entries. You get structured data for each school, degree, and date, plus a polished HTML view—powered by a CodeWords browser extension, a lightweight FastAPI app, and AI technology for reliable parsing.
 
-### Description
+## Description
 
 This automation turns a LinkedIn profile into a structured education history by combining content scraped through your browser with AI technology into a clean HTML summary and JSON data. It first opens the profile via the CodeWords browser extension and pulls readable content, then uses AI to extract the person’s name, general profile info, and the raw education list. In parallel, it cleans the page content to remove layout noise so the AI can focus on the right text. After parsing the raw education section into detailed entries with institutions, degrees, fields of study, and dates, it formats everything into a polished HTML view and returns structured data that’s easy to reuse in CRMs, reports, or websites.
 
-### Key Features
+## Key Features
 
 **One-click scraping**: Pulls profile content through the CodeWords browser extension you already use.
 
@@ -28,7 +28,7 @@ This automation turns a LinkedIn profile into a structured education history by 
 
 **Privacy-aware access**: Works with profiles you can view in your logged-in browser—no scraping around login walls.
 
-### Instructions
+## Instructions
 
 {% stepper %}
 {% step %}
@@ -56,11 +56,11 @@ Copy or embed the HTML, or use the structured JSON to push into your CRM, notes,
 {% endstep %}
 {% endstepper %}
 
-### Use Cases
+## Use Cases
 
 This automation is perfect for recruiters, sales teams, career coaches, and research ops who need a clean summary of someone’s education—fast. Great for screening candidates, enriching CRM contacts, prepping interview briefs, creating portfolio pages, or building talent maps without manual copy-paste. If you regularly evaluate LinkedIn profiles and want consistent, reusable education data, this will save time and keep your records tidy.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 
