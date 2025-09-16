@@ -6,7 +6,21 @@ This automation listens to your WhatsApp messages and sends back a neat profile 
 
 ## Key Features <a href="#key-features" id="key-features"></a>
 
-**One-step setup**: Register your WhatsApp number and start mentioning people right away—no separate app to manage.**Natural-language capture**: AI analyzes your message to pull out a full name, role, company, and any LinkedIn URL you included.**Smart search kickoff**: Triggers a people-finder search to gather public social profiles and key details automatically.**WhatsApp-friendly formatting**: Converts long-form results into short, mobile-ready messages with bold/italics and plain URLs.**Custom output style**: Add your own formatting rules (e.g., “Only show name, title, and company”) to tailor the reply.**Extra insights on demand**: Specify additional areas of interest, like certifications or publications, to enrich the result.**Fast acknowledgments**: Sends a quick “Looking up…” confirmation so you know the search is in progress.**Secure, API-based flow**: Uses the CodeWords runtime with OpenAI APIs and a WhatsApp trigger to handle messages safely.
+**One-step setup**: Register your WhatsApp number and start mentioning people right away—no separate app to manage.
+
+**Natural-language capture**: AI analyzes your message to pull out a full name, role, company, and any LinkedIn URL you included.
+
+**Smart search kickoff**: Triggers a people-finder search to gather public social profiles and key details automatically.
+
+**WhatsApp-friendly formatting**: Converts long-form results into short, mobile-ready messages with bold/italics and plain URLs.
+
+**Custom output style**: Add your own formatting rules (e.g., “Only show name, title, and company”) to tailor the reply.
+
+**Extra insights on demand**: Specify additional areas of interest, like certifications or publications, to enrich the result.
+
+**Fast acknowledgments**: Sends a quick “Looking up…” confirmation so you know the search is in progress.
+
+**Secure, API-based flow**: Uses the CodeWords runtime with OpenAI APIs and a WhatsApp trigger to handle messages safely.
 
 ## Instructions <a href="#instructions" id="instructions"></a>
 
