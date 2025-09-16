@@ -62,7 +62,7 @@ Export or follow up: Use the sheet for outreach, analysis, or reporting; export 
 
 This automation is ideal for marketing teams, community managers, sales and SDR teams, and analysts who need to quickly turn LinkedIn comment threads into actionable lead lists, sentiment summaries, and campaign insights without manual copy-paste. It helps with event follow-ups, influencer campaign analysis, product feedback mining, and identifying engaged prospects directly from social interactions.
 
-#### &#x20;<a href="#frequently-asked-questions" id="frequently-asked-questions"></a>
+## Frequently Asked Questions
 
 <details>
 
