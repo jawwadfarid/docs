@@ -65,6 +65,7 @@
 * [Use Cases](use-cases/README.md)
   * [Marketing](use-cases/marketing.md)
   * [Sales](use-cases/sales.md)
+  * [Finance](use-cases/finance.md)
   * [Call CodeWords Workflows via API](use-cases/call-codewords-workflows-via-api.md)
   * [Building web apps with a CodeWords back-end](use-cases/building-web-apps-with-a-codewords-back-end.md)
 
