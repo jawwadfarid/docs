@@ -1,4 +1,4 @@
-# LinkedIn Profile Enrichment to CSV
+# LinkedIn Profile Enricher to CSV
 
 <a href="https://codewords.agemo.ai/run/linkedin_profile_enrichment_to_csv" class="button primary">Use this template</a>
 
