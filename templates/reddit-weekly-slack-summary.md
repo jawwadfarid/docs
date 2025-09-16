@@ -58,43 +58,87 @@ This automation is perfect for product, marketing, ops, and community teams who 
 
 ### Frequently Asked Questions
 
-**Q: What exactly does this automation post to Slack?**
+<details>
 
-**A:** It shares a weekly summary with a title, the week’s date range, top topics, and notable discussions for each subreddit, and a short list of key cross‑community trends—formatted for easy scanning.
+<summary><strong>What exactly does this automation post to Slack?</strong></summary>
 
-**Q: Can I choose which subreddits to monitor?**
+It shares a weekly summary with a title, the week’s date range, top topics, and notable discussions for each subreddit, and a short list of key cross‑community trends—formatted for easy scanning.
 
-**A:** Yes. Provide a list like \["nocode", "automation"] and a simple search query to focus on posts that matter to you.
+</details>
 
-**Q: Do I need my own Reddit API keys?**
+<details>
 
-**A:** No. This uses the CodeWords Reddit service to fetch posts—no separate Reddit credentials required.
+<summary><strong>Can I choose which subreddits to monitor?</strong></summary>
 
-**Q: How does the AI analysis work?**
+Yes. Provide a list like \["nocode", "automation"] and a simple search query to focus on posts that matter to you.
 
-**A:** The automation converts recent posts to a clean text format and uses AI technology (gemini-2.5-flash via the CodeWords runtime) to identify topics, themes, and discussions. If structured output fails, it falls back to a simpler summary.
+</details>
 
-**Q: Why are there two AI models mentioned?**
+<details>
 
-**A:** gemini-2.5-flash handles topic and trend analysis. gpt-4o is used only to format the final message so it looks great in Slack.
+<summary><strong>Do I need my own Reddit API keys?</strong></summary>
 
-**Q: When does the scheduled post run?**
+No. This uses the CodeWords Reddit service to fetch posts—no separate Reddit credentials required.
 
-**A:** By default, it sets a weekly schedule for Monday at 09:00 (cron(0 9 ? \* MON \*)). Timezone follows your runtime environment.
+</details>
 
-**Q: What if a subreddit has no relevant posts?**
+<details>
 
-**A:** The automation skips empty results and continues with others. If none return data, you’ll get a clear error so you can adjust subreddits or the query.
+<summary><strong>How does the AI analysis work?</strong></summary>
 
-**Q: Can I control how many posts it analyzes?**
+The automation converts recent posts to a clean text format and uses AI technology (gemini-2.5-flash via the CodeWords runtime) to identify topics, themes, and discussions. If structured output fails, it falls back to a simpler summary.
 
-**A:** Yes. Set posts\_per\_subreddit between 5 and 25 (default is 10).
 
-**Q: What permissions does the Slack bot need?**
 
-**A:** It needs to list channels and post messages. Make sure the bot is added to the target channel and has posting permissions.
+</details>
 
-**Q: Where is data stored and for how long?**
+<details>
 
-**A:** A compact record of each week’s summary is stored in Redis for about 30 days to prevent duplicates and help with traceability.
+<summary><strong>Why are there two AI models mentioned?</strong></summary>
+
+Gemini-2.5-flash handles topic and trend analysis. gpt-4o is used only to format the final message so it looks great in Slack.
+
+
+
+</details>
+
+<details>
+
+<summary><strong>When does the scheduled post run?</strong></summary>
+
+By default, it sets a weekly schedule for Monday at 09:00. Timezone follows your runtime environment.
+
+</details>
+
+<details>
+
+<summary><strong>What if a subreddit has no relevant posts?</strong></summary>
+
+The automation skips empty results and continues with others. If none return data, you’ll get a clear error so you can adjust subreddits or the query.
+
+</details>
+
+<details>
+
+<summary><strong>Can I control how many posts it analyzes?</strong></summary>
+
+Yes. Set posts\_per\_subreddit between 5 and 25 (default is 10).
+
+</details>
+
+<details>
+
+<summary><strong>What permissions does the Slack bot need?</strong></summary>
+
+It needs to list channels and post messages. Make sure the bot is added to the target channel and has posting permissions.
+
+</details>
+
+<details>
+
+<summary><strong>Where is data stored and for how long?</strong></summary>
+
+A compact record of each week’s summary is stored in Redis for about 30 days to prevent duplicates and help with traceability.
+
+</details>
 
