@@ -14,6 +14,8 @@ Cody is your AI automation assistant that builds powerful workflows through simp
 
 **Deploys and tests:** Your automation goes live and gets tested with real data to make sure it works perfectly.
 
+<figure><img src="../../.gitbook/assets/cody.gif" alt=""><figcaption></figcaption></figure>
+
 ## What you can do
 
 **Build new workflows:** Turn ideas into working automations
