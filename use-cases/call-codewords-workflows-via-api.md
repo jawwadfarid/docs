@@ -34,7 +34,11 @@ Use for workflows that complete quickly (under 2 minutes).
 {% code overflow="wrap" %}
 ```bash
 bash
-curl -X POST https://runtime.codewords.ai/run/YOUR_SERVICE_ID \ -H "Authorization: Bearer cwk-your-api-key-here" \ -H "Content-Type: application/json" \ -d '{ "input_field_1": "value1", "input_field_2": "value2" }'
+curl -X POST https://runtime.codewords.ai/run/YOUR_SERVICE_ID \
+  -H "Authorization: Bearer cwk-your-api-key-here" \
+  -H "Content-Type: application/json" \
+  -d '{ "input_field_1": "value1", "input_field_2": "value2" }'
+
 ```
 {% endcode %}
 
