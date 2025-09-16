@@ -65,6 +65,7 @@
 * [Use Cases](use-cases/README.md)
   * [Call CodeWords Workflows via API](use-cases/call-codewords-workflows-via-api.md)
   * [Building web apps with a CodeWords back-end](use-cases/building-web-apps-with-a-codewords-back-end.md)
+  * [Sales](use-cases/sales.md)
 
 ## Guides&#x20;
 
