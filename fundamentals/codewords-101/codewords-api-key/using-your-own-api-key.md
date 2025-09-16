@@ -27,6 +27,8 @@ Now, let's link your app to CodeWords:
 5. Paste your API key and save the variable.
 6. Cody, our AI automation assistant, will handle the rest and securely store your connection details.
 
+<figure><img src="../../../.gitbook/assets/keyvalue.gif" alt=""><figcaption></figcaption></figure>
+
 ### Step 3: Build your workflow
 
 With your API key added, you're ready to build a workflow:
