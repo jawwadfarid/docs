@@ -22,6 +22,7 @@
   * [CodeWords API key](fundamentals/codewords-101/codewords-api-key/README.md)
   * [Using your own API Key](fundamentals/codewords-101/codewords-api-key/using-your-own-api-key.md)
   * [Using a Template](fundamentals/codewords-101/templates.md)
+  * [Call CodeWords Workflows via API](fundamentals/codewords-101/call-codewords-workflows-via-api.md)
   * [Editing a Template](fundamentals/codewords-101/editing-a-template.md)
   * [Template Gallery](fundamentals/codewords-101/template-gallery.md)
 * [Intorduction to Cody](fundamentals/intorduction-to-cody.md)
@@ -63,10 +64,10 @@
   * [X Comment Suggester](templates/x-comment-suggester.md)
   * [LinkedIn Education Extractor](templates/linkedin-education-extractor.md)
 * [Use Cases](use-cases/README.md)
-  * [Marketing](use-cases/marketing.md)
   * [Sales](use-cases/sales.md)
+  * [Operations](use-cases/operations.md)
+  * [Marketing](use-cases/marketing.md)
   * [Finance](use-cases/finance.md)
-  * [Call CodeWords Workflows via API](use-cases/call-codewords-workflows-via-api.md)
   * [Building web apps with a CodeWords back-end](use-cases/building-web-apps-with-a-codewords-back-end.md)
 
 ## Guides&#x20;
