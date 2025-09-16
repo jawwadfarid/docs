@@ -13,6 +13,8 @@ Your API key will be under the **Your API keys section**:
 
 Pro tip: Treat your API key like a password — keep it secret and store it as an environment variable.
 
+<figure><img src="../../../.gitbook/assets/apikey.gif" alt=""><figcaption></figcaption></figure>
+
 ### How the API works
 
 Base URL: `https://runtime.codewords.ai`
