@@ -41,6 +41,7 @@
 ***
 
 * [Templates](templates/README.md)
+  * [LinkedIn Comment Replier](templates/linkedin-comment-replier.md)
   * [LinkedIn Comment Scraper](templates/linkedin-comment-scraper.md)
   * [Stock Ticker Sentiment Analyzer](templates/stock-ticker-sentiment-analyzer.md)
   * [LinkedIn Profile Enricher to CSV](templates/linkedin-profile-enrichment-to-csv.md)
