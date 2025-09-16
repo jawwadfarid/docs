@@ -17,7 +17,7 @@ layout:
 
 # Introduction
 
-Welcome to CodeWords. We’re excited that you’re here to build faster, smarter, and more efficient automations. This documentation is designed to guide you through the platform to building, deploying and managing your workflow automations.
+Welcome to CodeWords. We’re excited that you’re here to build faster, smarter, and more efficient automations. This documentation is designed to guide you through the platform for building, deploying, and managing your workflow automations.
 
 For a quick overview, check out our introduction video. It covers the core features and shows you how to build your first automation.
 
