@@ -60,6 +60,7 @@
   * [Hacker News Content Generator](templates/hacker-news-content-generator.md)
   * [Reddit Weekly Slack Summary](templates/reddit-weekly-slack-summary.md)
   * [X Comment Suggester](templates/x-comment-suggester.md)
+  * [LinkedIn Education Extractor](templates/linkedin-education-extractor.md)
 * [Use Cases](use-cases/README.md)
   * [Call CodeWords Workflows via API](use-cases/call-codewords-workflows-via-api.md)
   * [Building web apps with a CodeWords back-end](use-cases/building-web-apps-with-a-codewords-back-end.md)
