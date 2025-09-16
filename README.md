@@ -21,7 +21,7 @@ Welcome to CodeWords. We’re excited that you’re here to build faster, smarte
 
 For a quick overview, check out our introduction video. It covers the core features and shows you how to build your first automation.
 
-{% embed url="https://www.youtube.com/watch?v=aFw2wZjXoYY" %}
+{% embed url="https://www.youtube.com/watch?ab_channel=CodeWords&v=HyLI2FElTH0" %}
 
 ## Ready to automate?
 
