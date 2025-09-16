@@ -1,4 +1,4 @@
-# Templates
+# Using a Template
 
 ### What are templates?
 
