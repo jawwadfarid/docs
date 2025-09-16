@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Quickstart
 
 ## Building your first automation
