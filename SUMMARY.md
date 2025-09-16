@@ -6,6 +6,7 @@
   * [Get to know the platform](get-started/introduction/get-to-know-the-platform.md)
   * [Getting started](get-started/introduction/getting-started.md)
 * [Quickstart](get-started/introduction/quickstart.md)
+* [Quickstart](get-started/quickstart-1.md)
 
 ## Fundamentals
 
