@@ -1,5 +1,7 @@
 # Person Finder from Whatsapp
 
+<a href="https://codewords.agemo.ai/run/person_finder_from_whatsapp" class="button primary">Use this template</a>
+
 ## Description
 
 This automation listens to your WhatsApp messages and sends back a neat profile summary by combining WhatsApp events, AI technology, and a people-finder search into a single WhatsApp reply. It first registers your phone number and sets a webhook so incoming messages can be analyzed, then uses AI to read what you typed and extract the person’s name, any helpful context (like company and title), and a profile link if you included one. In parallel, it prepares a WhatsApp-friendly format so the results are short, skimmable, and use plain links. After the search runs and results are assembled, it sends a clear confirmation and then a formatted summary back to your chat to produce a quick people snapshot that saves time, reduces manual searching, and keeps your conversation moving.
