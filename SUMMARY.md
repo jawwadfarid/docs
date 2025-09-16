@@ -38,6 +38,21 @@
 
 ***
 
+* [Templates](templates/README.md)
+  * [LinkedIn Comment Scraper](templates/linkedin-comment-scraper.md)
+  * [LinkedIn Profile Enrichment to CSV](templates/linkedin-profile-enrichment-to-csv.md)
+  * [Stock Ticker Sentiment Analyzer](templates/stock-ticker-sentiment-analyzer.md)
+  * [Brand Sentiment Analyzer](templates/brand-sentiment-analyzer.md)
+  * [Competitor Social Summary](templates/competitor-social-summary.md)
+  * [Person Finder from Slack](templates/person-finder-from-slack.md)
+  * [LinkedIn Profile Finder](templates/linkedin-profile-finder.md)
+  * [Scrape and Enrich LinkedIn Post to Google Sheets](templates/scrape-and-enrich-linkedin-post-to-google-sheets.md)
+  * [Scrape and Enrich LinkedIn Post to Google Sheets](templates/scrape-and-enrich-linkedin-post-to-google-sheets-1.md)
+  * [Rewrite Article for SEO](templates/rewrite-article-for-seo.md)
+  * [Rewrite Article for SEO](templates/rewrite-article-for-seo-1.md)
+  * [Person Finder](templates/person-finder.md)
+  * [Rewrite Article for SEO](templates/rewrite-article-for-seo-2.md)
+  * [LinkedIn Profile Extractor](templates/linkedin-profile-extractor.md)
 * [Use Cases](use-cases/README.md)
   * [Call CodeWords Workflows via API](use-cases/call-codewords-workflows-via-api.md)
   * [Building web apps with a CodeWords back-end](use-cases/building-web-apps-with-a-codewords-back-end.md)
