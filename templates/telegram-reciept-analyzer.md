@@ -28,7 +28,7 @@ This automation analyzes receipt photos and returns a clean transaction summary 
 
 **Logs for debugging**: Helpful logging around payloads, image handling, and response generation.
 
-### Instructions
+## Instructions
 
 {% stepper %}
 {% step %}
@@ -56,11 +56,11 @@ Tweak and try again: If fields are missing, resend a clearer photo or a differen
 {% endstep %}
 {% endstepper %}
 
-### Use Cases
+## Use Cases
 
 This automation is perfect for anyone who collects receipts and wants quick, accurate summaries without typing—think small business owners, finance teams, bookkeepers, and frequent travelers. It’s also great for support or operations teams that need to confirm totals and taxes from customer uploads, or for expense-tracking workflows where a fast, chat-friendly breakdown makes reviews easier.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 

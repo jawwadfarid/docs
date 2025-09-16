@@ -40,7 +40,6 @@
 ***
 
 * [Templates](templates/README.md)
-  * [Telegram Reciept Analyzer](templates/telegram-reciept-analyzer.md)
   * [LinkedIn Comment Scraper](templates/linkedin-comment-scraper.md)
   * [Stock Ticker Sentiment Analyzer](templates/stock-ticker-sentiment-analyzer.md)
   * [LinkedIn Profile Enricher to CSV](templates/linkedin-profile-enrichment-to-csv.md)
@@ -54,6 +53,7 @@
   * [LinkedIn Profile Extractor](templates/linkedin-profile-extractor.md)
   * [Rewrite Article for SEO](templates/rewrite-article-for-seo.md)
   * [Website Monitoring to Slack](templates/website-monitoring-to-slack.md)
+  * [Telegram Reciept Analyzer](templates/telegram-reciept-analyzer.md)
 * [Use Cases](use-cases/README.md)
   * [Call CodeWords Workflows via API](use-cases/call-codewords-workflows-via-api.md)
   * [Building web apps with a CodeWords back-end](use-cases/building-web-apps-with-a-codewords-back-end.md)
