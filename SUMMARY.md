@@ -39,7 +39,6 @@
 ***
 
 * [Templates](templates/README.md)
-  * [Person Finder from Whatsapp](templates/person-finder-from-whatsapp.md)
   * [LinkedIn Comment Scraper](templates/linkedin-comment-scraper.md)
   * [Stock Ticker Sentiment Analyzer](templates/stock-ticker-sentiment-analyzer.md)
   * [LinkedIn Profile Enrichment to CSV](templates/linkedin-profile-enrichment-to-csv.md)
@@ -50,6 +49,7 @@
   * [Scrape and Enrich LinkedIn Post to Google Sheets](templates/scrape-and-enrich-linkedin-post-to-google-sheets.md)
   * [Rewrite Article for SEO](templates/rewrite-article-for-seo.md)
   * [Person Finder](templates/person-finder.md)
+  * [Person Finder from Whatsapp](templates/person-finder-from-whatsapp.md)
   * [Rewrite Article for SEO](templates/rewrite-article-for-seo-1.md)
   * [LinkedIn Profile Extractor](templates/linkedin-profile-extractor.md)
 * [Use Cases](use-cases/README.md)
