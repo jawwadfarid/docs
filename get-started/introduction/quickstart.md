@@ -20,6 +20,8 @@ You'll create an automation that:
 
 > _"I want to automate my lead follow-up process. When someone fills out my contact form, I want to automatically research them and send a personalized email through my Gmail."_
 
+<figure><img src="../../.gitbook/assets/demo_short (1).gif" alt=""><figcaption></figcaption></figure>
+
 **Cody researches what's possible**
 
 Cody will:

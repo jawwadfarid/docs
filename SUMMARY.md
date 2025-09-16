@@ -20,7 +20,7 @@
   * [Schedules & Triggers](fundamentals/codewords-101/schedules-and-triggers.md)
   * [CodeWords API key](fundamentals/codewords-101/codewords-api-key/README.md)
   * [Using your own API Key](fundamentals/codewords-101/codewords-api-key/using-your-own-api-key.md)
-  * [Using a Template](fundamentals/codewords-101/using-a-template.md)
+  * [Using a Template](fundamentals/codewords-101/templates.md)
   * [Editing a Template](fundamentals/codewords-101/editing-a-template.md)
   * [Template Gallery](fundamentals/codewords-101/template-gallery.md)
 * [Intorduction to Cody](fundamentals/intorduction-to-cody.md)
