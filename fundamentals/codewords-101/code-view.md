@@ -10,4 +10,4 @@ The Code view is perfect for:
 
 You can access this by selecting the Code view tab in the workflow editor.
 
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FC0KQHHlFG9y1F0pBotb8%2Fuploads%2F5VZZmUUmhgd9RHai53Zt%2Fcode.mp4?alt=media&token=8bf13aa7-cc42-4f16-b511-fa9b2407442e" %}
+<figure><img src="../../.gitbook/assets/code.gif" alt=""><figcaption></figcaption></figure>
