@@ -79,7 +79,7 @@ Absolutely. Editing a template is the fastest way to get started. Check out the 
 
 <details>
 
-<summary><strong>What types of workflows work best on CodeWords?</strong></summary>
+<summary>What types of workflows work best on CodeWords?</summary>
 
 Data processing, social media automation, email workflows, research pipelines, monitoring systems, content generation, lead enrichment, and any business process that benefits from automation and AI integration.
 
@@ -97,7 +97,7 @@ No. CodeWords provides 100+ pre-build templates you can customize. You can choos
 
 <details>
 
-<summary><strong>How do I test my workflow?</strong></summary>
+<summary>How do I test my workflow?</summary>
 
 Use the built-in testing interface to run your workflow with real inputs. View detailed logs to debug any issues.
 
@@ -105,7 +105,7 @@ Use the built-in testing interface to run your workflow with real inputs. View d
 
 <details>
 
-<summary><strong>Can I create workflows that respond to external events?</strong></summary>
+<summary>Can I create workflows that respond to external events?</summary>
 
 Yes. Set up triggers for email arrivals, Slack messages, webhook events, form submissions, or schedule-based activations. Your workflows can react automatically to external events.
 
@@ -113,7 +113,7 @@ Yes. Set up triggers for email arrivals, Slack messages, webhook events, form su
 
 <details>
 
-<summary><strong>Do I need to worry about servers and infrastructure?</strong></summary>
+<summary>Do I need to worry about servers and infrastructure?</summary>
 
 No! CodeWords handles all infrastructure automatically. Your workflows run on-demand in secure, isolated environments. No server management, scaling concerns, or maintenance required.
 
@@ -121,7 +121,7 @@ No! CodeWords handles all infrastructure automatically. Your workflows run on-de
 
 <details>
 
-<summary><strong>How do I get help if something goes wrong?</strong></summary>
+<summary>How do I get help if something goes wrong?</summary>
 
 CodeWords provides detailed execution logs and error messages through the interface. Use the built-in support chat for technical help, or browse the extensive template library for examples and patterns.
 
@@ -129,7 +129,7 @@ CodeWords provides detailed execution logs and error messages through the interf
 
 <details>
 
-<summary><strong>Can I connect multiple workflows together?</strong></summary>
+<summary>Can I connect multiple workflows together?</summary>
 
 Yes! Workflows can call other workflows, creating complex multi-step automations. Build modular components that work together for sophisticated business processes and data pipelines.
 
@@ -137,7 +137,7 @@ Yes! Workflows can call other workflows, creating complex multi-step automations
 
 <details>
 
-<summary><strong>What if my workflow needs to process large amounts of data?</strong></summary>
+<summary>What if my workflow needs to process large amounts of data?</summary>
 
 CodeWords automatically handles scaling and timeout management. For long-running tasks, the platform provides real-time progress updates and background processing to handle large datasets efficiently.
 
@@ -176,7 +176,7 @@ Three ways:&#x20;
 
 <details>
 
-<summary><strong>How do I schedule workflows to run automatically?</strong></summary>
+<summary>How do I schedule workflows to run automatically?</summary>
 
 You can configure this after successfully building your workflow.
 
@@ -214,7 +214,7 @@ Yes, CodeWords uses secure environment variables for API keys and runs workflows
 
 </details>
 
-## Features
+
 
 ## Support
 
@@ -240,7 +240,7 @@ You can find us on [Discord](https://discord.codewords.ai) or you can email us a
 
 <details>
 
-<summary><strong>Can I make money from my workflows?</strong></summary>
+<summary>Can I make money from my workflows?</summary>
 
 You can build custom automation solutions for clients using CodeWords as your platform. Our CodeWords creator program is also coming soon. More info [here](https://www.notion.so/agemo/CodeWords-Champions-2632b520705580e692f6fa8eb0528cd1?source=copy_link).
 
