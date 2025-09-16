@@ -39,6 +39,7 @@
 ***
 
 * [Templates](templates/README.md)
+  * [Person Finder from Whatsapp](templates/person-finder-from-whatsapp.md)
   * [LinkedIn Comment Scraper](templates/linkedin-comment-scraper.md)
   * [Stock Ticker Sentiment Analyzer](templates/stock-ticker-sentiment-analyzer.md)
   * [LinkedIn Profile Enrichment to CSV](templates/linkedin-profile-enrichment-to-csv.md)
