@@ -6,13 +6,13 @@
 
 This automation analyzes stock sentiment for any ticker by aggregating recent conversations from Reddit and Twitter/X, then produces a concise, investor-ready report. It automatically finds the most relevant investing subreddits, scrapes public X search results through Nitter using Firecrawl, and synthesizes themes, bullish and bearish angles, and notable posts into a clear markdown summary. The outcome helps investors, analysts, and product teams quickly understand market chatter, surface catalysts and risks, and track sentiment shifts without manually combing through forums and social feeds.
 
-### Description
+## Description
 
 This automation delivers a comprehensive social-sentiment brief for a given stock by combining Reddit discussions (via a Reddit connector) and Twitter/X mentions (scraped through Nitter using Firecrawl) into a structured markdown report. It first uses Gemini 2.5 Flash (accessed via the OpenAI client against the CodeWords Gemini runtime) to identify the most relevant investing subreddits for the ticker, then queries those communities through the CodeWords Reddit connector to pull top posts and select comments within a chosen time window.
 
 In parallel, it scrapes X search results from Nitter using Firecrawl to capture recent public mentions without needing platform credentials. After collecting and deduplicating content, it compiles the text and prompts Gemini 2.5 Flash again to produce an organized, markdown-formatted analysis that summarizes overall sentiment, key themes, bullish and bearish arguments, catalysts, risks, and notable links—giving business users a clear, decision-support view of what the market is discussing right now.
 
-### Key Features
+## Key Features
 
 **Automatic subreddit discovery**: Uses Gemini 2.5 Flash to suggest the most relevant investing subreddits for each ticker.
 
@@ -28,7 +28,7 @@ In parallel, it scrapes X search results from Nitter using Firecrawl to capture 
 
 **Parallel fetching for speed**: Gathers Reddit and Twitter/X content concurrently to reduce turnaround time.
 
-### Instructions
+## Instructions
 
 {% stepper %}
 {% step %}
@@ -48,11 +48,11 @@ Follow the included links to read original discussions for context, and re-run w
 {% endstep %}
 {% endstepper %}
 
-### Use Case
+## Use Case
 
 This automation is ideal for equity analysts, investor relations teams, founders, product managers, and traders who need a quick, trustworthy snapshot of market chatter around a ticker—spotting emerging themes, gauging retail sentiment, surfacing catalysts and risks, and tracking how conversations shift after earnings, news, or product launches.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 

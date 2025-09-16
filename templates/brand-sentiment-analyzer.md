@@ -6,11 +6,11 @@
 
 This automation analyzes brand sentiment in online communities using AI. Give it a brand name, and it finds the most relevant Reddit communities to watch and prepares a sentiment report endpoint you can call from your tools. It’s built on FastAPI, uses AI behind the scenes (Gemini 2.5 via the CodeWords runtime), and is set up to expand into Twitter/X and LinkedIn sources. It’s a simple way to keep tabs on what people are saying about your brand—without manually hunting through posts.
 
-### Description
+## Description
 
 This automation turns a brand name into a sentiment report by combining social discussion sources into a single, structured output. It first uses AI technology to suggest the most relevant subreddits for that brand, then prepares a report endpoint you can call from your app or workflow. In parallel, it’s wired for future web crawling and social listening through your browser extension and a web crawler. After gathering the right communities to watch, it formats the result as a clean, markdown report so you can copy, share, or feed it into your dashboards for quick insights that guide marketing, support, and product decisions.
 
-### Key Features
+## Key Features
 
 **AI subreddit discovery**: Finds active, relevant Reddit communities for a given brand using Gemini 2.5 (flash) via the CodeWords runtime.
 
@@ -28,7 +28,7 @@ This automation turns a brand name into a sentiment report by combining social d
 
 **Extensible codebase**: Firecrawl and CodeWords clients are included to add real scraping, enrichment, and deeper analysis as you grow.
 
-### Instructions
+## Instructions
 
 {% stepper %}
 {% step %}
@@ -56,11 +56,11 @@ Iterate as needed: adjust the brand name, try additional brands, or extend the c
 {% endstep %}
 {% endstepper %}
 
-### Use Case
+## Use Case
 
 This automation is perfect for marketing and comms teams, founders, community managers, and product folks who want a quick, repeatable way to see where people talk about their brand and summarize the vibe. It’s great for weekly check-ins, launch monitoring, investor prep, or proactive support—without spending hours digging through threads.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 

@@ -2,15 +2,15 @@
 
 <a href="https://codewords.agemo.ai/run/person_finder" class="button primary">Use this template</a>
 
-### Overview
+## Overview
 
 This automation finds a person’s key social profiles, pulls in what’s publicly available, and uses AI to summarize it all into a clear, human‑readable report. It can start from a LinkedIn URL or just a full name with a bit of context, then searches sites like LinkedIn, Twitter/X, GitHub, and Google Scholar. It scrapes profiles through your browser, analyzes the content with AI, and even attempts a professional email lookup. You get a combined, easy‑to‑scan write‑up you can use for research, outreach, or prep before a meeting.
 
-### Description
+## Description
 
 This automation discovers and analyzes a person’s online presence by combining public sources into a concise markdown report. It first takes either a LinkedIn URL or a full name with context, then searches across LinkedIn, Twitter/X, GitHub, and Google Scholar to find likely matches. In parallel, it uses AI technology to refine search queries for each site and pick the best profile candidates to review. After scraping the profiles with a browser extension and converting the pages into clean, readable text, it analyzes the content to extract a summary, work history, skills, and recent activity, and can run an email lookup when there’s enough company information. Finally, it cross‑checks details for consistency and generates a combined analysis that’s clear, useful, and ready to share.
 
-### Key Features
+## Key Features
 
 **Multi‑platform search**: Finds likely matches on LinkedIn, Twitter/X, GitHub, and Google Scholar.
 
@@ -28,7 +28,7 @@ This automation discovers and analyzes a person’s online presence by combining
 
 **Keep‑alive streaming**: Long runs stay responsive with gentle heartbeats until the report is ready.
 
-### Instructions
+## Instructions
 
 {% stepper %}
 {% step %}
@@ -56,11 +56,11 @@ Review your combined report, check per‑platform details, and copy or save the 
 {% endstep %}
 {% endstepper %}
 
-### Use Cases
+## Use Cases
 
 This automation is perfect for sales and recruiting teams doing prospect research, founders and operators preparing for meetings, and analysts who need a quick, accurate snapshot of someone’s public professional footprint. It’s also great for developer relations and partnerships teams who want a clear view of a person’s work history, skills, and recent activity across platforms—all in one place and ready to share.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 

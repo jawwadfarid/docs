@@ -2,15 +2,15 @@
 
 <a href="https://codewords.agemo.ai/run/competitor_socials_summary" class="button primary">Use this template</a>
 
-### Overview
+## Overview
 
 This automation finds a competitor’s public social profiles and gives you a quick, plain‑English summary of what they’ve been posting lately. Share a company website, and it hunts for their LinkedIn and Twitter/X links, pulls recent updates, and uses AI to turn that activity into a clear report. It’s a simple way to keep tabs on messaging, product hints, and engagement trends—without manually checking feeds every day.
 
-### Description
+## Description
 
 This automation summarizes a competitor’s recent social activity by combining their website and public social profiles into a clean, readable report. It first takes a company website you provide and looks through the HTML to spot links to LinkedIn and Twitter/X, then fetches the latest public posts from those profiles. In parallel, it applies AI technology to scan the content for themes like product news, hiring signals, and campaign launches. After processing the posts and highlights, it composes an easy summary with key takeaways, so you get a quick snapshot that helps with competitive research and planning.
 
-### Key Features
+## Key Features
 
 **One‑line input**: Paste a competitor’s website and get a summary—no extra setup needed.
 
@@ -28,7 +28,7 @@ This automation summarizes a competitor’s recent social activity by combining 
 
 **Built for extensibility**: Designed to add more networks later (e.g., YouTube, Instagram) or custom scoring rules.
 
-### Instructions
+## Instructions
 
 {% stepper %}
 {% step %}
@@ -56,11 +56,11 @@ Share or export the report to your notes, CRM, or team chat for follow‑up.
 {% endstep %}
 {% endstepper %}
 
-### Use Cases
+## Use Cases
 
 This automation is perfect for marketers, product managers, founders, and sales teams who want a quick pulse on competitors without digging through feeds. It’s great for weekly standups, launch monitoring, campaign tracking, or prepping for a sales call—any time you need a fast, reliable read on what a competitor is saying publicly.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 

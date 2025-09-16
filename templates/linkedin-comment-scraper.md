@@ -6,31 +6,31 @@
 
 This automation extracts all comments from a LinkedIn post, cleans and structures them, and delivers the results in a ready-to-use Google Sheet along with a quick preview table. It saves teams hours of manual copy-paste by turning a LinkedIn discussion into an organized dataset of names, profile links, and comment text—ideal for lead follow-up, sentiment review, or campaign analysis. It does the heavy lifting for you using a secure Chrome extension to capture content, OpenAI to parse large/complex threads, and Google Sheets to share results with stakeholders.
 
-### Description
+## Description
 
 This automation turns any LinkedIn post's comments into a clean, deduplicated Google Sheet by combining a secure Chrome extension for on-page capture, OpenAI for accurate text extraction and structuring, and the Google Sheets API for instant sharing into a centralized spreadsheet. It first uses a Chrome extension (running in your authenticated session) to scrape the complete HTML of the LinkedIn post and comments, then uses OpenAI's large-context processing to extract commenter names, profile URLs, and comment text reliably from noisy HTML.
 
 In parallel, it prepares a new Google Sheet via the Google Sheets API, sets up headers, and ensures access for your account. After validation and deduplication by LinkedIn profile URL, it writes the data to the sheet and generates an HTML-rich markdown preview so you can quickly scan results without opening the sheet. It finishes by returning a direct link to the Google Sheet and a formatted preview that your team can use immediately for outreach, analysis, or reporting.
 
-### Key Features
+## Key Features
 
-**One-click LinkedIn capture** : Pulls full comment threads from a given LinkedIn post URL using a secure Chrome extension running in your authenticated session.
+**One-click LinkedIn capture**: Pulls full comment threads from a given LinkedIn post URL using a secure Chrome extension running in your authenticated session.
 
-**AI-powered parsing** : Uses OpenAI to robustly extract names, profile URLs, and comment text from complex HTML and long threads.
+**AI-powered parsing**: Uses OpenAI to robustly extract names, profile URLs, and comment text from complex HTML and long threads.
 
-**Automatic deduplication** : Removes duplicates based on LinkedIn profile URL to keep your dataset clean and actionable.
+**Automatic deduplication**: Removes duplicates based on LinkedIn profile URL to keep your dataset clean and actionable.
 
-**Instant Google Sheet creation** : Spins up a new Google Sheet via the Google Sheets API and appends all structured comments with timestamps.
+**Instant Google Sheet creation**: Spins up a new Google Sheet via the Google Sheets API and appends all structured comments with timestamps.
 
-**Shareable preview** : Returns an HTML-rich markdown table preview so you can review results at a glance before opening the sheet.
+**Shareable preview**: Returns an HTML-rich markdown table preview so you can review results at a glance before opening the sheet.
 
-**Scales to long threads** : Handles large posts and many comments using asynchronous processing and large-content parsing.
+**Scales to long threads**: Handles large posts and many comments using asynchronous processing and large-content parsing.
 
-**Consistent schema** : Outputs standardized columns (Full Name, LinkedIn Profile URL, Comment Text, Timestamp) ready for analysis or export.
+**Consistent schema**: Outputs standardized columns (Full Name, LinkedIn Profile URL, Comment Text, Timestamp) ready for analysis or export.
 
-**Secure by design** : Uses your authenticated LinkedIn session (via extension) and your Google account permissions; no public posting or scraping credentials are shared.
+**Secure by design**: Uses your authenticated LinkedIn session (via extension) and your Google account permissions; no public posting or scraping credentials are shared.
 
-### Instructions
+## Instructions
 
 {% stepper %}
 {% step %}
@@ -58,7 +58,7 @@ Export or follow up: Use the sheet for outreach, analysis, or reporting; export 
 {% endstep %}
 {% endstepper %}
 
-### Use Case
+## Use Case
 
 This automation is ideal for marketing teams, community managers, sales and SDR teams, and analysts who need to quickly turn LinkedIn comment threads into actionable lead lists, sentiment summaries, and campaign insights without manual copy-paste. It helps with event follow-ups, influencer campaign analysis, product feedback mining, and identifying engaged prospects directly from social interactions.
 

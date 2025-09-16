@@ -6,11 +6,11 @@
 
 This automation enriches a list of LinkedIn profile URLs and turns them into a clean, ready-to-share CSV—complete with names, roles, company info, and a probable work email—using AI, a browser-based fetch, and an email lookup. It pulls profile pages through your browser, extracts useful details with AI, and tries to find a matching business email, then ships everything back as a CSV you can download or plug into your CRM. It's a fast way to go from raw LinkedIn links to usable contact data without manual copying and pasting.
 
-### Description
+## Description
 
 This automation takes a CSV of LinkedIn profile URLs and turns it into an enriched CSV by combining browser-captured profile pages, AI technology for data extraction, and an email lookup into a single streamlined flow. It first downloads your CSV of LinkedIn URLs and opens each profile through a browser extension to capture the page content cleanly, then converts the page into readable text for processing. In parallel, it uses AI technology to extract structured profile details like first name, last name, title, and company, while also running an email lookup based on the person and the company. After processing each profile, it compiles all the enriched fields and writes them back into a fresh CSV, then uploads the file and returns a handy link so you can download results that are ready to share, import, or sync to your tools.
 
-### Key Features
+## Key Features
 
 **Upload a CSV of LinkedIn URLs**: Start with a simple list of profile links you already have.
 
@@ -28,7 +28,7 @@ This automation takes a CSV of LinkedIn profile URLs and turns it into an enrich
 
 **Hosted upload link**: Automatically uploads the final CSV and provides a link to your enriched results.
 
-### Instructions
+## Instructions
 
 {% stepper %}
 {% step %}
@@ -56,11 +56,11 @@ This automation takes a CSV of LinkedIn profile URLs and turns it into an enrich
 {% endstep %}
 {% endstepper %}
 
-### Use Case
+## Use Case
 
 This automation is perfect for sales, recruiting, and growth teams that have a list of LinkedIn profiles and want a fast, consistent way to enrich them with roles, companies, and likely work emails. It's great for prepping outreach lists, updating a CRM, building a candidate pipeline, or validating prospect data without hours of manual research.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 

@@ -2,15 +2,15 @@
 
 <a href="https://codewords.agemo.ai/run/scrape_and_enrich_linkedin_post_to_google_sheets" class="button primary">Use this template</a>
 
-### Overview
+## Overview
 
 This automation scrapes the people who reacted to or commented on a LinkedIn post, collects their profile links, and spins up a Google Sheet you can share with your team. It uses AI to pull out names and profile URLs from what’s on the page, then kicks off background enrichment to add details like job title, company, email, and more. Everything runs through your browser and lands neatly in Google Sheets so you can review, filter, and take action quickly.
 
-### Description
+## Description
 
 This automation turns a LinkedIn post’s interactions into a clean, shareable Google Sheet by combining a browser extension for scraping and AI technology for extraction into a structured sheet. It first opens the LinkedIn post and scrolls the reactions list to gather the visible names and profile links, then uses AI to read that content and extract each person’s name and LinkedIn URL. In parallel, it creates a fresh Google Sheet to store the results. After the initial profiles are captured, it starts a background enrichment process that looks up the fields you care about (like company, job title, or email) and writes them into the sheet, producing an up-to-date contact list that’s ready for outreach or follow-up.
 
-### Key Features
+## Key Features
 
 **LinkedIn post scraping**: Gathers people who liked or commented on a post directly through your browser.
 
@@ -28,7 +28,7 @@ This automation turns a LinkedIn post’s interactions into a clean, shareable G
 
 **Structured logging**: Built-in logging with structlog for easy monitoring and troubleshooting.
 
-### Instructions
+## Instructions
 
 {% stepper %}
 {% step %}
@@ -56,11 +56,11 @@ Review and share your sheet. Filter, sort, and use it for outreach or follow-up 
 {% endstep %}
 {% endstepper %}
 
-### Use Cases
+## Use Cases
 
 This automation is perfect for marketers, recruiters, founders, and sales teams who want to turn engagement on LinkedIn into a targeted outreach list. Whether you’re following up with everyone who reacted to your launch post, building a talent pipeline from a popular discussion, or mapping accounts from a thought leadership thread, this tool gathers the names, links, and key details you need—fast—right in Google Sheets.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 

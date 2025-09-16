@@ -52,17 +52,17 @@ Review the WhatsApp summary that arrives with links and key details; reply with 
 {% endstep %}
 {% endstepper %}
 
-#### Use Cases <a href="#use-cases" id="use-cases"></a>
+## Use Cases <a href="#use-cases" id="use-cases"></a>
 
 This automation is perfect for recruiters, sales teams, founders, and busy operators who need quick context on people mentioned in chats. It helps you validate a person’s details, grab their LinkedIn link, and keep the conversation flowing without switching apps or digging through search results. Great for daily standups, candidate screens, partner intros, or any chat where names come up and you want instant, reliable background info.
 
-#### Frequently Asked Questions <a href="#frequently-asked-questions" id="frequently-asked-questions"></a>
+## Frequently Asked Questions <a href="#frequently-asked-questions" id="frequently-asked-questions"></a>
 
 <details>
 
 <summary><strong>How do I start using this automation?</strong></summary>
 
-
+Register your WhatsApp number once, then just mention a person in any message. The automation will analyze the text, run a search, and reply with a formatted summary.
 
 </details>
 
@@ -70,7 +70,7 @@ This automation is perfect for recruiters, sales teams, founders, and busy opera
 
 <summary><strong>What if I don’t include a full name?</strong></summary>
 
-
+The AI does its best with what you send, but including a full name and quick context, like company or role, improves accuracy. If it can’t find enough to search, it will ask you for more details.
 
 </details>
 
@@ -78,7 +78,7 @@ This automation is perfect for recruiters, sales teams, founders, and busy opera
 
 <summary><strong>How long do results take?</strong></summary>
 
-
+You’ll get a confirmation right away, and results typically arrive in about 4–5 minutes, depending on the search depth and sources.
 
 </details>
 
@@ -86,7 +86,7 @@ This automation is perfect for recruiters, sales teams, founders, and busy opera
 
 <summary><strong>Can I customize the reply format?</strong></summary>
 
-
+Yes. During registration, add a message like “Only show name, title, and company.” The automation will follow your formatting preference for future replies.
 
 </details>
 
@@ -94,7 +94,7 @@ This automation is perfect for recruiters, sales teams, founders, and busy opera
 
 <summary><strong>What information can it include?</strong></summary>
 
-
+By default, it looks for a full name, role, company, and public profile links (like LinkedIn). You can also request extras such as certifications or recent publications.
 
 </details>
 
@@ -102,7 +102,7 @@ This automation is perfect for recruiters, sales teams, founders, and busy opera
 
 <summary><strong>Does this work in group chats?</strong></summary>
 
-
+Yes. If the registered number receives the message event and the text mentions a person with some context, the automation will try to process it and reply.
 
 </details>
 
@@ -110,7 +110,7 @@ This automation is perfect for recruiters, sales teams, founders, and busy opera
 
 <summary><strong>Which tools does it use under the hood?</strong></summary>
 
-
+It runs on FastAPI and uses OpenAI (via the CodeWords runtime) for AI extraction and formatting, a WhatsApp trigger for inbound/outbound messages, and a Person Finder step to gather public profiles.
 
 </details>
 
@@ -118,7 +118,7 @@ This automation is perfect for recruiters, sales teams, founders, and busy opera
 
 <summary><strong>Is my data secure?</strong></summary>
 
-
+Messages are processed through the CodeWords runtime with your API key. Only the necessary text is analyzed to extract names and context, and results are sent back to your WhatsApp number.
 
 </details>
 
@@ -126,7 +126,7 @@ This automation is perfect for recruiters, sales teams, founders, and busy opera
 
 <summary><strong>What happens if the automation can’t find a person?</strong></summary>
 
-
+You’ll get a friendly prompt asking for a clearer name or more context so it can try again.
 
 </details>
 
@@ -134,8 +134,6 @@ This automation is perfect for recruiters, sales teams, founders, and busy opera
 
 <summary><strong>Can I stop or pause it?</strong></summary>
 
-
+You can unregister your number from the WhatsApp trigger in your CodeWords workspace, or disable the automation temporarily if you don’t want new messages processed.
 
 </details>
-
-[PreviousRewrite Article for SEO](https://app.gitbook.com/o/7isqlJn3eTzit1bZKstj/s/AhAMu49WvdtciQN8GvZ3/rewrite-article-for-seo)[NextWebsite Monitoring to Slack](https://app.gitbook.com/o/7isqlJn3eTzit1bZKstj/s/AhAMu49WvdtciQN8GvZ3/website-monitoring-to-slack)![marketing social](https://lh3.googleusercontent.com/a/ACg8ocI4Cg7pC5pJrfy_8_p9ezZPppoLMeDszaSN31zfMJpSsp5ixQ=s96-c)Last modified 1d agoDraggable item page/e6oDmPuwkRlnS0LzUccg was dropped over droppable area :rg4t:

@@ -2,15 +2,15 @@
 
 <a href="https://codewords.agemo.ai/run/linkedin_profile_finder" class="button primary">Use this template</a>
 
-### Overview
+## Overview
 
-This automation finds LinkedIn profiles and pulls current job details for people listed in a Google Sheet. It reads names from your sheet, looks up the matching LinkedIn profile through your browser, and uses AI to extract the person’s current title and company. Then it writes everything back to the same sheet so your list stays up to date. It runs as a simple API you can trigger, and it uses Google Sheets, a browser extension, and AI working together behind the scenes to save you hours of manual research.
+This automation finds LinkedIn profiles and pulls current job details for people listed in a Google Sheet. It reads names from your sheet, looks up the matching LinkedIn profile through your browser, and uses AI to extract the person’s current title and company. Then it writes everything back to the same sheet, so your list stays up to date. It runs as a simple API you can trigger, and it uses Google Sheets, a browser extension, and AI working together behind the scenes to save you hours of manual research.
 
-### Description
+## Description
 
 This automation enriches people data from a Google Sheet by combining sheet rows, browser-based LinkedIn lookups, and AI technology into a clean, updated spreadsheet. It first reads the names that are missing LinkedIn details, then searches for each person’s LinkedIn profile and grabs the best match. In parallel, it uses AI technology to parse the profile content and pull out the current job title and company. After processing each name (with smart limits to avoid overloading your tools), it writes the LinkedIn URL, title, and company back to the sheet to produce an enriched list that’s ready for outreach, recruiting, or research.
 
-### Key Features
+## Key Features
 
 **Google Sheets to LinkedIn enrichment**: Reads names from a sheet and fills in LinkedIn URL, title, and company.
 
@@ -28,7 +28,7 @@ This automation enriches people data from a Google Sheet by combining sheet rows
 
 **Production-ready FastAPI app**: Runs with FastAPI and Uvicorn for reliable, lightweight execution.
 
-### Instructions
+## Instructions
 
 {% stepper %}
 {% step %}
@@ -56,11 +56,11 @@ Tweak and repeat as needed: adjust the row limit, fix any ambiguous names in you
 {% endstep %}
 {% endstepper %}
 
-### Use Cases
+## Use Cases
 
 This automation is perfect for sales, marketing, and recruiting teams who maintain people lists in Google Sheets and need quick, reliable LinkedIn details. It’s great for enriching lead lists, preparing for outreach, checking current roles before a campaign, or building a targeted talent pool. If you’re tired of opening tab after tab and copy-pasting titles and companies, this makes the process fast, consistent, and easy.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 
