@@ -1,6 +1,10 @@
 # Running Workflows
 
-A Run page is a detailed log of a single execution of one of your workflows. Whenever a workflow is triggered, a new Run page is generated, giving you a complete audit trail of the process.
+You can test your workflow directly in the same chat where you created it by switching to Run mode, making it easy to validate your workflow's functionality.
+
+<figure><img src="../../.gitbook/assets/Area.gif" alt=""><figcaption></figcaption></figure>
+
+You can also use the Run page, which is a detailed log of a single execution of one of your workflows. Whenever a workflow is triggered, a new Run page is generated, giving you a complete audit trail of the process.
 
 Each Run page shows you:
 
