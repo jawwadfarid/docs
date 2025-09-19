@@ -25,6 +25,8 @@ codeAuthorization: Bearer YOUR_API_KEY_HERE
 codeContent-Type: application/json
 ```
 
+<figure><img src="../../.gitbook/assets/Area (1) (1).gif" alt=""><figcaption></figcaption></figure>
+
 ### 3. Synchronous API Calls (≤120 seconds)
 
 Use for workflows that complete quickly (under 2 minutes).
