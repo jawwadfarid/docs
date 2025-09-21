@@ -34,7 +34,7 @@ _The workflow automatically sends the generated summary to your Gmail address. T
 
 Cody will:
 
-* Check if there are existing templates that match your needs (15+ proven templates available)
+* Check if there are existing templates that match your needs (30+ proven templates available)
 * Explore the 2700+ app integrations available through the platform
 * Verify all the connections and data sources needed
 
