@@ -79,6 +79,14 @@ Absolutely. Editing a template is the fastest way to get started. Check out the 
 
 <details>
 
+<summary>How much does it cost?</summary>
+
+You only pay for what you use. You start with $5 in free credits to build and run automations, and can top up with any amount in your [wallet](https://codewords.agemo.ai/account/wallet). You can also find the cost of building and running a particular workflow in the [History](https://codewords.agemo.ai/workflows/history) page.
+
+</details>
+
+<details>
+
 <summary>What types of workflows work best on CodeWords?</summary>
 
 Data processing, social media automation, email workflows, research pipelines, monitoring systems, content generation, lead enrichment, and any business process that benefits from automation and AI integration.
@@ -153,7 +161,7 @@ CodeWords automatically handles scaling and timeout management. For long-running
 
 <details>
 
-<summary>Can I generate my own custom UI?</summary>
+<summary>Can I generate my own custom UI?`</summary>
 
 This is a feature coming soon. In the meantime, you can follow [this](../use-cases/building-web-apps-with-a-codewords-back-end.md) guide to integrate with popular UI generation tools.
 
@@ -259,5 +267,13 @@ Check out the Agemo [blog](https://agemo.ai/blog) where we document our research
 <summary>Who is behind CodeWords?</summary>
 
 [Agemo](https://agemo.ai/).
+
+</details>
+
+<details>
+
+<summary>What stack is CodeWords using?</summary>
+
+CodeWords builds workflows using FastAPI, Python and a mix of first-party and third-party providers for integrations and tools.
 
 </details>
