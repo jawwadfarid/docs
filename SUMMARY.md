@@ -76,6 +76,7 @@
 * [Tips and Tricks](guides/tips-and-tricks.md)
 * [Troubleshooting](guides/troubleshooting.md)
 * [FAQ](guides/faq.md)
+* [Referral Program](guides/referral-program.md)
 * [Glossary](guides/glossary.md)
 * [CodeWords on IDE](guides/codewords-on-ide/README.md)
   * [Platform Overview](guides/codewords-on-ide/platform-overview.md)
