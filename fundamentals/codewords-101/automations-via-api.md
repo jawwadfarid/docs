@@ -1,6 +1,6 @@
 # Automations via API
 
-Below is the step by step guide on calling your workflow automations through API on CodeWords.
+Below is the step by step guide on calling your automations on codewrods through CodeWords API.
 
 ### 1. Get Your API Key
 
