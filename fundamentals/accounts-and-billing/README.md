@@ -1,10 +1,24 @@
 # Accounts and Billing
 
+### Pricing
+
+CodeWords currently uses a **usage-based** pricing model.
+
+Pricing reflects our standard processing rates. Usage rates vary depending on the process you’re completing, such as using our web agent or calling integrations.
+
+We’ll be developing our pricing flexibility soon, but for now you’ll be able to build and test out the platform at a lower rate so you can explore everything that CodeWords has to offer.
+
 ### Understanding credits
 
-**What's a credit?** Think of credits as your automation fuel. Every action your workflows perform — from updating a spreadsheet cell to having AI summarize a document — uses credits. Simple tasks use fewer credits, while complex operations (like AI processing) use more.
+Every action your workflows perform — from updating a spreadsheet cell to having AI summarize a document — uses credits. Simple tasks use fewer credits, while complex operations (like AI processing) use more.
 
-It's like a pay-as-you-go system that scales with what you actually use.
+It's a pay-as-you-go system that scales with what you actually use.
+
+On average, running workflows from a template costs between $0.00001 - $1.
+
+Please note that our usage-based pricing varies depending on how complex your workflow is and how many other tools are used in the process.
+
+You’ll be able to cancel any scheduled or triggered automations at any point.
 
 ### How credits work
 
