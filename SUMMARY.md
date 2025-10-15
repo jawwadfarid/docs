@@ -2,9 +2,9 @@
 
 ## Get Started
 
-* [Introduction](README.md)
-  * [Get to know the platform](get-started/introduction/get-to-know-the-platform.md)
-  * [Getting started](get-started/introduction/getting-started.md)
+* [Automations from chat with CodeWords](README.md)
+  * [Get to know the platform](get-started/automations-from-chat-with-codewords/get-to-know-the-platform.md)
+  * [Getting started](get-started/automations-from-chat-with-codewords/getting-started.md)
 * [Quickstart](get-started/introduction/quickstart.md)
 * [Quickstart](get-started/quickstart-1.md)
 

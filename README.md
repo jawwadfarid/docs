@@ -1,10 +1,13 @@
 ---
+description: >-
+  Build powerful AI automations from chat using natural language. CodeWords.ai
+  lets anyone connect 2,700+ apps, integrate external APIs, all without coding.
 layout:
   width: default
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -15,33 +18,39 @@ layout:
     visible: true
 ---
 
-# Introduction
+# Automations from chat with CodeWords
 
-Welcome to CodeWords. We’re excited that you’re here to build faster, smarter, and more efficient automations. This documentation is designed to guide you through the platform for building, deploying, and managing your workflow automations.
+### **Integrate with 2,500+ Apps**
 
-For a quick overview, check out our introduction video. It covers the core features and shows you how to build your first automation.
+CodeWords.ai connects seamlessly with your favorite apps and services. You can browse the full list of apps on the [Integrations](https://codewords.agemo.ai/account/integrations?utm_source=docs) page.
+
+Beyond built-in app integrations, CodeWords provides several powerful ways to connect your workflows to external systems:
+
+1. [**Codewords API key**](https://codewords.agemo.ai/account/keys?utm_source=docs): Use your API key to securely connect to any external service.
+2. **Webhooks**: Open HTTP endpoints that let external services to send data directly to your workflows via HTTP POST requests.
+3. **Triggers:** App-based triggers allow you to start workflows automatically from your favorite apps and services.
+4. **External APIs**: Workflows in CodeWords are written as Python scripts, enabling seamless integration with any external API. This allows our agent to easily connect to and interact with third-party systems.
+5. **CodeWords client Integration**: Integrate your workflows with custom user interfaces built using platforms like [Lovable](https://lovable.dev/) , [V0](https://v0.app/) & more.
 
 {% embed url="https://www.youtube.com/watch?ab_channel=CodeWords&v=HyLI2FElTH0" %}
 
-## Ready to automate?
+### Get Started in Minutes
 
 {% stepper %}
 {% step %}
-### Sign up for free
-
-Go to [codewords.agemo.ai/](https://codewords.agemo.ai/) to get started
+Go to [codewords.agemo.ai/login](https://codewords.agemo.ai/login) to create your account
 {% endstep %}
 
 {% step %}
-### Build your first workflow
+#### Build your first workflow
 
-Open the [Quickstart guide](https://docs.codewords.ai/get-started/quickstart) & build your first workflow in minutes
+Use the [Quickstart guide](https://docs.codewords.ai/get-started/quickstart) to help you build your workflow in minutes.
 {% endstep %}
 
 {% step %}
-### Explore Templates
+#### Explore pre-built templates
 
-Browse from our pre-built templates in the [Template Gallery](https://codewords.agemo.ai/template-gallery)
+Browse from the [Template Gallery](https://codewords.agemo.ai/template-gallery?utm_source=docs) to jump-start your automation ideas
 {% endstep %}
 {% endstepper %}
 
