@@ -1,7 +1,8 @@
 ---
 description: >-
-  Build powerful AI automations from chat using natural language. CodeWords.ai
-  lets anyone connect 2,700+ apps, integrate external APIs, all without coding.
+  Build powerful workflow automations from chat using natural language.
+  CodeWords.ai lets anyone connect 2,700+ apps, integrate external APIs, all
+  without coding.
 layout:
   width: default
   title:
@@ -19,6 +20,10 @@ layout:
 ---
 
 # Getting Started with CodeWords
+
+### What is CodeWords?
+
+CodeWords is an AI-powered automation platform that helps teams and individuals build, deploy, and manage workflows faster. Whether you’re a no-code creator or a developer, CodeWords turns plain English instructions into fully functional Python-based automations and intelligent agents.
 
 ### **Integrate with 2,500+ Apps**
 
