@@ -3,7 +3,7 @@
 ## Get Started
 
 * [Getting Started with CodeWords](README.md)
-* [Quickstart](get-started/quickstart.md)
+* [Quickstart](get-started/quickstart-1.md)
 
 ## Fundamentals
 

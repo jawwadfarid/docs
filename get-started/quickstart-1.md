@@ -121,6 +121,8 @@ You can run or modify your automation anytime.
 * **Permission error:** Re-authenticate Gmail integration.
 * **Email missing:** Check spam/junk folder and whitelist sender.
 
+***
+
 #### Summary
 
 You’ve successfully built your first end-to-end CodeWords automation. It:
