@@ -3,10 +3,7 @@
 ## Get Started
 
 * [Getting Started with CodeWords](README.md)
-  * [Get to know the platform](get-started/getting-started-with-codewords/get-to-know-the-platform.md)
-  * [Getting started](get-started/getting-started-with-codewords/getting-started.md)
-* [Quickstart](get-started/introduction/quickstart.md)
-* [Quickstart](get-started/quickstart-1.md)
+* [Quickstart](get-started/quickstart.md)
 
 ## Fundamentals
 
