@@ -2,29 +2,43 @@
 
 ### Pricing
 
-CodeWords currently uses a **usage-based** pricing model.
+CodeWords currently uses a usage-based pricing model.
 
-Pricing reflects our standard processing rates. Usage rates vary depending on the process you’re completing, such as using our web agent or calling integrations.
+Pricing reflects our standard processing rates. Usage rates vary depending on the process you're completing, such as using our web agent or calling integrations.
 
-We’ll be developing our pricing flexibility soon, but for now you’ll be able to build and test out the platform at a lower rate so you can explore everything that CodeWords has to offer.
+We'll be developing our pricing flexibility soon, but for now you'll be able to build and test out the platform at a lower rate so you can explore everything that CodeWords has to offer.
 
-### Understanding credits
+### Credits Usage
 
 Every action your workflows perform — from updating a spreadsheet cell to having AI summarize a document — uses credits. Simple tasks use fewer credits, while complex operations (like AI processing) use more.
 
 It's a pay-as-you-go system that scales with what you actually use.
 
-On average, running workflows from a template costs between $0.00001 - $1.
+#### Building automations
+
+Our current pricing reflects that our platform is still early, and we want our users to feel empowered to build and experiment when building automations.
+
+On average, building an automation by chatting with Cody will cost between **$0.50 - $2**. Extensive or highly complex automations might cost more than this.
+
+#### Editing automations
+
+Updating and customizing templates usually costs between **$0.1 - $1** on average. Very complex customizations might cost more than this.
+
+#### Running automations
+
+On average, running workflows from a template costs between **$0.00001 - $1.**
 
 Please note that our usage-based pricing varies depending on how complex your workflow is and how many other tools are used in the process.
 
-You’ll be able to cancel any scheduled or triggered automations at any point.
+You'll be able to cancel any scheduled or triggered automations at any point.&#x20;
+
+**Note:** you might still incur some limited overspill charges whilst your cancellation takes place.
 
 ### How credits work
 
-**Automatic usage**: Credits get used automatically whenever your workflows run. No need to think about it — your automations just work, and credits handle the behind-the-scenes costs.
+**Automatic usage:** Credits get used automatically whenever your workflows run. No need to think about it — your automations just work, and credits handle the behind-the-scenes costs.
 
-**Track your usage**: Keep an eye on your credit consumption right from your main Dashboard, or dive deeper in Settings > Billing. You'll see exactly what's using credits and how much you have left.
+**Track your usage:** Keep an eye on your credit consumption right from your main Dashboard, or dive deeper in Settings > Billing. You'll see exactly what's using credits and how much you have left.
 
 ### Adding more credits
 
