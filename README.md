@@ -45,8 +45,10 @@ Beyond built-in app integrations, CodeWords provides several powerful ways to co
 {% step %}
 #### Signup for free
 
-You can create account with a free $5 credits.
+You can create account and receive $5 in free credits. No credit card required.
+{% endstep %}
 
+{% step %}
 #### Build your first workflow
 
 Use the [Quickstart guide](https://docs.codewords.ai/get-started/quickstart) to help you build your workflow in minutes.
@@ -55,7 +57,7 @@ Use the [Quickstart guide](https://docs.codewords.ai/get-started/quickstart) to 
 {% step %}
 #### Explore pre-built templates
 
-Browse from the [Template Gallery](https://codewords.agemo.ai/template-gallery?utm_source=docs) to jump-start your automation ideas
+Browse from the [Template Gallery](https://codewords.agemo.ai/template-gallery?utm_source=docs) to to find ready-to-use automations for lead enrichment, social media posting, report generation, and more. Clone any template in one click and customize it.
 {% endstep %}
 {% endstepper %}
 
