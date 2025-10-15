@@ -51,7 +51,7 @@ You can create account and receive $5 in free credits. No credit card required.
 {% step %}
 #### Build your first workflow
 
-Use the [Quickstart guide](https://docs.codewords.ai/get-started/quickstart) to help you build your workflow in minutes.
+Simply paste your prompt about your automation into the chat interface. Use the [Quickstart guide](https://docs.codewords.ai/get-started/quickstart) to help you guide through the process.
 {% endstep %}
 
 {% step %}
