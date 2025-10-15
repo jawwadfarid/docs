@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Automations from chat with CodeWords
+# Getting Started with CodeWords
 
 ### **Integrate with 2,500+ Apps**
 
@@ -38,10 +38,10 @@ Beyond built-in app integrations, CodeWords provides several powerful ways to co
 
 {% stepper %}
 {% step %}
-Sign up for free
-{% endstep %}
+#### Signup for free
 
-{% step %}
+You can create account with a free $5 credits.
+
 #### Build your first workflow
 
 Use the [Quickstart guide](https://docs.codewords.ai/get-started/quickstart) to help you build your workflow in minutes.
