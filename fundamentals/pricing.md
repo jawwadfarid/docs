@@ -14,17 +14,17 @@ Every action your workflows perform — from updating a spreadsheet cell to havi
 
 It's a pay-as-you-go system that scales with what you actually use.
 
-#### Building automations
+### Building automations
 
 Our current pricing reflects that our platform is still early, and we want our users to feel empowered to build and experiment when building automations.
 
 On average, building an automation by chatting with Cody will cost between **$0.50 - $2**. Extensive or highly complex automations might cost more than this.
 
-#### Editing automations
+### Editing automations
 
 Updating and customizing templates usually costs between **$0.1 - $1** on average. Very complex customizations might cost more than this.
 
-#### Running automations
+### Running automations
 
 On average, running workflows from a template costs between **$0.00001 - $1.**
 
