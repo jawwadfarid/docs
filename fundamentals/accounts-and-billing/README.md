@@ -70,3 +70,9 @@ Running low on credits? No worries:
 
 
 
+We’re working on making our pricing model as transparent as possible.
+
+**Please contact** [**support@codewords.ai**](mailto:support@codewords.ai) **for any questions regarding our pricing model.**
+
+
+
