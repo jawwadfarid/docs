@@ -37,7 +37,7 @@
   * [Popular Integrations](fundamentals/popular-integrarions/popular-integrations.md)
   * [Integrations & API Keys](fundamentals/popular-integrarions/integrations-and-api-keys.md)
   * [AI models](fundamentals/popular-integrarions/llm-models.md)
-* [Accounts and Billing](fundamentals/accounts-and-billing.md)
+* [Pricing](fundamentals/pricing.md)
 
 ***
 
