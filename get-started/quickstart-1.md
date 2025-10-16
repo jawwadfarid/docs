@@ -25,7 +25,7 @@ You’ll create a workflow that scrapes content from a web page, summarizes it w
 **Cody’s Planning Process:**
 
 * **Template Search:** Checks from the available automation templates.
-* **Integration verification:** Confirms access to neccessary app integrations.
+* **Integration verification:** Confirms access to necessary app integrations.
 * **Automation Plan Generated:**
   * **Web scraping:** Extract main text content from a target URL.
   * **AI summarization:** Generate a concise, easy-to-read summary.
@@ -41,7 +41,7 @@ Once approved, Cody begins building.
 **What Cody Builds:**
 
 * Accepts a **public URL** as input.
-* Navigates to the web page and **extracts main text content**.
+* Navigates to the web page and **extracts the main text content**.
 * Ignores ads, navigation, and sidebars for clean data.
 
 **Test Example:**
