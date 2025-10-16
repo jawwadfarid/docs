@@ -44,7 +44,9 @@ Cody empowers you to **create, modify, and manage automations and AI agents** us
 * **Debug and optimize:**\
   When something doesn’t work as expected, Cody automatically inspects logs, identifies issues, and helps you **fix or optimize** the workflow for better performance.
 * **Connect with other platforms:**\
-  Integrate seamlessly with external apps or custom apps built on **Lovable**, **Bolt**, **V0**, and many more
+  Integrate seamlessly with external apps or custom apps built on **Lovable**, **Bolt**, **V0**, and many more.
+
+***
 
 ### Why Cody Is Different
 
