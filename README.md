@@ -25,7 +25,7 @@ layout:
 
 [CodeWords](https://codewords.agemo.ai/) is an AI-powered automation platform that helps teams and individuals build, deploy, and manage workflows faster. Whether you’re a no-code creator or a developer, CodeWords turns plain English instructions into fully functional Python-based automations and intelligent agents.
 
-### **Integrate with 2,500+ Apps**
+### Integrate with 2,500+ Apps
 
 [CodeWords](https://codewords.agemo.ai/) connects seamlessly with your favorite apps and services. You can browse the full list of apps on the [Integrations](https://codewords.agemo.ai/account/integrations?utm_source=docs) page.
 
