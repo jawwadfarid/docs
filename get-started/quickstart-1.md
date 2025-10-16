@@ -14,7 +14,7 @@ You’ll create a workflow that scrapes content from a web page, summarizes it w
 
 ***
 
-#### **Step 1: Plan Your Automation**
+#### Step 1: Plan Your Automation
 
 **Goal:** Scrape a web page → summarize content with AI → send summary via Gmail.
 
@@ -36,7 +36,7 @@ Once approved, Cody begins building.
 
 ***
 
-#### **Step 2: Cody builds the extraction module**
+#### Step 2: Cody builds the extraction module
 
 **What Cody Builds:**
 
@@ -74,7 +74,7 @@ Once approved, Cody begins building.
 
 ***
 
-#### **Step 4: Final Workflow Test**
+#### Step 4: Final Workflow Test
 
 **Goal:** Validate the full automation end-to-end.
 
@@ -93,7 +93,7 @@ Once confirmed, Cody deploys your automation.
 
 ***
 
-#### **Step 5: Deployment and Automation URL**
+#### Step 5: Deployment and Automation URL
 
 Cody provides a unique execution URL:
 
@@ -103,7 +103,7 @@ You can run or modify your automation anytime.
 
 ***
 
-#### **Step 6: Troubleshooting Guide**
+#### Step 6: Troubleshooting Guide
 
 **Website Scraping Issues**
 
