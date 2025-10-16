@@ -23,11 +23,11 @@ layout:
 
 ### What is CodeWords?
 
-CodeWords is an AI-powered automation platform that helps teams and individuals build, deploy, and manage workflows faster. Whether you’re a no-code creator or a developer, CodeWords turns plain English instructions into fully functional Python-based automations and intelligent agents.
+[CodeWords](https://codewords.agemo.ai/) is an AI-powered automation platform that helps teams and individuals build, deploy, and manage workflows faster. Whether you’re a no-code creator or a developer, CodeWords turns plain English instructions into fully functional Python-based automations and intelligent agents.
 
 ### **Integrate with 2,500+ Apps**
 
-CodeWords.ai connects seamlessly with your favorite apps and services. You can browse the full list of apps on the [Integrations](https://codewords.agemo.ai/account/integrations?utm_source=docs) page.
+[CodeWords](https://codewords.agemo.ai/) connects seamlessly with your favorite apps and services. You can browse the full list of apps on the [Integrations](https://codewords.agemo.ai/account/integrations?utm_source=docs) page.
 
 Beyond built-in app integrations, CodeWords provides several powerful ways to connect your workflows to external systems:
 
@@ -51,7 +51,7 @@ You can create account and receive $5 in free credits. No credit card required.
 {% step %}
 #### Build your first workflow
 
-Simply paste your prompt about your automation into the chat interface. Use the [Quickstart guide](https://docs.codewords.ai/get-started/quickstart) to help you guide through the process.
+Simply paste your prompt about your automation into the chat interface. Use the [Quickstart Guide](https://docs.codewords.ai/get-started/quickstart) to help you guide through the process.
 {% endstep %}
 
 {% step %}
