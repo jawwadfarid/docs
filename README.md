@@ -23,7 +23,7 @@ layout:
 
 ### What is CodeWords?
 
-[CodeWords](https://codewords.agemo.ai/) is an **AI-powered automation platform** that helps teams and individuals **build, deploy, and manage workflows faster**. Whether you’re a **no-code creator** or a **developer.** CodeWords converts **natural language prompts into intelligent AI agents and workflows**, helping users automate complex tasks with ease.
+[CodeWords](https://codewords.agemo.ai/) is an AI-powered automation platform that helps teams and individuals build, deploy, and manage workflows faster. Whether you’re a no-code creator or a develope&#x72;**.** CodeWords converts natural language prompts into intelligent AI agents and workflows, helping users automate complex tasks with ease.
 
 ### Integrate with 2,700+ Apps
 
