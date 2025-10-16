@@ -7,7 +7,7 @@ description: >-
 
 # Quickstart
 
-### **Building Your First Automation: Web Scraper & Gmail Summarizer**
+### Building Your First Automation: Web Scraper & Gmail Summarizer
 
 This tutorial walks you through building your first CodeWords automation.\
 You’ll create a workflow that scrapes content from a web page, summarizes it with AI, and sends the summary to your Gmail inbox.
