@@ -1,10 +1,11 @@
 ---
+description: Navigate to or search FAQs for questions related to any specific topic.
 layout:
   width: default
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -17,13 +18,13 @@ layout:
 
 # FAQ
 
-## Getting Started
+### Getting Started
 
 <details>
 
 <summary>What is CodeWords?</summary>
 
-CodeWords is an AI-powered platform that enables builders of any technical ability to create automations by chatting with AI with no setup or configuration required.
+[CodeWords](https://codewords.agemo.ai/) is an AI-powered automation platform that helps teams and individuals build, deploy, and manage workflows faster. Whether you’re a no-code creator or a developer, CodeWords turns plain English instructions into fully functional Python-based automations and intelligent agents.
 
 </details>
 
@@ -31,7 +32,7 @@ CodeWords is an AI-powered platform that enables builders of any technical abili
 
 <summary>What can I build with CodeWords?</summary>
 
-CodeWords lets you build powerful automations and workflows that integrate with 2,700+ tools including LinkedIn, Google Workspace, Slack, GitHub, and more. From simple data processing tasks to complex AI-powered research pipelines, monitoring systems, and multi-step business process automations.\
+CodeWords lets you build powerful workflow automations and AI Agents that integrate with 2,700+ tools, including LinkedIn, Google Workspace, Slack, GitHub, and more. From simple data processing tasks to complex AI-powered research pipelines, monitoring systems, and multi-step business process automations.\
 \
 Each service automatically gets a professional web interface and API endpoint, making it easy for users to interact with your workflows through forms, file uploads, and rich output displays.
 

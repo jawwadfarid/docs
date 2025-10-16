@@ -4,6 +4,7 @@
 
 * [Getting Started with CodeWords](README.md)
 * [Quickstart](get-started/quickstart-1.md)
+* [FAQ](get-started/faq.md)
 
 ## Fundamentals
 
@@ -71,7 +72,6 @@
 
 * [Tips and Tricks](guides/tips-and-tricks.md)
 * [Troubleshooting](guides/troubleshooting.md)
-* [FAQ](guides/faq.md)
 * [Referral Program](guides/referral-program.md)
 * [Glossary](guides/glossary.md)
 * [CodeWords on IDE](guides/codewords-on-ide/README.md)
