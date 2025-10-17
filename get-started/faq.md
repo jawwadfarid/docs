@@ -30,11 +30,43 @@ layout:
 
 <details>
 
+<summary>How does CodeWords work?</summary>
+
+CodeWords conversational AI assistant (Cody) generates real code behind the scenes. You describe what you want, and CodeWords builds it, integrates your tools, and runs it automatically.
+
+</details>
+
+<details>
+
+<summary>Do I need coding knowledge to use CodeWords?</summary>
+
+No. CodeWords is designed for **both non-technical users and developers**. You can automate workflows through simple conversation, and advanced users can view or edit the underlying Python code when needed.
+
+</details>
+
+<details>
+
+<summary>How quickly can I build my first workflow?</summary>
+
+Most users can build and deploy their first workflow in **under five minutes** using Cody’s step-by-step conversational builder and pre-made templates.
+
+</details>
+
+<details>
+
 <summary>What can I build with CodeWords?</summary>
 
 CodeWords lets you build powerful workflow automations and AI Agents that integrate with 2,700+ tools, including LinkedIn, Google Workspace, Slack, GitHub, and more. From simple data processing tasks to complex AI-powered research pipelines, monitoring systems, and multi-step business process automations.\
 \
 Each service automatically gets a professional web interface and API endpoint, making it easy for users to interact with your workflows through forms, file uploads, and rich output displays.
+
+</details>
+
+<details>
+
+<summary>What makes CodeWords different from alternative automation tools like Zapier and Make?</summary>
+
+**Unlike traditional no-code tools** that rely on rigid blocks or limited actions, **CodeWords generates real Python automation code**, empowering **Cody** to handle **complex logic and deep integrations** — all **without writing a single line of code**. Describe what you want in **plain English**, and Cody builds it for you.
 
 </details>
 
@@ -48,49 +80,17 @@ No. CodeWords is designed to build automations and back-end workflows.
 
 <details>
 
-<summary>How is CodeWords different from Zapier and n8n?</summary>
+<summary><strong>Can I try CodeWords for free?</strong></summary>
 
-CodeWords is chat-first, enabling users to go from an idea to an automation in minutes without having to get familiar with drag-and-drop interfaces and set up access and permissions.
-
-</details>
-
-<details>
-
-<summary>How technical do I need to be?</summary>
-
-CodeWords handles all the complex infrastructure and setup – servers, scaling, security, setup, UI generation – such that all you need is your domain expertise and business logic.
+**Yes. CodeWords offers a free tier with $5 in credits** (No Credit Card required), allowing you to start building and testing workflows right away before adding more credits.&#x20;
 
 </details>
 
 <details>
 
-<summary>Do I need coding experience to use CodeWords?</summary>
+<summary><strong>How do I get started with CodeWords?</strong><br></summary>
 
-No. CodeWords is for builders of all technical ability. All you need to start with is an idea of a process you'd like to automate.
-
-</details>
-
-<details>
-
-<summary>Can I start with a template?</summary>
-
-Absolutely. Editing a template is the fastest way to get started. Check out the template gallery [here](https://codewords.agemo.ai/template-gallery) and pick a template to customize with the chat.
-
-</details>
-
-<details>
-
-<summary>How much does it cost?</summary>
-
-You only pay for what you use. You start with $5 in free credits to build and run automations, and can top up with any amount in your [wallet](https://codewords.agemo.ai/account/wallet). You can also find the cost of building and running a particular workflow in the [History](https://codewords.agemo.ai/workflows/history) page.
-
-</details>
-
-<details>
-
-<summary>What types of workflows work best on CodeWords?</summary>
-
-Data processing, social media automation, email workflows, research pipelines, monitoring systems, content generation, lead enrichment, and any business process that benefits from automation and AI integration.
+You can sign up at [codewords.ai](https://codewords.ai), explore the [Quickstart Guide](https://docs.codewords.ai/get-started/quickstart), and chat with [Cody](https://docs.codewords.ai/fundamentals/introduction-to-cody) to build your first automation in minutes.
 
 </details>
 
