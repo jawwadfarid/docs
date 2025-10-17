@@ -56,9 +56,9 @@ Most users can build and deploy their first workflow in **under five minutes** u
 
 <summary>What can I build with CodeWords?</summary>
 
-CodeWords lets you build powerful workflow automations and AI Agents that integrate with 2,700+ tools, including LinkedIn, Google Workspace, Slack, GitHub, and more. From simple data processing tasks to complex AI-powered research pipelines, monitoring systems, and multi-step business process automations.\
-\
-Each service automatically gets a professional web interface and API endpoint, making it easy for users to interact with your workflows through forms, file uploads, and rich output displays.
+**CodeWords helps you build smart automations and AI agents** that work with **2,700+ popular tools** like **LinkedIn, Google Workspace, WhatsApp, Slack, Telegram, and GitHub**. You can automate anything — from **simple data tasks** to **complex, AI-powered workflows** or **AI Agents** that run your business in the background.
+
+Each automation you create automatically includes a **Run Page**, where you can **run it manually, schedule it, or trigger it based on app events**. It also comes with an **API endpoint**, so you can interact with your automation through an external service with your codewords API key — all with **no extra setup or coding required**.
 
 </details>
 
