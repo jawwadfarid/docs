@@ -18,7 +18,7 @@ layout:
 
 # FAQ
 
-### Getting Started
+### General Questions
 
 <details>
 
