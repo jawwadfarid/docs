@@ -67,6 +67,7 @@
   * [Marketing](use-cases/marketing.md)
   * [Finance](use-cases/finance.md)
   * [Building web apps with a CodeWords back-end](use-cases/building-web-apps-with-a-codewords-back-end.md)
+* [Launched](launched.md)
 
 ## Guides&#x20;
 
