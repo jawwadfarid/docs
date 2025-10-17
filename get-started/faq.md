@@ -92,7 +92,7 @@ Yes. CodeWords offers a free tier with $5 in credits (No Credit Card required), 
 
 <summary>How do I get started with CodeWords?</summary>
 
-You can sign up at [codewords.ai](https://codewords.ai), explore the [Quickstart Guide](https://docs.codewords.ai/get-started/quickstart), and chat with [Cody](https://docs.codewords.ai/fundamentals/introduction-to-cody) to build your first automation in minutes.
+You can sign up at [Codewords.ai](https://codewords.ai), explore the [Quickstart Guide](https://docs.codewords.ai/get-started/quickstart), and chat with [Cody](https://docs.codewords.ai/fundamentals/introduction-to-cody) to build your first automation in minutes.
 
 </details>
 
