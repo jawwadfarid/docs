@@ -80,7 +80,7 @@ No. CodeWords is designed to build automations and back-end workflows.
 
 <details>
 
-<summary><strong>Can I try CodeWords for free?</strong></summary>
+<summary>Can I try CodeWords for free?</summary>
 
 **Yes. CodeWords offers a free tier with $5 in credits** (No Credit Card required), allowing you to start building and testing workflows right away before adding more credits.&#x20;
 
@@ -88,7 +88,7 @@ No. CodeWords is designed to build automations and back-end workflows.
 
 <details>
 
-<summary><strong>How do I get started with CodeWords?</strong><br></summary>
+<summary>How do I get started with CodeWords?</summary>
 
 You can sign up at [codewords.ai](https://codewords.ai), explore the [Quickstart Guide](https://docs.codewords.ai/get-started/quickstart), and chat with [Cody](https://docs.codewords.ai/fundamentals/introduction-to-cody) to build your first automation in minutes.
 
