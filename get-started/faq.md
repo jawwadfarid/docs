@@ -96,13 +96,13 @@ You can sign up at [codewords.ai](https://codewords.ai), explore the [Quickstart
 
 </details>
 
-## Building on CodeWords
+## Features and Capabilities
 
 <details>
 
-<summary>Do I need to start from scratch?</summary>
+<summary>What Integrations does CodeWords support?</summary>
 
-No. CodeWords provides 100+ pre-build templates you can customize. You can choose from options like Linkedin enrichers, sentiment analyzers, or email automation.
+CodeWords supports 2700+ Integrations including Gmail, Slack, Notion, Airtable, Google Sheets, Discord, Whatsapp, Mailchimp, Spotify, Hubspot and many more. You can find all the integrations that we support at our [Integrations](https://codewords.agemo.ai/account/integrations) page.
 
 </details>
 
