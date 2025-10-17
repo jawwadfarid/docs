@@ -40,7 +40,9 @@ CodeWords conversational AI assistant (Cody) generates real code behind the scen
 
 <summary>Do I need coding knowledge to use CodeWords?</summary>
 
-No. CodeWords is designed for **both non-technical users and developers**. You can automate workflows through simple conversation, and advanced users can view or edit the underlying Python code when needed.
+**No. CodeWords is built with non-technical users in mind.**\
+It’s designed so anyone can create **AI agents and workflow automations** just by describing what they want in plain English — no coding required.\
+Developers can still access and edit the **Python code** for deeper customization when needed.
 
 </details>
 
