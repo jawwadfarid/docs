@@ -40,9 +40,9 @@ CodeWords conversational AI assistant (Cody) generates real code behind the scen
 
 <summary>Do I need coding knowledge to use CodeWords?</summary>
 
-**No. CodeWords is built with non-technical users in mind.**\
-It’s designed so anyone can create **AI agents and workflow automations** just by describing what they want in plain English — no coding required.\
-Developers can still access and edit the **Python code** for deeper customization when needed.
+No. CodeWords is built with non-technical users in mind.\
+It’s designed so anyone can create AI agents and workflow automations just by describing what they want in plain English — no coding required.\
+Developers can still access and edit the Python code for deeper customization when needed.
 
 </details>
 
@@ -50,7 +50,7 @@ Developers can still access and edit the **Python code** for deeper customizatio
 
 <summary>How quickly can I build my first workflow?</summary>
 
-Most users can build and deploy their first workflow in **under five minutes** using Cody’s step-by-step conversational builder and pre-made templates.
+Most users can build and deploy their first workflow in under five minutes using Cody’s step-by-step conversational builder and pre-made templates.
 
 </details>
 
@@ -58,9 +58,9 @@ Most users can build and deploy their first workflow in **under five minutes** u
 
 <summary>What can I build with CodeWords?</summary>
 
-**CodeWords helps you build smart automations and AI agents** that work with **2,700+ popular tools** like **LinkedIn, Google Workspace, WhatsApp, Slack, Telegram, and GitHub**. You can automate anything — from **simple data tasks** to **complex, AI-powered workflows** or **AI Agents** that run your business in the background.
+CodeWords helps you build smart automations and AI agents that work with 2,700+ popular tools like LinkedIn, Google Workspace, WhatsApp, Slack, Telegram, and GitHub. You can automate anything — from simple data tasks to complex, AI-powered workflows or AI Agents that run your business in the background.
 
-Each automation you create automatically includes a **Run Page**, where you can **run it manually, schedule it, or trigger it based on app events**. It also comes with an **API endpoint**, so you can interact with your automation through an external service with your codewords API key — all with **no extra setup or coding required**.
+Each automation you create automatically includes a Run Page, where you can run it manually, schedule it, or trigger it based on app events. It also comes with an API endpoint, so you can interact with your automation through an external service with your codewords API key — all with no extra setup or coding required.
 
 </details>
 
@@ -68,7 +68,7 @@ Each automation you create automatically includes a **Run Page**, where you can 
 
 <summary>What makes CodeWords different from alternative automation tools like Zapier and Make?</summary>
 
-**Unlike traditional no-code tools** that rely on rigid blocks or limited actions, **CodeWords generates real Python automation code**, empowering **Cody** to handle **complex logic and deep integrations** — all **without writing a single line of code**. Describe what you want in **plain English**, and Cody builds it for you.
+Unlike traditional no-code tools that rely on rigid blocks or limited actions, CodeWords generates real Python automation code, empowering Cody to handle complex logic and deep integrations — all without writing a single line of code. Describe what you want in plain English, and Cody builds it for you.
 
 </details>
 
@@ -84,7 +84,7 @@ No. CodeWords is designed to build automations and back-end workflows.
 
 <summary>Can I try CodeWords for free?</summary>
 
-**Yes. CodeWords offers a free tier with $5 in credits** (No Credit Card required), allowing you to start building and testing workflows right away before adding more credits.&#x20;
+Yes. CodeWords offers a free tier with $5 in credits (No Credit Card required), allowing you to start building and testing workflows right away before adding more credits.&#x20;
 
 </details>
 
@@ -195,7 +195,7 @@ You can configure this after successfully building your workflow.
 
 <details>
 
-<summary><strong>Can others use my workflows?</strong> </summary>
+<summary>Can others use my workflows? </summary>
 
 Yes, you can share workflows as private (you only), public (anyone can use), or templates (others can copy and modify). Each gets a permanent URL.
 
@@ -203,7 +203,7 @@ Yes, you can share workflows as private (you only), public (anyone can use), or 
 
 <details>
 
-<summary><strong>Can I call workflows via API?</strong> </summary>
+<summary>Can I call workflows via API? </summary>
 
 Yes, every deployed workflow gets an API endpoint at https://runtime.codewords.ai/run/{service\_id} for programmatic access from external systems.
 
