@@ -11,8 +11,6 @@ description: >-
 
 **Cody is your AI automation assistant** that builds powerful **workflows and AI agents through natural conversation**. Unlike traditional workflow builders that rely on drag-and-drop blocks, **Cody generates real automation code**, adapts intelligently to your needs, and handles **complex, multi-step logic** that other tools can’t.
 
-***
-
 ### How it works
 
 #### 1. Understands your needs
@@ -31,8 +29,6 @@ At any stage of the process, if something isn’t clear, **Cody proactively asks
 
 Once approved, **Cody deploys your automation and runs real-data tests** to verify that every step performs as expected. It validates integrations, logic, and outputs to ensure everything functions smoothly. If any issues arise during testing, **Cody automatically reviews the workflow logs, identifies the root cause, and applies fixes** — keeping your automation running reliably without manual debugging.
 
-***
-
 ### What You Can Do
 
 Cody empowers you to **create, modify, and manage automations and AI agents** using natural conversation — no coding required.
@@ -45,8 +41,6 @@ Cody empowers you to **create, modify, and manage automations and AI agents** us
   When something doesn’t work as expected, Cody automatically inspects logs, identifies issues, and helps you **fix or optimize** the workflow for better performance.
 * **Connect with other platforms:**\
   Integrate seamlessly with external apps or custom apps built on **Lovable**, **Bolt**, **V0**, and many more.
-
-***
 
 ### Why Cody Is Different
 
