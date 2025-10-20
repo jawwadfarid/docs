@@ -31,11 +31,11 @@ layout:
 
 Beyond built-in app integrations, CodeWords provides several powerful ways to connect your workflows to external systems:
 
-1. [Codewords API key](https://codewords.agemo.ai/account/keys?utm_source=docs): Use your API key to connect to any external service securely.
-2. Webhooks: Open HTTP endpoints that let external services send data directly to your workflows via HTTP POST requests.
-3. Trigger&#x73;**:** App-based triggers allow you to start workflows automatically from your favorite apps and services.
-4. External APIs: Workflows in CodeWords are written as Python scripts, enabling seamless integration with any external API. This allows our agent to connect to and interact with third-party systems easily.
-5. CodeWords client Integration: Integrate your workflows with custom user interfaces built using platforms like [Lovable](https://lovable.dev/), [V0](https://v0.app/) & more.
+1. [**Codewords API key**](https://codewords.agemo.ai/account/keys?utm_source=docs): Use your API key to connect to any external service securely.
+2. **Webhooks**: Open HTTP endpoints that let external services send data directly to your workflows via HTTP POST requests.
+3. **Triggers:** App-based triggers allow you to start workflows automatically from your favorite apps and services.
+4. **External APIs**: Workflows in CodeWords are written as Python scripts, enabling seamless integration with any external API. This allows our agent to connect to and interact with third-party systems easily.
+5. **CodeWords client Integration**: Integrate your workflows with custom user interfaces built using platforms like [Lovable](https://lovable.dev/), [V0](https://v0.app/) & more.
 
 {% embed url="https://www.youtube.com/watch?ab_channel=CodeWords&v=HyLI2FElTH0" %}
 

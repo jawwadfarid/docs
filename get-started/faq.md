@@ -102,15 +102,19 @@ You can sign up at [Codewords.ai](https://codewords.ai), explore the [Quickstart
 
 <summary>What Integrations does CodeWords support?</summary>
 
-CodeWords supports 2700+ Integrations including Gmail, Slack, Notion, Airtable, Google Sheets, Discord, Whatsapp, Mailchimp, Spotify, Hubspot and many more. You can find all the integrations that we support at our [Integrations](https://codewords.agemo.ai/account/integrations) page.
+CodeWords supports 2700+ Integrations, including Gmail, Slack, Notion, Airtable, Google Sheets, Discord, WhatsApp, Mailchimp, Spotify, Hubspot and many more. You can find all the integrations that we support at our [Integrations](https://codewords.agemo.ai/account/integrations) page.
 
 </details>
 
 <details>
 
-<summary>How do I test my workflow?</summary>
+<summary>Can CodeWords integrate with custom UIs built on Lovable &#x26; V0 or external apps?</summary>
 
-Use the built-in testing interface to run your workflow with real inputs. View detailed logs to debug any issues.
+Yes. CodeWords can connect with apps built on Lovable, V0, or any external platform using two integration methods:
+
+1. **CodeWords Client Library:** Offers quick, minimal-code integration for apps built with **Python** or **TypeScript/JavaScript**.
+
+2) **REST API Calls:** Ideal for connecting CodeWords with apps built in **other programming languages**, using standard HTTP requests.
 
 </details>
 
