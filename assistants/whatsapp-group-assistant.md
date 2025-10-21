@@ -84,11 +84,19 @@ The workflow uses AI to analyze the message, take action, and send a response ba
 
 {% stepper %}
 {% step %}
+#### Build the Assistant
+
+Describe the kind of WhatsApp assistant you want to create.
+
+Example: "Create a WhatsApp assistant for my group that’s connected to an LLM and automatically responds to any message from group members."
+{% endstep %}
+
+{% step %}
 #### Register your number
 
 Tell **Cody**:
 
-> “Register my phone number +447000000000 for a WhatsApp group assistant.”
+> “Register my phone number +447000000000 for the WhatsApp group assistant.”
 
 Cody will create your registration and send setup instructions.
 {% endstep %}
