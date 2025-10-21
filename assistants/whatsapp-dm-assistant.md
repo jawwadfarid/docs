@@ -26,6 +26,30 @@ Think of it like:
 * Users can save it as a contact
 * Available **24/7** for automation
 
+### Setting Up Your First DM Assistant
+
+{% stepper %}
+{% step %}
+#### Build the Assistant
+
+Describe the kind of WhatsApp assistant you want to create along with its trigger.
+
+Example: "Create a WhatsApp assistant that’s connected to an LLM and automatically responds to any message that I send back. Also make sure that its connected to my google calendar, such that It has access to view, edit, list and create events on my calendar. "
+{% endstep %}
+
+{% step %}
+### Provide your phone number
+
+Cody will ask which phone number you want your AI assistant to connect to. Once connected and the Assistant is built your Assistant will send you a welcome message.
+{% endstep %}
+
+{% step %}
+#### Test your Assistant
+
+Send any message — the assistant will detect it and respond through your Custom WhatsApp DM Assistant.
+{% endstep %}
+{% endstepper %}
+
 ### Direct Messaging vs Group Assistants
 
 | Feature         | Direct Messaging (this guide)       | Group Assistants (Wassenger)          |
@@ -82,30 +106,6 @@ Build intelligent conversations where **users** ask questions and get instant he
 | ----------------------------------- | ---------------------------------------------------------------- |
 | Receiving messages                  | Free                                                             |
 | Sending messages(All Message types) | €0.002 per message (≈ 0.2¢) + Cost of executing the AI Assistant |
-
-### Setting Up Your First DM Assistant
-
-{% stepper %}
-{% step %}
-#### Build the Assistant
-
-Describe the kind of WhatsApp assistant you want to create along with its trigger.
-
-Example: "Create a WhatsApp assistant that’s connected to an LLM and automatically responds to any message that I send back. Also make sure that its connected to my google calendar, such that It has access to view, edit, list and create events on my calendar. "
-{% endstep %}
-
-{% step %}
-### Provide your phone number
-
-Cody will ask which phone number you want your AI assistant to connect to. Once connected and the Assistant is built your Assistant will send you a welcome message.
-{% endstep %}
-
-{% step %}
-#### Test your Assistant
-
-Send any message — the assistant will detect it and respond through your Custom WhatsApp DM Assistant.
-{% endstep %}
-{% endstepper %}
 
 ### Getting Help
 
