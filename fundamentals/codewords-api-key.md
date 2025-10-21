@@ -1,5 +1,5 @@
 ---
-icon: key-skeleton
+icon: key
 ---
 
 # CodeWords API key
