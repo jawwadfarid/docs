@@ -85,7 +85,7 @@
 
 ## Assistants
 
-* [Whatsapp Group Assistant](assistants/whatsapp-group-assistant.md)
+* [WhatsApp Group Assistant](assistants/whatsapp-group-assistant.md)
 * [Glossary](assistants/glossary.md)
 * [Codewords Templates](assistants/codewords-templates/README.md)
   * [Person Finder](assistants/codewords-templates/person-finder.md)

@@ -6,9 +6,9 @@ description: >-
 icon: whatsapp
 ---
 
-# Whatsapp Group Assistant
+# WhatsApp Group Assistant
 
-### What are whatsapp group assistants
+### What are WhatsApp group assistants
 
 **WhatsApp Group Assistants** are automated assistants that help manage your group chats. They can:
 
@@ -25,13 +25,13 @@ Think of them as **AI-powered helpers** that keep your WhatsApp groups active, o
 
 CodeWords makes it easy to build, run, and manage bots — **no coding required**.
 
-Here’s why users choose CodeWords whatsapp assistant:
+Here’s why users choose CodeWords WhatsApp assistant:
 
-1. Build whatsap assistant by chatting with **Cody.**
-2. 24/7 automation as the whatsapp assistants run continuously in the cloud
-3. Connect whatsapp assistants with 2,700+ apps and AI models
+1. Build WhatsApp assistant by chatting with **Cody.**
+2. 24/7 automation as the WhatsApp assistants run continuously in the cloud
+3. Connect WhatsApp assistants with 2,700+ apps and AI models
 4. Secure & private as your data stays protected
-5. Launch a working whatsapp assistant in under 10 minutes
+5. Launch a working WhatsApp assistant in under 10 minutes
 
 ### **What WhatsApp Group Bots Can Do**
 
@@ -50,7 +50,7 @@ Here’s why users choose CodeWords whatsapp assistant:
 {% step %}
 #### The Group
 
-You add the **CodeWords Whatsapp Group Assistant number** (+447466216790) to your WhatsApp group.
+You add the **CodeWords WhatsApp Group Assistant number** (+447466216790) to your WhatsApp group.
 {% endstep %}
 
 {% step %}
@@ -94,7 +94,7 @@ Cody will create your registration and send setup instructions.
 {% endstep %}
 
 {% step %}
-#### **Add the assistant to your whatsapp group**
+#### **Add the assistant to your WhatsApp group**
 
 1. Open your group → Tap group name → “Add participant”
 2. Add +447466216790
@@ -124,7 +124,7 @@ Assistant Successfully Linked!
 {% endstep %}
 
 {% step %}
-### Test your Bot
+#### Test your Bot
 
 Send any message in the group — the assistant will detect it and respond through your Custom CodeWords Assistant.
 {% endstep %}
