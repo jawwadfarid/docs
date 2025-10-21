@@ -10,25 +10,25 @@ icon: hand-wave
 
 ### What is Cody?
 
-**Cody is your AI automation assistant** that builds powerful **workflows and AI agents through natural conversation**. Unlike traditional workflow builders that rely on drag-and-drop blocks, **Cody generates real automation code**, adapts intelligently to your needs, and handles **complex, multi-step logic** that other tools can’t.
+Cody is your AI automation assistant that builds powerful workflows and AI agents through natural conversation. Unlike traditional workflow builders that rely on drag-and-drop blocks, Cody generates real automation code, adapts intelligently to your needs, and handles complex, multi-step logic that other tools can’t.
 
 ### How it works
 
 #### 1. Understands your needs
 
-Simply describe what you want to achieve in **natural language** — Cody analyzes your goal, determines the required **steps, logic, and app integrations**, and presents a clear plan. You can **review, edit, or approve** this plan before Cody begins building.
+Simply describe what you want to achieve in natural language — Cody analyzes your goal, determines the required steps, logic, and app integrations, and presents a clear plan. You can review, edit, or approve this plan before Cody begins building.
 
 #### 2. Builds the workflow
 
-Once approved, Cody **writes the automation code** and connects all the necessary integrations to power your **workflow automation** or **AI agents**. It handles the technical details behind the scenes, ensuring your workflow is efficient, reliable, and production-ready without you having to write a single line of code.
+Once approved, Cody writes the automation code and connects all the necessary integrations to power your workflow automation or AI agents. It handles the technical details behind the scenes, ensuring your workflow is efficient, reliable, and production-ready without you having to write a single line of code.
 
 #### 3. Asks clarifying questions
 
-At any stage of the process, if something isn’t clear, **Cody proactively asks follow-up questions** to ensure it fully understands your goal. This helps refine your workflow and guarantees that the final automation behaves exactly as you intend.
+At any stage of the process, if something isn’t clear, Cody proactively asks follow-up questions to ensure it fully understands your goal. This helps refine your workflow and guarantees that the final automation behaves exactly as you intend.
 
 #### 4. Deploys and tests automatically
 
-Once approved, **Cody deploys your automation and runs real-data tests** to verify that every step performs as expected. It validates integrations, logic, and outputs to ensure everything functions smoothly. If any issues arise during testing, **Cody automatically reviews the workflow logs, identifies the root cause, and applies fixes** — keeping your automation running reliably without manual debugging.
+Once approved, Cody deploys your automation and runs real-data tests to verify that every step performs as expected. It validates integrations, logic, and outputs to ensure everything functions smoothly. If any issues arise during testing, Cody automatically reviews the workflow logs, identifies the root cause, and applies fixes — keeping your automation running reliably without manual debugging.
 
 ### What You Can Do
 
@@ -47,13 +47,13 @@ Cody empowers you to **create, modify, and manage automations and AI agents** us
 
 #### Conversational Automation
 
-Unlike traditional workflow builders that rely on drag-and-drop interfaces or complex form setups, **Cody lets you build through natural conversation**. Simply describe your goal in plain English, and Cody translates it into a working automation — instantly.
+Unlike traditional workflow builders that rely on drag-and-drop interfaces or complex form setups, Cody lets you build through natural conversation. Simply describe your goal in plain English, and Cody translates it into a working automation — instantly.
 
 #### Real Code, No Coding
 
-While most automation tools depend on predefined actions, **Cody generates real Python automation code behind the scenes**. This means it can handle **complex logic, multi-step workflows, and deep API integrations** that rigid no-code builders can’t.
+While most automation tools depend on predefined actions, Cody generates real Python automation code behind the scenes. This means it can handle complex logic, multi-step workflows, and deep API integrations that rigid no-code builders can’t.
 
-With Cody, you get the **flexibility of coding** and the **ease of conversation** — an intelligent agent that thinks, builds, and adapts like a developer, without requiring one.
+With Cody, you get the flexibility of coding and the ease of conversation — an intelligent agent that thinks, builds, and adapts like a developer, without requiring one.
 
 
 
