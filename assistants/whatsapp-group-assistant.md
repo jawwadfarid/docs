@@ -94,11 +94,71 @@ Example: "Create a WhatsApp assistant for my group that’s connected to an LLM 
 {% step %}
 #### Register your number
 
-Tell **Cody**:
+Tell **Cody** your number:
 
 > “Register my phone number +447000000000 for the WhatsApp group assistant.”
 
 Cody will create your registration and send setup instructions.
+{% endstep %}
+
+{% step %}
+#### Add the assistant to your WhatsApp group
+
+1. Open your group → Tap group name → “Add participant”
+2. Add +447466216790
+3. Confirm addition
+
+You’ll see:
+
+{% hint style="success" %}
+"+447466216790 was added"
+{% endhint %}
+{% endstep %}
+
+{% step %}
+#### Mention the Assistant
+
+In your group, type:
+
+```
+@CodeWords
+```
+
+You’ll get confirmation:
+
+{% hint style="success" %}
+Assistant Successfully Linked!
+{% endhint %}
+{% endstep %}
+
+{% step %}
+#### Test your Assistant
+
+Send any message in the group — the assistant will detect it and respond through your Custom WhatsApp Group Assistant.
+{% endstep %}
+{% endstepper %}
+
+### Connect an existing WhatsApp Assistant template
+
+{% stepper %}
+{% step %}
+#### Access the template
+
+Go to the Run Page for the WhatsApp Assistant template and review its description to understand how it works.
+{% endstep %}
+
+{% step %}
+#### Run the template
+
+Enter your phone number (including country code), then launch the assistant template to start setup and testing.
+
+You’ll see:
+
+{% hint style="success" %}
+Chatbot registration created successfully!
+{% endhint %}
+
+Follow the instructions thats shown.
 {% endstep %}
 
 {% step %}
