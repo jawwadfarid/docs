@@ -21,9 +21,9 @@ icon: whatsapp
 
 Think of them as **AI-powered helpers** that keep your WhatsApp groups active, organized, and responsive — even when you’re offline.
 
-### **Why Build WhatsApp Bots with CodeWords**
+### **Why Build WhatsApp Assistants with CodeWords**
 
-CodeWords makes it easy to build, run, and manage bots — **no coding required**.
+CodeWords makes it easy to build, run, and manage assistants — **no coding required**.
 
 Here’s why users choose CodeWords WhatsApp assistant:
 
@@ -33,7 +33,7 @@ Here’s why users choose CodeWords WhatsApp assistant:
 4. Secure & private as your data stays protected
 5. Launch a working WhatsApp assistant in under 10 minutes
 
-### **What WhatsApp Group Bots Can Do**
+### **What WhatsApp Group Assistant Can Do**
 
 | Use Case           | What It Does                         | Example                                                        |
 | ------------------ | ------------------------------------ | -------------------------------------------------------------- |
@@ -44,7 +44,7 @@ Here’s why users choose CodeWords WhatsApp assistant:
 | Engagement Tracker | Tracks reactions and member activity | Weekly leaderboard of top contributors                         |
 | Community Manager  | Schedules events and sends reminders | “Team meeting tomorrow at 10 AM 📅”                            |
 
-### **How WhatsApp Bots Work**
+### **How WhatsApp Assistant Work**
 
 {% stepper %}
 {% step %}
@@ -56,7 +56,7 @@ You add the **CodeWords WhatsApp Group Assistant number** (+447466216790) to you
 {% step %}
 #### Event detection
 
-The bot listens for key events — like messages, reactions, or new members.
+The Assistant listens for key events — like messages, reactions, or new members.
 {% endstep %}
 
 {% step %}
@@ -72,7 +72,7 @@ The workflow uses AI to analyze the message, take action, and send a response ba
 {% endstep %}
 {% endstepper %}
 
-### **Event Types the Bot Detects**
+### **Event Types the Assistant Detects**
 
 | `message:in:new`   | When someone sends a message | Reply, log, or summarize content     |
 | ------------------ | ---------------------------- | ------------------------------------ |
@@ -80,7 +80,7 @@ The workflow uses AI to analyze the message, take action, and send a response ba
 | `message:update`   | Polls or event changes       | Share updated results                |
 | `message:reaction` | Emoji reaction added         | Track engagement or popular messages |
 
-### **Setting Up Your First Bot**
+### **Setting Up Your First Assistant**
 
 {% stepper %}
 {% step %}
@@ -108,7 +108,7 @@ You’ll see:
 {% endstep %}
 
 {% step %}
-#### Mention the bot
+#### Mention the Assistant
 
 In your group, type:
 
@@ -124,7 +124,7 @@ Assistant Successfully Linked!
 {% endstep %}
 
 {% step %}
-#### Test your Bot
+#### Test your Assistant
 
 Send any message in the group — the assistant will detect it and respond through your Custom CodeWords Assistant.
 {% endstep %}
@@ -135,14 +135,14 @@ Send any message in the group — the assistant will detect it and respond throu
 | Text, Poll, Event, Location   | €0.002 | “Daily update,” “New event added”                                                                       |
 | ----------------------------- | ------ | ------------------------------------------------------------------------------------------------------- |
 | Image, Video, Audio, Document | €0.004 | Reports, media summaries                                                                                |
-| Receiving messages            | Free   | You only pay for what the bot sends                                                                     |
+| Receiving messages            | Free   | You only pay for what the Assistant sends                                                               |
 | Custom Assistant  Actions     | Custom | It depends on how many tools & actions your assistant is connected to and has to perform these actions. |
 
 ### Getting Help
 
-If your bot isn’t responding:
+If your Assistant isn’t responding:
 
-1. Confirm it’s linked (@CodeWords bot)
+1. Confirm it’s linked (@CodeWords)
 2. Ask Cody to verify your linked groups
 3. Check in-app support or use live chat at [codewords.ai](https://codewords.agemo.ai/)
 
