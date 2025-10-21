@@ -20,16 +20,12 @@ Think of it as a **virtual assistant that can browse the web and complete tasks 
 
 1. **Complex research tasks** where you don’t know all the steps
 
-{% hint style="info" %}
 Example: “Find the CEO’s email on the company website — check the About page, Team page, or Contact form.”
-{% endhint %}
 
 2. **Dynamic websites** that change often (e.g. LinkedIn, news sites)
 3. **Exploratory automation** that requires decision-making
 
-{% hint style="info" %}
 Example: “Search for product reviews and summarize the top 5 complaints.”
-{% endhint %}
 
 4. **Authenticated websites** behind logins (e.g. LinkedIn profiles, private dashboards)
 
