@@ -15,7 +15,6 @@ WhatsApp Direct Messaging (DM) Assistants lets you send messages to individual u
 Think of it like:
 
 * 📧 **Email marketing** → but on WhatsApp with **98% open rates**
-* 📞 **Call center** → but automated **24/7** via WhatsApp
 * 📲 **SMS alerts** → but richer with images, links, and **two-way chat**
 
 ### CodeWords WhatsApp Business Number
