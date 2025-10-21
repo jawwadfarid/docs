@@ -2,6 +2,7 @@
 description: >-
   CodeWords Webhooks are HTTP endpoints that allow external systems to send data
   directly to your CodeWords workflows or Agents.
+icon: webhook
 ---
 
 # Webhooks Trigger

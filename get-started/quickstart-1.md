@@ -3,6 +3,7 @@ description: >-
   Get started by building your first automation — a simple AI-powered workflow
   that scrapes content from any web page, summarizes it, and emails the results
   to your inbox.
+icon: rocket
 ---
 
 # Quickstart

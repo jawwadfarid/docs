@@ -1,3 +1,7 @@
+---
+icon: bolt
+---
+
 # Schedules & Triggers
 
 Triggers kick off your automations instantly when something happens, like getting an email or a Slack message. Scheduling runs your workflows on autopilot — every hour, daily, or whenever you need them.
@@ -47,4 +51,4 @@ Need to connect something that doesn't have a pre-built trigger? No problem. Cod
 4. Save and you're done — Your workflow will now run automatically
 5. Go to the schedules page — Visit [Schedules](https://codewords.agemo.ai/workflows/schedule) to see all your scheduled automations
 
-<figure><img src="../../.gitbook/assets/schedule (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/schedule (1).gif" alt=""><figcaption></figcaption></figure>

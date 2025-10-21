@@ -9,14 +9,14 @@
 ## Fundamentals
 
 * [Introduction to Cody](fundamentals/introduction-to-cody.md)
+* [Schedules & Triggers](fundamentals/schedules-and-triggers.md)
+* [Webhooks Trigger](fundamentals/webhooks.md)
 * [Graph View](fundamentals/graph-view.md)
 * [Code View](fundamentals/code-view.md)
 * [Web Agent](fundamentals/web-agent.md)
 * [Chrome Extension](fundamentals/chrome-extension.md)
 * [Testing](fundamentals/testing.md)
 * [Running Workflows](fundamentals/running-workflows.md)
-* [Schedules & Triggers](fundamentals/schedules-and-triggers.md)
-* [Webhooks Trigger](fundamentals/webhooks-trigger.md)
 * [CodeWords API key](fundamentals/codewords-api-key.md)
 * [Using your own API Key](fundamentals/using-your-own-api-key.md)
 * [Using a Template](fundamentals/using-a-template.md)

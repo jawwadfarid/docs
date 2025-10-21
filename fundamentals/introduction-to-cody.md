@@ -3,6 +3,7 @@ description: >-
   Meet Cody, your AI automation assistant. Chat to build, edit, and automate
   workflows or AI agents instantly — no code required, just natural
   conversation.
+icon: hand-wave
 ---
 
 # Introduction to Cody

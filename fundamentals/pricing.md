@@ -1,3 +1,7 @@
+---
+icon: money-bill-1-wave
+---
+
 # Pricing
 
 ### How it works

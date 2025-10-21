@@ -1,3 +1,7 @@
+---
+icon: computer-classic
+---
+
 # Web Agent
 
 Many essential tasks happen on websites that don’t offer a public API. The Web agent feature solves this by acting like a robotic assistant that can interact with websites on your behalf.
@@ -10,4 +14,4 @@ You can deploy the web agent to perform tasks like:
 
 This feature dramatically expands the reach of your automations, allowing you to connect to virtually any online tool or data source.
 
-<figure><img src="../../.gitbook/assets/web_agent.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/web_agent.gif" alt=""><figcaption></figcaption></figure>

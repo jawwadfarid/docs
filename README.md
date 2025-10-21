@@ -3,6 +3,7 @@ description: >-
   Build powerful workflow automations from chat using natural language.
   CodeWords lets anyone connect 2,700+ apps, integrate external APIs, all
   without coding.
+icon: hand-wave
 layout:
   width: default
   title:
