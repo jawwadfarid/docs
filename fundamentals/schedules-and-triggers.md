@@ -1,5 +1,4 @@
 ---
-description: R and AI Agents
 icon: bolt
 ---
 
