@@ -1,8 +1,9 @@
 ---
+description: R and AI Agents
 icon: bolt
 ---
 
-# Schedules & Triggers
+# Triggers
 
 Triggers kick off your automations instantly when something happens, like getting an email or a Slack message. Scheduling runs your workflows on autopilot — every hour, daily, or whenever you need them.
 

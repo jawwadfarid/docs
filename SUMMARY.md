@@ -9,12 +9,10 @@
 ## Fundamentals
 
 * [Introduction to Cody](fundamentals/introduction-to-cody.md)
-* [Schedules & Triggers](fundamentals/schedules-and-triggers.md)
+* [Triggers](fundamentals/triggers.md)
 * [Webhooks Trigger](fundamentals/webhooks.md)
 * [Graph View](fundamentals/graph-view.md)
 * [Code View](fundamentals/code-view.md)
-* [Web Agent](fundamentals/web-agent.md)
-* [Chrome Extension](fundamentals/chrome-extension.md)
 * [Testing](fundamentals/testing.md)
 * [Running Workflows](fundamentals/running-workflows.md)
 * [CodeWords API key](fundamentals/codewords-api-key.md)
@@ -69,6 +67,26 @@
   * [Finance](use-cases/finance.md)
   * [Building web apps with a CodeWords back-end](use-cases/building-web-apps-with-a-codewords-back-end.md)
 * [Launched — Web Apps Powered by CodeWords](launched-web-apps-powered-by-codewords.md)
+
+## Web Automation
+
+* [Web Agent](web-automation/web-agent.md)
+* [Chrome Extension](web-automation/chrome-extension.md)
+* [Glossary](web-automation/glossary.md)
+* [CodeWords on IDE](web-automation/codewords-on-ide/README.md)
+  * [Platform Overview](web-automation/codewords-on-ide/platform-overview.md)
+  * [Quick Start & Setup](web-automation/codewords-on-ide/quick-start-and-setup.md)
+  * [Understanding CodeWords](web-automation/codewords-on-ide/understanding-codewords.md)
+  * [CodeWords MCP Agent: Your AI Development Toolkit](web-automation/codewords-on-ide/codewords-mcp-agent-your-ai-development-toolkit.md)
+  * [FAQ](web-automation/codewords-on-ide/faq.md)
+* [Codewords Templates](web-automation/codewords-templates/README.md)
+  * [Person Finder](web-automation/codewords-templates/person-finder.md)
+  * [Website Watcher Slack Agent](web-automation/codewords-templates/website-watcher-slack-agent.md)
+  * [LinkedIn Post Scraping and Enrichment](web-automation/codewords-templates/linkedin-post-scraping-and-enrichment.md)
+* [Integrations](web-automation/integrations.md)
+* [Changelog](web-automation/changelog.md)
+* [How to submit a template \[NEEDS REVIEW\]](web-automation/how-to-submit-a-template-needs-review.md)
+* [Introduction](web-automation/introduction.md)
 
 ## Guides&#x20;
 
