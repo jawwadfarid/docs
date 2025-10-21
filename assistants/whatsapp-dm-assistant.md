@@ -3,7 +3,6 @@ description: >-
   Automate WhatsApp DM Assistant to send personalized updates, notifications,
   and AI-powered chats. Build your own WhatsApp DM Assistant and connect with
   over 2,700 apps — no coding required.
-hidden: true
 icon: whatsapp
 ---
 
