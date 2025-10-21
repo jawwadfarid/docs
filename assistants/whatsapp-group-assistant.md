@@ -206,6 +206,18 @@ Send any message in the group — the assistant will detect it and respond throu
 | Receiving messages            | Free   | You only pay for what the Assistant sends                                                               |
 | Custom Assistant  Actions     | Custom | It depends on how many tools & actions your assistant is connected to and has to perform these actions. |
 
+#### Privacy & Data Handling
+
+Key Principle: Ephemeral by Default
+
+Your Assistant runs in short-lived sandboxes — fresh for every event and deleted right after.\
+Each run lasts 2–30 seconds, then the environment is destroyed.
+
+* Created new for each event
+* Deleted after execution
+* No local storage between runs
+* No automatic data retention
+
 ### Getting Help
 
 If your Assistant isn’t responding:
@@ -213,6 +225,12 @@ If your Assistant isn’t responding:
 1. Confirm it’s linked (@CodeWords)
 2. Ask Cody to verify your linked groups
 3. Check in-app support or use live chat at [codewords.ai](https://codewords.agemo.ai/)
+
+**Meaning:**
+
+* Your bot forgets everything after each run.
+* Data is only kept if you _explicitly choose_ to store it.
+* This ensures privacy-first design — no accidental data retention.
 
 ### FAQ
 
