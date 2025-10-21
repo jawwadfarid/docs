@@ -61,7 +61,7 @@ Send any message — the assistant will detect it and respond through your Custo
 | Message types   | Templates, Text, Images             | Text, media, polls, events            |
 | Event types     | Messages                            | Messages, reactions, updates, changes |
 
-&#x20;You can use both! Many teams use **Direct Messaging** for users and **Group Assistants** for internal groups.
+&#x20;You can use both! Many teams use **Direct Messaging** for user specific needs and **Group Assistants** for internal groups.
 
 ### What Can WhatsApp Direct Messaging Do?
 
@@ -97,7 +97,7 @@ Build intelligent conversations where **users** ask questions and get instant he
 | Type     | When You Can Send             | Use For                               |
 | -------- | ----------------------------- | ------------------------------------- |
 | Template | Anytime                       | All notifications, first contact      |
-| Text     |  Within 24h of **user** reply | Chatbot conversations                 |
+| Text     |  Within 24h of **user** reply | Assistant conversations               |
 | Image    | Within 24h of **user** reply  | Screenshots, receipts, product photos |
 
 ### Pricing
