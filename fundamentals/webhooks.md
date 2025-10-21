@@ -15,12 +15,12 @@ A webhook works like a **trigger** — whenever something happens in another app
 Webhooks are useful when you want your workflow to **react to new data instantly** — for example, when a CRM update or external API call should launch an automation.\
 They can also **send data back** once the workflow is finished, making them great for building **API-style automations** that process data and return results in real time.
 
-### **Authentication**
+### Authentication
 
 No CodeWords API key required is required as the webhook URL itself serves as authentication.\
 Each webhook has a unique, hard-to-guess URL that acts as a secure access point so make sure to keep this URL private — anyone with the link can send data to your workflow.
 
-### **Technical Details**
+### Technical Details
 
 * Always deployed with `app="codewords"` and `trigger="webhook"` .
 * Generates a unique CodeWords webhook URL.

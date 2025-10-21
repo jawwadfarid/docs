@@ -21,7 +21,7 @@ icon: whatsapp
 
 Think of them as **AI-powered helpers** that keep your WhatsApp groups active, organized, and responsive — even when you’re offline.
 
-### **Why Build WhatsApp Assistants with CodeWords**
+### Why Build WhatsApp Assistants with CodeWords
 
 CodeWords makes it easy to build, run, and manage assistants — **no coding required**.
 
@@ -33,7 +33,7 @@ Here’s why users choose CodeWords WhatsApp assistant:
 4. Secure & private as your data stays protected
 5. Launch a working WhatsApp assistant in under 10 minutes
 
-### **What WhatsApp Group Assistant Can Do**
+### What WhatsApp Group Assistant Can Do
 
 | Use Case           | What It Does                         | Example                                                        |
 | ------------------ | ------------------------------------ | -------------------------------------------------------------- |
@@ -44,7 +44,7 @@ Here’s why users choose CodeWords WhatsApp assistant:
 | Engagement Tracker | Tracks reactions and member activity | Weekly leaderboard of top contributors                         |
 | Community Manager  | Schedules events and sends reminders | “Team meeting tomorrow at 10 AM 📅”                            |
 
-### **How WhatsApp Assistant Work**
+### How WhatsApp Assistant Work
 
 {% stepper %}
 {% step %}
@@ -72,7 +72,7 @@ The workflow uses AI to analyze the message, take action, and send a response ba
 {% endstep %}
 {% endstepper %}
 
-### **Event Types the Assistant Detects**
+### Event Types the Assistant Detects
 
 | `message:in:new`   | When someone sends a message | Reply, log, or summarize content     |
 | ------------------ | ---------------------------- | ------------------------------------ |
@@ -80,7 +80,7 @@ The workflow uses AI to analyze the message, take action, and send a response ba
 | `message:update`   | Polls or event changes       | Share updated results                |
 | `message:reaction` | Emoji reaction added         | Track engagement or popular messages |
 
-### **Setting Up Your First Assistant**
+### Setting Up Your First Assistant
 
 {% stepper %}
 {% step %}

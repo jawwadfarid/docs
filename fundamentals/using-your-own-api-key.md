@@ -2,7 +2,7 @@
 
 Let's dive into how you can connect your own apps to CodeWords workflows using API keys to build workflows integrated with external apps.
 
-## Getting started with app connections
+### Getting started with app connections
 
 Here's how you can connect your own apps to CodeWords workflows in a few easy steps:
 
@@ -27,7 +27,7 @@ Now, let's link your app to CodeWords:
 5. Paste your API key and save the variable.
 6. Cody, our AI automation assistant, will handle the rest and securely store your connection details.
 
-<figure><img src="../../../.gitbook/assets/keyvalue.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/keyvalue.gif" alt=""><figcaption></figcaption></figure>
 
 ### Step 3: Build your workflow
 
