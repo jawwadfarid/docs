@@ -26,8 +26,6 @@ Think of it like:
 * Users can save it as a contact
 * Available **24/7** for automation
 
-
-
 ### Direct Messaging vs Group Assistants
 
 | Feature         | Direct Messaging (this guide)       | Group Assistants (Wassenger)          |
@@ -80,10 +78,10 @@ Build intelligent conversations where **users** ask questions and get instant he
 
 ### Pricing
 
-| Assistant                      | Price                       |
-| ------------------------------ | --------------------------- |
-| Receiving messages             | Free                        |
-| Sending messages(All Messages) | €0.002 per message (≈ 0.2¢) |
+| Assistant                           | Cost                                                             |
+| ----------------------------------- | ---------------------------------------------------------------- |
+| Receiving messages                  | Free                                                             |
+| Sending messages(All Message types) | €0.002 per message (≈ 0.2¢) + Cost of executing the AI Assistant |
 
 ### Setting Up Your First DM Assistant
 
@@ -108,3 +106,10 @@ Cody will ask which phone number you want your AI assistant to connect to. Once 
 Send any message — the assistant will detect it and respond through your Custom WhatsApp DM Assistant.
 {% endstep %}
 {% endstepper %}
+
+### Getting Help
+
+If your Assistant isn’t responding:
+
+1. Ask Cody to verify if the setup is correct
+2. Check in-app support or use live chat at [codewords.ai](https://codewords.agemo.ai/)
