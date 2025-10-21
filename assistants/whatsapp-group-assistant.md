@@ -74,8 +74,9 @@ The workflow uses AI to analyze the message, take action, and send a response ba
 
 ### Event Types the Assistant Detects
 
-| `message:in:new`   | When someone sends a message | Reply, log, or summarize content     |
+| Event Type         | When It Happens              | Example Uses                         |
 | ------------------ | ---------------------------- | ------------------------------------ |
+| `message:in:new`   | When someone sends a message | Reply, log, or summarize content     |
 | `group:update`     | Members join or leave        | Welcome messages, update tracking    |
 | `message:update`   | Polls or event changes       | Share updated results                |
 | `message:reaction` | Emoji reaction added         | Track engagement or popular messages |
@@ -200,11 +201,12 @@ Send any message in the group — the assistant will detect it and respond throu
 
 ### Cost
 
-| Text, Poll, Event, Location   | €0.002 | “Daily update,” “New event added”                                                                       |
-| ----------------------------- | ------ | ------------------------------------------------------------------------------------------------------- |
-| Image, Video, Audio, Document | €0.004 | Reports, media summaries                                                                                |
-| Receiving messages            | Free   | You only pay for what the Assistant sends                                                               |
-| Custom Assistant  Actions     | Custom | It depends on how many tools & actions your assistant is connected to and has to perform these actions. |
+| Assistant Message Type        | Cost per Message | Examples                                                                                                |
+| ----------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------- |
+| Text, Poll, Event, Location   | €0.002           | “Daily update,” “New event added”                                                                       |
+| Image, Video, Audio, Document | €0.004           | Reports, media summaries                                                                                |
+| Receiving messages            | Free             | You only pay for what the Assistant sends                                                               |
+| Custom Assistant  Actions     | Custom           | It depends on how many tools & actions your assistant is connected to and has to perform these actions. |
 
 ### Privacy & Data Handling
 
@@ -322,4 +324,3 @@ You’ll see “**No Active Registration.**”\
 Fix: Register your phone with Cody, then mention the bot again in the group.
 
 </details>
-
