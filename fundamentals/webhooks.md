@@ -32,3 +32,25 @@ They can also **send data back** once the workflow is finished, making them grea
 
 CodeWords currently supports only POST [HTTP Request Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods)
 
+{% code title="Example of anCodeWords Webhook URL" overflow="wrap" %}
+```
+https://runtime.codewords.ai/webhook/pipedream/webhook/cmcdms29y00003o1ydhuu8jw5/gmail_to_salesforce_automation_webhook
+```
+{% endcode %}
+
+### Path
+
+This contains a randomly generated webhook URL path, to avoid conflicts with other webhook urls on the CodeWords ecosystem.
+
+{% code title="CodeWordsWebhook structure breakdown" overflow="wrap" %}
+```
+https://runtime.codewords.ai/webhook/pipedream/webhook/{unique_id}/{endpoint_name}
+```
+{% endcode %}
+
+* **Protocol:** `https://`
+* **Base Domain:** `runtime.codewords.ai`
+* **Path:** `/webhook/pipedream/webhook/`
+* **Unique ID:** `cmcdms29y00003o1ydhuu8jw5` (randomly generated, hard to guess)
+* **Endpoint:**  `/Service_webhook`&#x20;
+
