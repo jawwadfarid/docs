@@ -35,14 +35,14 @@ Here’s why users choose CodeWords WhatsApp assistant:
 
 ### **What WhatsApp Group Bots Can Do**
 
-| Use Case               | What It Does                         | Example                                                        |
-| ---------------------- | ------------------------------------ | -------------------------------------------------------------- |
-| **Team Assistant**     | Answers FAQs instantly               | “What’s the Wi-Fi password?” → Assistant replies automatically |
-| **Welcome Assistant**  | Greets new members                   | “Welcome, John! Here’s our group guide 📘”                     |
-| **Daily Digest**       | Sends group summaries                | “Yesterday: 45 messages, Here is the summary"                  |
-| **Poll Tracker**       | Monitors and reports poll results    | “🎉 Poll closed! Pizza wins with 10 votes 🍕”                  |
-| **Engagement Tracker** | Tracks reactions and member activity | Weekly leaderboard of top contributors                         |
-| **Community Manager**  | Schedules events and sends reminders | “Team meeting tomorrow at 10 AM 📅”                            |
+| Use Case           | What It Does                         | Example                                                        |
+| ------------------ | ------------------------------------ | -------------------------------------------------------------- |
+| Team Assistant     | Answers FAQs instantly               | “What’s the Wi-Fi password?” → Assistant replies automatically |
+| Welcome Assistant  | Greets new members                   | “Welcome, John! Here’s our group guide 📘”                     |
+| Daily Digest       | Sends group summaries                | “Yesterday: 45 messages, Here is the summary"                  |
+| Poll Tracker       | Monitors and reports poll results    | “🎉 Poll closed! Pizza wins with 10 votes 🍕”                  |
+| Engagement Tracker | Tracks reactions and member activity | Weekly leaderboard of top contributors                         |
+| Community Manager  | Schedules events and sends reminders | “Team meeting tomorrow at 10 AM 📅”                            |
 
 ### **How WhatsApp Bots Work**
 
@@ -74,17 +74,17 @@ The workflow uses AI to analyze the message, take action, and send a response ba
 
 ### **Event Types the Bot Detects**
 
-| **`message:in:new`**   | When someone sends a message | Reply, log, or summarize content     |
-| ---------------------- | ---------------------------- | ------------------------------------ |
-| **`group:update`**     | Members join or leave        | Welcome messages, update tracking    |
-| **`message:update`**   | Polls or event changes       | Share updated results                |
-| **`message:reaction`** | Emoji reaction added         | Track engagement or popular messages |
+| `message:in:new`   | When someone sends a message | Reply, log, or summarize content     |
+| ------------------ | ---------------------------- | ------------------------------------ |
+| `group:update`     | Members join or leave        | Welcome messages, update tracking    |
+| `message:update`   | Polls or event changes       | Share updated results                |
+| `message:reaction` | Emoji reaction added         | Track engagement or popular messages |
 
 ### **Setting Up Your First Bot**
 
 {% stepper %}
 {% step %}
-#### **Register your number**
+#### Register your number
 
 Tell **Cody**:
 
@@ -94,7 +94,7 @@ Cody will create your registration and send setup instructions.
 {% endstep %}
 
 {% step %}
-#### **Add the assistant to your WhatsApp group**
+#### Add the assistant to your WhatsApp group
 
 1. Open your group → Tap group name → “Add participant”
 2. Add +447466216790
@@ -132,11 +132,11 @@ Send any message in the group — the assistant will detect it and respond throu
 
 ### Cost
 
-| **Text, Poll, Event, Location**   | €0.002 | “Daily update,” “New event added”                                                                       |
-| --------------------------------- | ------ | ------------------------------------------------------------------------------------------------------- |
-| **Image, Video, Audio, Document** | €0.004 | Reports, media summaries                                                                                |
-| **Receiving messages**            | Free   | You only pay for what the bot sends                                                                     |
-| **Custom Assistant  Actions**     | Custom | It depends on how many tools & actions your assistant is connected to and has to perform these actions. |
+| Text, Poll, Event, Location   | €0.002 | “Daily update,” “New event added”                                                                       |
+| ----------------------------- | ------ | ------------------------------------------------------------------------------------------------------- |
+| Image, Video, Audio, Document | €0.004 | Reports, media summaries                                                                                |
+| Receiving messages            | Free   | You only pay for what the bot sends                                                                     |
+| Custom Assistant  Actions     | Custom | It depends on how many tools & actions your assistant is connected to and has to perform these actions. |
 
 ### Getting Help
 
