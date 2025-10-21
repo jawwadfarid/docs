@@ -30,7 +30,7 @@ Think of it like:
 
 {% stepper %}
 {% step %}
-#### Build the Assistant
+#### Build the Assistant through chat
 
 Describe the kind of WhatsApp assistant you want to create along with its trigger.
 
@@ -38,7 +38,7 @@ Example: "Create a WhatsApp assistant that’s connected to an LLM and automatic
 {% endstep %}
 
 {% step %}
-### Provide your phone number
+#### Provide your phone number
 
 Cody will ask which phone number you want your AI assistant to connect to. Once connected and the Assistant is built your Assistant will send you a welcome message.
 {% endstep %}

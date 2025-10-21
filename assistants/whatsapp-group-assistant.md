@@ -86,7 +86,7 @@ The workflow uses AI to analyze the message, take action, and send a response ba
 
 {% stepper %}
 {% step %}
-#### Build the Assistant
+#### Build the Assistant through chat
 
 Describe the kind of WhatsApp Assistant you want to create with your defined trigger, this can be a workflow automation.
 
