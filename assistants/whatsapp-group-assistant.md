@@ -155,7 +155,7 @@ Enter your phone number (including country code), then launch the assistant temp
 You’ll see:
 
 {% hint style="success" %}
-Chatbot registration created successfully!
+Assistant registration created successfully!
 {% endhint %}
 
 Follow the instructions thats shown.
@@ -213,4 +213,93 @@ If your Assistant isn’t responding:
 1. Confirm it’s linked (@CodeWords)
 2. Ask Cody to verify your linked groups
 3. Check in-app support or use live chat at [codewords.ai](https://codewords.agemo.ai/)
+
+### FAQ
+
+<details>
+
+<summary>What’s the difference between Group Assistant and Direct Messaging Assistant?</summary>
+
+
+
+| Who you message          | WhatsApp **groups** (teams, communities)    | Individuals (1:1)                                  |
+| ------------------------ | ------------------------------------------- | -------------------------------------------------- |
+| Assistant/Service number | +447466216790                               | +447424366129                                      |
+| Service window           | No restrictions                             | 24-hour window after customer reply                |
+| Events                   | Messages, reactions, updates, group changes | Messages only                                      |
+| Message types            | Text, media, polls, events, docs, etc.      | Templates, text, images                            |
+| Best for                 | Team coordination, community management     | Notifications, support, sales, personal assistants |
+
+</details>
+
+<details>
+
+<summary>Do I need to know how to code?</summary>
+
+No. Describe what you want to Cody; it asks clarifying questions, builds, tests, and deploys.\
+Developers: Full code patterns are available if you want to customize.
+
+</details>
+
+<details>
+
+<summary>How do I set up a WhatsApp Group Assistant?</summary>
+
+Two phases:
+
+1. Register your phone with Cody by running a WhatsApp Group Assistant template or register while building your own Assistant.
+2. Add the Assistant (+447466216790) to the group and mention `@CodeWords bot`.\
+   You’ll see a ✅ confirmation; events start flowing to your Assistant.
+
+</details>
+
+<details>
+
+<summary>Do I register for each group?</summary>
+
+Yes, you can refer to the steps [here](https://app.gitbook.com/o/7isqlJn3eTzit1bZKstj/s/C0KQHHlFG9y1F0pBotb8/~/changes/396/assistants/whatsapp-group-assistant#connect-an-existing-whatsapp-assistant-template).
+
+</details>
+
+<details>
+
+<summary>What happens when I mention the Assistant?</summary>
+
+The bot captures the **group ID**, links it to your registration, posts a **success** message, and starts forwarding events to your AI Assistant.
+
+</details>
+
+<details>
+
+<summary>Can one Assistant handle multiple groups?</summary>
+
+Yes. Enter your phone number (with country code) on the Assistant’s Run Page and start it.\
+Then in WhatsApp:
+
+1. Add the CodeWords Assistant to the group you want to link
+2. Mention it by sending: `@CodeWords`
+
+You’ll receive a “CodeWords Assistant Successfully Linked!” confirmation.&#x20;
+
+Follow the exact steps shared [here](https://app.gitbook.com/o/7isqlJn3eTzit1bZKstj/s/C0KQHHlFG9y1F0pBotb8/~/changes/396/assistants/whatsapp-group-assistant#connect-an-existing-whatsapp-assistant-template).
+
+</details>
+
+<details>
+
+<summary>What’s the Assistant number I should add?</summary>
+
+**Group Assistant**: +447466216790 (add to groups)\
+**Direct Messaging Assistant**: +447424366129 (1:1 DMs)
+
+</details>
+
+<details>
+
+<summary>I mentioned the bot before registering—now what?</summary>
+
+You’ll see “**No Active Registration.**”\
+Fix: Register your phone with Cody, then mention the bot again in the group.
+
+</details>
 
