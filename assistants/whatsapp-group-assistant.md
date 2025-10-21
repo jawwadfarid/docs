@@ -8,41 +8,42 @@ icon: whatsapp
 
 # WhatsApp Group Assistant
 
-### What are WhatsApp group assistants
+### What are WhatsApp Group Assistants
 
-**WhatsApp Group Assistants** are automated assistants that help manage your group chats. They can:
+**WhatsApp Group Assistants** are automations that help you manage your group chats. They can:
 
 * Listen to messages and respond automatically
-* Answer common questions and run commands
+* Answer common questions and run predefined workflows
 * Send announcements, reminders, and polls
 * Welcome new members
 * Track engagement and group activity
 * Analyze messages to share insights
 
-Think of them as **AI-powered helpers** that keep your WhatsApp groups active, organized, and responsive — even when you’re offline.
+They are workflow automations that you can use to keep your WhatsApp groups active, organized, and responsive — even when you’re offline.
 
 ### Why Build WhatsApp Assistants with CodeWords
 
-CodeWords makes it easy to build, run, and manage assistants — **no coding required**.
+CodeWords makes it easy to build, run, and manage Assistants — **no coding required**.
 
-Here’s why users choose CodeWords WhatsApp assistant:
+Here’s why users choose CodeWords WhatsApp Assistants:
 
-1. Build WhatsApp assistant by chatting with **Cody.**
-2. 24/7 automation as the WhatsApp assistants run continuously in the cloud
-3. Connect WhatsApp assistants with 2,700+ apps and AI models
+1. Build WhatsApp Assistants by telling **Cody** what you want
+2. 24/7 assistance as they run continuously in the cloud
+3. Connect WhatsApp Assistants with 2,700+ apps and AI models
 4. Secure & private as your data stays protected
-5. Launch a working WhatsApp assistant in under 10 minutes
+5. Launch a working WhatsApp Assistant in under 10 minutes
 
 ### What WhatsApp Group Assistant Can Do
 
-| Use Case           | What It Does                         | Example                                                        |
-| ------------------ | ------------------------------------ | -------------------------------------------------------------- |
-| Team Assistant     | Answers FAQs instantly               | “What’s the Wi-Fi password?” → Assistant replies automatically |
-| Welcome Assistant  | Greets new members                   | “Welcome, John! Here’s our group guide 📘”                     |
-| Daily Digest       | Sends group summaries                | “Yesterday: 45 messages, Here is the summary"                  |
-| Poll Tracker       | Monitors and reports poll results    | “🎉 Poll closed! Pizza wins with 10 votes 🍕”                  |
-| Engagement Tracker | Tracks reactions and member activity | Weekly leaderboard of top contributors                         |
-| Community Manager  | Schedules events and sends reminders | “Team meeting tomorrow at 10 AM 📅”                            |
+| Use Case           | What It Does                                    | Example                                                        |
+| ------------------ | ----------------------------------------------- | -------------------------------------------------------------- |
+| Team Assistant     | Answers FAQs instantly                          | “What’s the Wi-Fi password?” → Assistant replies automatically |
+| Welcome Assistant  | Greets new members                              | “Welcome, John! Here’s our group guide 📘”                     |
+| Daily Digest       | Sends group summaries                           | “Yesterday: 45 messages, Here is the summary"                  |
+| Poll Tracker       | Monitors and reports poll results               | “🎉 Poll closed! Pizza wins with 10 votes 🍕”                  |
+| Engagement Tracker | Tracks reactions and member activity            | Weekly leaderboard of top contributors                         |
+| Community Manager  | Schedules events and sends reminders            | “Team meeting tomorrow at 10 AM 📅”                            |
+| Execute Workflows  | Executes a workflow you have built on CodeWords | "Run Linkedin Scraper and store summary in Notion"             |
 
 ### How WhatsApp Assistant Work
 
@@ -50,17 +51,17 @@ Here’s why users choose CodeWords WhatsApp assistant:
 {% step %}
 #### The Group
 
-You add the **CodeWords WhatsApp Group Assistant number** (+447466216790) to your WhatsApp group.
+You add the **CodeWords WhatsApp Group Assistant number** (+447466216790) to your WhatsApp group to link an Assistant.
 {% endstep %}
 
 {% step %}
 #### Event detection
 
-The Assistant listens for key events — like messages, reactions, or new members.
+The configured Assistant listens for key events — like messages, reactions, or new members.
 {% endstep %}
 
 {% step %}
-#### Trigger your assistant
+#### Trigger your Assistant
 
 When an event happens, CodeWords automatically runs your custom Whatsapp Assistant.
 {% endstep %}
@@ -87,9 +88,11 @@ The workflow uses AI to analyze the message, take action, and send a response ba
 {% step %}
 #### Build the Assistant
 
-Describe the kind of WhatsApp assistant you want to create.
+Describe the kind of WhatsApp Assistant you want to create with your defined trigger, this can be a workflow automation.
 
-Example: "Create a WhatsApp assistant for my group that’s connected to an LLM and automatically responds to any message from group members."
+Example 1: "Create a WhatsApp Assistant for my group that’s connected to an LLM and automatically responds to any message from group members."
+
+Example 2: "Create a WhatsApp Assistant for my group that takes article URLs posted, adds it to my notion table with metadata. Only trigger if there is URL that is posted."
 {% endstep %}
 
 {% step %}
@@ -97,13 +100,13 @@ Example: "Create a WhatsApp assistant for my group that’s connected to an LLM 
 
 Tell **Cody** your number:
 
-> “Register my phone number +447000000000 for the WhatsApp group assistant.”
+> “Register my phone number +447000000000 for the WhatsApp group Assistant.”
 
 Cody will create your registration and send setup instructions.
 {% endstep %}
 
 {% step %}
-#### Add the assistant to your WhatsApp group
+#### Add the Assistant to your WhatsApp group
 
 1. Open your group → Tap group name → “Add participant”
 2. Add +447466216790
@@ -135,7 +138,7 @@ Assistant Successfully Linked!
 {% step %}
 #### Test your Assistant
 
-Send any message in the group — the assistant will detect it and respond through your Custom WhatsApp Group Assistant.
+Send any message in the group — the Assistant will detect it and respond through your Custom WhatsApp Group Assistant.
 {% endstep %}
 {% endstepper %}
 
@@ -151,7 +154,7 @@ Go to the Run Page for the WhatsApp Assistant template and review its descriptio
 {% step %}
 #### Run the template
 
-Enter your phone number (including country code), then launch the assistant template to start setup and testing.
+Enter your phone number (including country code), then run the Assistant template register your number with the Assistant.
 
 You’ll see:
 
@@ -163,7 +166,7 @@ Follow the instructions thats shown.
 {% endstep %}
 
 {% step %}
-#### Add the assistant to your WhatsApp group
+#### Add the Assistant to your WhatsApp group
 
 1. Open your group → Tap group name → “Add participant”
 2. Add +447466216790
@@ -195,7 +198,7 @@ Assistant Successfully Linked!
 {% step %}
 #### Test your Assistant
 
-Send any message in the group — the assistant will detect it and respond through your Custom WhatsApp Group Assistant.
+Send any message in the group — the Assistant will detect it and respond through your Custom WhatsApp Group Assistant.
 {% endstep %}
 {% endstepper %}
 
