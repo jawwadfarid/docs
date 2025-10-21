@@ -132,11 +132,11 @@ Send any message in the group — the assistant will detect it and respond throu
 
 ### Cost
 
-| **Text, Poll, Event, Location**   | €0.002   | “Daily update,” “New event added”                                                                       |
-| --------------------------------- | -------- | ------------------------------------------------------------------------------------------------------- |
-| **Image, Video, Audio, Document** | €0.004   | Reports, media summaries                                                                                |
-| **Receiving messages**            | **Free** | You only pay for what the bot sends                                                                     |
-| **Custom Assistant  Actions**     | Custom   | It depends on how many tools & actions your assistant is connected to and has to perform these actions. |
+| **Text, Poll, Event, Location**   | €0.002 | “Daily update,” “New event added”                                                                       |
+| --------------------------------- | ------ | ------------------------------------------------------------------------------------------------------- |
+| **Image, Video, Audio, Document** | €0.004 | Reports, media summaries                                                                                |
+| **Receiving messages**            | Free   | You only pay for what the bot sends                                                                     |
+| **Custom Assistant  Actions**     | Custom | It depends on how many tools & actions your assistant is connected to and has to perform these actions. |
 
 ### Getting Help
 

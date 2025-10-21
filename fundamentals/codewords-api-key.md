@@ -1,3 +1,7 @@
+---
+icon: key-skeleton
+---
+
 # CodeWords API key
 
 The CodeWords API lets any external application trigger your workflows with simple HTTP requests. Whether you're building a web app, mobile app, or connecting to third-party services, it's as easy as making a POST request.
@@ -13,7 +17,7 @@ Your API key will be under the **Your API keys section**:
 
 Pro tip: Treat your API key like a password — keep it secret and store it as an environment variable.
 
-<figure><img src="../../../.gitbook/assets/apikey.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/apikey.gif" alt=""><figcaption></figcaption></figure>
 
 ### How the API works
 

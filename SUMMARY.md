@@ -73,15 +73,6 @@
 
 * [Web Agent](fundamentals/web-agent.md)
 * [Chrome Extension](fundamentals/chrome-extension.md)
-* [Glossary](web-automation/glossary.md)
-* [Codewords Templates](web-automation/codewords-templates/README.md)
-  * [Person Finder](web-automation/codewords-templates/person-finder.md)
-  * [Website Watcher Slack Agent](web-automation/codewords-templates/website-watcher-slack-agent.md)
-  * [LinkedIn Post Scraping and Enrichment](web-automation/codewords-templates/linkedin-post-scraping-and-enrichment.md)
-* [Integrations](web-automation/integrations.md)
-* [Changelog](web-automation/changelog.md)
-* [How to submit a template \[NEEDS REVIEW\]](web-automation/how-to-submit-a-template-needs-review.md)
-* [Introduction](web-automation/introduction.md)
 
 ## Assistants
 
@@ -122,3 +113,12 @@
 * [Changelog](guides/changelog.md)
 * [How to submit a template \[NEEDS REVIEW\]](guides/how-to-submit-a-template-needs-review.md)
 * [Introduction](guides/introduction-1.md)
+* [Glossary](guides/glossary-1.md)
+* [Codewords Templates](guides/codewords-templates-1/README.md)
+  * [Person Finder](guides/codewords-templates-1/person-finder.md)
+  * [Website Watcher Slack Agent](guides/codewords-templates-1/website-watcher-slack-agent.md)
+  * [LinkedIn Post Scraping and Enrichment](guides/codewords-templates-1/linkedin-post-scraping-and-enrichment.md)
+* [Integrations](guides/integrations-1.md)
+* [Changelog](guides/changelog-1.md)
+* [How to submit a template \[NEEDS REVIEW\]](guides/how-to-submit-a-template-needs-review-1.md)
+* [Introduction](<guides/introduction-1 (1).md>)

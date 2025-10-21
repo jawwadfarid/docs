@@ -1,3 +1,7 @@
+---
+icon: file
+---
+
 # Templates
 
 Welcome to the CodeWords workflow template! Choose from the templates that will help you save time
