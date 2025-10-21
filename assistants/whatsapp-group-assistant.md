@@ -1,6 +1,6 @@
 ---
 description: >-
-  Build smart WhatsApp Group Bots with CodeWords. Automate messages, welcome
+  Build smart WhatsApp Group Assistants that can automate messages, welcome
   members, track activity, send reminders, and connect with 2,700+ apps — all
   without coding.
 icon: whatsapp
