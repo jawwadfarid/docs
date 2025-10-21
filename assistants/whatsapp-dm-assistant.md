@@ -10,7 +10,7 @@ icon: whatsapp
 
 ### What are WhatsApp DM Assistants
 
-WhatsApp Direct Messaging (DM) assistants lets you send messages to individual users (not groups) through WhatsApp. It’s the user-facing side of WhatsApp automation, powered by the official WhatsApp Business API from Meta/Facebook.
+WhatsApp Direct Messaging (DM) Assistants lets you send messages to individual users (not groups) through WhatsApp. It’s the user-facing side of WhatsApp automation, powered by the official WhatsApp Business API from Meta/Facebook.
 
 Think of it like:
 
@@ -89,7 +89,7 @@ Build intelligent conversations where **users** ask questions and get instant he
 {% step %}
 #### Build the Assistant
 
-Describe the kind of WhatsApp assistant you want to create.
+Describe the kind of WhatsApp assistant you want to create along with its trigger.
 
 Example: "Create a WhatsApp assistant that’s connected to an LLM and automatically responds to any message that I send back. Also make sure that its connected to my google calendar, such that It has access to view, edit, list and create events on my calendar. "
 {% endstep %}
