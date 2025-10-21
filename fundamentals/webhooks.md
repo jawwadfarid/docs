@@ -5,7 +5,7 @@ description: >-
 icon: webhook
 ---
 
-# Webhooks Trigger
+# Webhooks
 
 ### Get Started with Webhooks
 
@@ -17,10 +17,8 @@ They can also **send data back** once the workflow is finished, making them grea
 
 ### **Authentication**
 
-* No CodeWords API key required
-* The webhook URL itself serves as authentication\
-  Each webhook has a unique, hard-to-guess URL that acts as a secure access point.\
-  Keep this URL private — anyone with the link can send data to your workflow.
+No CodeWords API key required is required as the webhook URL itself serves as authentication.\
+Each webhook has a unique, hard-to-guess URL that acts as a secure access point so make sure to keep this URL private — anyone with the link can send data to your workflow.
 
 ### **Technical Details**
 

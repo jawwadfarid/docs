@@ -10,7 +10,7 @@
 
 * [Introduction to Cody](fundamentals/introduction-to-cody.md)
 * [Triggers](fundamentals/schedules-and-triggers.md)
-* [Webhooks Trigger](fundamentals/webhooks.md)
+* [Webhooks](fundamentals/webhooks.md)
 * [Graph View](fundamentals/graph-view.md)
 * [Code View](fundamentals/code-view.md)
 * [Testing](fundamentals/testing.md)
@@ -77,6 +77,7 @@
 ## Assistants
 
 * [WhatsApp Group Assistant](assistants/whatsapp-group-assistant.md)
+* [WhatsApp DM Assistant](assistants/whatsapp-dm-assistant.md)
 * [Glossary](assistants/glossary.md)
 * [Codewords Templates](assistants/codewords-templates/README.md)
   * [Person Finder](assistants/codewords-templates/person-finder.md)
