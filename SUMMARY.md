@@ -16,7 +16,7 @@
 * [Testing](fundamentals/testing.md)
 * [Running Workflows](fundamentals/running-workflows.md)
 * [Schedules & Triggers](fundamentals/schedules-and-triggers.md)
-* [Webhooks](fundamentals/webhooks.md)
+* [Webhooks Trigger](fundamentals/webhooks-trigger.md)
 * [CodeWords API key](fundamentals/codewords-api-key.md)
 * [Using your own API Key](fundamentals/using-your-own-api-key.md)
 * [Using a Template](fundamentals/using-a-template.md)

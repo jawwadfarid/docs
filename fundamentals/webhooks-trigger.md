@@ -4,7 +4,7 @@ description: >-
   directly to your CodeWords workflows or Agents.
 ---
 
-# Webhooks
+# Webhooks Trigger
 
 ### Get Started with Webhooks
 
@@ -54,3 +54,42 @@ https://runtime.codewords.ai/webhook/pipedream/webhook/{unique_id}/{endpoint_nam
 * **Unique ID:** `cmcdms29y00003o1ydhuu8jw5` (randomly generated, hard to guess)
 * **Endpoint:**  `/Service_webhook`&#x20;
 
+### Webhook Setup
+
+{% stepper %}
+{% step %}
+#### Creates a test webhook
+
+Cody generates a temporary webhook URL to understand the kind of data your external app or service will send.
+{% endstep %}
+
+{% step %}
+#### Connect your external system
+
+Add this test webhook URL in your app (like GitHub, Stripe, or any other service\*\*) and trigger a test event.
+{% endstep %}
+
+{% step %}
+#### Analyzes the incoming data
+
+Cody automatically inspects the payload sent by your system and learns its structure.
+{% endstep %}
+
+{% step %}
+#### Build the webhook service
+
+It then creates a new service with two endpoints that follow the webhook pattern — one for testing and one for production.
+{% endstep %}
+
+{% step %}
+#### Deploy the production webhook
+
+Cody launches the live webhook endpoint for real usage.
+{% endstep %}
+
+{% step %}
+#### Update your external system
+
+Replace the test URL with the production webhook URL in your external app to complete the setup.
+{% endstep %}
+{% endstepper %}
