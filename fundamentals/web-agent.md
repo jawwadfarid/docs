@@ -1,7 +1,7 @@
 ---
 description: >-
-  A CodeWords remote browser automation tool that can perform authentication
-  and. complex multi-step tasks
+  A CodeWords remote browser automation tool that can perform authentication and
+  complex multi-step tasks
 icon: computer-classic
 ---
 

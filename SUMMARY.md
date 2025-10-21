@@ -9,7 +9,7 @@
 ## Fundamentals
 
 * [Introduction to Cody](fundamentals/introduction-to-cody.md)
-* [Triggers](fundamentals/triggers.md)
+* [Triggers](fundamentals/schedules-and-triggers.md)
 * [Webhooks Trigger](fundamentals/webhooks.md)
 * [Graph View](fundamentals/graph-view.md)
 * [Code View](fundamentals/code-view.md)
@@ -70,8 +70,8 @@
 
 ## Web Automation
 
-* [Web Agent](web-automation/web-agent.md)
-* [Chrome Extension](web-automation/chrome-extension.md)
+* [Web Agent](fundamentals/web-agent.md)
+* [Chrome Extension](fundamentals/chrome-extension.md)
 * [Glossary](web-automation/glossary.md)
 * [CodeWords on IDE](web-automation/codewords-on-ide/README.md)
   * [Platform Overview](web-automation/codewords-on-ide/platform-overview.md)

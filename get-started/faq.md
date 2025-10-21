@@ -184,7 +184,7 @@ This is a feature coming soon. In the meantime, you can follow [this](../use-cas
 Three ways:&#x20;
 
 * Through an automatically generated custom UI available at `codewords.agemo.ai/run/{service_id}`
-* On a [schedule](../fundamentals/triggers.md) or with a trigger
+* On a [schedule](../fundamentals/schedules-and-triggers.md) or with a trigger
 
 - via [API calls](../fundamentals/codewords-api-key.md)
 
