@@ -134,7 +134,7 @@ Assistant Successfully Linked!
 {% step %}
 #### Test your Assistant
 
-Send any message in the group — the assistant will detect it and respond through your Custom CodeWords Assistant.
+Send any message in the group — the assistant will detect it and respond through your Custom WhatsApp Group Assistant.
 {% endstep %}
 {% endstepper %}
 
