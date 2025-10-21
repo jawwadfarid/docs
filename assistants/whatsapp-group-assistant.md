@@ -72,3 +72,77 @@ The workflow uses AI to analyze the message, take action, and send a response ba
 {% endstep %}
 {% endstepper %}
 
+### **Event Types the Bot Detects**
+
+| **`message:in:new`**   | When someone sends a message | Reply, log, or summarize content     |
+| ---------------------- | ---------------------------- | ------------------------------------ |
+| **`group:update`**     | Members join or leave        | Welcome messages, update tracking    |
+| **`message:update`**   | Polls or event changes       | Share updated results                |
+| **`message:reaction`** | Emoji reaction added         | Track engagement or popular messages |
+
+### **Setting Up Your First Bot**
+
+{% stepper %}
+{% step %}
+#### **Register your number**
+
+Tell **Cody**:
+
+> “Register my phone number +447000000000 for a WhatsApp group assistant.”
+
+Cody will create your registration and send setup instructions.
+{% endstep %}
+
+{% step %}
+#### **Add the assistant to your whatsapp group**
+
+1. Open your group → Tap group name → “Add participant”
+2. Add +447466216790
+3. Confirm addition
+
+You’ll see:
+
+{% hint style="success" %}
+"+447466216790 was added"
+{% endhint %}
+{% endstep %}
+
+{% step %}
+#### Mention the bot
+
+In your group, type:
+
+```
+@CodeWords
+```
+
+You’ll get confirmation:
+
+{% hint style="success" %}
+Assistant Successfully Linked!
+{% endhint %}
+{% endstep %}
+
+{% step %}
+### Test your Bot
+
+Send any message in the group — the assistant will detect it and respond through your Custom CodeWords Assistant.
+{% endstep %}
+{% endstepper %}
+
+### Cost
+
+| **Text, Poll, Event, Location**   | €0.002   | “Daily update,” “New event added”                                                                       |
+| --------------------------------- | -------- | ------------------------------------------------------------------------------------------------------- |
+| **Image, Video, Audio, Document** | €0.004   | Reports, media summaries                                                                                |
+| **Receiving messages**            | **Free** | You only pay for what the bot sends                                                                     |
+| **Custom Assistant  Actions**     | Custom   | It depends on how many tools & actions your assistant is connected to and has to perform these actions. |
+
+### Getting Help
+
+If your bot isn’t responding:
+
+1. Confirm it’s linked (@CodeWords bot)
+2. Ask Cody to verify your linked groups
+3. Check in-app support or use live chat at [codewords.ai](https://codewords.agemo.ai/)
+
