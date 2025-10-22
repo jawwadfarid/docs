@@ -12,11 +12,6 @@ icon: whatsapp
 
 WhatsApp Direct Messaging (DM) Assistants lets you send messages to individual users (not groups) through WhatsApp. It’s the user-facing side of WhatsApp automation, powered by the official WhatsApp Business API from Meta/Facebook.
 
-Think of it like:
-
-* 📧 **Email marketing** → but on WhatsApp with **98% open rates**
-* 📲 **SMS alerts** → but richer with images, links, and **two-way chat**
-
 ### CodeWords WhatsApp Business Number
 
 **+447424366129** — the official CodeWords WhatsApp Business account.
@@ -72,28 +67,22 @@ Send any message — the assistant will detect it and respond through your Custo
 
 Perfect for broadcast-style updates without needing user replies.
 
-| Use Case              | What It Does                 | Example                                               |
-| --------------------- | ---------------------------- | ----------------------------------------------------- |
-| Order Confirmations   | Notify users about purchases | “Order #12345 confirmed! Expected delivery: Thursday” |
-| Appointment Reminders | Send scheduled reminders     | “Reminder: Dental appointment tomorrow at 3 PM”       |
-| Shipping Updates      | Track package status         | “Your package is out for delivery! 🚚”                |
-| Payment Alerts        | Confirm transactions         | “Payment received: $99.00. Thank you!”                |
-| Daily Digests         | Regular summaries            | “Your daily news: 3 new articles, 2 tasks due”        |
-| Password Resets       | Security codes               | “Your verification code: 123456 (expires in 10 min)”  |
-| Service Alerts        | System notifications         | “Your subscription renews in 3 days—update payment”   |
+| Use Case              | What It Does             | Example                                             |
+| --------------------- | ------------------------ | --------------------------------------------------- |
+| Appointment Reminders | Send scheduled reminders | “Reminder: Dental appointment tomorrow at 3 PM”     |
+| Shipping Updates      | Track package status     | “Your package is out for delivery! 🚚”              |
+| Payment Alerts        | Confirm transactions     | “Payment received: $99.00. Thank you!”              |
+| Daily Digests         | Regular summaries        | “Your daily news: 3 new articles, 2 tasks due”      |
+| Service Alerts        | System notifications     | “Your subscription renews in 3 days—update payment” |
 
 #### Type 2: Two-Way Assistant (Interactive)
 
 Build intelligent conversations where **users** ask questions and get instant help.
 
-| Use Case           | Example Conversation                                                                                                 |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------- |
-| User Support       | <p>User: “Where’s my order?” </p><p>Assistant: “Order #12345 ships tomorrow. Track: [link]”</p>                      |
-| FAQ Assistant      | <p>User: “What are your hours?” </p><p>Assistant: “Mon–Fri 9–6, Sat 10–4!”</p>                                       |
-| Booking Assistant  | <p>User: “Book haircut Tuesday 2 pm” </p><p>Assistant: “Booked for Dec 10 at 2 pm with Sarah”</p>                    |
-| Lead Qualification | <p>Assistant: “What’s your budget?” </p><p>User: “$5000” </p><p>Assistant: “Perfect! Connecting you with sales…”</p> |
-| Account Management | <p>User: “Check balance” </p><p>Assistant: “Balance: $1,234.56”</p>                                                  |
-| AI Assistant       | <p>User: “How do I reset my password?” </p><p>Assistant: step-by-step guide</p>                                      |
+| Use Case          | Example Conversation                                                                                                     |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| FAQ Assistant     | <p>User: “What does our documentation say about opening times?” </p><p>Assistant: “Mon–Fri 9–6, Sat 10–4!”</p>           |
+| Meeting Assistant | <p>User: “Create a meeting with johndoe@gmail.com for Dec 10 at 2 pm” </p><p>Assistant: “Meeting created foe Dec 10”</p> |
 
 ### Supported Message Types
 
