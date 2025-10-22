@@ -171,7 +171,7 @@ CodeWords automatically handles scaling and timeout management. For long-running
 
 <summary>Can I generate my own custom UI?`</summary>
 
-This is a feature coming soon. In the meantime, you can follow [this](../use-cases/use-cases/building-web-apps-with-a-codewords-back-end.md) guide to integrate with popular UI generation tools.
+This is a feature coming soon. In the meantime, you can follow [this](broken-reference) guide to integrate with popular UI generation tools.
 
 </details>
 

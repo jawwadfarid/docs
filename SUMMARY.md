@@ -71,13 +71,11 @@
   * [Reddit Weekly Slack Summary](use-cases/templates/reddit-weekly-slack-summary.md)
   * [X Comment Suggester](use-cases/templates/x-comment-suggester.md)
   * [LinkedIn Education Extractor](use-cases/templates/linkedin-education-extractor.md)
-* [Use Cases](use-cases/use-cases/README.md)
-  * [Sales](use-cases/use-cases/sales.md)
-  * [Operations](use-cases/use-cases/operations.md)
-  * [Marketing](use-cases/use-cases/marketing.md)
-  * [Finance](use-cases/use-cases/finance.md)
-  * [Building web apps with a CodeWords back-end](use-cases/use-cases/building-web-apps-with-a-codewords-back-end.md)
 * [Launched — Web Apps Powered by CodeWords](use-cases/launched-web-apps-powered-by-codewords.md)
+* [Sales](use-cases/sales.md)
+* [Operations](use-cases/operations.md)
+* [Marketing](use-cases/marketing.md)
+* [Finance](use-cases/finance.md)
 
 ## Guides&#x20;
 

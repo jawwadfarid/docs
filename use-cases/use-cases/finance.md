@@ -1,5 +1,0 @@
-# Finance
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-reddit-alien">:reddit-alien:</i><i class="fa-x-twitter">:x-twitter:</i></td><td><strong>Stock Ticker Sentiment Analyzer</strong></td><td>Social-sentiment tracking for any stock by pulling Reddit discussions and Twitter/X mentions, compiling them into a structured report.</td><td></td><td></td><td><a href="../templates/stock-ticker-sentiment-analyzer.md">stock-ticker-sentiment-analyzer.md</a></td></tr><tr><td><i class="fa-telegram">:telegram:</i></td><td><strong>Telegram Reciept Analyzer</strong></td><td>Turns receipt photos sent to your Telegram bot into clean, structured summaries with AI. Perfect for expense tracking, bookkeeping, or team finance workflows—extracts merchant, items, taxes, and totals instantly without manual typing.</td><td></td><td></td><td><a href="../templates/telegram-reciept-analyzer.md">telegram-reciept-analyzer.md</a></td></tr></tbody></table>
-
-\

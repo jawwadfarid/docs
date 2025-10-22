@@ -1,6 +1,0 @@
----
-icon: suitcase
----
-
-# Use Cases
-

@@ -51,14 +51,14 @@ Send any message — the assistant will detect it and respond through your Custo
 
 ### Direct Messaging vs Group Assistants
 
-| Feature         | Direct Messaging (this guide)       | Group Assistants (Wassenger)          |
-| --------------- | ----------------------------------- | ------------------------------------- |
-| Who you message | Individual **users** (1:1)          | WhatsApp groups                       |
-| Best for        | Notifications, support, sales flows | Team/community coordination           |
-| Service window  | 24-hour rule applies                | No window limits                      |
-| Setup           | Simple (\~5 min)                    | Medium (two-phase link)               |
-| Message types   | Templates, Text, Images             | Text, media, polls, events            |
-| Event types     | Messages                            | Messages, reactions, updates, changes |
+| Feature         | Direct Messaging (this guide)                                               | Group Assistants (Wassenger)          |
+| --------------- | --------------------------------------------------------------------------- | ------------------------------------- |
+| Who you message | Individual **users** (1:1)                                                  | WhatsApp groups                       |
+| Best for        | Notifications, support, sales flows                                         | Team/community coordination           |
+| Service window  | The 24-hour rule applies for  & No service window for one-way notifications | No window limits                      |
+| Setup           | Simple (\~5 min)                                                            | Medium (two-phase link)               |
+| Message types   | Templates, Text, Images                                                     | Text, media, polls, events            |
+| Event types     | Messages                                                                    | Messages, reactions, updates, changes |
 
 &#x20;You can use both! Many teams use **Direct Messaging** for user specific needs and **Group Assistants** for internal groups.
 
