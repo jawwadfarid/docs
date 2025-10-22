@@ -10,7 +10,7 @@ icon: whatsapp
 
 ### What are WhatsApp DM Assistants
 
-WhatsApp Direct Messaging (DM) Assistants lets you send messages to individual users (not groups) through WhatsApp. It’s the user-facing side of WhatsApp automation, powered by the official WhatsApp Business API from Meta/Facebook.
+WhatsApp Direct Messaging (DM) Assistants allows you to consume codewords workflows that have been connected to your WhatsApp. It’s the user-facing side of WhatsApp automation, powered by the official WhatsApp Business API from Meta/Facebook.
 
 ### CodeWords WhatsApp Business Number
 
