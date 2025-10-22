@@ -72,10 +72,11 @@
   * [X Comment Suggester](use-cases/templates/x-comment-suggester.md)
   * [LinkedIn Education Extractor](use-cases/templates/linkedin-education-extractor.md)
 * [Launched — Web Apps Powered by CodeWords](use-cases/launched-web-apps-powered-by-codewords.md)
-* [Sales](use-cases/sales.md)
-* [Operations](use-cases/operations.md)
-* [Marketing](use-cases/marketing.md)
-* [Finance](use-cases/finance.md)
+* Solutions for
+  * [Sales](use-cases/solutions-for/sales.md)
+  * [Operations](use-cases/solutions-for/operations.md)
+  * [Marketing](use-cases/solutions-for/marketing.md)
+  * [Finance](use-cases/solutions-for/finance.md)
 
 ## Guides&#x20;
 
