@@ -49,6 +49,10 @@ Send any message — the assistant will detect it and respond through your Custo
 {% endstep %}
 {% endstepper %}
 
+{% hint style="warning" %}
+**Note**: You can only have 1 Direct Messaging assistant at a time.
+{% endhint %}
+
 ### Direct Messaging vs Group Assistants
 
 | Feature         | Direct Messaging (this guide)                                               | Group Assistants (Wassenger)          |
