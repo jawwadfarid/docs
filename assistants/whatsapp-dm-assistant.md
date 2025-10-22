@@ -67,13 +67,13 @@ Send any message — the assistant will detect it and respond through your Custo
 
 Perfect for broadcast-style updates without needing user replies.
 
-| Use Case              | What It Does                          | Example                                             |
-| --------------------- | ------------------------------------- | --------------------------------------------------- |
-| Appointment Reminders | Send scheduled reminders              | “Reminder: Dental appointment tomorrow at 3 PM”     |
-| Shipping Updates      | Track package status from your emails | “Your package is out for delivery! 🚚”              |
-| Payment Alerts        | Confirm transactions from emails      | “Payment received: $99.00. Thank you!”              |
-| Daily Digests         | Regular summaries                     | “Your daily news: 3 new articles, 2 tasks due”      |
-| Service Alerts        | System notifications                  | “Your subscription renews in 3 days—update payment” |
+| Use Case              | What It Does                                     | Example                                             |
+| --------------------- | ------------------------------------------------ | --------------------------------------------------- |
+| Appointment Reminders | Send scheduled reminders                         | “Reminder: Dental appointment tomorrow at 3 PM”     |
+| Shipping Updates      | Track package status from your emails            | “Your package is out for delivery! 🚚”              |
+| Payment Alerts        | Confirm transactions from emails or payment apps | “Payment received: $99.00. Thank you!”              |
+| Daily Digests         | Regular summaries                                | “Your daily news: 3 new articles, 2 tasks due”      |
+| Service Alerts        | System notifications                             | “Your subscription renews in 3 days—update payment” |
 
 #### Type 2: Two-Way Assistant (Interactive)
 
