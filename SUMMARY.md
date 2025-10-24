@@ -12,7 +12,6 @@
 * [Introduction to Cody](fundamentals/introduction-to-cody.md)
 * [Triggers](fundamentals/schedules-and-triggers.md)
 * [Webhooks](fundamentals/webhooks.md)
-* [Graph View](fundamentals/graph-view.md)
 * [Workflow Graph and Code View](fundamentals/workflow-graph-and-code-view.md)
 * [Testing](fundamentals/testing.md)
 * [Running Workflows](fundamentals/running-workflows.md)

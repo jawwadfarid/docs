@@ -3,6 +3,7 @@ description: >-
   Understand how your CodeWords workflows operate with Graph and Code Views —
   visualize data flow or inspect the underlying logic for transparency and
   control.
+icon: diagram-project
 ---
 
 # Workflow Graph and Code View
@@ -63,6 +64,8 @@ When Cody (your CodeWords assistant) builds a workflow, the graph updates automa
 * **After Deployment:** The final graph serves as your permanent visual reference
 
 **To open it:** Select **Graph View** in the workflow editor.
+
+<figure><img src="../.gitbook/assets/graph.gif" alt=""><figcaption></figcaption></figure>
 
 ### **2. The Code View**
 
