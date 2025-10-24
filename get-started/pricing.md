@@ -1,4 +1,8 @@
 ---
+description: >-
+  Transparent, usage-based pricing for CodeWords. Get $5 free credits to build
+  and run automations. Pay only for what you use — simple, scalable, and built
+  for creators.
 icon: money-bill-1-wave
 ---
 
@@ -6,71 +10,81 @@ icon: money-bill-1-wave
 
 ### How it works
 
-CodeWords currently uses a usage-based pricing model.
+CodeWords uses a **usage-based pricing model** designed to be fair, flexible, and scalable.\
+When you sign up, you’ll receive **$5 in free credits** to start building and testing automations — no upfront payment required.
 
-Pricing reflects our standard processing rates. Usage rates vary depending on the process you're completing, such as using our web agent or calling integrations.
+Our pricing reflects real compute and integration costs. You only pay for what you use — whether that’s generating workflows with Cody, running automations, or connecting with external tools and APIs.
 
-We'll be developing our pricing flexibility soon, but for now you'll be able to build and test out the platform at a lower rate so you can explore everything that CodeWords has to offer.
+> Think of credits as the fuel that powers your automations — every action, from updating a spreadsheet to running an AI agent, uses a small amount of it.
 
-### Credits Usage
+### Credits & Usage
 
-Every action your workflows perform — from updating a spreadsheet cell to having AI summarize a document — uses credits. Simple tasks use fewer credits, while complex operations (like AI processing) use more.
+Each workflow action consumes **credits** depending on its complexity:
 
-It's a pay-as-you-go system that scales with what you actually use.
+* Simple tasks (like sending a message or updating a cell) use **fewer credits**
+* Complex tasks (like AI summarization, web automation, or external integrations) use **more credits**
 
-### Building automations
+It’s a **pay-as-you-go system** that automatically scales with your usage.
 
-Our current pricing reflects that our platform is still early, and we want our users to feel empowered to build and experiment when building automations.
+**Detailed history:** To see exactly what you’ve spent, visit the [History Page](https://codewords.agemo.ai/workflows/history) — you’ll find the cost of each workflow run and how much was used to build it through Cody’s chat.
 
-On average, building an automation by chatting with Cody will cost between **$0.50 - $2**. Extensive or highly complex automations might cost more than this.
+### Typical Costs
 
-### Editing automations
+#### Building Automations
 
-Updating and customizing templates usually costs between **$0.1 - $1** on average. Very complex customizations might cost more than this.
+Creating workflows or AI Agents through conversations with Cody.\
+**Average cost:** $0.50 – $2 per automation\
+More complex builds (involving AI or APIs) may cost slightly more.
 
-### Running automations
+#### Editing Automations
 
-On average, running workflows from a template costs between **$0.00001 - $1.**
+Updating or customizing existing templates or workflows.\
+**Average cost:** $0.10 – $1 per edit\
+Complex edits (e.g., multi-step logic changes) may use additional credits.
 
-Please note that our usage-based pricing varies depending on how complex your workflow is and how many other tools are used in the process.
+#### Running Automations
 
-You'll be able to cancel any scheduled or triggered automations at any point.&#x20;
+Executing your workflows — whether manually, scheduled, or triggered.\
+**Average cost:** $0.00001 – $1 per run\
+The final cost depends on your workflow’s steps, API calls, and integrations.
 
-**Note:** you might still incur some limited overspill charges whilst your cancellation takes place.
+> You can cancel any scheduled or triggered automations anytime.\
+> In rare cases, minimal overspill charges may apply while cancellation completes.
 
-### How credits work
+### How Credits Work
 
-**Automatic usage:** Credits get used automatically whenever your workflows run. No need to think about it — your automations just work, and credits handle the behind-the-scenes costs.
+* **Automatic usage:** Credits are deducted automatically whenever your workflows run or when you chat with Cody.
+* **Real-time balance:** View your remaining balance [Account](https://codewords.agemo.ai/account) → [Wallet](https://codewords.agemo.ai/account/wallet)**.**
+* **Detailed history:** To see exactly what you’ve spent, visit the [History Page](https://codewords.agemo.ai/workflows/history) — you’ll find the cost of each workflow run and how much was used to build it through Cody’s chat.
+* **No idle costs:** You only pay when something actually runs or builds.
 
-**Track your usage:** Keep an eye on your credit consumption right from your main Dashboard, or dive deeper in Settings > Billing. You'll see exactly what's using credits and how much you have left.
+### Adding More Credits
 
-### Adding more credits
+When you’re running low on credits:
 
-Running low on credits? No worries:
+1. Go to **Settings → Wallet**
+2. Click **Add / Top Up Wallet**
+3. Select how many $worth of credits you want
+4. Complete checkout — your credits appear instantly
 
-1. **Go to Settings > Wallet** — Everything's right where you'd expect
-2. **Click "Add Top Up Wallet"** — Can't miss it
-3. **Pick your amount** — Choose the credit amount that fits your needs
-4. **Complete the purchase** — Your credits show up instantly
+### Early Access Pricing
 
-**Pro tip:** Buy credits in larger packages for better value, and you won't have to think about topping up as often.
+CodeWords is still evolving — and so is our pricing flexibility.\
+For now, we’re keeping rates **low** to encourage you to experiment, explore, and build freely.
 
-<figure><img src="../.gitbook/assets/wallet.gif" alt=""><figcaption></figcaption></figure>
+This early-access model means you can test AI, workflows, and integrations at a fraction of the cost of traditional automation tools.
 
-### Understanding usage
+### Summary
 
-**Workflow executions** are the main unit:
+* $5 free credits when you sign up
+* Pay only for what you use — no subscriptions or contracts
+* Transparent usage history and cost tracking
+* Cancel automations anytime
+* Early-access rates so you can build more for less
 
-* Each time an automation runs counts as one execution
-* Scheduled runs, trigger events, and manual runs all count
-* Failed runs still count (they used resources)
-* Tool callings and the user messages to Cody are also considered part of the usage, but they amount to very minimal consumption of your credits.
 
-**Resource consumption**
 
-* Longer-running workflows use more compute
-* File processing and web scraping are resource-intensive
-* API calls to external services may have their own costs
+<figure><img src="../.gitbook/assets/wallet.gif" alt="Topping up credits to your CodeWords account"><figcaption></figcaption></figure>
 
 
 
