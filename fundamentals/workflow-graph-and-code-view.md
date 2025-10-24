@@ -17,9 +17,9 @@ Every automation you build in CodeWords has two perspectives:
 
 Together, they give you complete visibility into what your workflow does and how it works — whether you’re a non-technical creator or an experienced developer.
 
-### **1. The Workflow Graph**
+### 1. The Workflow Graph
 
-#### **What Is the Workflow Graph?**
+#### What Is the Workflow Graph?
 
 The **Workflow Graph** visually represents how your automation runs, similar to a flowchart.\
 It shows:
@@ -31,7 +31,7 @@ It shows:
 
 Each element is called a **node** and represents a step, and arrows show how data flows between them.
 
-#### **Why the Graph View Matters**
+#### Why the Graph View Matters
 
 **For Non-Technical Users**
 
@@ -40,7 +40,7 @@ Each element is called a **node** and represents a step, and arrows show how dat
 * **Communicate clearly:** Share the automation’s structure with teammates
 * **Spot issues early:** Detect missteps before final deployment
 
-#### **What You’ll See**
+#### What You’ll See
 
 1. **Starting Points**
    * Run Manually — You start it when ready
@@ -55,7 +55,7 @@ Each element is called a **node** and represents a step, and arrows show how dat
 4. **Integrations**
    * Visual icons indicate tools in use (Slack, Gmail, Notion, Stripe, etc.)
 
-### **Accessing the Graph View**
+### Accessing the Graph View
 
 When Cody (your CodeWords assistant) builds a workflow, the graph updates automatically during each phase:
 
@@ -67,14 +67,14 @@ When Cody (your CodeWords assistant) builds a workflow, the graph updates automa
 
 <figure><img src="../.gitbook/assets/graph.gif" alt=""><figcaption></figcaption></figure>
 
-### **2. The Code View**
+### 2. The Code View
 
-#### **What Is the Code View?**
+#### What Is the Code View?
 
 The **Code View** displays the Python code that defines your workflow’s behavior.\
 It’s a text-based configuration showing every step, parameter, and integration — perfect for users who want technical insight or advanced control.
 
-#### **Why It’s Useful**
+#### Why It’s Useful
 
 * **Transparency:** See the exact logic behind each step
 * **Debugging:** Identify issues by reviewing the underlying script
@@ -83,7 +83,7 @@ It’s a text-based configuration showing every step, parameter, and integration
 
 **To open it:** Click **Code View** in the workflow editor.
 
-#### **Viewing the Code**
+#### Viewing the Code
 
 You can access the code in two ways:
 
@@ -97,7 +97,7 @@ Ask Cody:
 **2. After Deployment**\
 Ask Cody to view or compare versions of a deployed workflow.
 
-#### **Code Structure Overview**
+#### Code Structure Overview
 
 Typical sections include:
 
@@ -107,7 +107,7 @@ Typical sections include:
 * **Outputs:** Results or returned data
 * **Comments:** Human-readable explanations
 
-### **3. Putting It All Together**
+### 3. Putting It All Together
 
 | View Type      | Purpose                                      | Best For                        |
 | -------------- | -------------------------------------------- | ------------------------------- |
@@ -116,19 +116,40 @@ Typical sections include:
 
 You can build, run, and monitor automations entirely through the visual graph — or dive into code for deeper insight.
 
-### **4. FAQs**
+### 4. FAQs
 
-**Do I need to understand code to use CodeWords?**\
+<details>
+
+<summary><strong>Do I need to understand code to use CodeWords?</strong></summary>
+
 No. The Graph View exists so anyone can build and understand workflows visually.
 
-**When should I use Graph View?**\
+</details>
+
+<details>
+
+<summary><strong>When should I use Graph View?</strong></summary>
+
+\
 During planning, reviewing builds, or troubleshooting unexpected results.
 
-**When should I use Code View?**\
+</details>
+
+<details>
+
+<summary><strong>When should I use Code View?</strong></summary>
+
 When debugging, exporting, or learning how your automation works internally.
 
-**Can I modify the code?**\
-Yes — but you can also simply _describe the change_ in plain English. Cody will update both the graph and code automatically.
+</details>
+
+<details>
+
+<summary><strong>Can I modify the code?</strong></summary>
+
+Not directly. But you can also simply describe the change in plain English. Cody will update both the graph and code automatically.
+
+</details>
 
 ### **Getting Help**
 
