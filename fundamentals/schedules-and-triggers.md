@@ -1,54 +1,96 @@
 ---
+description: >-
+  Triggers in CodeWords start workflows automatically when events occur or on a
+  set schedule. Build event-driven or time-based automations across 2,700+ apps.
 icon: bolt
 ---
 
 # Triggers
 
-Triggers kick off your automations instantly when something happens, like getting an email or a Slack message. Scheduling runs your workflows on autopilot — every hour, daily, or whenever you need them.
+### **Overview**
 
-Think of triggers as your automation's ears (always listening for events) and scheduling as its internal clock (running tasks right on time).
+Triggers let your workflows start automatically when something happens—like receiving an email, a Slack message, or an update in a connected app.\
+Scheduling, on the other hand, runs workflows at fixed intervals—hourly, daily, or at custom times.
 
-## Event-driven triggers
+Think of them as two core automation types:
 
-Triggers allow your automations to become reactive, jumping into action the moment something important occurs.
+* **Event-driven triggers:** React instantly to external events.
+* **Scheduled triggers:** Run tasks at predefined times.
 
-#### Native CodeWords triggers
+Together, they make CodeWords workflows autonomous and reliable.
 
-These work right out of the box with minimal fuss:
+### Event-driven triggers
 
-* Slack — New messages, reactions, and when someone joins a channel
-* WhatsApp Business — Incoming messages and status updates
+Event-driven triggers allow your automations to respond immediately when key events occur—such as a message being sent, a form submitted, or a new record created.
 
-Just connect your accounts at  [Integrations page](https://codewords.agemo.ai/account/integrations/) and you're ready to go.
+#### **Native CodeWords Triggers**
 
-#### Pipedream platform triggers
+These work seamlessly out of the box with minimal setup:
 
-Here's where things get exciting — access to 2,700+ platforms, including:
+* **Slack:** New messages, reactions, or when a user joins a channel
+* **WhatsApp:** Incoming messages sent to the CodeWords WhatsApp number, group messages where CodeWords is a member, and message reactions.
 
-* Gmail — New emails, label changes, draft creation
-* Google Calendar — Events created, updated, or deleted
-* GitHub — Code pushes, new issues, pull requests
-* Notion — Page updates, database changes
-* Discord, HubSpot, Stripe, Airtable — The list goes on and on
+To activate, simply connect your accounts from the [Integrations](https://codewords.agemo.ai/account/integrations/) page. Once connected, these triggers are instantly available.
 
-Basically, if there's a platform you use for work, there's probably a trigger for it.
+#### **Pipedream Platform Triggers**
 
-#### Custom webhooks
+CodeWords integrates with the Pipedream platform, giving you access to **over 2,700 apps and services** for event-based automation.\
+Popular options include:
 
-Need to connect something that doesn't have a pre-built trigger? No problem. CodeWords gives you custom webhook URLs that you can plug into any system that can send HTTP requests. You can ask Cody to set this up for you.
+* **Gmail:** New emails, label changes, or draft creation
+* **Google Calendar:** Event creation, updates, or deletions
+* **GitHub:** Code pushes, new issues, pull requests
+* **Notion:** Page or database updates
+* **Discord, HubSpot, Stripe, Airtable**, and many more
 
-## **Setting up event-triggers**
+If your app supports event-based actions, CodeWords can likely trigger from it.
 
-1. Connect your accounts from the [Integrations page](https://codewords.agemo.ai/account/integrations/) for the particular app that you want to activate the workflow for.
-2. Specify to Cody to trigger the workflow based on an event trigger, and Cody will set up the necessary trigger for you
-3. If it's an event-driven trigger on an app event, you can find the trigger once set up from your [triggers page](https://codewords.agemo.ai/workflows/triggers)
+#### **Custom Webhooks**
 
-## **Setting up schedules**
+If your system isn’t natively supported, CodeWords provides **custom webhook URLs** to handle external events.\
+These URLs can be called from any platform capable of sending HTTP POST requests with JSON data.
 
-1. Run your workflow first — Head to the workflow from my workflows and make sure it works perfectly
-2. Create a new schedule — Click the schedule button and choose your timing
-3. Pick your frequency — Use simple options like  "daily" at a particular time.
-4. Save and you're done — Your workflow will now run automatically
-5. Go to the schedules page — Visit [Schedules](https://codewords.agemo.ai/workflows/schedule) to see all your scheduled automations
+To create one, simply tell **Cody** which external system you want to connect. Cody will automatically generate and configure the webhook endpoint for you.
 
-<figure><img src="../.gitbook/assets/schedule (1).gif" alt=""><figcaption></figcaption></figure>
+### **Setting Up Event Triggers**
+
+Follow these steps to enable event-based automations:
+
+1. **Connect accounts** — Go to the [Integrations](https://codewords.agemo.ai/account/integrations) page and link the app you want to use as a trigger source.
+2. **Define the event** — Tell Cody to trigger your workflow based on a specific event (e.g., “New message in Slack”).
+3. **Confirm setup** — Once configured, your event trigger will appear on the [Triggers](https://codewords.agemo.ai/workflows/triggers) page, ready for use.
+
+Event-driven triggers allow workflows to run instantly when external systems send data.
+
+### **Scheduled Triggers**
+
+Scheduled triggers let you run workflows automatically at set intervals—ideal for reports, reminders, or maintenance tasks.
+
+#### **Setting Up a Schedule**
+
+1. **Test your workflow** — From the [My Workflows](https://codewords.agemo.ai/workflows/library) page, make sure your workflow runs successfully.
+2. **Create a schedule** — Select the Schedule option and choose when the workflow should run.
+3. **Select frequency** — Set it to run hourly, daily, weekly, or at a custom interval.
+4. **Save your schedule** — The workflow will now execute automatically based on your chosen timing.
+5. **Manage schedules** — Visit the [Schedules](https://codewords.agemo.ai/workflows/schedule) page to view or modify all active scheduled workflows.
+
+<figure><img src="../.gitbook/assets/schedule (1).gif" alt="Setting up a schedule on CodeWords"><figcaption><p>Setting up a scheduled workfow on CodeWords</p></figcaption></figure>
+
+### **When to Use Each**
+
+| Use Case                                   | Best Option            |
+| ------------------------------------------ | ---------------------- |
+| Reacting instantly to new data or messages | Event-driven trigger   |
+| Running recurring reports or reminders     | Scheduled trigger      |
+| Connecting unsupported systems             | Custom webhook trigger |
+
+Event-driven triggers are best for responsive workflows. Scheduled triggers are ideal for predictable, time-based automation.
+
+### **Summary**
+
+Triggers make your automations proactive and reliable.
+
+* **Event-driven triggers** react to real-time events.
+* **Scheduled triggers** run at specific times.
+* **Custom webhooks** extend integration to any system.\
+  Whether you’re managing messages, syncing data, or scheduling reports, CodeWords handles it automatically—no manual input or coding required.
