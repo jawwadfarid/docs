@@ -13,7 +13,7 @@
 * [Triggers](fundamentals/schedules-and-triggers.md)
 * [Webhooks](fundamentals/webhooks.md)
 * [Graph View](fundamentals/graph-view.md)
-* [Code View](fundamentals/code-view.md)
+* [Workflow Graph and Code View](fundamentals/workflow-graph-and-code-view.md)
 * [Testing](fundamentals/testing.md)
 * [Running Workflows](fundamentals/running-workflows.md)
 * [CodeWords API key](fundamentals/codewords-api-key.md)
