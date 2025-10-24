@@ -52,6 +52,8 @@ These URLs can be called from any platform capable of sending HTTP POST requests
 
 To create one, simply tell **Cody** which external system you want to connect. Cody will automatically generate and configure the webhook endpoint for you.
 
+To learn more about Webhooks in CodeWords, visit the [Webhooks](https://docs.codewords.ai/fundamentals/webhooks) documentation page.
+
 ### **Setting Up Event Triggers**
 
 Follow these steps to enable event-based automations:
