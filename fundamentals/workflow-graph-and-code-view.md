@@ -55,7 +55,7 @@ Each element is called a **node** and represents a step, and arrows show how dat
 4. **Integrations**
    * Visual icons indicate tools in use (Slack, Gmail, Notion, Stripe, etc.)
 
-### Accessing the Graph View
+#### Accessing the Graph View
 
 When Cody (your CodeWords assistant) builds a workflow, the graph updates automatically during each phase:
 
