@@ -14,10 +14,8 @@ Our Referral Program lets you share the CodeWords love with your friends and col
 **How it works:**&#x20;
 
 1. Share your invite link with a friend
-2. Get $1 credit when they sign up
+2. Get $1 credit when they sign up and create their first workflow&#x20;
 3. They'll get $5 upon sign up
-
-
 
 ### Terms and Conditions
 
