@@ -5,6 +5,7 @@
 * [Getting Started with CodeWords](README.md)
 * [Quickstart](get-started/quickstart-1.md)
 * [FAQ](get-started/faq.md)
+* [Pricing](get-started/pricing.md)
 
 ## Fundamentals
 
@@ -35,7 +36,6 @@
   * [Popular Integrations](fundamentals/popular-integrarions/popular-integrations.md)
   * [Integrations & API Keys](fundamentals/popular-integrarions/integrations-and-api-keys.md)
   * [AI models](fundamentals/popular-integrarions/llm-models.md)
-* [Pricing](fundamentals/pricing.md)
 
 ## Web Automation
 
