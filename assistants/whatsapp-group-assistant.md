@@ -242,17 +242,17 @@ If your Assistant isn’t responding:
 
 <details>
 
-<summary>What’s the difference between WhatsApp Assistant for Groups and Direct Messages?</summary>
+<summary>What’s the difference between WhatsApp Automation for Groups and Direct Messages?</summary>
 
 
 
-| Who you message          | WhatsApp **groups** (teams, communities)    | Individuals (1:1)                                  |
-| ------------------------ | ------------------------------------------- | -------------------------------------------------- |
-| Assistant/Service number | +447466216790                               | +447424366129                                      |
-| Service window           | No restrictions                             | 24-hour window after customer reply                |
-| Events                   | Messages, reactions, updates, group changes | Messages only                                      |
-| Message types            | Text, media, polls, events, docs, etc.      | Templates, text, images                            |
-| Best for                 | Team coordination, community management     | Notifications, support, sales, personal assistants |
+| Who you message  | WhatsApp **groups** (teams, communities)    | Individuals (1:1)                                  |
+| ---------------- | ------------------------------------------- | -------------------------------------------------- |
+| CodeWords number | +447466216790                               | +447424366129                                      |
+| Service window   | No restrictions                             | 24-hour window after customer reply                |
+| Events           | Messages, reactions, updates, group changes | Messages only                                      |
+| Message types    | Text, media, polls, events, docs, etc.      | Templates, text, images                            |
+| Best for         | Team coordination, community management     | Notifications, support, sales, personal assistants |
 
 </details>
 
