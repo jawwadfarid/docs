@@ -43,8 +43,8 @@
 
 ## WhatsApp Automations
 
-* [For WhatsApp Groups](whatsapp-automations/for-whatsapp-groups.md)
-* [For WhatsApp DMs](whatsapp-automations/for-whatsapp-dms.md)
+* [For WhatsApp Groups](assistants/whatsapp-group-assistant.md)
+* [For WhatsApp DMs](assistants/whatsapp-dm-assistant.md)
 
 ## Use Cases
 

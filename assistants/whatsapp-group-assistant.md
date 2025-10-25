@@ -142,31 +142,31 @@ Send any message in the group — the Assistant will detect it and respond throu
 {% endstep %}
 {% endstepper %}
 
-### Connect an existing WhatsApp Assistant template
+### Connect an existing WhatsApp Automation template
 
 {% stepper %}
 {% step %}
 #### Access the template
 
-Go to the Run Page for the WhatsApp Assistant template and review its description to understand how it works.
+Go to the Run Page for the WhatsApp Automation template and review its description to understand how it works.
 {% endstep %}
 
 {% step %}
 #### Run the template
 
-Enter your phone number (including country code), then run the Assistant template register your number with the Assistant.
+Enter your phone number (including country code), then run the Automation template  & register your number with the autuomation.
 
 You’ll see:
 
 {% hint style="success" %}
-Assistant registration created successfully!
+Workflow automation registration created successfully!
 {% endhint %}
 
 Follow the instructions thats shown.
 {% endstep %}
 
 {% step %}
-#### Add the Assistant to your WhatsApp group
+#### Add the CodeWords to your WhatsApp group
 
 1. Open your group → Tap group name → “Add participant”
 2. Add +447466216790
@@ -180,7 +180,7 @@ You’ll see:
 {% endstep %}
 
 {% step %}
-#### Mention the Assistant
+#### Mention CodeWords
 
 In your group, type:
 
@@ -191,12 +191,12 @@ In your group, type:
 You’ll get confirmation:
 
 {% hint style="success" %}
-Assistant Successfully Linked!
+Automation Successfully Linked!
 {% endhint %}
 {% endstep %}
 
 {% step %}
-#### Test your Assistant
+#### Test your Automation
 
 Send any message in the group — the Assistant will detect it and respond through your Custom WhatsApp Group Assistant.
 {% endstep %}
@@ -204,17 +204,17 @@ Send any message in the group — the Assistant will detect it and respond throu
 
 ### Cost
 
-| Assistant Message Type        | Cost per Message                         | Examples                                  |
-| ----------------------------- | ---------------------------------------- | ----------------------------------------- |
-| Text, Poll, Event, Location   | €0.002 + Cost of executing the Assistant | “Daily update,” “New event added”         |
-| Image, Video, Audio, Document | €0.004 + Cost of executing the Assistant | Reports, media summaries                  |
-| Receiving messages            | Free                                     | You only pay for what the Assistant sends |
+| Automation Message Type       | Cost per Message                          | Examples                                   |
+| ----------------------------- | ----------------------------------------- | ------------------------------------------ |
+| Text, Poll, Event, Location   | €0.002 + Cost of executing the Automation | “Daily update,” “New event added”          |
+| Image, Video, Audio, Document | €0.004 + Cost of executing the Automation | Reports, media summaries                   |
+| Receiving messages            | Free                                      | You only pay for what the Automation sends |
 
 ### Privacy & Data Handling
 
 #### Key Principle: Ephemeral by Default
 
-Your Assistant runs in short-lived sandboxes — fresh for every event and deleted right after.\
+Your Automation runs in short-lived sandboxes — fresh for every event and deleted right after.\
 Each run lasts 2–30 seconds, then the environment is destroyed.
 
 * Created new for each event
@@ -287,23 +287,23 @@ Yes, you can refer to the steps [here](https://app.gitbook.com/o/7isqlJn3eTzit1b
 
 <details>
 
-<summary>What happens when I mention the Assistant?</summary>
+<summary>What happens when I mention CodeWords?</summary>
 
-The bot captures the **group ID**, links it to your registration, posts a **success** message, and starts forwarding events to your AI Assistant.
+The bot captures the **group ID**, links it to your registration, posts a **success** message, and starts forwarding events to your Workflow.
 
 </details>
 
 <details>
 
-<summary>Can one Assistant handle multiple groups?</summary>
+<summary>Can one automation template handle multiple groups?</summary>
 
 Yes. Enter your phone number (with country code) on the Assistant’s Run Page and start it.\
 Then in WhatsApp:
 
-1. Add the CodeWords Assistant to the group you want to link
+1. Add the CodeWords number to the group you want to link
 2. Mention it by sending: `@CodeWords`
 
-You’ll receive a “CodeWords Assistant Successfully Linked!” confirmation.&#x20;
+You’ll receive a “CodeWords workflow Successfully Linked!” confirmation.&#x20;
 
 Follow the exact steps shared [here](https://app.gitbook.com/o/7isqlJn3eTzit1bZKstj/s/C0KQHHlFG9y1F0pBotb8/~/changes/396/assistants/whatsapp-group-assistant#connect-an-existing-whatsapp-assistant-template).
 
@@ -311,7 +311,7 @@ Follow the exact steps shared [here](https://app.gitbook.com/o/7isqlJn3eTzit1bZK
 
 <details>
 
-<summary>What’s the Assistant number I should add?</summary>
+<summary>What’s the CodeWords number I should add?</summary>
 
 **Group Assistant**: +447466216790 (add to groups)\
 **Direct Messaging Assistant**: +447424366129 (1:1 DMs)
@@ -320,9 +320,9 @@ Follow the exact steps shared [here](https://app.gitbook.com/o/7isqlJn3eTzit1bZK
 
 <details>
 
-<summary>I mentioned the bot before registering—now what?</summary>
+<summary>I mentioned the CodeWords before registering—now what?</summary>
 
 You’ll see “**No Active Registration.**”\
-Fix: Register your phone with Cody, then mention the bot again in the group.
+Fix: Register your phone with Cody, then mention CodeWords again in the group.
 
 </details>

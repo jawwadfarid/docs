@@ -20,13 +20,13 @@ WhatsApp Direct Messaging (DM) automations allows you to consume codewords workf
 * Users can save it as a contact
 * Available **24/7** for automation
 
-### Setting Up Your First DM Assistant
+### Setting Up Your First DM Automation
 
 {% stepper %}
 {% step %}
-#### Build the Assistant through chat
+#### Build the Automation through chat
 
-Describe the kind of WhatsApp assistant you want to create along with its trigger.
+Describe the kind of WhatsApp auomation you want to create along with its trigger.
 
 Example: "Create a WhatsApp assistant that’s connected to an LLM and automatically responds to any message that I send back. Also make sure that its connected to my google calendar, such that It has access to view, edit, list and create events on my calendar. "
 {% endstep %}
@@ -38,7 +38,7 @@ Cody will ask which phone number you want your AI assistant to connect to. Once 
 {% endstep %}
 
 {% step %}
-#### Test your Assistant
+#### Test your Automation
 
 Send any message — the assistant will detect it and respond through your Custom WhatsApp DM Assistant.
 {% endstep %}
@@ -48,9 +48,9 @@ Send any message — the assistant will detect it and respond through your Custo
 **Note**: You can only have 1 Direct Messaging assistant at a time.
 {% endhint %}
 
-### Direct Messaging vs Group Assistants
+### WhatsApp Direct Messaging vs WhatsApp Group Automations
 
-| Feature         | Direct Messaging (this guide)                                               | Group Assistants (Wassenger)          |
+| Feature         | Direct Messaging (this guide)                                               | Group                                 |
 | --------------- | --------------------------------------------------------------------------- | ------------------------------------- |
 | Who you message | Individual **users** (1:1)                                                  | WhatsApp groups                       |
 | Best for        | Notifications, support, sales flows                                         | Team/community coordination           |
@@ -59,9 +59,9 @@ Send any message — the assistant will detect it and respond through your Custo
 | Message types   | Templates, Text, Images                                                     | Text, media, polls, events            |
 | Event types     | Messages                                                                    | Messages, reactions, updates, changes |
 
-&#x20;You can use both! Many teams use **Direct Messaging** for user specific needs and **Group Assistants** for internal groups.
+&#x20;You can use both! Many teams use **Direct Messaging** for user specific needs and **Group** for internal groups.
 
-### What Can WhatsApp Direct Messaging Do?
+### What Can you build with the WhatsApp Direct Messaging Automations?
 
 #### Type 1: One-Way Notifications (Simple)
 
@@ -94,10 +94,10 @@ Build intelligent conversations where **users** ask questions and get instant he
 
 ### Pricing
 
-| Assistant                           | Cost                                                             |
-| ----------------------------------- | ---------------------------------------------------------------- |
-| Receiving messages                  | Free                                                             |
-| Sending messages(All Message types) | €0.002 per message (≈ 0.2¢) + Cost of executing the AI Assistant |
+| Automation actions                  | Cost                                                           |
+| ----------------------------------- | -------------------------------------------------------------- |
+| Receiving messages                  | Free                                                           |
+| Sending messages(All Message types) | €0.002 per message (≈ 0.2¢) + Cost of executing the Automation |
 
 ### Getting Help
 
