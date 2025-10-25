@@ -41,10 +41,10 @@
 * [Web Agent](fundamentals/web-agent.md)
 * [Chrome Extension](fundamentals/chrome-extension.md)
 
-## Assistants
+## WhatsApp Automations
 
-* [WhatsApp Group Assistant](assistants/whatsapp-group-assistant.md)
-* [WhatsApp DM Assistant](assistants/whatsapp-dm-assistant.md)
+* [For WhatsApp Groups](whatsapp-automations/for-whatsapp-groups.md)
+* [For WhatsApp DMs](whatsapp-automations/for-whatsapp-dms.md)
 
 ## Use Cases
 

@@ -1,16 +1,16 @@
 ---
 description: >-
-  Automate WhatsApp DM Assistant to send personalized updates, notifications,
-  and AI-powered chats. Build your own WhatsApp DM Assistant and connect with
-  over 2,700 apps — no coding required.
+  Automate WhatsApp DMs to send personalized updates, notifications, and
+  AI-powered chats. Build your own WhatsApp DM workflow automations and connect
+  with over 2,700 apps — no coding required.
 icon: whatsapp
 ---
 
-# WhatsApp DM Assistant
+# For WhatsApp DMs
 
-### What are WhatsApp DM Assistants
+### What are WhatsApp DM Automations
 
-WhatsApp Direct Messaging (DM) Assistants allows you to consume codewords workflows that have been connected to your WhatsApp. It’s the user-facing side of WhatsApp automation, powered by the official WhatsApp Business API from Meta/Facebook.
+WhatsApp Direct Messaging (DM) automations allows you to consume codewords workflows that have been connected to your WhatsApp. It’s the user-facing side of WhatsApp automation, powered by the official WhatsApp Business API from Meta/Facebook.
 
 ### CodeWords WhatsApp Business Number
 
