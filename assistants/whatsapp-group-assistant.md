@@ -201,6 +201,9 @@ Send any message in the group — the Assistant will detect it and respond throu
 {% endstep %}
 {% endstepper %}
 
+Once your automation is set up, you can manage its WhatsApp trigger directly from the [Triggers](https://codewords.agemo.ai/workflows/triggers) page  including pausing or deleting it at any time.\
+Alternatively, you can simply ask **Cody** to remove the trigger if you no longer want the automation to run.
+
 ### Cost
 
 | Automation Message Type       | Cost per Message                          | Examples                                   |
