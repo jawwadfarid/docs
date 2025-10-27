@@ -1,3 +1,7 @@
+---
+icon: file
+---
+
 # Using a Template
 
 ### What are templates?
@@ -37,7 +41,7 @@ Using a template couldn't be simpler:
 
 The interface guides you through exactly what information to provide, with helpful examples and clear descriptions.
 
-<figure><img src="../../.gitbook/assets/templates.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/templates.gif" alt=""><figcaption></figcaption></figure>
 
 **Edit a template**&#x20;
 
@@ -47,4 +51,4 @@ Using a template couldn't be simpler:
 2. Click Edit template&#x20;
 3. Prompt Cody with your change&#x20;
 
-<figure><img src="../../.gitbook/assets/edit_template.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/edit_template.gif" alt=""><figcaption></figcaption></figure>
