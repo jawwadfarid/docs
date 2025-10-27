@@ -18,7 +18,7 @@
 * [CodeWords API key](fundamentals/codewords-api-key.md)
 * [Using your own API Key](fundamentals/using-your-own-api-key.md)
 * [Using a Template](fundamentals/using-a-template.md)
-* [Automations via API](fundamentals/automations-via-api.md)
+* [Call CodeWords workflows](fundamentals/call-codewords-workflows.md)
 * [CodeWords 101](fundamentals/codewords-101/README.md)
   * [Editing a Template](fundamentals/codewords-101/editing-a-template.md)
   * [Template Gallery](fundamentals/codewords-101/template-gallery.md)
