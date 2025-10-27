@@ -23,7 +23,6 @@
   * [Template Gallery](fundamentals/codewords-101/template-gallery.md)
 * [Intorduction to Cody](fundamentals/intorduction-to-cody.md)
 * [Popular Integrations](fundamentals/popular-integrarions/README.md)
-  * [Whatsapp](fundamentals/popular-integrations/whatsapp.md)
   * [Airtable](fundamentals/popular-integrarions/airtable.md)
   * [Discord](fundamentals/popular-integrations/discord.md)
   * [Gmail](fundamentals/popular-integrations/gmail.md)
