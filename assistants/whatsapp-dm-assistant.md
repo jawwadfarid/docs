@@ -45,7 +45,7 @@ Send any message — the assistant will detect it and respond through your Custo
 {% endstepper %}
 
 {% hint style="warning" %}
-**Note**: You can only have 1 Direct Messaging assistant at a time.
+**Note**: While you can create multiple direct messaging automations that send messages, only **one trigger-**&#x62;ased 2-way assistant can be active at a time.
 {% endhint %}
 
 Once your automation is set up, you can manage its WhatsApp trigger directly from the [Triggers](https://codewords.agemo.ai/workflows/triggers) page  including pausing or deleting it at any time.\
