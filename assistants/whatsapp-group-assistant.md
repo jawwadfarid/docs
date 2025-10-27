@@ -13,7 +13,7 @@ icon: whatsapp
 **WhatsApp Group Automations** help you manage your group chats. They can:
 
 * Listen to messages and respond automatically
-* Answer common questions and run predefined workflows
+* Run predefined workflows
 * Send announcements, reminders, and polls
 * Welcome new members
 * Track engagement and group activity
@@ -28,10 +28,9 @@ CodeWords makes it easy to build, run, and manage your automations with natural 
 Here’s why users choose to build automations for WhatsApp on CodeWords :
 
 1. Build WhatsApp Automations by telling **Cody** what you want
-2. 24/7 assistance as they run continuously in the cloud
-3. Connect WhatsApp automations with 2,700+ apps and AI models
-4. Secure & private as your data stays protected
-5. Launch a working WhatsApp automation in under 10 minutes
+2. Connect WhatsApp automations with 2,700+ apps and AI models
+3. Secure & private as your data stays protected
+4. Launch a working WhatsApp automation in under 10 minutes
 
 ### What WhatsApp Group Automations Can You Build
 
@@ -57,13 +56,13 @@ You add the **CodeWords WhatsApp number** (+447466216790) to your WhatsApp group
 {% step %}
 #### Event detection
 
-The configured automation listens for key events — like messages, reactions, or new members.
+The configured automation listens for your defined trigger, key events — like messages, reactions, or new members.
 {% endstep %}
 
 {% step %}
 #### Trigger your Automation
 
-When an event happens, CodeWords automatically runs your custom Whatsapp Automation.
+When a trigger event happens, CodeWords automatically runs your custom Whatsapp Automation.
 {% endstep %}
 
 {% step %}
@@ -138,7 +137,7 @@ Assistant Successfully Linked!
 {% step %}
 #### Test your Assistant
 
-Send any message in the group — the Assistant will detect it and respond through your Custom WhatsApp Group Assistant.
+Send any message in the group — the Assistant will detect any trigger and respond through your Custom WhatsApp Group Assistant.
 {% endstep %}
 {% endstepper %}
 
