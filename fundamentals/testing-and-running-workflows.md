@@ -3,7 +3,7 @@ description: >-
   Learn how to test and run your CodeWords workflows with Cody or manually.
   Validate integrations, monitor execution logs, and troubleshoot errors with
   the detailed Run page.
-icon: list-check
+icon: vial
 ---
 
 # Testing and Running Workflows
