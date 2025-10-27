@@ -32,16 +32,16 @@ Once approved, Cody deploys your automation and runs real-data tests to verify t
 
 ### What You Can Do
 
-Cody empowers you to **create, modify, and manage automations and AI agents** using natural conversation — no coding required.
+Cody empowers you to create, modify, and manage automations and AI agents using natural conversation — no coding required.
 
 * **Build new workflows:**\
-  Turn your ideas into fully functional **AI-powered automations**. Just describe what you want — from lead tracking to content generation — and Cody builds it end-to-end.
+  Turn your ideas into fully functional AI-powered automations. Just describe what you want — from lead tracking to content generation — and Cody builds it end-to-end.
 * **Modify existing workflows:**\
   Instantly update, extend, or optimize your workflows. Add new steps, connect different apps, or refine automation logic without touching any code.
 * **Debug and optimize:**\
   When something doesn’t work as expected, Cody automatically inspects logs, identifies issues, and helps you **fix or optimize** the workflow for better performance.
 * **Connect with other platforms:**\
-  Integrate seamlessly with external apps or custom apps built on **Lovable**, **Bolt**, **V0**, and many more.
+  Integrate seamlessly with external apps or custom apps built on Lovable, Bolt, V0, and many more.
 
 ### Why Cody Is Different
 

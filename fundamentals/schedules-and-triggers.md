@@ -47,10 +47,10 @@ If your app supports event-based actions, CodeWords can likely trigger from it.
 
 #### **Custom Webhooks**
 
-If your system isn’t natively supported, CodeWords provides **custom webhook URLs** to handle external events.\
+If your system isn’t natively supported, CodeWords provides custom webhook URLs to handle external events.\
 These URLs can be called from any platform capable of sending HTTP POST requests with JSON data.
 
-To create one, simply tell **Cody** which external system you want to connect. Cody will automatically generate and configure the webhook endpoint for you.
+To create one, simply tell Cody which external system you want to connect. Cody will automatically generate and configure the webhook endpoint for you.
 
 To learn more about Webhooks in CodeWords, visit the [Webhooks](https://docs.codewords.ai/fundamentals/webhooks) documentation page.
 

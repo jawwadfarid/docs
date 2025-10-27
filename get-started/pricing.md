@@ -10,8 +10,8 @@ icon: money-bill-1-wave
 
 ### How it works
 
-CodeWords uses a **usage-based pricing model** designed to be fair, flexible, and scalable.\
-When you sign up, you’ll receive **$5 in free credits** to start building and testing automations — no upfront payment required.
+CodeWords uses a usage-based pricing model designed to be fair, flexible, and scalable.\
+When you sign up, you’ll receive $5 in free credits to start building and testing automations — no upfront payment required.
 
 Our pricing reflects real compute and integration costs. You only pay for what you use — whether that’s generating workflows with Cody, running automations, or connecting with external tools and APIs.
 
@@ -19,10 +19,10 @@ Our pricing reflects real compute and integration costs. You only pay for what y
 
 ### Credits & Usage
 
-Each workflow action consumes **credits** depending on its complexity:
+Each workflow action consumes credits depending on its complexity:
 
-* Simple tasks (like sending a message or updating a cell) use **fewer credits**
-* Complex tasks (like AI summarization, web automation, or external integrations) use **more credits**
+* Simple tasks (like sending a message or updating a cell) use fewer credits
+* Complex tasks (like AI summarization, web automation, or external integrations) use more credits
 
 It’s a **pay-as-you-go system** that automatically scales with your usage.
 
@@ -62,15 +62,15 @@ The final cost depends on your workflow’s steps, API calls, and integrations.
 
 When you’re running low on credits:
 
-1. Go to **Settings → Wallet**
-2. Click **Add / Top Up Wallet**
+1. Go to Settings → Wallet
+2. Click Add / Top Up Wallet
 3. Select how many $worth of credits you want
 4. Complete checkout — your credits appear instantly
 
 ### Early Access Pricing
 
 CodeWords is still evolving — and so is our pricing flexibility.\
-For now, we’re keeping rates **low** to encourage you to experiment, explore, and build freely.
+For now, we’re keeping rates low to encourage you to experiment, explore, and build freely.
 
 This early-access model means you can test AI, workflows, and integrations at a fraction of the cost of traditional automation tools.
 
