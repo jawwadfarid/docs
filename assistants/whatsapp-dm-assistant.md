@@ -10,7 +10,7 @@ icon: whatsapp
 
 ### What are WhatsApp DM Automations
 
-WhatsApp Direct Messaging (DM) automations allows you to consume codewords workflows that have been connected to your WhatsApp. It’s the user-facing side of WhatsApp automation, powered by the official WhatsApp Business API from Meta/Facebook.
+WhatsApp Direct Messaging (DM) automations allows you to consume codewords workflows that have been connected to your WhatsApp number.&#x20;
 
 ### CodeWords WhatsApp Business Number
 
@@ -47,19 +47,6 @@ Send any message — the assistant will detect it and respond through your Custo
 {% hint style="warning" %}
 **Note**: You can only have 1 Direct Messaging assistant at a time.
 {% endhint %}
-
-### WhatsApp Direct Messaging vs WhatsApp Group Automations
-
-| Feature         | Direct Messaging (this guide)                                               | Group                                 |
-| --------------- | --------------------------------------------------------------------------- | ------------------------------------- |
-| Who you message | Individual **users** (1:1)                                                  | WhatsApp groups                       |
-| Best for        | Notifications, support, sales flows                                         | Team/community coordination           |
-| Service window  | The 24-hour rule applies for  & No service window for one-way notifications | No window limits                      |
-| Setup           | Simple (\~5 min)                                                            | Medium (two-phase link)               |
-| Message types   | Templates, Text, Images                                                     | Text, media, polls, events            |
-| Event types     | Messages                                                                    | Messages, reactions, updates, changes |
-
-&#x20;You can use both! Many teams use **Direct Messaging** for user specific needs and **Group** for internal groups.
 
 ### What Can you build with the WhatsApp Direct Messaging Automations?
 
@@ -98,6 +85,19 @@ Build intelligent conversations where **users** ask questions and get instant he
 | ----------------------------------- | -------------------------------------------------------------- |
 | Receiving messages                  | Free                                                           |
 | Sending messages(All Message types) | €0.002 per message (≈ 0.2¢) + Cost of executing the Automation |
+
+### WhatsApp Direct Messaging vs WhatsApp Group Automations
+
+| Feature         | Direct Messaging (this guide)                                               | Group                                 |
+| --------------- | --------------------------------------------------------------------------- | ------------------------------------- |
+| Who you message | Individual **users** (1:1)                                                  | WhatsApp groups                       |
+| Best for        | Notifications, support, sales flows                                         | Team/community coordination           |
+| Service window  | The 24-hour rule applies for  & No service window for one-way notifications | No window limits                      |
+| Setup           | Simple (\~5 min)                                                            | Medium (two-phase link)               |
+| Message types   | Templates, Text, Images                                                     | Text, media, polls, events            |
+| Event types     | Messages                                                                    | Messages, reactions, updates, changes |
+
+You can use both! Many teams use **Direct Messaging** for user specific needs and **Group** for internal groups.
 
 ### Getting Help
 
