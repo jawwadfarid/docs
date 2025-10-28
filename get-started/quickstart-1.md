@@ -1,14 +1,11 @@
 ---
 description: >-
-  Get started by building your first automation — a simple AI-powered workflow
-  that scrapes content from any web page, summarizes it, and emails the results
-  to your inbox.
+  Get started by building your first automation on CodeWords through natural
+  prompts
 icon: rocket
 ---
 
 # Quickstart
-
-
 
 This tutorial walks you through building your first CodeWords automation.\
 You’ll create a workflow that scrapes content from a web page, summarizes it with AI, and sends the summary to your Gmail inbox.
