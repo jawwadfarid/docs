@@ -9,11 +9,11 @@ icon: webhook
 
 ### Get Started with Webhooks
 
-You can use **Cody** to create and manage **webhooks** that let CodeWords connect with other apps and services.\
-A webhook works like a **trigger** — whenever something happens in another app (like a form is submitted, a file is uploaded, or data changes), it can automatically **start a CodeWords workflow**.
+You can use Cody to create and manage webhooks that let CodeWords connect with other apps and services.\
+A webhook works like a trigger — whenever something happens in another app (like a form is submitted, a file is uploaded, or data changes), it can automatically start a CodeWords workflow.
 
-Webhooks are useful when you want your workflow to **react to new data instantly** — for example, when a CRM update or external API call should launch an automation.\
-They can also **send data back** once the workflow is finished, making them great for building **API-style automations** that process data and return results in real time.
+Webhooks are useful when you want your workflow to react to new data instantly — for example, when a CRM update or external API call should launch an automation.\
+They can also send data back once the workflow is finished, making them great for building API-style automations that process data and return results in real time.
 
 ### Authentication
 
