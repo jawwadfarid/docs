@@ -8,12 +8,12 @@ icon: rocket
 
 # Quickstart
 
-### Building Your First Automation: Web Scraper & Gmail Summarizer
+
 
 This tutorial walks you through building your first CodeWords automation.\
 You’ll create a workflow that scrapes content from a web page, summarizes it with AI, and sends the summary to your Gmail inbox.
 
-***
+### Building Your First Automation: Web Scraper & Gmail Summarizer
 
 #### Step 1: Plan Your Automation
 
@@ -35,8 +35,6 @@ You’ll create a workflow that scrapes content from a web page, summarizes it w
 
 Once approved, Cody begins building.
 
-***
-
 #### Step 2: Cody builds the extraction module
 
 **What Cody Builds:**
@@ -56,8 +54,6 @@ Once approved, Cody begins building.
 * 1,200 words extracted
 * Content relevance
 
-***
-
 #### **Step 3: Add AI Summarization and Gmail Delivery**
 
 **What Cody Adds:**
@@ -72,8 +68,6 @@ Once approved, Cody begins building.
 * Summary generated successfully
 * Gmail connection verified (`your.email@gmail.com`)
 * Email formatted and delivered correctly
-
-***
 
 #### Step 4: Final Workflow Test
 
@@ -92,8 +86,6 @@ Cody runs the workflow:
 
 Once confirmed, Cody deploys your automation.
 
-***
-
 #### Step 5: Deployment and Automation URL
 
 Cody provides a unique execution URL:
@@ -101,8 +93,6 @@ Cody provides a unique execution URL:
 > `https://codewords.agemo.ai/run/web-summarizer-automation-xyz789`
 
 You can run or modify your automation anytime.
-
-***
 
 #### Step 6: Troubleshooting Guide
 
@@ -121,8 +111,6 @@ You can run or modify your automation anytime.
 
 * **Permission error:** Re-authenticate Gmail integration.
 * **Email missing:** Check spam/junk folder and whitelist sender.
-
-***
 
 ### Summary
 
