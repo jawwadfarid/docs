@@ -135,7 +135,7 @@ No. Everything in this guide can be done with plain English prompts. CodeWords a
 
 <details>
 
-<summary><strong>How long will this take to complete?</strong></summary>
+<summary>How long will this take to complete?</summary>
 
 Most users finish in under 10 minutes. The workflow setup is intentionally short: add your URL, let CodeWords summarize the content with AI, and send the result to your inbox.
 
@@ -143,7 +143,7 @@ Most users finish in under 10 minutes. The workflow setup is intentionally short
 
 <details>
 
-<summary><strong>What kind of web pages work best?</strong></summary>
+<summary>What kind of web pages work best?</summary>
 
 You can use any publicly accessible, text-based website — like blog posts, articles, or documentation pages. Avoid paywalled or login-protected pages. If you would like to run it on Paywalled or login-protected pages you can use our[ Chrome extension](https://docs.codewords.ai/web-automation/chrome-extension) or [Web Agent](https://docs.codewords.ai/web-automation/web-agent).
 
@@ -151,7 +151,7 @@ You can use any publicly accessible, text-based website — like blog posts, art
 
 <details>
 
-<summary><strong>Can I customize what gets summarized or how the email looks?</strong></summary>
+<summary>Can I customize what gets summarized or how the email looks?</summary>
 
 Yes. You can adjust the AI prompt (“write a short summary,” “list three key points,” etc.) and change the email recipient, subject, or format in the workflow editor.
 
@@ -159,7 +159,7 @@ Yes. You can adjust the AI prompt (“write a short summary,” “list three ke
 
 <details>
 
-<summary><strong>What if something doesn’t work as expected?</strong></summary>
+<summary>What if something doesn’t work as expected?</summary>
 
 Check that your connected apps (Gmail, Web Agent) are authorized and active. Then open the Run Logs inside CodeWords to see detailed errors. The Troubleshooting Guide
 
