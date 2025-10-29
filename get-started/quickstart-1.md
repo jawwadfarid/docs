@@ -145,7 +145,7 @@ Most users finish in under 10 minutes. The workflow setup is intentionally short
 
 <summary>What kind of web pages work best?</summary>
 
-You can use any publicly accessible, text-based website — like blog posts, articles, or documentation pages. Avoid paywalled or login-protected pages. If you would like to run it on Paywalled or login-protected pages you can use our[ Chrome extension](https://docs.codewords.ai/web-automation/chrome-extension) or [Web Agent](https://docs.codewords.ai/web-automation/web-agent).
+You can use any publicly accessible, text-based website — like blog posts, articles, or documentation pages. Avoid paywalled or login-protected pages. If you would like to run it on paywalled or login-protected pages you can use our[ Chrome extension](https://docs.codewords.ai/web-automation/chrome-extension) or [Web Agent](https://docs.codewords.ai/web-automation/web-agent) to access these data.
 
 </details>
 
