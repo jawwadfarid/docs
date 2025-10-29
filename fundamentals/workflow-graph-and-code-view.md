@@ -107,20 +107,20 @@ Typical sections include:
 * **Outputs:** Results or returned data
 * **Comments:** Human-readable explanations
 
-### 3. Putting It All Together
+### Putting It All Together
 
-| View Type      | Purpose                                      | Best For                        |
-| -------------- | -------------------------------------------- | ------------------------------- |
-| **Graph View** | Visualize _what_ happens and _in what order_ | Non-technical users, reviewers  |
-| **Code View**  | Understand _how_ each step works in detail   | Developers, technical debugging |
+| View Type      | Purpose                                    | Best For                        |
+| -------------- | ------------------------------------------ | ------------------------------- |
+| **Graph View** | Visualize what happens and in what order   | Non-technical users, reviewers  |
+| **Code View**  | Understand _how_ each step works in detail | Developers, technical debugging |
 
 You can build, run, and monitor automations entirely through the visual graph — or dive into code for deeper insight.
 
-### 4. FAQs
+### FAQs
 
 <details>
 
-<summary><strong>Do I need to understand code to use CodeWords?</strong></summary>
+<summary>Do I need to understand code to use CodeWords?</summary>
 
 No. The Graph View exists so anyone can build and understand workflows visually.
 
@@ -128,7 +128,7 @@ No. The Graph View exists so anyone can build and understand workflows visually.
 
 <details>
 
-<summary><strong>When should I use Graph View?</strong></summary>
+<summary>When should I use Graph View?</summary>
 
 \
 During planning, reviewing builds, or troubleshooting unexpected results.
@@ -137,7 +137,7 @@ During planning, reviewing builds, or troubleshooting unexpected results.
 
 <details>
 
-<summary><strong>When should I use Code View?</strong></summary>
+<summary>When should I use Code View?</summary>
 
 When debugging, exporting, or learning how your automation works internally.
 
@@ -145,7 +145,7 @@ When debugging, exporting, or learning how your automation works internally.
 
 <details>
 
-<summary><strong>Can I modify the code?</strong></summary>
+<summary>Can I modify the code?</summary>
 
 Not directly. But you can also simply describe the change in plain English. Cody will update both the graph and code automatically.
 
@@ -162,3 +162,4 @@ Need clarity or want to inspect your workflow?
 Cody provides both a visual overview and a technical breakdown — ensuring you have full transparency without ever needing to code.
 
 <figure><img src="../.gitbook/assets/code.gif" alt=""><figcaption></figcaption></figure>
+

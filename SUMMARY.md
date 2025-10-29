@@ -118,3 +118,7 @@
 * [Introduction](guides/introduction-2.md)
 * [Changelog](guides/changelog-2.md)
 * [How to submit a template \[NEEDS REVIEW\]](guides/how-to-submit-a-template-needs-review-2.md)
+
+***
+
+* [docs](docs.md)
