@@ -62,3 +62,9 @@ Browse from the [Template Gallery](https://codewords.agemo.ai/template-gallery?u
 {% endstep %}
 {% endstepper %}
 
+### Next Steps
+
+Now that you’ve finished the Quickstart, you can:
+
+* Meet [Cody, the AI Assistant](https://docs.codewords.ai/fundamentals/introduction-to-cody)
+* Explore the [Quickstart](https://docs.codewords.ai/get-started/quickstart) to start building your first automation
