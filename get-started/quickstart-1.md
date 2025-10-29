@@ -21,13 +21,13 @@ In this tutorial, you’ll learn how to automate content extraction and summariz
 
 **Cody’s Planning Process:**
 
-* **Template Search:** Checks from the available automation templates.
-* **Integration verification:** Confirms access to necessary app integrations.
-* **Automation Plan Generated:**
-  * **Web scraping:** Extract main text content from a target URL.
-  * **AI summarization:** Generate a concise, easy-to-read summary.
-  * **Email composition:** Create a formatted email with the summary.
-  * **Gmail delivery:** Send the email directly to the user’s inbox.
+* Template Search: Checks from the available automation templates.
+* Integration verification: Confirms access to necessary app integrations.
+* Automation Plan Generated:
+  * Web scraping: Extract main text content from a target URL.
+  * AI summarization: Generate a concise, easy-to-read summary.
+  * Email composition: Create a formatted email with the summary.
+  * Gmail delivery: Send the email directly to the user’s inbox.
 
 Once approved, Cody begins building.
 
@@ -35,13 +35,13 @@ Once approved, Cody begins building.
 
 **What Cody Builds:**
 
-* Accepts a **public URL** as input.
-* Navigates to the web page and **extracts the main text content**.
+* Accepts a public URL as input.
+* Navigates to the web page and extracts the main text content.
 * Ignores ads, navigation, and sidebars for clean data.
 
 **Test Example:**
 
-* **Input:** `https://www.nationalgeographic.com/science/article/ancient-dna-reveals-woolly-mammoths-final-years`
+* Input: `https://www.nationalgeographic.com/science/article/ancient-dna-reveals-woolly-mammoths-final-years`
 
 **Results:**
 
@@ -54,9 +54,9 @@ Once approved, Cody begins building.
 
 **What Cody Adds:**
 
-* Processes the extracted text with an **AI summarization model**.
-* Generates a **4-point summary** of the article’s key findings.
-* Connects securely to **Gmail** using OAuth authentication.
+* Processes the extracted text with an AI summarization model.
+* Generates a 4-point summary of the article’s key findings.
+* Connects securely to Gmail using OAuth authentication.
 * Composes and sends an email with the title as the subject and the summary in the body.
 
 **Testing Results:**
@@ -94,32 +94,82 @@ You can run or modify your automation anytime.
 
 **Website Scraping Issues**
 
-* **Invalid URL:** Ensure the link is public and accessible.
-* **Blocked content:** Some sites prevent scraping. Try a simpler article-based site.
-* **Empty results:** The page might be image- or video-heavy.
+* Invalid URL: Ensure the link is public and accessible.
+* Blocked content: Some sites prevent scraping. Try a simpler article-based site.
+* Empty results: The page might be image- or video-heavy.
 
 **AI Summary Issues**
 
-* **Low quality summary:** Use more structured or factual content.
-* **Adjust prompt:** Ask for “3 bullet summary” or “1-paragraph summary.”
+* Low quality summary: Use more structured or factual content.
+* Adjust prompt: Ask for “3 bullet summary” or “1-paragraph summary.”
 
 **Gmail Delivery Issues**
 
-* **Permission error:** Re-authenticate Gmail integration.
-* **Email missing:** Check spam/junk folder and whitelist sender.
+* Permission error: Re-authenticate Gmail integration.
+* Email missing: Check spam/junk folder and whitelist sender.
 
 ### Summary
 
 You’ve successfully built your first end-to-end CodeWords automation. It:
 
-* **Accepts any public article URL** as input.
-* **Extracts the core text content** automatically using web scraping.
-* **Generates an AI-powered summary** highlighting the key insights.
-* **Delivers the summary directly to your Gmail inbox**, fully formatted and ready to read.
+* Accepts any public article URL as input.
+* Extracts the core text content automatically using web scraping.
+* Generates an AI-powered summary highlighting the key insights.
+* Delivers the summary directly to your Gmail inbox, fully formatted and ready to read.
 
 Your automation now combines real-time web data extraction, AI summarization, and email delivery — all created through natural language in just a few steps.
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FC0KQHHlFG9y1F0pBotb8%2Fuploads%2F6uIsjCxz1BNbwZijPqVN%2Fquickstart_small.mp4?alt=media&token=a68bd407-d46e-41bd-9da0-fce859a2cf61" fullWidth="false" %}
 Building Your First Automation: Web Scraper & Gmail Summarizer
 {% endembed %}
+
+### FAQ
+
+<details>
+
+<summary>Do I need coding experience to follow this tutorial?</summary>
+
+No. Everything in this guide can be done with plain English prompts. CodeWords automatically builds the logic, connects integrations, and handles deployment behind the scenes.
+
+</details>
+
+<details>
+
+<summary><strong>How long will this take to complete?</strong></summary>
+
+Most users finish in under 10 minutes. The workflow setup is intentionally short: add your URL, let CodeWords summarize the content with AI, and send the result to your inbox.
+
+</details>
+
+<details>
+
+<summary><strong>What kind of web pages work best?</strong></summary>
+
+You can use any publicly accessible, text-based website — like blog posts, articles, or documentation pages. Avoid paywalled or login-protected pages. If you would like to run it on Paywalled or login-protected pages you can use our[ Chrome extension](https://docs.codewords.ai/web-automation/chrome-extension) or [Web Agent](https://docs.codewords.ai/web-automation/web-agent).
+
+</details>
+
+<details>
+
+<summary><strong>Can I customize what gets summarized or how the email looks?</strong></summary>
+
+Yes. You can adjust the AI prompt (“write a short summary,” “list three key points,” etc.) and change the email recipient, subject, or format in the workflow editor.
+
+</details>
+
+<details>
+
+<summary><strong>What if something doesn’t work as expected?</strong></summary>
+
+Check that your connected apps (Gmail, Web Agent) are authorized and active. Then open the Run Logs inside CodeWords to see detailed errors. The Troubleshooting Guide
+
+</details>
+
+### Next Steps
+
+Now that you’ve finished the Quickstart, you can:
+
+* Meet [Cody, the AI Assistant](https://docs.codewords.ai/fundamentals/introduction-to-cody)
+* Learn how [Triggers](https://docs.codewords.ai/fundamentals/triggers) work
+* Explore [Templates](https://docs.codewords.ai/use-cases/templates)
 
