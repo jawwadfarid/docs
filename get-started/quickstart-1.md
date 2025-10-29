@@ -50,7 +50,7 @@ Once approved, Cody begins building.
 * 1,200 words extracted
 * Content relevance
 
-#### **Step 3: Add AI Summarization and Gmail Delivery**
+#### Step 3: Add AI Summarization and Gmail Delivery
 
 **What Cody Adds:**
 
