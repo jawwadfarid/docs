@@ -2,7 +2,7 @@
 
 ### Airtable actions in CodeWords
 
-Here's a comprehensive list of all the actions you can perform with Google Sheets&#x20;
+Here's a comprehensive list of all the actions you can perform with Airtable
 
 1. create-single-record
 
