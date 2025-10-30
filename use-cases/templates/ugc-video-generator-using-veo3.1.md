@@ -23,8 +23,8 @@ layout:
 
 
 
-<a href="https://codewords.agemo.ai/run/linkedin_education_extractor" class="button primary">Use this template</a>
-
+{% columns %}
+{% column width="50%" %}
 Apps used in this template:
 
 <i class="fa-chatgpt">:chatgpt:</i> GPT4.1 Vision
@@ -37,7 +37,13 @@ Apps used in this template:
 
 
 
-[Share ](https://codewords.agemo.ai/run/auto_ugc_veo_video_generator_6ab68605)
+<a href="https://codewords.agemo.ai/run/linkedin_education_extractor" class="button primary">Use this template</a>
+{% endcolumn %}
+
+{% column width="50%" %}
+<figure><img src="../../.gitbook/assets/Group 5 (2).png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 
 
@@ -46,12 +52,6 @@ Perfect for brands that want natural, influencer-style videos without hiring cre
 
 ### What the workflow does
 
-
-
-{% columns %}
-{% column width="50%" %}
-
-
 The CodeWords Auto UGC Video Generator takes one product image and automatically:
 
 * Analyzes the image using AI vision (GPT-4.1)
@@ -59,12 +59,4 @@ The CodeWords Auto UGC Video Generator takes one product image and automatically
 * Generates multiple unique video scripts with realistic dialogue, settings, and emotions
 * Produces 1–5 videos concurrently using Google Veo 3.1
 * Delivers ready-to-share videos and a full cost breakdown in under five minutes
-{% endcolumn %}
-
-{% column width="50%" %}
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
-
-
 
