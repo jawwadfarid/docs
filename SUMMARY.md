@@ -14,6 +14,7 @@
 * [Webhooks](fundamentals/webhooks.md)
 * [Workflow Graph and Code View](fundamentals/workflow-graph-and-code-view.md)
 * [Testing and Running Workflows](fundamentals/testing-and-running-workflows.md)
+* [Redis: Your Workflow’s Memory](fundamentals/redis-your-workflows-memory.md)
 * [Using a Template](fundamentals/using-a-template.md)
 * [CodeWords API key](fundamentals/codewords-api-key.md)
 * [API Key Setup for External App Connections](fundamentals/api-key-setup-for-external-app-connections.md)

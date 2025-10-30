@@ -24,7 +24,7 @@ Each workflow action consumes credits depending on its complexity:
 * Simple tasks (like sending a message or updating a cell) use fewer credits
 * Complex tasks (like AI summarization, web automation, or external integrations) use more credits
 
-It’s a **pay-as-you-go system** that automatically scales with your usage.
+It’s a pay-as-you-go system that automatically scales with your usage.
 
 **Detailed history:** To see exactly what you’ve spent, visit the [History Page](https://codewords.agemo.ai/workflows/history) — you’ll find the cost of each workflow run and how much was used to build it through Cody’s chat.
 
