@@ -138,14 +138,14 @@ Here's a comprehensive list of all the actions you can perform with Airtable
 
 ### Building practical workflows with CodeWords
 
-#### Example workflow: Automating lead management
+#### Example workflow 1: Automating lead management
 
 1. **Trigger**: `new-records-in-view` — Fires when new leads enter the "Potential" view in Airtable.
 2. **Action**: `create-single-record` — Adds these leads to your CRM database as individual records.
 3. **Action**: `create-comment` — Leaves a note on each record indicating the source of the lead.
 4. **Action**: `update-record` — Updates the lead status to "Contacted" once a follow-up email is sent.
 
-#### Example workflow: Real-time project tracking
+#### Example workflow 2: Real-time project tracking
 
 1. **Trigger**: `new-modified-or-deleted-records-instant` — Instantly reacts to changes in project records.
 2. **Action**: `list-records-in-view` — Retrieves all current tasks from the "In Progress" view.
