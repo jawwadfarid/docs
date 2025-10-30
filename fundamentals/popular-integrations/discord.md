@@ -1,8 +1,8 @@
 # Discord
 
-## Available Actions in CodeWords
+### Available Actions in CodeWords
 
-### Messaging Actions
+#### Messaging Actions
 
 #### 1. send-message
 

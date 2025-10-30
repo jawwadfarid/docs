@@ -63,7 +63,7 @@ When Cody (your CodeWords assistant) builds a workflow, the graph updates automa
 * **Building:** Completed and active steps update live
 * **After Deployment:** The final graph serves as your permanent visual reference
 
-**To open it:** Select **Graph View** in the workflow editor.
+**To open it:** Select Graph View in the workflow editor.
 
 <figure><img src="../.gitbook/assets/graph.gif" alt=""><figcaption></figcaption></figure>
 
@@ -81,7 +81,7 @@ It’s a text-based configuration showing every step, parameter, and integration
 * **Customization:** Fine-tune details not visible in the UI
 * **Documentation:** Keep an accurate version of your automation logic
 
-**To open it:** Click **Code View** in the workflow editor.
+**To open it:** Click Code View in the workflow editor.
 
 #### Viewing the Code
 
@@ -153,13 +153,7 @@ Not directly. But you can also simply describe the change in plain English. Cody
 
 ### **Getting Help**
 
-Need clarity or want to inspect your workflow?
-
-* Ask: “Show me my workflow graph.”
-* Ask: “Display the code for this workflow.”
-* Or say: “Explain what happens in the ‘Extract Data’ step.”
-
-Cody provides both a visual overview and a technical breakdown — ensuring you have full transparency without ever needing to code.
+If you are facing in
 
 <figure><img src="../.gitbook/assets/code.gif" alt=""><figcaption></figcaption></figure>
 

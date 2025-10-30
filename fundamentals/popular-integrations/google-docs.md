@@ -1,10 +1,10 @@
 # Google Docs
 
-## Google Docs actions in CodeWords
+### Google Docs actions in CodeWords
 
 Here's a comprehensive guide to all the actions you can perform with Google Docs in CodeWords, designed to streamline your document workflows and enhance productivity.
 
-### Available actions
+#### Available actions
 
 #### 1. replace-text
 

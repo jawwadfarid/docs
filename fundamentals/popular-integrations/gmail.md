@@ -1,6 +1,6 @@
 # Gmail
 
-## Gmail actions in CodeWords
+### Gmail actions in CodeWords
 
 Here's a comprehensive guide to all the actions you can perform with Gmail in CodeWords, designed to streamline your email workflows and boost productivity.
 

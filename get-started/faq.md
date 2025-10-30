@@ -97,7 +97,7 @@ You can sign up at [Codewords.ai](https://codewords.ai), explore the [Quickstart
 
 </details>
 
-## Features and Capabilities
+### Features and Capabilities
 
 <details>
 
@@ -114,8 +114,7 @@ CodeWords supports 2700+ Integrations, including Gmail, Slack, Notion, Airtable,
 Yes. CodeWords can connect with apps built on Lovable, V0, or any external platform using two integration methods:
 
 1. **CodeWords Client Library:** Offers quick, minimal-code integration for apps built with **Python** or **TypeScript/JavaScript**.
-
-2) **REST API Calls:** Ideal for connecting CodeWords with apps built in **other programming languages**, using standard HTTP requests.
+2. **REST API Calls:** Ideal for connecting CodeWords with apps built in **other programming languages**, using standard HTTP requests.
 
 </details>
 
@@ -175,7 +174,7 @@ This is a feature coming soon. In the meantime, you can follow [this](broken-ref
 
 </details>
 
-## Running Workflows
+### Running Workflows
 
 <details>
 
@@ -185,8 +184,7 @@ Three ways:&#x20;
 
 * Through an automatically generated custom UI available at `codewords.agemo.ai/run/{service_id}`
 * On a [schedule](../fundamentals/schedules-and-triggers.md) or with a trigger
-
-- via [API calls](../fundamentals/codewords-api-key.md)
+* via [API calls](../fundamentals/codewords-api-key.md)
 
 </details>
 
@@ -230,17 +228,15 @@ Yes, CodeWords uses secure environment variables for API keys and runs workflows
 
 </details>
 
-
-
-## Support
+### Support
 
 <details>
 
 <summary>Where can I find support?</summary>
 
-To get direct support from the team and the community, join our [Discord](https://discord.codewords.ai) channel.
+To get direct support from the team and the community, join our [Discord](https://discord.codewords.ai) channel or you can send us an email at [support@codewords.ai](mailto:support@codewords.ai)&#x20;
 
-Our official documentation is at [docs.codewords.ai](https://docs.codewords.ai/). You can also find video tutorials on our Youtube channel at [@codewordsai](https://www.youtube.com/@codewordsai).
+Our official documentation is at [docs.codewords.ai](https://docs.codewords.ai/). You can also find video tutorials on our YouTube channel at [@codewordsai](https://www.youtube.com/@codewordsai).
 
 </details>
 
@@ -252,7 +248,7 @@ You can find us on [Discord](https://discord.codewords.ai) or you can email us a
 
 </details>
 
-## About CodeWords
+### About CodeWords
 
 <details>
 

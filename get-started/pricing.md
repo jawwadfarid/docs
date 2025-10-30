@@ -90,7 +90,9 @@ This early-access model means you can test AI, workflows, and integrations at a 
 
 We’re working on making our pricing model as transparent as possible.
 
-Please contact [support@codewords.ai](mailto:support@codewords.ai) for any questions regarding our pricing model.
+### Need Help
 
+To get direct support from the team and the community, join our [Discord](https://discord.codewords.ai) channel or you can send us an email at [support@codewords.ai](mailto:support@codewords.ai)&#x20;
 
+Our official documentation is at [docs.codewords.ai](https://docs.codewords.ai/). You can also find video tutorials on our YouTube channel at [@codewordsai](https://www.youtube.com/@codewordsai).
 
