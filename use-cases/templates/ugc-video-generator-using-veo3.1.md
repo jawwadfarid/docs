@@ -27,7 +27,7 @@ layout:
 
 <i class="fa-chatgpt">:chatgpt:</i> GPT 5 mini
 
-<i class="fa-google">:google:</i>NanoBanana
+<i class="fa-google">:google:</i> NanoBanana
 
 <i class="fa-google">:google:</i>  Veo 3.1
 
