@@ -64,7 +64,7 @@ The CodeWords Auto UGC Video Generator takes one product image and automatically
 {% step %}
 #### Upload your product image
 
-Upload a clear image of your product — packaging, bottle, gadget, or accessory.\
+Upload a clear image(Jpeg) of your product — packaging, bottle, gadget, or accessory.\
 It can be a photo you’ve taken yourself or an existing image from your website.
 {% endstep %}
 
