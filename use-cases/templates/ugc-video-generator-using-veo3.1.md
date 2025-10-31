@@ -21,17 +21,15 @@ layout:
 
 {% columns %}
 {% column width="50%" %}
-Apps used in this template:
+### Apps used in this template:
 
 <i class="fa-chatgpt">:chatgpt:</i> GPT4.1 Vision
 
 <i class="fa-chatgpt">:chatgpt:</i> GPT 5 mini
 
-&#x20;NanoBanana through FAL ai
+<i class="fa-google">:google:</i>NanoBanana
 
 <i class="fa-google">:google:</i>  Veo 3.1
-
-
 
 <a href="https://codewords.agemo.ai/run/linkedin_education_extractor" class="button primary">Use this template</a>
 
@@ -39,7 +37,7 @@ Apps used in this template:
 
 Transform a single product photo into up to **five user-generated content (UGC)** style videos in minutes. Perfect for brands that want natural, influencer-style videos without hiring creators or handling editing.
 
-### What the workflow does
+### About
 
 The CodeWords Auto UGC Video Generator takes one product image and automatically:
 
