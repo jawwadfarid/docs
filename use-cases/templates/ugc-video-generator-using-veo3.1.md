@@ -37,7 +37,7 @@ layout:
 
 Transform a single product photo into up to **five user-generated content (UGC)** style videos in minutes. Perfect for brands that want natural, influencer-style videos without hiring creators or handling editing.
 
-### About
+### What this workflow does
 
 The CodeWords Auto UGC Video Generator takes one product image and automatically:
 
@@ -52,6 +52,4 @@ The CodeWords Auto UGC Video Generator takes one product image and automatically
 <figure><img src="../../.gitbook/assets/1 2.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
-
-
 
