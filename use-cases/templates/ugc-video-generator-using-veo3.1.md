@@ -10,18 +10,20 @@ layout:
   tableOfContents:
     visible: false
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: true
   metadata:
-    visible: true
+    visible: false
 ---
 
 # UGC Video Generator using Veo3.1
 
 
 
-{% columns %}
+Transform a single product photo into up to five user-generated content (UGC) style videos in minutes. Perfect for brands that want natural, influencer-style videos without hiring creators or handling editing.
+
+{% columns fullWidth="true" %}
 {% column width="50%" %}
 ### Apps used in this template:
 
@@ -34,10 +36,6 @@ layout:
 <i class="fa-google">:google:</i>  Veo 3.1
 
 <a href="https://codewords.agemo.ai/run/linkedin_education_extractor" class="button primary">Use this template</a>
-
-
-
-Transform a single product photo into up to five user-generated content (UGC) style videos in minutes. Perfect for brands that want natural, influencer-style videos without hiring creators or handling editing.
 
 ### What this workflow does
 
