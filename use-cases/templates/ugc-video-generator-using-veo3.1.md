@@ -8,9 +8,9 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: true
   metadata:
@@ -19,7 +19,7 @@ layout:
 
 # UGC Video Generator using Veo3.1
 
-
+### Overview
 
 Transform a single product photo into up to five user-generated content (UGC) style videos in minutes. Perfect for brands that want natural, influencer-style videos without hiring creators or handling editing.
 
