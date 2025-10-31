@@ -3,7 +3,6 @@ description: >-
   Turn one product photo into multiple UGC-style videos in minutes. Generate
   authentic social media content with AI — fast, affordable, and ready for
   TikTok, Instagram, or YouTube.
-hidden: true
 layout:
   width: wide
   title:
