@@ -120,6 +120,8 @@ When the process is complete, your results page appears with all generated video
 {% endstep %}
 {% endstepper %}
 
+<figure><img src="../../.gitbook/assets/haribo 2.gif" alt=""><figcaption></figcaption></figure>
+
 ### **FAQ**
 
 <details>
