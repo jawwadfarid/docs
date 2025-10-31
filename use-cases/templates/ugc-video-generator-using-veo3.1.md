@@ -35,7 +35,7 @@ Transform a single product photo into up to five user-generated content (UGC) st
 
 <i class="fa-google">:google:</i> NanoBanana
 
-<i class="fa-google">:google:</i>  Veo 3.1
+<i class="fa-google">:google:</i> Veo 3.1
 
 <a href="https://codewords.agemo.ai/run/auto_ugc_veo_video_generator_6ab68605_e1a567f6" class="button primary">Use this template</a>
 
@@ -57,7 +57,7 @@ The CodeWords Auto UGC Video Generator takes one product image and automatically
 {% endcolumn %}
 {% endcolumns %}
 
-### What you need
+### Instructions
 
 {% stepper %}
 {% step %}
