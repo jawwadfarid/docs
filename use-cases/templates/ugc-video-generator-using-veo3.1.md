@@ -38,12 +38,6 @@ Apps used in this template:
 
 
 <a href="https://codewords.agemo.ai/run/linkedin_education_extractor" class="button primary">Use this template</a>
-{% endcolumn %}
-
-{% column width="50%" %}
-<figure><img src="../../.gitbook/assets/Group 5 (2).png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
 
 
 
@@ -59,4 +53,12 @@ The CodeWords Auto UGC Video Generator takes one product image and automatically
 * Generates multiple unique video scripts with realistic dialogue, settings, and emotions
 * Produces 1–5 videos concurrently using Google Veo 3.1
 * Delivers ready-to-share videos and a full cost breakdown in under five minutes
+{% endcolumn %}
+
+{% column width="50%" %}
+<figure><img src="../../.gitbook/assets/1 2.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+
 
