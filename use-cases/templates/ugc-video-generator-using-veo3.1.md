@@ -19,10 +19,6 @@ layout:
 
 # UGC Video Generator using Veo3.1
 
-
-
-
-
 {% columns %}
 {% column width="50%" %}
 Apps used in this template:
@@ -41,8 +37,7 @@ Apps used in this template:
 
 
 
-Transform a single product photo into up to **five user-generated content (UGC)** style videos in minutes.\
-Perfect for brands that want natural, influencer-style videos without hiring creators or handling editing.
+Transform a single product photo into up to **five user-generated content (UGC)** style videos in minutes. Perfect for brands that want natural, influencer-style videos without hiring creators or handling editing.
 
 ### What the workflow does
 
