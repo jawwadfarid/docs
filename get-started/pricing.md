@@ -64,7 +64,7 @@ When you’re running low on credits:
 
 1. Go to Settings → Wallet
 2. Click Add / Top Up Wallet
-3. Select how many $worth of credits you want
+3. Select how many $ worth of credits you want
 4. Complete checkout — your credits appear instantly
 
 <figure><img src="../.gitbook/assets/Wallet &#x26; Balance.gif" alt=""><figcaption></figcaption></figure>
