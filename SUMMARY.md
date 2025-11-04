@@ -39,6 +39,7 @@
 
 * [Web Agent](fundamentals/web-agent.md)
 * [Chrome Extension](fundamentals/chrome-extension.md)
+* [Web Scraping using FireCrawl](web-automation/web-scraping-using-firecrawl.md)
 
 ## WhatsApp Automations
 
