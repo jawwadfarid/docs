@@ -6,7 +6,7 @@ description: >-
 icon: scribble
 ---
 
-# Web Scraping using FireCrawl
+# FireCrawl for WebScrapping
 
 ### **What is Firecrawl?**
 
@@ -29,7 +29,7 @@ Firecrawl is perfect for gathering structured information from public web pages 
 **Avoid using Firecrawl for:**
 
 * Websites that require login access
-* Pages with hidden or interactive content (use **Web Agent** instead)
+* Pages with hidden or interactive content (use [Web Agent](https://docs.codewords.ai/web-automation/web-agent) or [Chrome extension](https://docs.codewords.ai/web-automation/chrome-extension) instead)
 * Tasks that involve clicking, filling out forms, or multi-step actions
 
 ### How Firecrawl Works

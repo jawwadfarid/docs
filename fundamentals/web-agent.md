@@ -9,14 +9,11 @@ icon: computer-classic
 
 ### Intro
 
-The **Web Agent** is your **AI-powered assistant for browser automation**.\
-Instead of writing complex scripts, you can simply **describe your goal in plain language**, and the Web Agent figures out how to achieve it — by navigating websites, clicking buttons, and collecting the information you need.
+The Web Agent is your AI-powered assistant for browser automation. Instead of writing complex scripts, you can simply describe your goal in plain language, and the Web Agent figures out how to achieve it by navigating websites, clicking buttons, and collecting the information you need.
 
-Think of it as a **virtual assistant that can browse the web and complete tasks for you**.
+Think of it as a virtual assistant that can browse the web and complete tasks for you.
 
 ### When to use the Web Agent
-
-
 
 1. **Complex research tasks** where you don’t know all the steps
 
