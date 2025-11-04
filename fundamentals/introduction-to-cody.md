@@ -55,7 +55,4 @@ While most automation tools depend on predefined actions, Cody generates real Py
 
 With Cody, you get the flexibility of coding and the ease of conversation — an intelligent agent that thinks, builds, and adapts like a developer, without requiring one.
 
-
-
-<figure><img src="../.gitbook/assets/cody.gif" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/Get started.gif" alt=""><figcaption></figcaption></figure>
