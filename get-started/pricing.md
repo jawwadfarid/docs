@@ -67,6 +67,8 @@ When you’re running low on credits:
 3. Select how many $worth of credits you want
 4. Complete checkout — your credits appear instantly
 
+<figure><img src="../.gitbook/assets/Wallet &#x26; Balance.gif" alt=""><figcaption></figcaption></figure>
+
 ### Early Access Pricing
 
 CodeWords is still evolving — and so is our pricing flexibility.\
@@ -81,14 +83,6 @@ This early-access model means you can test AI, workflows, and integrations at a 
 * Transparent usage history and cost tracking
 * Cancel automations anytime
 * Early-access rates so you can build more for less
-
-
-
-<figure><img src="../.gitbook/assets/wallet.gif" alt="Topping up credits to your CodeWords account"><figcaption></figcaption></figure>
-
-
-
-We’re working on making our pricing model as transparent as possible.
 
 ### Need Help
 
