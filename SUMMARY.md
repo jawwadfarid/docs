@@ -17,7 +17,7 @@
 * [Redis: Your Workflow’s Memory](fundamentals/redis-your-workflows-memory.md)
 * [Using a Template](fundamentals/using-a-template.md)
 * [CodeWords API key](fundamentals/codewords-api-key.md)
-* [API Key Setup for External App Connections](fundamentals/api-key-setup-for-external-app-connections.md)
+* [External API Integration](fundamentals/external-api-integration.md)
 * [Call CodeWords workflows](fundamentals/call-codewords-workflows.md)
 * [CodeWords 101](fundamentals/codewords-101/README.md)
   * [Editing a Template](fundamentals/codewords-101/editing-a-template.md)
