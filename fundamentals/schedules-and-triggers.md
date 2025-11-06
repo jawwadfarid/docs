@@ -70,11 +70,11 @@ Scheduled triggers let you run workflows automatically at set intervals—ideal 
 
 #### **Setting Up a Schedule**
 
-1. **Test your workflow** — From the [My Workflows](https://codewords.agemo.ai/workflows/library) page, make sure your workflow runs successfully.
-2. **Create a schedule** — Select the Schedule option and choose when the workflow should run.
-3. **Select frequency** — Set it to run hourly, daily, weekly, or at a custom interval.
-4. **Save your schedule** — The workflow will now execute automatically based on your chosen timing.
-5. **Manage schedules** — Visit the [Schedules](https://codewords.agemo.ai/workflows/schedule) page to view or modify all active scheduled workflows.
+1. **Test your workflow** : From the [My Workflows](https://codewords.agemo.ai/workflows/library) page, make sure your workflow runs successfully.
+2. **Create a schedule** : Select the Schedule option and choose when the workflow should run.
+3. **Select frequency** : Set it to run hourly, daily, weekly, or at a custom interval.
+4. **Save your schedule** : The workflow will now execute automatically based on your chosen timing.
+5. **Manage schedules** : Visit the [Schedules](https://codewords.agemo.ai/workflows/schedule) page to view or modify all active scheduled workflows.
 
 <figure><img src="../.gitbook/assets/schedule (1).gif" alt="Setting up a schedule on CodeWords"><figcaption><p>Setting up a scheduled workfow on CodeWords</p></figcaption></figure>
 

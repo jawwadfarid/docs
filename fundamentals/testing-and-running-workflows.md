@@ -54,7 +54,7 @@ Once Cody’s automated tests succeed, you can manually verify with real data es
 * Verify that all outputs and actions match your expectations.
 * Try a few input variations to ensure reliability under different conditions.
 
-<figure><img src="../.gitbook/assets/run_wf.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/run_wf.gif" alt=""><figcaption><p>Accessing the Run Page of a Workflow</p></figcaption></figure>
 
 ### **2. Running Workflows**
 
@@ -77,4 +77,4 @@ Each time a workflow is executed — manually, on schedule, or via a trigger —
 
 If an automation doesn’t behave as expected, the Run page is the first place to check for detailed logs and troubleshooting information.
 
-<figure><img src="../.gitbook/assets/Area.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Area.gif" alt=""><figcaption><p>Accessing the Run Page within the chat</p></figcaption></figure>

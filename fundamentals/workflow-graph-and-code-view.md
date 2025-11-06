@@ -107,6 +107,8 @@ Typical sections include:
 * **Outputs:** Results or returned data
 * **Comments:** Human-readable explanations
 
+<figure><img src="../.gitbook/assets/code.gif" alt=""><figcaption><p>Viewing the Code of a Workflow</p></figcaption></figure>
+
 ### Putting It All Together
 
 | View Type      | Purpose                                    | Best For                        |
@@ -150,10 +152,3 @@ When debugging, exporting, or learning how your automation works internally.
 Not directly. But you can also simply describe the change in plain English. Cody will update both the graph and code automatically.
 
 </details>
-
-### **Getting Help**
-
-If you are facing in
-
-<figure><img src="../.gitbook/assets/code.gif" alt=""><figcaption></figcaption></figure>
-

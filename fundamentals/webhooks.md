@@ -31,7 +31,7 @@ Each webhook has a unique, hard-to-guess URL that acts as a secure access point 
 
 CodeWords currently supports only POST [HTTP Request Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods)
 
-{% code title="Example of anCodeWords Webhook URL" overflow="wrap" %}
+{% code title="Example of CodeWords Webhook URL" overflow="wrap" %}
 ```
 https://runtime.codewords.ai/webhook/pipedream/webhook/cmcdms29y00003o1ydhuu8jw5/gmail_to_salesforce_automation_webhook
 ```
@@ -41,7 +41,7 @@ https://runtime.codewords.ai/webhook/pipedream/webhook/cmcdms29y00003o1ydhuu8jw5
 
 This contains a randomly generated webhook URL path, to avoid conflicts with other webhook urls on the CodeWords ecosystem.
 
-{% code title="CodeWordsWebhook structure breakdown" overflow="wrap" %}
+{% code title="CodeWords Webhook structure breakdown" overflow="wrap" %}
 ```
 https://runtime.codewords.ai/webhook/pipedream/webhook/{unique_id}/{endpoint_name}
 ```
