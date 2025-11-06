@@ -51,6 +51,10 @@ The final cost depends on your workflow’s steps, API calls, and integrations.
 > You can cancel any scheduled or triggered automations anytime.\
 > In rare cases, minimal overspill charges may apply while cancellation completes.
 
+We charge for both successful and failed workflows. In the case of a failure, you’re only billed for the steps completed up to the point of failure — covering the actions and tools used before the error occurred.
+
+The cost of running a workflow depends on the number of actions and the size of the input it processes. For example, a LinkedIn scraping and enrichment workflow will cost more when handling 100 profiles compared to just 3.
+
 ### How Credits Work
 
 * **Automatic usage:** Credits are deducted automatically whenever your workflows run or when you chat with Cody.
