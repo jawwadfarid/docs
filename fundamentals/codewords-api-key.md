@@ -10,12 +10,12 @@ The CodeWords API lets any external application trigger your workflows with simp
 
 First things first — you'll need credentials. Grab your API key from the [Codewords account dashboard](https://codewords.agemo.ai/account/keys).
 
-Your API key will be under the **Your API keys section**:
+Your API key will be under the Advanced tab within API keys & Environment variables section:
 
 * `cwk-` for standard reusable keys (most common)
 * `cwotk-` for one-time keys (extra security for sensitive operations)
 
-Pro tip: Treat your API key like a password — keep it secret and store it as an environment variable.
+Treat your API key like a password, keep it secret and store it as an environment variable.
 
 <figure><img src="../.gitbook/assets/apikey.gif" alt=""><figcaption></figcaption></figure>
 
