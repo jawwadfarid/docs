@@ -20,10 +20,6 @@
 * [CodeWords API key](fundamentals/codewords-api-key.md)
 * [External API Integration](fundamentals/external-api-integration.md)
 * [Call CodeWords workflows](fundamentals/call-codewords-workflows.md)
-* [CodeWords 101](fundamentals/codewords-101/README.md)
-  * [Editing a Template](fundamentals/codewords-101/editing-a-template.md)
-  * [Template Gallery](fundamentals/codewords-101/template-gallery.md)
-* [Intorduction to Cody](fundamentals/intorduction-to-cody.md)
 * [Popular Integrations](fundamentals/popular-integrarions/README.md)
   * [Airtable](fundamentals/popular-integrarions/airtable.md)
   * [Discord](fundamentals/popular-integrations/discord.md)
@@ -98,7 +94,3 @@
   * [FAQ](guides/codewords-on-ide-1/faq.md)
 * [Glossary](guides/glossary-1.md)
 * [Changelog](guides/changelog.md)
-
-***
-
-* [docs](docs.md)

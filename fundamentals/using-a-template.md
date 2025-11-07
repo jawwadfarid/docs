@@ -1,4 +1,8 @@
 ---
+description: >-
+  Discover and customize pre-built automations with the CodeWords Template
+  Gallery. Start fast, edit easily, and turn proven workflows into tailored
+  solutions for your own unique use cases.
 icon: file
 ---
 
@@ -6,49 +10,56 @@ icon: file
 
 ### What are templates?
 
-Templates are pre-built automations that solve common business problems. Instead of starting from scratch, you can use a template that's already been tested and proven to work, then customize it for your specific needs.
+Templates are ready-made automations designed to solve common business problems — from lead generation to data processing, without needing to build anything from scratch. Each template is tested, optimized, and ready to use, so you can focus on your goals instead of setup.
 
-Think of templates as professional automation services that are available instantly. Just provide your inputs and get results.
+### What Do Templates Do?
 
-### What do templates do? Why are they important?
+Templates give you immediate access to powerful, no-code workflows that replace hours of manual or technical work.\
+They help you:
 
-Templates give you instant access to powerful automations without any technical work. You'll get professional workflow solutions that would typically require hours of development or expensive custom tools.
+* Automate research, outreach, monitoring, and analysis.
+* Get consistent, high-quality results every time.
+* Save time and eliminate repetitive tasks.
 
-You'll solve business problems faster: Instead of manually researching prospects, monitoring competitors, or processing data, you'll have automations that do it for you with consistent, high-quality results.
+Whether you’re tracking competitors, enriching leads, summarizing content, or processing reports — templates do the heavy lifting for you.
 
-### Step-by-step guide to using templates
+### Step-by-Step: How to Use Templates
 
-#### Discover what's available
+#### 1. Explore Available Templates
 
-Browse the [template library](https://codewords.agemo.ai/template-gallery) to see what problems you can solve immediately. You'll find automations for lead research, content analysis, data enrichment, communication assistance, and monitoring services, and more.
+Browse the **Template Gallery** to see pre-built automations for:
 
-Each template clearly explains what it does, what you'll need to provide, and what results you can expect.
+* Lead research and enrichment
+* Competitor and content monitoring
+* Communication and marketing workflows
+* Data organization and analysis
 
-To learn more about templates on CodeWords, you can check the [template docs](https://docs.codewords.ai/templates/).
+Each template includes clear setup instructions, inputs required, and sample results.
 
-#### Pick your first template
+#### 2. Choose Your First Template
 
-Choose one that addresses a current business need you're facing. Don't overthink it — templates work best when you try them with real scenarios from your actual work.
-
-**Run it with your data**
-
-Using a template couldn't be simpler:
-
-1. Click on any template that interests you
-2. Fill in the form with your actual business information
-3. Hit run and wait for your results (usually 30-60 seconds)
-4. Use the output for your business needs immediately
-
-The interface guides you through exactly what information to provide, with helpful examples and clear descriptions.
+Pick one that fits a real use case in your workflow. You don’t need to plan everything — testing with actual data helps you learn faster and see value immediately.
 
 <figure><img src="../.gitbook/assets/templates.gif" alt=""><figcaption><p>Accessing a template from the Template Gallery</p></figcaption></figure>
 
-**Edit a template**&#x20;
+#### 3. Run the Template
 
-Using a template couldn't be simpler:
+Running a template is simple:
 
-1. Pick a template that is close to what you want&#x20;
-2. Click Edit template&#x20;
-3. Prompt Cody with your change&#x20;
+1. Click on any template.
+2. Fill in your business or project details.
+3. Hit **Run** and wait a few seconds for results.\
+   Your automation will execute instantly, delivering clean, usable output.
+
+#### 4. Edit a Template
+
+Want to make it your own?
+
+* Pick a template close to your needs.
+* Click **Edit Template**.
+* Ask **Cody** to modify it — for example:\
+  “Add competitor analysis to this workflow” or “Change the output format to a  PDF report.”
+
+Cody updates the automation automatically, so you can customize without touching code.
 
 <figure><img src="../.gitbook/assets/edit_template.gif" alt=""><figcaption><p>Editing a template</p></figcaption></figure>
