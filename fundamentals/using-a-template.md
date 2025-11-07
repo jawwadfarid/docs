@@ -8,11 +8,9 @@ icon: file
 
 # Using a Template
 
-### What are templates?
+### What are Templates?
 
 Templates are ready-made automations designed to solve common business problems — from lead generation to data processing, without needing to build anything from scratch. Each template is tested, optimized, and ready to use, so you can focus on your goals instead of setup.
-
-### What Do Templates Do?
 
 Templates give you immediate access to powerful, no-code workflows that replace hours of manual or technical work.\
 They help you:
