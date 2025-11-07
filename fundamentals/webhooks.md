@@ -17,7 +17,7 @@ They can also send data back once the workflow is finished, making them great fo
 
 ### Authentication
 
-No CodeWords API key required is required as the webhook URL itself serves as authentication.\
+No CodeWords API key is required as the webhook URL itself serves as authentication.\
 Each webhook has a unique, hard-to-guess URL that acts as a secure access point so make sure to keep this URL private — anyone with the link can send data to your workflow.
 
 ### Technical Details

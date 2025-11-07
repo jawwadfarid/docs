@@ -33,7 +33,7 @@ The endpoints you'll use:
 * Watch progress: `GET /logs/{request_id}` (live streaming)
 * Upload files: `POST /file` (when your workflow needs files)
 
-Authentication: Just add `Authorization: Bearer {YOUR_API_KEY}` to your headers.
+Authentication: Just add "Authorization: Bearer {YOUR\_API\_KEY}" to your headers.
 
 ### Quick synchronous calls
 
