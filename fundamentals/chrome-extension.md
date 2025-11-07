@@ -1,8 +1,8 @@
 ---
 description: >-
-  ChatGPT said: Automate actions on logged-in websites with the CodeWords Chrome
-  Extension. Ideal for extracting data, clicking buttons, and filling forms on
-  private pages like LinkedIn or dashboards
+  Automate actions on logged-in websites with the CodeWords Chrome Extension.
+  Ideal for extracting data, clicking buttons, and filling forms on private
+  pages like LinkedIn or dashboards
 icon: chrome
 ---
 
