@@ -8,6 +8,8 @@ icon: key-skeleton-left-right
 
 # Call CodeWords workflows
 
+### **Overview**
+
 This guide explains how to call and manage your automations programmatically through the CodeWords API — including authentication, synchronous and asynchronous workflows, file uploads, and error handling.
 
 ### 1. Get Your API Key

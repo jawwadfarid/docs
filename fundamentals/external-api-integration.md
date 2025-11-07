@@ -6,7 +6,9 @@ description: >-
 icon: link
 ---
 
-# API Key Setup for External App Connections
+# External API Integration
+
+### **Overview**
 
 You can connect your external apps directly to CodeWords workflows using your own API keys, enabling secure, customized integrations between CodeWords and the tools you already use.
 

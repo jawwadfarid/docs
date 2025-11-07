@@ -8,6 +8,8 @@ icon: vial
 
 # Testing and Running Workflows
 
+### **Overview**
+
 Once your workflow is built, CodeWords gives you two ways to test and run it — through **Cody** for automated validation, or manually through the **Run page** for detailed inspection. Both methods help ensure your automations perform reliably before deployment.
 
 ### **1. Testing Your Workflows**
