@@ -8,7 +8,7 @@ icon: diagram-project
 
 # Workflow Graph and Code View
 
-### **Overview**
+### Overview
 
 Every automation you build in CodeWords has two perspectives:
 

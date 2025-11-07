@@ -8,13 +8,13 @@ icon: scribble
 
 # FireCrawl for WebScrapping
 
-### **What is Firecrawl?**
+### What is Firecrawl?
 
 Firecrawl is a fast, reliable tool for extracting text, data, and visual content from public web pages. It automatically retrieves clean, structured information from any URL, allowing you to analyze or use that data directly within your workflows.
 
 On CodeWords, Firecrawl comes fully integrated — meaning you can start scraping websites instantly without any additional setup, API keys, or configurations.
 
-### **When to Use Firecrawl**
+### When to Use Firecrawl
 
 Firecrawl is perfect for gathering structured information from public web pages quickly and efficiently.
 
