@@ -88,6 +88,38 @@ Scheduled triggers let you run workflows automatically at set intervals—ideal 
 
 Event-driven triggers are best for responsive workflows. Scheduled triggers are ideal for predictable, time-based automation.
 
+<details>
+
+<summary>What if my app isn’t supported?</summary>
+
+You can use custom webhooks. Cody will create a webhook URL you can connect to any system that sends HTTP POST requests with JSON data.
+
+</details>
+
+<details>
+
+<summary>What are Pipedream triggers?</summary>
+
+Through Pipedream, you can use over 2,700+ event sources, including Gmail, Notion, GitHub, Stripe, and HubSpot. These expand your automation options far beyond native integrations.
+
+</details>
+
+<details>
+
+<summary>Can I see or edit my active triggers?</summary>
+
+Yes, visit the Triggers page in CodeWords to manage, pause, or delete any active event-based automation.
+
+</details>
+
+<details>
+
+<summary>Do triggers run even when I’m offline?</summary>
+
+Yes. Once set up, triggers and schedules run automatically in the background — no manual action needed.
+
+</details>
+
 ### **Summary**
 
 Triggers make your automations proactive and reliable.
@@ -96,3 +128,4 @@ Triggers make your automations proactive and reliable.
 * **Scheduled triggers** run at specific times.
 * **Custom webhooks** extend integration to any system.\
   Whether you’re managing messages, syncing data, or scheduling reports, CodeWords handles it automatically—no manual input or coding required.
+

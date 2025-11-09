@@ -92,3 +92,45 @@ Cody launches the live webhook endpoint for real usage.
 Replace the test URL with the production webhook URL in your external app to complete the setup.
 {% endstep %}
 {% endstepper %}
+
+### FAQ
+
+<details>
+
+<summary>Which HTTP method does CodeWords support?</summary>
+
+Currently, CodeWords supports only the POST method for webhooks. All data must be sent as a JSON payload.
+
+</details>
+
+<details>
+
+<summary>Can a webhook return data after running a workflow?</summary>
+
+Yes. Webhooks can send responses back once your workflow completes — perfect for creating API-style automations.
+
+</details>
+
+<details>
+
+<summary>What can I connect using webhooks?</summary>
+
+You can connect any system that can send HTTP POST requests from apps such as GitHub, Stripe, Google Forms, or custom APIs.
+
+</details>
+
+<details>
+
+<summary>Is my webhook URL secure?</summary>
+
+Yes. Each webhook URL includes a randomly generated unique ID, making it nearly impossible to guess. Just ensure you keep it private.
+
+</details>
+
+<details>
+
+<summary>Can I test my webhook before going live?</summary>
+
+Yes. Cody automatically creates a test webhook so you can verify the connection and review the data structure before deploying the production version.
+
+</details>

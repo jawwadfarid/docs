@@ -7,7 +7,7 @@ icon: computer-classic
 
 # Web Agent
 
-### Intro
+### Overview
 
 The Web Agent is your AI-powered assistant for browser automation. Instead of writing complex scripts, you can simply describe your goal in plain language, and the Web Agent figures out how to achieve it by navigating websites, clicking buttons, and collecting the information you need.
 
@@ -59,3 +59,41 @@ You can watch the Web Agent in real time through a live browser view — perfect
 
 
 <figure><img src="../.gitbook/assets/web_agent.gif" alt=""><figcaption></figcaption></figure>
+
+FAQ
+
+<details>
+
+<summary>When should I use the Web Agent?</summary>
+
+Use the Web Agent for complex or dynamic web tasks, especially when:
+
+* You don’t know every step ahead of time (e.g., finding a contact on a company site).
+* The website changes frequently or loads content dynamically.
+* You need to access logged-in or private pages (like LinkedIn or dashboards).
+
+</details>
+
+<details>
+
+<summary>Can I watch the Web Agent in action?</summary>
+
+Yes. You can view a live browser window as the Web Agent performs your task. This makes it easy to monitor progress, verify results, or debug if something doesn’t go as expected.
+
+</details>
+
+<details>
+
+<summary>What types of websites can it handle?</summary>
+
+The Web Agent works on most modern websites, including dynamic JavaScript-based pages and authenticated sites where you’re logged in. For public pages or simple extractions, consider using Firecrawl for faster performance.
+
+</details>
+
+<details>
+
+<summary>Is it safe to use on private or logged-in pages?</summary>
+
+Yes. The Web Agent runs securely within your authenticated browser session and never shares login credentials externally. All activity stays within your private environment.
+
+</details>

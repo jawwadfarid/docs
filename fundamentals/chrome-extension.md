@@ -64,3 +64,48 @@ Not ideal for:
 * Automate repetitive form filling
 
 The Chrome extension trades speed for reliability — perfect when you need consistent results from authenticated websites.
+
+FAQ
+
+<details>
+
+<summary>When should I use the Chrome Extension?</summary>
+
+Use it when:
+
+* You need to scrape or interact with private, logged-in pages.
+* Tasks involve simple actions such as clicking buttons or filling forms.
+* You value accuracy and reliability over speed.
+
+Avoid it when you need background or scheduled automation — or when you must actively use your browser during the automation process.
+
+</details>
+
+<details>
+
+<summary>How do I download the Chrome extension?</summary>
+
+1. Install the extension from the [**Chrome Web Store**](https://chromewebstore.google.com/detail/codewords/fgcbeegcaikofigbnfmmlgcimdkmfnce)**.**
+2. Log in to the websites you want to automate.
+3. Run or test your automation through CodeWords — the extension takes care of the rest.
+
+</details>
+
+<details>
+
+<summary>What can the Chrome Extension do?</summary>
+
+* Access and extract content from private pages.
+* Perform interactive actions like clicks and form submissions.
+* Maintain your session securely without requiring reauthentication.\
+  It’s ideal for automating browser-based workflows that depend on your logged-in access
+
+</details>
+
+<details>
+
+<summary>Can I see what the extension is doing?</summary>
+
+Yes. You can watch every step of your automation in real time as it runs within your browser tab making it easy to monitor progress and debug when needed.
+
+</details>

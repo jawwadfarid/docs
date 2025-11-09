@@ -102,9 +102,53 @@ Build intelligent conversations where **users** ask questions and get instant he
 
 You can use both! Many teams use **Direct Messaging** for user specific needs and **Group** for internal groups.
 
+### FAQ
+
+<details>
+
+<summary>Can I have multiple WhatsApp automations?</summary>
+
+Yes, you can create multiple WhatsApp automations that send messages.\
+However, only one trigger-based two-way assistant (that can both send and receive messages) can be active at a time.
+
+</details>
+
+<details>
+
+<summary>How do I manage or delete a WhatsApp trigger?</summary>
+
+You can manage all triggers from the Triggers page to pause, edit, or delete them anytime.\
+Alternatively, simply ask Cody:
+
+“Delete my WhatsApp trigger.”\
+Cody will remove it automatically.
+
+</details>
+
+<details>
+
+<summary>How is this different from WhatsApp Group Automations?</summary>
+
+* **Direct Messaging Automations** handle personal, one-on-one interactions.
+* **Group Automations** manage team or community conversations inside group chats.\
+  Many teams use both — direct messages for private tasks and groups for internal workflows.
+
+***
+
+</details>
+
+<details>
+
+<summary>Is my WhatsApp data secure?</summary>
+
+Yes. All interactions occur via the verified CodeWords WhatsApp Business Account, and messages are encrypted through WhatsApp’s secure infrastructure. Your number and connected data remain private and under your control.
+
+</details>
+
 ### Getting Help
 
 If your Assistant isn’t responding:
 
 1. Ask Cody to verify if the setup is correct
 2. Check in-app support or use live chat at [codewords.ai](https://codewords.agemo.ai/)
+

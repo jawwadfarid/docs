@@ -50,3 +50,35 @@ With your API key connected, you’re ready to create your first integrated work
 * Tell Cody that you’d like to create a workflow using your connected app and that the API key is saved as `VARIABLE_NAME` in your environment variables.
 * Cody will automatically reference the app’s documentation and handle the integration setup for you.
 * If the API documentation isn’t publicly available, simply paste the relevant Markdown or text into your chat with Cody — it will use that to complete the integration.
+
+<details>
+
+<summary>How do I add my API key to CodeWords?</summary>
+
+Go to Account → Keys → Add Variable, enter a unique variable name (e.g., ASANA\_API\_KEY), paste your key, and click Save. CodeWords stores it securely and uses it when building workflows.
+
+</details>
+
+<details>
+
+<summary>How does Cody use my API key?</summary>
+
+When you ask Cody to build a workflow with your app, it automatically references your saved variable, connects securely, and sets up the integration without exposing your key.
+
+</details>
+
+<details>
+
+<summary>What if my app’s documentation isn’t public?</summary>
+
+Simply paste the relevant API documentation or Markdown into your chat with Cody. It will read and use that information to complete the integration accurately.
+
+</details>
+
+<details>
+
+<summary>Is my API key safe in CodeWords?</summary>
+
+Yes. All keys are encrypted and stored securely within your environment. They are never shared, exposed, or transmitted outside your workspace.
+
+</details>

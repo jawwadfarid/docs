@@ -393,4 +393,55 @@ except Exception as e:
     print(f"Failed after retries: {e}")
 ```
 
-\
+### FAQ
+
+<details>
+
+<summary>What is the CodeWords API used for?</summary>
+
+The CodeWords API lets you trigger and control workflows directly from any app or system using simple HTTP requests. You can build web or mobile apps that run CodeWords automations seamlessly in the background.
+
+</details>
+
+<details>
+
+<summary>What’s the difference between sync and async API calls?</summary>
+
+* **Synchronous (`/run`)**: Best for fast workflows that finish in under two minutes.
+* **Asynchronous (`/run_async`)**: Designed for longer jobs (up to 30 minutes). You get a request ID instantly and can check progress or results later.
+
+</details>
+
+<details>
+
+<summary>How do I authenticate requests?</summary>
+
+Include your API key in the request header:\
+`Authorization: Bearer YOUR_API_KEY`\
+This ensures that every API call is securely linked to your CodeWords account.
+
+</details>
+
+<details>
+
+<summary>Can I upload files to my workflows?</summary>
+
+Yes. Use the `/file` endpoint to upload any file your automation needs. CodeWords returns a secure download URL you can include in your workflow inputs.
+
+</details>
+
+<details>
+
+<summary>What programming languages are supported?</summary>
+
+You can call the API from any language that supports HTTP requests. Official clients are available for Python and JavaScript/TypeScript, making integration effortless.
+
+</details>
+
+<details>
+
+<summary>How long can an API job run?</summary>
+
+Synchronous jobs run for up to 2 minutes, while asynchronous workflows can run for up to 30 minutes before timing out.
+
+</details>
