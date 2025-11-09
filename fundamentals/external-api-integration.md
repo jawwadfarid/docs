@@ -51,6 +51,8 @@ With your API key connected, you’re ready to create your first integrated work
 * Cody will automatically reference the app’s documentation and handle the integration setup for you.
 * If the API documentation isn’t publicly available, simply paste the relevant Markdown or text into your chat with Cody — it will use that to complete the integration.
 
+### FAQ
+
 <details>
 
 <summary>How do I add my API key to CodeWords?</summary>

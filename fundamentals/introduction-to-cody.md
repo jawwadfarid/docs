@@ -57,7 +57,7 @@ With Cody, you get the flexibility of coding and the ease of conversation — an
 
 <figure><img src="../.gitbook/assets/Get started.gif" alt=""><figcaption></figcaption></figure>
 
-FAQ
+### FAQ
 
 <details>
 

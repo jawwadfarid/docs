@@ -88,6 +88,8 @@ Scheduled triggers let you run workflows automatically at set intervals—ideal 
 
 Event-driven triggers are best for responsive workflows. Scheduled triggers are ideal for predictable, time-based automation.
 
+### FAQ
+
 <details>
 
 <summary>What if my app isn’t supported?</summary>
