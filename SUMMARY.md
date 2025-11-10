@@ -67,6 +67,7 @@
   * [X Comment Suggester](use-cases/templates/x-comment-suggester.md)
   * [LinkedIn Education Extractor](use-cases/templates/linkedin-education-extractor.md)
   * [UGC Video Generator using Veo3.1](use-cases/templates/ugc-video-generator-using-veo3.1.md)
+  * [WhatsApp Group Engagement Analyzer](use-cases/templates/whatsapp-group-engagement-analyzer.md)
 * [Launched — Web Apps Powered by CodeWords](use-cases/launched-web-apps-powered-by-codewords.md)
 * Solutions for
   * [Sales](use-cases/solutions-for/sales.md)
