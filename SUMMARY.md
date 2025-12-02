@@ -69,7 +69,7 @@
   * [UGC Video Generator using Veo3.1](use-cases/templates/ugc-video-generator-using-veo3.1.md)
   * [WhatsApp Group Engagement Analyzer](use-cases/templates/whatsapp-group-engagement-analyzer.md)
 * [Launched — Web Apps Powered by CodeWords](use-cases/launched-web-apps-powered-by-codewords.md)
-* Solutions for
+* [Solutions for](use-cases/solutions-for/README.md)
   * [Sales](use-cases/solutions-for/sales.md)
   * [Operations](use-cases/solutions-for/operations.md)
   * [Marketing](use-cases/solutions-for/marketing.md)
