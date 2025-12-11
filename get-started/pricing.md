@@ -27,15 +27,17 @@ Use them to test, build, and run automations with zero commitment.
 
 ### Plans & Subscriptions
 
-| Free                             | Pro                            | Max                             |
-| -------------------------------- | ------------------------------ | ------------------------------- |
-| $5 of starter credits (one-time) | $20 in credits added monthly   | $100 in credits added monthly   |
-| \~12 workflow builds from chat   | \~50 workflow builds from chat | \~250 workflow builds from chat |
-| \~2,500 workflow executions      | \~10,000 workflow executions   | \~50,000 workflow executions    |
-| Basic support                    | Priority support               | Priority support                |
-| Custom top-ups available anytime | Priority support               | 1:1 consultations with the team |
-|                                  | Credits roll over              | Credits roll over               |
-|                                  | Custom top-ups                 | Custom top-ups                  |
+| Free                             | Pro ($20/Month)                  | Max($100/month)                   |
+| -------------------------------- | -------------------------------- | --------------------------------- |
+| $5 of starter credits (one-time) | $20 in credits added monthly     | $100 in credits added monthly     |
+| \~12 workflow builds from chat   | \~50 workflow builds from chat\* | \~250 workflow builds from chat\* |
+| \~2,500 workflow executions      | \~10,000 workflow executions\*   | \~50,000 workflow executions\*    |
+| Basic support                    | Priority support                 | Priority support                  |
+| Custom top-ups available anytime | Priority support                 | 1:1 consultations with the team   |
+|                                  | Credits roll over                | Credits roll over                 |
+|                                  | Custom top-ups                   | Custom top-ups                    |
+
+\*Estimated figures. Varies based on workflow complexity.
 
 #### Custom - Enterprise
 
@@ -46,7 +48,7 @@ Email **support@agemo.ai** for volume pricing, dedicated support, and custom arr
 
 Every action whether building with Cody or running a workflow  consumes a small amount of credit based on the compute and integrations involved.
 
-#### **Credits are used when you:**
+#### Credits are used when you:
 
 * Build automations through chat with Cody
 * Edit existing workflows
