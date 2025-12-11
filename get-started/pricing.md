@@ -1,8 +1,8 @@
 ---
 description: >-
-  Transparent, usage-based pricing for CodeWords. Get $5 free credits to build
-  and run automations. Pay only for what you use — simple, scalable, and built
-  for creators.
+  CodeWords now offers flexible subscriptions with monthly credits, rollover,
+  and priority support. Start free with $5 credits, then scale your automations
+  with Pro or Max plans built for creators.
 icon: money-bill-1-wave
 ---
 
@@ -10,83 +10,111 @@ icon: money-bill-1-wave
 
 ### How it works
 
-CodeWords uses a usage-based pricing model designed to be fair, flexible, and scalable.\
-When you sign up, you’ll receive $5 in free credits to start building and testing automations — no upfront payment required.
+Transparent, flexible pricing built for creators, teams, and power-automators.\
+Start free with $5 in credits and choose between pay-as-you-go or monthly subscriptions that include bundled credits and premium features.
 
-Our pricing reflects real compute and integration costs. You only pay for what you use — whether that’s generating workflows with Cody, running automations, or connecting with external tools and APIs.
+### How CodeWords Pricing Works
 
-> Think of credits as the fuel that powers your automations — every action, from updating a spreadsheet to running an AI agent, uses a small amount of it.
+CodeWords uses a credit-based system that powers everything you build, from generating workflows with Cody, to running automations, to integrating with external APIs and tools.
 
-### Credits & Usage
+Your usage determines your cost. No hidden fees, no forced subscriptions.\
+You choose either:
 
-Each workflow action consumes credits depending on its complexity:
+#### Free Credits for New Users
 
-* Simple tasks (like sending a message or updating a cell) use fewer credits
-* Complex tasks (like AI summarization, web automation, or external integrations) use more credits
+When you sign up, you automatically receive $5 in free credits.\
+Use them to test, build, and run automations with zero commitment.
 
-It’s a pay-as-you-go system that automatically scales with your usage.
+### Plans & Subscriptions
 
-**Detailed history:** To see exactly what you’ve spent, visit the [History Page](https://codewords.agemo.ai/workflows/history) — you’ll find the cost of each workflow run and how much was used to build it through Cody’s chat.
+| Free                             | Pro                            | Max                             |
+| -------------------------------- | ------------------------------ | ------------------------------- |
+| $5 of starter credits (one-time) | $20 in credits added monthly   | $100 in credits added monthly   |
+| \~12 workflow builds from chat   | \~50 workflow builds from chat | \~250 workflow builds from chat |
+| \~2,500 workflow executions      | \~10,000 workflow executions   | \~50,000 workflow executions    |
+| Basic support                    | Priority support               | Priority support                |
+| Custom top-ups available anytime | Priority support               | 1:1 consultations with the team |
+|                                  | Credits roll over              | Credits roll over               |
+|                                  | Custom top-ups                 | Custom top-ups                  |
 
-### Typical Costs
+#### Custom - Enterprise
+
+For larger automation needs\
+Email **support@agemo.ai** for volume pricing, dedicated support, and custom arrangements.
+
+### What Credits Are & How They Work
+
+Every action whether building with Cody or running a workflow  consumes a small amount of credit based on the compute and integrations involved.
+
+#### **Credits are used when you:**
+
+* Build automations through chat with Cody
+* Edit existing workflows
+* Run workflows (manual, scheduled, or triggered)
+* Use AI, external APIs, or web automation
+
+No idle fees. No background charges.
+
+You can check your real-time balance anytime in:\
+**Account → Wallet**
+
+### Usage & Cost Breakdown
 
 #### Building Automations
 
-Creating workflows or AI Agents through conversations with Cody.\
-**Average cost:** $0.50 – $2 per automation\
-More complex builds (involving AI or APIs) may cost slightly more.
+Creating workflows or AI Agents through conversations with Cody.
+
+* **Typical cost:** $0.50–$2 per automation
+* More complex logic / API workflows may cost slightly more
 
 #### Editing Automations
 
-Updating or customizing existing templates or workflows.\
-**Average cost:** $0.10 – $1 per edit\
-Complex edits (e.g., multi-step logic changes) may use additional credits.
+Updating or customizing an existing workflow or template.
+
+* **Typical cost:** $0.10–$1 per edit
+* Multi-step logic or advanced changes may use additional credits
 
 #### Running Automations
 
-Executing your workflows — whether manually, scheduled, or triggered.\
-**Average cost:** $0.00001 – $1 per run\
-The final cost depends on your workflow’s steps, API calls, and integrations.
+Workflow runs—manual, triggered, or scheduled.
 
-> You can cancel any scheduled or triggered automations anytime.\
-> In rare cases, minimal overspill charges may apply while cancellation completes.
+* **Typical cost:** $0.00001–$1 per run (varies by complexity)
+* Costs depend on:
+  * Number of steps
+  * API calls
+  * Data size
+  * Integrations used
 
-We charge for both successful and failed workflows. In the case of a failure, you’re only billed for the steps completed up to the point of failure, covering the actions and tools used before the error occurred.
+#### Failed runs
 
-The cost of running a workflow depends on the number of actions and the size of the input it processes. For example, a LinkedIn scraping and enrichment workflow will cost more when handling 100 profiles compared to just 3.
+You’re only charged for the steps completed before the failure.
 
-### How Credits Work
+#### Variable workloads
 
-* **Automatic usage:** Credits are deducted automatically whenever your workflows run or when you chat with Cody.
-* **Real-time balance:** View your remaining balance [Account](https://codewords.agemo.ai/account) → [Wallet](https://codewords.agemo.ai/account/wallet)**.**
-* **Detailed history:** To see exactly what you’ve spent, visit the [History Page](https://codewords.agemo.ai/workflows/history) — you’ll find the cost of each workflow run and how much was used to build it through Cody’s chat.
-* **No idle costs:** You only pay when something actually runs or builds.
+Larger inputs cost more — e.g., scraping 100 LinkedIn profiles costs more than scraping 3.
 
-### Adding More Credits
+### Detailed Usage History
 
-When you’re running low on credits:
+You can view a precise breakdown of all usage:
 
-1. Go to Settings → Wallet
-2. Click Add / Top Up Wallet
-3. Select how many $worth of credits you want
-4. Complete checkout - your credits appear instantly
+* Credits used per workflow run
+* Credits used while building with Cody
+* Timestamps, run logs, and cost explanations
 
-<figure><img src="../.gitbook/assets/Wallet &#x26; Balance.gif" alt="Accessing your wallet and topping up credits"><figcaption></figcaption></figure>
+Visit **History** inside your dashboard.
 
-### Early Access Pricing
+### Wallet & Top-Ups
 
-CodeWords is still evolving — and so is our pricing flexibility.\
-For now, we’re keeping rates low to encourage you to experiment, explore, and build freely.
+You can always add more credits, even if you’re on a subscription.
 
-This early-access model means you can test AI, workflows, and integrations at a fraction of the cost of traditional automation tools.
+#### To top up:
 
-### Summary
+1. Go to **Settings → Wallet**
+2. Click **Top Up Wallet**
+3. Choose a preset amount or enter a custom amount (min $5)
+4. Credits appear instantly
 
-* $5 free credits when you sign up
-* Pay only for what you use — no subscriptions or contracts
-* Transparent usage history and cost tracking
-* Cancel automations anytime
-* Early-access rates so you can build more for less
+Wallet top-ups are perfect if you prefer pay-as-you-go or need extra credits beyond your subscription.
 
 ### Need Help
 
