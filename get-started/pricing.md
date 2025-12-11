@@ -78,7 +78,7 @@ Updating or customizing an existing workflow or template.
 
 #### Running Automations
 
-Workflow runs—manual, triggered, or scheduled.
+Workflow runs (manual, triggered, or scheduled)
 
 * **Typical cost:** $0.00001–$1 per run (varies by complexity)
 * Costs depend on:
