@@ -93,7 +93,7 @@ You’re only charged for the steps completed before the failure.
 
 #### Variable workloads
 
-Larger inputs cost more — e.g., scraping 100 LinkedIn profiles costs more than scraping 3.
+Larger inputs cost more — e.g., scraping 100 LinkedIn profiles costs more.
 
 ### Detailed Usage History
 
