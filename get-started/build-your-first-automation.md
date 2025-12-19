@@ -12,6 +12,10 @@ Welcome to CodeWords! This tutorial will guide you through building your first w
 
 You’ll create a workflow that scrapes content from a web page, summarizes it with AI, and sends the summary to your Gmail inbox.
 
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FC0KQHHlFG9y1F0pBotb8%2Fuploads%2F6uIsjCxz1BNbwZijPqVN%2Fquickstart_small.mp4?alt=media&token=a68bd407-d46e-41bd-9da0-fce859a2cf61" fullWidth="false" %}
+Building Your First Automation: Web Scraper & Gmail Summarizer
+{% endembed %}
+
 ### Building your first automation: web scraper and Gmail summarizer
 
 #### Step 1: Describe your automation idea
@@ -126,10 +130,6 @@ Here's what it does:
 * Finally, it delivers the summary directly to your Gmail inbox, fully formatted and ready to read.
 
 Your automation now combines real-time web data extraction, AI summarization, and email delivery — all created through natural language in just a few steps.
-
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FC0KQHHlFG9y1F0pBotb8%2Fuploads%2F6uIsjCxz1BNbwZijPqVN%2Fquickstart_small.mp4?alt=media&token=a68bd407-d46e-41bd-9da0-fce859a2cf61" fullWidth="false" %}
-Building Your First Automation: Web Scraper & Gmail Summarizer
-{% endembed %}
 
 ### FAQ
 
