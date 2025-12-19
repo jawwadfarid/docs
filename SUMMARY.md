@@ -4,7 +4,7 @@
 
 * [What is CodeWords?](README.md)
 * [Quickstart](get-started/quickstart-1.md)
-* [Features overview \[update wip\]](get-started/features-overview-update-wip.md)
+* [Quickstart \[update wip\]](get-started/quickstart-update-wip.md)
 * [Build your first automation](get-started/build-your-first-automation.md)
 * [Pricing](get-started/pricing.md)
 * [FAQ](get-started/faq.md)
