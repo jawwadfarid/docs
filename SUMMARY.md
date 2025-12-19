@@ -15,7 +15,7 @@
 * [Workflow Graph and Code View](fundamentals/workflow-graph-and-code-view.md)
 * [Testing and Running Workflows](fundamentals/testing-and-running-workflows.md)
 * [Redis: Your Workflow’s Memory](fundamentals/redis-your-workflows-memory.md)
-* [FireCrawl for WebScrapping](fundamentals/firecrawl-for-webscrapping.md)
+* [FireCrawl for Web Scraping](fundamentals/firecrawl-for-web-scraping.md)
 * [Using a Template](fundamentals/using-a-template.md)
 * [CodeWords API key](fundamentals/codewords-api-key.md)
 * [External API Integration](fundamentals/external-api-integration.md)

@@ -6,9 +6,8 @@
 
 
 
-**Build on your own Client**\
-
-
+**Build on your own Client**<br>
+--------------------------------
 
 #### Before you begin, please ensure you meet the following requirements:
 
