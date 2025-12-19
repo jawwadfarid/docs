@@ -6,6 +6,7 @@
 * [Quickstart](get-started/quickstart-1.md)
 * [Pricing](get-started/pricing.md)
 * [FAQ](get-started/faq.md)
+* [Who is CodeWords for?](get-started/who-is-codewords-for.md)
 
 ## Fundamentals
 
