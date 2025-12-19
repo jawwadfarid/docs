@@ -33,6 +33,8 @@ layout:
 * **Connect to your favorite tools** in a single click.&#x20;
 * **Easily export code** from your automation, without having to write any of it.
 
+See what the CodeWords community has built in our [Template Gallery](https://codewords.agemo.ai/template-gallery).&#x20;
+
 ### Get started in seconds
 
 {% stepper %}
