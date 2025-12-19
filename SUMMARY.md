@@ -2,7 +2,7 @@
 
 ## Get Started
 
-* [Getting started with CodeWords](README.md)
+* [What is CodeWords?](README.md)
 * [Quickstart](get-started/quickstart-1.md)
 * [Pricing](get-started/pricing.md)
 * [FAQ](get-started/faq.md)
