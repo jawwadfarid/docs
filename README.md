@@ -33,19 +33,23 @@ layout:
 {% step %}
 #### Sign up for free
 
-You can create an account and receive $5 in free credits. No credit card required.
+Create an account and receive $5 in free credits. No credit card required.
 {% endstep %}
 
 {% step %}
 #### Build your first workflow
 
-Simply paste your prompt about your automation into the chat interface. Use the [Quickstart](https://docs.codewords.ai/get-started/quickstart) to help you guide through the process.
+Describe what you'd like to automate in the chat.&#x20;
+
+Use the [Quickstart](https://docs.codewords.ai/get-started/quickstart) guide to help you build your first workflow.&#x20;
 {% endstep %}
 
 {% step %}
 #### Explore pre-built templates
 
-Browse from the [Template Gallery](https://codewords.agemo.ai/template-gallery?utm_source=docs) to find ready-to-use automations for lead enrichment, social media posting, report generation, and more. Clone any template in one click and customize it.
+Browse the [Template Gallery](https://codewords.agemo.ai/template-gallery?utm_source=docs) to find ready-to-use automations for lead enrichment, social media posting, report generation, and much more.&#x20;
+
+Copy any template or click to edit it for your use case.&#x20;
 {% endstep %}
 {% endstepper %}
 
