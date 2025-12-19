@@ -19,15 +19,21 @@ layout:
     visible: true
 ---
 
-# Getting Started with CodeWords
+# Getting started with CodeWords
 
 ### What is CodeWords?
 
 [**CodeWords**](https://codewords.agemo.ai/) is an AI-powered automation platform that helps teams and individuals create, deploy, and run workflows fast. It's designed so anyone can build automations, regardless of technical ability. Simply describe what you'd like to automate in natural language and CodeWords turns your prompts into intelligent AI agents and workflow automations.&#x20;
 
+### What can you do with CodeWords?
 
+* **Describe your automation idea** in natural language.&#x20;
+* **Create powerful AI workflow automations** in minutes.&#x20;
+* **CodeWords automatically** **tests, debugs, and deploys** your automation.&#x20;
+* **Connect to your favorite tools** in a single click.&#x20;
+* **Easily export code** from your automation, without having to write any of it.
 
-### Get Started in Minutes
+### Get started in seconds
 
 {% stepper %}
 {% step %}
@@ -53,7 +59,7 @@ Copy any template or click to edit it for your use case.&#x20;
 {% endstep %}
 {% endstepper %}
 
-### Next Steps
+### Next steps
 
 * Meet [Cody, the AI Assistant](https://docs.codewords.ai/fundamentals/introduction-to-cody)
 * Explore the [Quickstart](https://docs.codewords.ai/get-started/quickstart) to start building your first automation
