@@ -37,6 +37,8 @@ See what the CodeWords community has built in our [Template Gallery](https://cod
 
 
 
+***
+
 ### Who is CodeWords for?
 
 CodeWords helps users save hours by creating and running workflow automations. You can use CodeWords to create powerful workflows for work, life, or study.
@@ -103,7 +105,17 @@ Make your life beyond work manage itself.&#x20;
 * [Stock ticker sentiment analyzer](https://codewords.agemo.ai/run/stock_ticker_sentiment_analyzer?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=stock_ticker_sentiment_analyzer\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=stock_ticker_sentiment_analyzer\&ref=cmct682fi0000v9ny9lpkhj15)
 * [Google maps review analyzer](https://codewords.agemo.ai/run/google_maps_review_extractor?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=google_maps_review_extractor\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=google_maps_review_extractor\&ref=cmct682fi0000v9ny9lpkhj15)
 
+***
 
+### What makes CodeWords different?&#x20;
+
+* **Build using natural language:** Words are all you need to build powerful automations. Whilst many tools claim to be no-code and still require technical expertise from the user, CodeWords genuinely doesn't require you to have any technical knowledge.&#x20;
+* **End-to-end development:** CodeWords builds, tests, debugs, and deploys workflow automations for you.&#x20;
+* **Intelligent AI automation assistant**: Cody, the platform's AI automation assistant, ideates and collaborates with you so you get your end result quicker and better.
+* **Zero drag-and-drop:** Your workflow automation is built for you from scratch. You're not confined to pre-defined nodes that require extensive technical configuration. Instead, CodeWords builds through code, and you can access the code through the chat view.&#x20;
+* **Works with your favorite tools**: Access over 2,800 apps and integrations through the platform, and connect to the tools already in your stack.&#x20;
+
+***
 
 ### Get started in seconds
 
