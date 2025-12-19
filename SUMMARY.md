@@ -31,6 +31,7 @@
   * [Popular Integrations](fundamentals/popular-integrarions/popular-integrations.md)
   * [Integrations & API Keys](fundamentals/popular-integrarions/integrations-and-api-keys.md)
   * [AI models](fundamentals/popular-integrarions/llm-models.md)
+* [Integrations \[hold\]](fundamentals/integrations-hold.md)
 
 ## Web Automation
 
