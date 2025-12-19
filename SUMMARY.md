@@ -4,8 +4,8 @@
 
 * [Getting Started with CodeWords](README.md)
 * [Quickstart](get-started/quickstart-1.md)
-* [FAQ](get-started/faq.md)
 * [Pricing](get-started/pricing.md)
+* [FAQ](get-started/faq.md)
 
 ## Fundamentals
 
