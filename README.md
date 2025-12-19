@@ -1,8 +1,7 @@
 ---
 description: >-
   Build powerful automations from chat with CodeWords — turn ideas into
-  workflows in minutes. Perfect for business owners, ops managers, marketers,
-  and non-developers.
+  workflows in minutes. This is your shortcut to getting more done.
 icon: hand-wave
 layout:
   width: default
