@@ -35,6 +35,76 @@ layout:
 
 See what the CodeWords community has built in our [Template Gallery](https://codewords.agemo.ai/template-gallery).&#x20;
 
+
+
+### Who is CodeWords for?
+
+CodeWords helps users save hours by creating and running workflow automations. You can use CodeWords to create powerful workflows for work, life, or study.
+
+**Here's how different roles are using it:**
+
+#### Founders&#x20;
+
+Automate operational and administrative tasks, and ship faster without hiring a dev team.&#x20;
+
+* [WhatsApp contact enrichment](https://codewords.agemo.ai/run/whatsapp_contact_enricher_c885b3e5?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=whatsapp_contact_enricher_c885b3e5\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=whatsapp_contact_enricher_c885b3e5\&ref=cmct682fi0000v9ny9lpkhj15)
+* [Gmail AI labeler](https://codewords.agemo.ai/run/gmail_ai_labeler?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=gmail_ai_labeler\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=gmail_ai_labeler\&ref=cmct682fi0000v9ny9lpkhj15)&#x20;
+* [Competitor insights](https://codewords.agemo.ai/run/competitor_socials_summary?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=competitor_socials_summary\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=competitor_socials_summary\&ref=cmct682fi0000v9ny9lpkhj15)
+
+#### Sales&#x20;
+
+Create solutions for lead prospecting, lead generation, and sales motions.&#x20;
+
+Examples:&#x20;
+
+* [LinkedIn comment scraper](https://codewords.agemo.ai/run/linkedin_comment_scraper?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=linkedin_comment_scraper\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=linkedin_comment_scraper\&ref=cmct682fi0000v9ny9lpkhj15)
+* [Reddit thread and profile research assistant](https://codewords.agemo.ai/run/reddit_search_via_linkup_4949b8bf?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=reddit_search_via_linkup_4949b8bf\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=reddit_search_via_linkup_4949b8bf\&ref=cmct682fi0000v9ny9lpkhj15)
+* [WhatsApp contact enrichment](https://codewords.agemo.ai/run/whatsapp_contact_enricher_c885b3e5?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=whatsapp_contact_enricher_c885b3e5\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=whatsapp_contact_enricher_c885b3e5\&ref=cmct682fi0000v9ny9lpkhj15)
+
+#### Content Creators
+
+Easily create UGC videos, repurpose content, and manage content production and operations quickly.&#x20;
+
+Examples:&#x20;
+
+* [UGC video generator with Veo](https://codewords.agemo.ai/run/ugc_video_generator_veo?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=ugc_video_generator_veo\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=ugc_video_generator_veo\&ref=cmct682fi0000v9ny9lpkhj15)
+* [LinkedIn AI content poster](https://codewords.agemo.ai/run/linkedin_ai_content_poster?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=linkedin_ai_content_poster\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=linkedin_ai_content_poster\&ref=cmct682fi0000v9ny9lpkhj15)
+* [Hacker News content generator](https://codewords.agemo.ai/run/hacker_news_content_generator?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=hacker_news_content_generator\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=hacker_news_content_generator\&ref=cmct682fi0000v9ny9lpkhj15)
+
+#### Marketing Teams&#x20;
+
+Reduce marketing operations, research tasks, and campaign production time across everything from content, community management or SEO, to site management and lifecycle.&#x20;
+
+Examples:&#x20;
+
+* [Brand sentiment analyzer](https://codewords.agemo.ai/run/brand_sentiment_analyzer?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=brand_sentiment_analyzer\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=brand_sentiment_analyzer\&ref=cmct682fi0000v9ny9lpkhj15)
+* [WhatsApp group engagement analyzer](https://codewords.agemo.ai/run/whatsapp_group_engagement_analyzer?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=whatsapp_group_engagement_analyzer\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=whatsapp_group_engagement_analyzer\&ref=cmct682fi0000v9ny9lpkhj15)
+* [Reddit weekly summary to Slack](https://codewords.agemo.ai/run/reddit_weekly_slack_summary?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=reddit_weekly_slack_summary\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=reddit_weekly_slack_summary\&ref=cmct682fi0000v9ny9lpkhj15)
+
+#### Talent&#x20;
+
+Automate everything from smart follow-ups to candidates, to CV prioritization, and handle time-consuming repetitive tasks automatically.&#x20;
+
+Examples:&#x20;
+
+* [Analyze a candidate's online presence](https://codewords.agemo.ai/run/comprehensive_person_finder?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=comprehensive_person_finder\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=comprehensive_person_finder\&ref=cmct682fi0000v9ny9lpkhj15)&#x20;
+* [LinkedIn profile Q\&A](https://codewords.agemo.ai/run/linkedin_profile_question_answering?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=linkedin_profile_question_answering\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=linkedin_profile_question_answering\&ref=cmct682fi0000v9ny9lpkhj15)
+* [LinkedIn profile finder](https://codewords.agemo.ai/run/linkedin_profile_finder?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=linkedin_profile_finder\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=linkedin_profile_finder\&ref=cmct682fi0000v9ny9lpkhj15)
+
+
+
+**Here's how CodeWords is being used for day-to-day life:**
+
+#### Life&#x20;
+
+Make your life beyond work manage itself.&#x20;
+
+* [Event finder](https://codewords.agemo.ai/run/event_finder_slack_firecrawl_a129e2f8?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=event_finder_slack_firecrawl_a129e2f8\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=event_finder_slack_firecrawl_a129e2f8\&ref=cmct682fi0000v9ny9lpkhj15)
+* [Stock ticker sentiment analyzer](https://codewords.agemo.ai/run/stock_ticker_sentiment_analyzer?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=stock_ticker_sentiment_analyzer\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=stock_ticker_sentiment_analyzer\&ref=cmct682fi0000v9ny9lpkhj15)
+* [Google maps review analyzer](https://codewords.agemo.ai/run/google_maps_review_extractor?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=google_maps_review_extractor\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=google_maps_review_extractor\&ref=cmct682fi0000v9ny9lpkhj15)
+
+
+
 ### Get started in seconds
 
 {% stepper %}
