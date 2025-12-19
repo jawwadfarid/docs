@@ -1,12 +1,10 @@
 ---
-description: >-
-  Get started by building your first automation on CodeWords through natural
-  prompts
+description: Here's a quick guide to all the CodeWords features.
 hidden: true
 icon: rocket
 ---
 
-# Quickstart \[update wip]
+# Features overview \[update wip]
 
 In this tutorial, you’ll learn how to automate content extraction and summarization with CodeWords - no code, just natural language. You’ll create a workflow that scrapes content from a web page, summarizes it with AI, and sends the summary to your Gmail inbox.
 
