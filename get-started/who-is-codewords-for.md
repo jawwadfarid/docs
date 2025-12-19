@@ -10,7 +10,7 @@ hidden: true
 
 CodeWords helps users save hours by creating and running workflow automations. You can use CodeWords to create powerful workflows for work, life, or study.
 
-Here's how different roles are using it:
+**Here's how different roles are using it:**
 
 #### Founders&#x20;
 
@@ -18,6 +18,7 @@ Automate operational and administrative tasks, and ship faster without hiring a 
 
 * [WhatsApp contact enrichment](https://codewords.agemo.ai/run/whatsapp_contact_enricher_c885b3e5?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=whatsapp_contact_enricher_c885b3e5\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=whatsapp_contact_enricher_c885b3e5\&ref=cmct682fi0000v9ny9lpkhj15)
 * [Gmail AI labeler](https://codewords.agemo.ai/run/gmail_ai_labeler?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=gmail_ai_labeler\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=gmail_ai_labeler\&ref=cmct682fi0000v9ny9lpkhj15)&#x20;
+* [Competitor insights](https://codewords.agemo.ai/run/competitor_socials_summary?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=competitor_socials_summary\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=competitor_socials_summary\&ref=cmct682fi0000v9ny9lpkhj15)
 
 #### Sales&#x20;
 
@@ -49,16 +50,6 @@ Examples:&#x20;
 * [WhatsApp group engagement analyzer](https://codewords.agemo.ai/run/whatsapp_group_engagement_analyzer?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=whatsapp_group_engagement_analyzer\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=whatsapp_group_engagement_analyzer\&ref=cmct682fi0000v9ny9lpkhj15)
 * [Reddit weekly summary to Slack](https://codewords.agemo.ai/run/reddit_weekly_slack_summary?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=reddit_weekly_slack_summary\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=reddit_weekly_slack_summary\&ref=cmct682fi0000v9ny9lpkhj15)
 
-#### Customer Support&#x20;
-
-Help customers with technical issues, automate manual support operations, and build intelligent customer support tools.&#x20;
-
-Examples:&#x20;
-
-* ...
-* ...
-* ...
-
 #### Talent&#x20;
 
 Automate everything from smart follow-ups to candidates, to CV prioritization, and handle time-consuming repetitive tasks automatically.&#x20;
@@ -71,7 +62,7 @@ Examples:&#x20;
 
 
 
-Here's how CodeWords is being used for day-to-day life or study:
+**Here's how CodeWords is being used for day-to-day life:**
 
 #### Life&#x20;
 
@@ -79,8 +70,35 @@ Make your life beyond work manage itself.&#x20;
 
 * [Event finder](https://codewords.agemo.ai/run/event_finder_slack_firecrawl_a129e2f8?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=event_finder_slack_firecrawl_a129e2f8\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=event_finder_slack_firecrawl_a129e2f8\&ref=cmct682fi0000v9ny9lpkhj15)
 * [Stock ticker sentiment analyzer](https://codewords.agemo.ai/run/stock_ticker_sentiment_analyzer?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=stock_ticker_sentiment_analyzer\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=stock_ticker_sentiment_analyzer\&ref=cmct682fi0000v9ny9lpkhj15)
+* [Google maps review analyzer](https://codewords.agemo.ai/run/google_maps_review_extractor?utm_source=copy_link\&utm_medium=workflow_share\&utm_campaign=loop2_share_v1\&utm_content=google_maps_review_extractor\&cw_surface=workflow\&cw_channel=copy_link\&cw_id=google_maps_review_extractor\&ref=cmct682fi0000v9ny9lpkhj15)
 
 
+
+
+
+
+
+
+
+
+
+#### Product Managers
+
+Quickly automate your user feedback pipelines and daily operations tasks.&#x20;
+
+Examples:
+
+*
+
+#### Customer Support&#x20;
+
+Help customers with technical issues, automate manual support operations, and build intelligent customer support tools.&#x20;
+
+Examples:&#x20;
+
+* ...
+* ...
+* ...
 
 #### [Product Managers](https://v0.app/docs/introduction#product-managers) <a href="#product-managers" id="product-managers"></a>
 
