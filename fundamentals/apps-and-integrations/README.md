@@ -1,7 +1,7 @@
 ---
 description: >-
-  Learn everything you need to know about apps and integrations in the CodeWords
-  ecosystem.
+  Learn everything you need to know about apps and integrations, including API
+  integrations.
 hidden: true
 icon: sparkles
 ---
@@ -30,7 +30,7 @@ Simply follow the instructions to connect and integrate without needing any tech
 
 Whenever an integration is required, you'll be prompted to connect to it. After you've connected once, you won't need to do this step again.&#x20;
 
-
+If you can't find what you're looking for, simply ask Cody if CodeWords has access to a specific integration. You can also learn how to use [external API integrations here](https://docs.codewords.ai/~/revisions/AnCxc4sCFTxbzqmH5Cb6/fundamentals/apps-and-integrations/external-api-integration).&#x20;
 
 
 
