@@ -39,7 +39,7 @@ Now that you have your app’s API key, it’s time to securely link it to CodeW
 
 Cody will automatically handle the connection setup and ensure your credentials are securely stored.
 
-<figure><img src="../../.gitbook/assets/keyvalue.gif" alt="Saving your external api key on CodeWords Secrets"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/keyvalue.gif" alt="Saving your external api key on CodeWords Secrets"><figcaption></figcaption></figure>
 
 ### **3. Build your workflow**
 

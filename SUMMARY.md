@@ -11,41 +11,44 @@
 
 ## Fundamentals
 
+* [Introduction to Cody](fundamentals/introduction-to-cody.md)
 * [Sharing workflows](fundamentals/sharing-workflows.md)
 * [Using automations](fundamentals/using-automations.md)
 * [Schedules and triggers](fundamentals/schedules-and-triggers.md)
-* [Apps and Integrations](fundamentals/apps-and-integrations.md)
-  * [External API Integration](fundamentals/apps-and-integrations/external-api-integration.md)
-  * [CodeWords API key](fundamentals/apps-and-integrations/codewords-api-key.md)
-  * [Calling CodeWords workflows](fundamentals/call-codewords-workflows.md)
-  * [Webhooks](fundamentals/apps-and-integrations/webhooks.md)
-* [Introduction to Cody](fundamentals/introduction-to-cody.md)
 * [Templates and run pages](fundamentals/templates-and-run-pages.md)
 * [Triggers](<fundamentals/schedules-and-triggers (1).md>)
 * [Testing and Running Workflows](fundamentals/testing-and-running-workflows.md)
 * [Workflow Graph and Code View](fundamentals/workflow-graph-and-code-view.md)
-* [Redis: Your Workflow’s Memory](fundamentals/redis-your-workflows-memory.md)
-* [FireCrawl for Web Scraping](fundamentals/firecrawl-for-web-scraping.md)
 * [Using a Template](fundamentals/using-a-template.md)
 * [CodeWords API key](fundamentals/codewords-api-key.md)
 * [External API Integration](fundamentals/external-api-integration.md)
-* [Popular Integrations](fundamentals/popular-integrarions/README.md)
-  * [Airtable](fundamentals/popular-integrarions/airtable.md)
-  * [Discord](fundamentals/popular-integrations/discord.md)
-  * [Gmail](fundamentals/popular-integrations/gmail.md)
-  * [Google Docs](fundamentals/popular-integrations/google-docs.md)
-  * [Google Sheets](fundamentals/popular-integrations/google-sheets.md)
-  * [Notion](fundamentals/popular-integrations/notion.md)
-  * [Slack](fundamentals/popular-integrations/slack.md)
-  * [Popular Integrations](fundamentals/popular-integrarions/popular-integrations.md)
-  * [Integrations & API Keys](fundamentals/popular-integrarions/integrations-and-api-keys.md)
-  * [AI models](fundamentals/popular-integrarions/llm-models.md)
-* [Apps and integrations](fundamentals/apps-and-integrations-1.md)
+* [Apps and integrations](fundamentals/apps-and-integrations.md)
 
 ## Web Automation
 
 * [Web Agent](fundamentals/web-agent.md)
 * [Chrome Extension](fundamentals/chrome-extension.md)
+
+## Apps and Integrations
+
+* [Intro to apps and integrations](apps-and-integrations/intro-to-apps-and-integrations.md)
+* [Popular Integrations](apps-and-integrations/popular-integrations/README.md)
+  * [Airtable](apps-and-integrations/popular-integrations/airtable.md)
+  * [Discord](apps-and-integrations/popular-integrations/discord.md)
+  * [Gmail](apps-and-integrations/popular-integrations/gmail.md)
+  * [Google Docs](apps-and-integrations/popular-integrations/google-docs.md)
+  * [Google Sheets](apps-and-integrations/popular-integrations/google-sheets.md)
+  * [Notion](apps-and-integrations/popular-integrations/notion.md)
+  * [Slack](apps-and-integrations/popular-integrations/slack.md)
+  * [Popular Integrations](apps-and-integrations/popular-integrations/popular-integrations.md)
+  * [Integrations & API Keys](apps-and-integrations/popular-integrations/integrations-and-api-keys.md)
+  * [AI models](apps-and-integrations/popular-integrations/ai-models.md)
+* [Webhooks](apps-and-integrations/webhooks.md)
+* [Calling CodeWords workflows](apps-and-integrations/calling-codewords-workflows.md)
+* [CodeWords API key](apps-and-integrations/codewords-api-key.md)
+* [External API Integration](apps-and-integrations/external-api-integration.md)
+* [FireCrawl for Web Scraping](apps-and-integrations/firecrawl-for-web-scraping.md)
+* [Redis: Your Workflow’s Memory](apps-and-integrations/redis-your-workflows-memory.md)
 
 ## WhatsApp Automations
 
