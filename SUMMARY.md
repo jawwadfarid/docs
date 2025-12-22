@@ -3,8 +3,7 @@
 ## Get Started
 
 * [What is CodeWords?](README.md)
-* [Quickstart](<get-started/quickstart-1 (1).md>)
-* [Quickstart](get-started/quickstart-1.md)
+* [Quickstart](get-started/quickstart.md)
 * [Build your first automation](get-started/build-your-first-automation.md)
 * [Pricing](get-started/pricing.md)
 * [FAQs](get-started/faqs.md)
