@@ -1,8 +1,5 @@
 ---
-description: >-
-  Get started by building your first workflow automation on CodeWords through
-  prompts.
-hidden: true
+description: Get started building your first workflow automation on CodeWords by prompting.
 icon: rocket
 ---
 
@@ -143,9 +140,9 @@ No. Everything in this guide can be done with plain English prompts. CodeWords a
 
 <details>
 
-<summary>How long will this take to complete?</summary>
+<summary>How long will this building tutorial take to complete?</summary>
 
-Most users finish in under 10 minutes. The workflow setup is intentionally short: add your URL, let CodeWords summarize the content with AI, and send the result to your inbox.
+Most users finish this in under 10 minutes. The workflow setup is intentionally short: add your URL, let CodeWords summarize the content with AI, and send the results to your inbox.
 
 </details>
 
@@ -153,15 +150,17 @@ Most users finish in under 10 minutes. The workflow setup is intentionally short
 
 <summary>What kind of web pages work best?</summary>
 
-You can use any publicly accessible, text-based website — like blog posts, articles, or documentation pages. Avoid paywalled or login-protected pages. If you would like to run it on paywalled or login-protected pages you can use our[ Chrome extension](https://docs.codewords.ai/web-automation/chrome-extension) or [Web Agent](https://docs.codewords.ai/web-automation/web-agent) to access these data.
+You can use any publicly accessible, text-based website — like blog posts, articles, or documentation pages. Avoid paywalled or login-protected pages. If you would like to run it on paywalled or login-protected pages you can use the CodeWords[ Chrome extension](https://docs.codewords.ai/web-automation/chrome-extension) or [Web Agent](https://docs.codewords.ai/web-automation/web-agent) to access these data.
 
 </details>
 
 <details>
 
-<summary>Can I customize what gets summarized or how the email looks?</summary>
+<summary>Can I customize what gets summarized or how the output looks?</summary>
 
-Yes. You can adjust the AI prompt (“write a short summary,” “list three key points,” etc.) and change the email recipient, subject, or format in the workflow editor.
+Yes. You can adjust the AI prompt to change what the output looks like. For example: “write a short summary,” “list three key points,” etc.
+
+You can also change the details according to your workflow type. For example, if your workflow output is an email, you can change the email recipient, subject, or format from the workflow chat.&#x20;
 
 </details>
 
@@ -169,7 +168,9 @@ Yes. You can adjust the AI prompt (“write a short summary,” “list three ke
 
 <summary>What if something doesn’t work as expected?</summary>
 
-Check that your connected apps (Gmail, Web Agent) are authorized and active. Then open the Run Logs inside CodeWords to see detailed errors. The Troubleshooting Guide
+Check that your connected apps and integrations (Gmail, Web Agent) are authorized and active.  \
+\
+You can also ask Cody, the CodeWords AI automation assistant, to check what's not working. Provide the context about the error, and ask Cody to fix it from the chat interface.&#x20;
 
 </details>
 
