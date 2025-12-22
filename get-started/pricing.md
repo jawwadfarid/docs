@@ -131,3 +131,47 @@ You can also send us an email at [support@codewords.ai](mailto:support@codewords
 
 Our official documentation is at [docs.codewords.ai](https://docs.codewords.ai/). You can find video tutorials on our [YouTube channel](https://www.youtube.com/channel/UCE5LEHbcDxie0KzTfYf0Mzg).
 
+
+
+### FAQs
+
+<details>
+
+<summary>Are there hidden costs I should know about?</summary>
+
+No. Everything you need to know about CodeWords pricing can be found in this documentation page. \
+\
+Our mission is to make our pricing as transparent as possible and we're always looking for ways to improve this.&#x20;
+
+</details>
+
+<details>
+
+<summary>Why is AI automation pricing so confusing?</summary>
+
+We get it, AI automation pricing has long been a confusing aspect of the category. (We don't like how confusing it is either)!
+
+We're working to simplify AI automation pricing by surfacing usage costs and estimated across our platform.&#x20;
+
+</details>
+
+<details>
+
+<summary>Do you have a free tier?</summary>
+
+When you sign up, you'll automatically be given $5 in free credits to test out the platform. \
+\
+Once you're out of credits, you can easily top-up. You can also take part in our [Referral Program](https://docs.codewords.ai/guides/referral-program) to get $5 free credits every time you refer someone and they build their first workflow.&#x20;
+
+</details>
+
+<details>
+
+<summary>What happens if I exceed my credit limits?</summary>
+
+CodeWords has guardrails in place which mean you won't ever drop into negative credits. \
+\
+If you have scheduled workflows, and you don't have enough credits for them to run, you'll receive an email notifying you that your workflow failed. In this case, you'll need to top-up your account with more credits in order for your workflows to continue running as normal.&#x20;
+
+</details>
+
