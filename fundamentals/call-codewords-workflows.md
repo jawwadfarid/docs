@@ -45,7 +45,7 @@ Always set:
 Content-Type: application/json
 ```
 
-<figure><img src="../../.gitbook/assets/Area (1) (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Area (1) (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### 3. Synchronous API Calls (≤120 seconds)
 

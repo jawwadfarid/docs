@@ -2,7 +2,6 @@
 description: >-
   Learn everything you need to know about apps and integrations, including API
   integrations.
-hidden: true
 icon: sparkles
 ---
 
