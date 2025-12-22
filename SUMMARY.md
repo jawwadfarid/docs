@@ -18,7 +18,6 @@
 * [Graph and Code View](core-concepts/graph-and-code-view.md)
 * [Sharing workflows](core-concepts/sharing-workflows.md)
 * [Testing and running Workflows](core-concepts/testing-and-running-workflows.md)
-* [Apps and integrations](core-concepts/apps-and-integrations.md)
 
 ## Web Automation
 
