@@ -1,5 +1,5 @@
 ---
-hidden: true
+description: Everything you need to know about using your CodeWords API key.
 icon: key
 ---
 
@@ -20,7 +20,7 @@ Your API key will be under the Advanced tab within API keys & Environment variab
 
 Treat your API key like a password, keep it secret and store it as an environment variable.
 
-<figure><img src="../.gitbook/assets/apikey.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/apikey.gif" alt=""><figcaption></figcaption></figure>
 
 ### How the API works
 

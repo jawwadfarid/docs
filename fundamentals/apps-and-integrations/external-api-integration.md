@@ -10,22 +10,22 @@ icon: link
 
 ### Overview
 
-You can connect your external apps directly to CodeWords workflows using your own API keys, enabling secure, customized integrations between CodeWords and the tools you already use.
+You can connect your external apps directly to CodeWords workflows using your own API keys. This enables secure, customized integrations between CodeWords and the tools you already use.
 
 ### 1. Getting your app's API key
 
-An **API key** acts like a secure pass that allows CodeWords to communicate with your app safely.
+An API key acts like a secure pass that allows CodeWords to communicate with your app safely.
 
 **To get your API key:**
 
 1. Log in to the app you want to connect.
-2. Go to **Settings** → **API** (or a similar section).
+2. Go to **Settings** **→** **API** (or a similar section).
 3. Copy your existing API key, or generate a new one if needed.
 
 **Pro Tip:**\
-Treat your API key like a password, keep it private and never share it publicly.
+Treat your API key like a password, keep it private, and never share it publicly.
 
-### **2. Connect Your App to CodeWords**
+### **2. Connect your app to CodeWords**
 
 Now that you have your app’s API key, it’s time to securely link it to CodeWords.
 
@@ -41,7 +41,7 @@ Cody will automatically handle the connection setup and ensure your credentials 
 
 <figure><img src="../../.gitbook/assets/keyvalue.gif" alt="Saving your external api key on CodeWords Secrets"><figcaption></figcaption></figure>
 
-### **3. Build Your Workflow**
+### **3. Build your workflow**
 
 With your API key connected, you’re ready to create your first integrated workflow.
 
