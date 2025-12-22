@@ -5,7 +5,7 @@ description: >-
 icon: sparkles
 ---
 
-# Apps and Integrations
+# Intro to apps and integrations
 
 {% embed url="https://www.youtube.com/watch?v=K1Y0bqu9I3c" %}
 
@@ -29,7 +29,15 @@ Simply follow the instructions to connect and integrate without needing any tech
 
 Whenever an integration is required, you'll be prompted to connect to it. After you've connected once, you won't need to do this step again.&#x20;
 
-If you can't find what you're looking for, simply ask Cody if CodeWords has access to a specific integration. You can also learn how to use [external API integrations here](https://docs.codewords.ai/~/revisions/AnCxc4sCFTxbzqmH5Cb6/fundamentals/apps-and-integrations/external-api-integration).&#x20;
+### External integrations
+
+Beyond built-in app integrations, CodeWords provides several powerful ways to connect your workflows to external systems:
+
+1. [CodeWords API key](https://codewords.agemo.ai/account/keys?utm_source=docs): Use your API key to connect to any external service securely.
+2. [Webhooks](https://docs.codewords.ai/fundamentals/webhooks): Open HTTP endpoints that let external services send data directly to your workflows via HTTP POST requests.
+3. [Triggers](https://docs.codewords.ai/fundamentals/triggers): App-based triggers allow you to start workflows automatically from your favorite apps and services.
+4. [External APIs](https://docs.codewords.ai/fundamentals/external-api-integration): Workflows in CodeWords are written as Python scripts, enabling seamless integration with any external API. This allows our agent to connect to and interact with third-party systems easily.
+5. CodeWords client Integration: Integrate your workflows with custom user interfaces built using platforms like [Lovable](https://lovable.dev/), [V0](https://v0.app/) & more.
 
 
 
