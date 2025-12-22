@@ -11,9 +11,11 @@
 
 ## Fundamentals
 
+* [Schedules and triggers](fundamentals/schedules-and-triggers.md)
+* [Apps and integrations](fundamentals/apps-and-integrations.md)
 * [Introduction to Cody](fundamentals/introduction-to-cody.md)
 * [Templates and run pages](fundamentals/templates-and-run-pages.md)
-* [Triggers](fundamentals/schedules-and-triggers.md)
+* [Triggers](<fundamentals/schedules-and-triggers (1).md>)
 * [Webhooks](fundamentals/webhooks.md)
 * [Workflow Graph and Code View](fundamentals/workflow-graph-and-code-view.md)
 * [Testing and Running Workflows](fundamentals/testing-and-running-workflows.md)
@@ -34,7 +36,7 @@
   * [Popular Integrations](fundamentals/popular-integrarions/popular-integrations.md)
   * [Integrations & API Keys](fundamentals/popular-integrarions/integrations-and-api-keys.md)
   * [AI models](fundamentals/popular-integrarions/llm-models.md)
-* [Apps and integrations](fundamentals/apps-and-integrations.md)
+* [Apps and integrations](fundamentals/apps-and-integrations-1.md)
 
 ## Web Automation
 
