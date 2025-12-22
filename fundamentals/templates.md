@@ -1,13 +1,9 @@
 ---
-description: >-
-  Discover and customize pre-built automations with the CodeWords Template
-  Gallery. Start fast, edit easily, and turn proven workflows into tailored
-  solutions for your own unique use cases.
 hidden: true
-icon: file
+icon: square-dashed
 ---
 
-# Using a Template
+# Templates
 
 ### What are Templates?
 
