@@ -131,6 +131,10 @@ You can also send us an email at [support@codewords.ai](mailto:support@codewords
 
 Our official documentation is at [docs.codewords.ai](https://docs.codewords.ai/). You can find video tutorials on our [YouTube channel](https://www.youtube.com/channel/UCE5LEHbcDxie0KzTfYf0Mzg).
 
+#### **Can I make money from my workflows?**
+
+Yes! You can build custom automation solutions for clients using CodeWords as your platform. A **CodeWords creator program** is also coming soon. [Learn more](https://www.notion.so/agemo/CodeWords-Champions-2632b520705580e692f6fa8eb0528cd1).
+
 
 
 ### FAQs
@@ -172,6 +176,14 @@ Once you're out of credits, you can easily top-up. You can also take part in our
 CodeWords has guardrails in place which mean you won't ever drop into negative credits. \
 \
 If you have scheduled workflows, and you don't have enough credits for them to run, you'll receive an email notifying you that your workflow failed. In this case, you'll need to top-up your account with more credits in order for your workflows to continue running as normal.&#x20;
+
+</details>
+
+<details>
+
+<summary>Can I make money from my workflows? </summary>
+
+Yes! You can build custom automation solutions for clients using CodeWords as your platform. In the future, we'll be expanding our marketplace.&#x20;
 
 </details>
 
