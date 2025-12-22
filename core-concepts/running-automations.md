@@ -3,7 +3,6 @@ description: >-
   Consuming automations helps you see how much time you'll save by building
   automated systems around your day-to-day tasks. Let's take a look at the
   different ways you can run CodeWords workflows.
-hidden: true
 icon: robot
 ---
 
