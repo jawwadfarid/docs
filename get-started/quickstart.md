@@ -1,6 +1,6 @@
 ---
 description: Here's a quick guide to all the CodeWords features to get you started.
-icon: rocket
+icon: play
 ---
 
 # Quickstart
