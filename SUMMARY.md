@@ -12,7 +12,7 @@
 ## Fundamentals
 
 * [Introduction to Cody](fundamentals/introduction-to-cody.md)
-* [Templates](fundamentals/templates.md)
+* [Templates and run pages](fundamentals/templates-and-run-pages.md)
 * [Triggers](fundamentals/schedules-and-triggers.md)
 * [Webhooks](fundamentals/webhooks.md)
 * [Workflow Graph and Code View](fundamentals/workflow-graph-and-code-view.md)
