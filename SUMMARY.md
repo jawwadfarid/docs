@@ -11,15 +11,16 @@
 
 ## Fundamentals
 
+* [Sharing workflows](fundamentals/sharing-workflows.md)
 * [Using automations](fundamentals/using-automations.md)
 * [Schedules and triggers](fundamentals/schedules-and-triggers.md)
-* [Apps and integrations](fundamentals/apps-and-integrations.md)
+* [Apps and Integrations](fundamentals/apps-and-integrations.md)
 * [Introduction to Cody](fundamentals/introduction-to-cody.md)
 * [Templates and run pages](fundamentals/templates-and-run-pages.md)
 * [Triggers](<fundamentals/schedules-and-triggers (1).md>)
-* [Webhooks](fundamentals/webhooks.md)
-* [Workflow Graph and Code View](fundamentals/workflow-graph-and-code-view.md)
 * [Testing and Running Workflows](fundamentals/testing-and-running-workflows.md)
+* [Workflow Graph and Code View](fundamentals/workflow-graph-and-code-view.md)
+* [Webhooks](fundamentals/webhooks.md)
 * [Redis: Your Workflow’s Memory](fundamentals/redis-your-workflows-memory.md)
 * [FireCrawl for Web Scraping](fundamentals/firecrawl-for-web-scraping.md)
 * [Using a Template](fundamentals/using-a-template.md)
