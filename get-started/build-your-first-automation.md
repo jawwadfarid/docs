@@ -128,7 +128,7 @@ Here's what it does:
 
 Your automation now combines real-time web data extraction, AI summarization, and email delivery — all created through natural language in just a few steps.
 
-### FAQ
+### FAQs
 
 <details>
 

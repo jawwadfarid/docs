@@ -108,7 +108,7 @@ You can ask Cody in the chat if you're wondering whether CodeWords has access to
 
 
 
-
+### FAQs
 
 <details>
 
