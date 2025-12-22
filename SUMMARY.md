@@ -9,20 +9,20 @@
 * [FAQs](get-started/faqs.md)
 * [Who is CodeWords for?](get-started/who-is-codewords-for.md)
 
-## Fundamentals
+## Core concepts
 
-* [Introduction to Cody](fundamentals/introduction-to-cody.md)
-* [Sharing workflows](fundamentals/sharing-workflows.md)
-* [Using automations](fundamentals/using-automations.md)
-* [Schedules and triggers](fundamentals/schedules-and-triggers.md)
-* [Templates and run pages](fundamentals/templates-and-run-pages.md)
-* [Triggers](<fundamentals/schedules-and-triggers (1).md>)
-* [Testing and Running Workflows](fundamentals/testing-and-running-workflows.md)
-* [Workflow Graph and Code View](fundamentals/workflow-graph-and-code-view.md)
-* [Using a Template](fundamentals/using-a-template.md)
-* [CodeWords API key](fundamentals/codewords-api-key.md)
-* [External API Integration](fundamentals/external-api-integration.md)
-* [Apps and integrations](fundamentals/apps-and-integrations.md)
+* [Introduction to Cody](core-concepts/introduction-to-cody.md)
+* [Running automations](core-concepts/running-automations.md)
+* [Sharing workflows](core-concepts/sharing-workflows.md)
+* [Schedules and triggers](core-concepts/schedules-and-triggers.md)
+* [Templates and run pages](core-concepts/templates-and-run-pages.md)
+* [Triggers](core-concepts/triggers.md)
+* [Testing and running Workflows](core-concepts/testing-and-running-workflows.md)
+* [Workflow Graph and Code View](core-concepts/workflow-graph-and-code-view.md)
+* [Using a Template](core-concepts/using-a-template.md)
+* [CodeWords API key](core-concepts/codewords-api-key.md)
+* [External API Integration](core-concepts/external-api-integration.md)
+* [Apps and integrations](core-concepts/apps-and-integrations.md)
 
 ## Web Automation
 
