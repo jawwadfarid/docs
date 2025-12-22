@@ -11,6 +11,7 @@
 
 ## Fundamentals
 
+* [Using automations](fundamentals/using-automations.md)
 * [Schedules and triggers](fundamentals/schedules-and-triggers.md)
 * [Apps and integrations](fundamentals/apps-and-integrations.md)
 * [Introduction to Cody](fundamentals/introduction-to-cody.md)
