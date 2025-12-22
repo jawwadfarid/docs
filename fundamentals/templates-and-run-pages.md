@@ -5,6 +5,8 @@ icon: file
 
 # Templates and run pages
 
+{% embed url="https://www.youtube.com/watch?v=IOoiylD6TQM" %}
+
 ### What are automation templates and run pages?
 
 **Templates** are packaged and ready-to-use automations. They allow you to start automating your workflows without needing to build anything from scratch.&#x20;
