@@ -2,7 +2,6 @@
 description: >-
   CodeWords handles all the building process for your automations for you. This
   page goes through more of nuances within this process.
-hidden: true
 icon: trowel
 ---
 
