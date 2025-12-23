@@ -33,7 +33,7 @@ If an automation doesn’t behave as expected, head back to the chat, reference 
 
 <figure><img src="../.gitbook/assets/Area.gif" alt=""><figcaption><p>Accessing the Run Page within the chat</p></figcaption></figure>
 
-### Schedules and Triggers&#x20;
+### Schedules and triggers&#x20;
 
 You can choose whether you'd like to run your automation manually, or whether you'd like to set up a schedule or trigger that fully automated the workflow's process.&#x20;
 

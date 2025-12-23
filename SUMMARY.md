@@ -12,10 +12,11 @@
 ## Core concepts
 
 * [Introduction to Cody](core-concepts/introduction-to-cody.md)
+* [The building process](core-concepts/the-building-process.md)
 * [Running automations](core-concepts/running-automations.md)
 * [Templates and run pages](core-concepts/templates-and-run-pages.md)
 * [Schedules and triggers](core-concepts/schedules-and-triggers.md)
-* [Graph and Code View](core-concepts/graph-and-code-view.md)
+* [Graph and code views](core-concepts/graph-and-code-views.md)
 * [Sharing workflows](core-concepts/sharing-workflows.md)
 * [Testing and running Workflows](core-concepts/testing-and-running-workflows.md)
 
