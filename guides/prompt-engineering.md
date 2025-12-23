@@ -72,6 +72,16 @@ In these cases, although Cody won't start building your automation instantly, it
 
 We get that sometimes you need to chat through your ideas in order to organize them. This is why Cody helps you do that too.&#x20;
 
+### Upload reference images&#x20;
+
+You can easily attached reference images to the chat with the `+` button.&#x20;
+
+This is useful for when you're using a specific integration, or if you found an automation example that you'd like to replicate.&#x20;
+
+Uploading references can be a good way to help Cody visualize exactly what you'd like.&#x20;
+
+Check out [this example](https://www.linkedin.com/posts/rebecca-pearson-308424232_openai-dropped-agentkit-yesterday-so-i-thought-activity-7381387714417491968-fvrg?utm_source=share\&utm_medium=member_desktop\&rcm=ACoAADoVTrgBefGnTrUJhBYInyE_x3K2zGj8LhY) where a reference from one of OpenAI's AgentBuilder automation demos is uploaded to the chat, and Cody builds a replica of this automation.&#x20;
+
 ### Isolate testing&#x20;
 
 There are a couple of helpful ways you can isolate testing so that Cody focuses on fixing errors in one part of your workflow should they arise.&#x20;
