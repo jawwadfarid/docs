@@ -2,7 +2,6 @@
 description: >-
   It's easy to learn how to prompt engineer with CodeWords. This guide takes you
   through all our best tips and tricks.
-hidden: true
 icon: face-smile-relaxed
 ---
 
