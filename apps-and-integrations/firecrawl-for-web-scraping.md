@@ -6,7 +6,7 @@ description: >-
 icon: scribble
 ---
 
-# FireCrawl for WebScrapping
+# Firecrawl for web scraping
 
 ### What is Firecrawl?
 
@@ -14,7 +14,7 @@ Firecrawl is a fast, reliable tool for extracting text, data, and visual content
 
 On CodeWords, Firecrawl comes fully integrated — meaning you can start scraping websites instantly without any additional setup, API keys, or configurations.
 
-### When to Use Firecrawl
+### When to use Firecrawl
 
 Firecrawl is perfect for gathering structured information from public web pages quickly and efficiently.
 
@@ -32,7 +32,7 @@ Firecrawl is perfect for gathering structured information from public web pages 
 * Pages with hidden or interactive content (use [Web Agent](https://docs.codewords.ai/web-automation/web-agent) or [Chrome extension](https://docs.codewords.ai/web-automation/chrome-extension) instead)
 * Tasks that involve clicking, filling out forms, or multi-step actions
 
-### How Firecrawl Works
+### How Firecrawl works
 
 Firecrawl visits the website you specify, processes the page, and returns the key content in a clean and structured format. You can choose to:
 
@@ -42,21 +42,21 @@ Firecrawl visits the website you specify, processes the page, and returns the ke
 
 You can then use this information within CodeWords — for example, to summarize it with **Cody**, analyze trends, or connect it with other automations.
 
-### Common Use Cases
+### Common use cases
 
-**1. Research and Analysis**\
+**1. Research and analysis**\
 Quickly gather text from news articles, blogs, or reports to create summaries or insights.
 
-**2. Competitor Monitoring**\
+**2. Competitor monitoring**\
 Automatically check and compare pricing, features, or content updates on competitor sites.
 
-**3. Product Data Collection**\
+**3. Product data collection**\
 Collect information from multiple product pages and compile it into a single, structured view.
 
-**4. Visual Monitoring**\
+**4. Visual monitoring**\
 Capture screenshots to track layout or design changes on important web pages.
 
-### FAQ
+### FAQs
 
 <details>
 

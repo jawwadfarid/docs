@@ -1,8 +1,8 @@
-# Quick Start & Setup
+# Quick start and setup
 
 
 
-### **Build on your own Client**
+### **Build on your own client**
 
 #### Before you begin, please ensure you meet the following requirements:
 
@@ -12,7 +12,7 @@
 * FastAPI: Familiarity with FastAPI is helpful but not strictly required.
 * Browser: A Chromium-based browser (e.g., Google Chrome, Microsoft Edge, Brave) is necessary for utilising browser automation features.
 
-#### Step 1: Obtain Your CodeWords API Key
+#### Step 1: Obtain your CodeWords API key
 
 To get started with building workflows, you'll need an API key from the CodeWords Platform.
 
@@ -29,7 +29,7 @@ To get started with building workflows, you'll need an API key from the CodeWord
    * Locate and copy your Standard API Key.
 4. Store Securely: Store this API key in a secure location. You will need it to authenticate and build your workflows.
 
-### <sup>Step 2: Set Up the CodeWords MCP in a chosen Client</sup>
+### <sup>Step 2: Set up the CodeWords MCP in a chosen client</sup>
 
 This step guides you through configuring the CodeWords MCP within a Client
 

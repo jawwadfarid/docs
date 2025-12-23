@@ -6,11 +6,11 @@ description: >-
 icon: database
 ---
 
-# Redis: Your Workflow’s Memory
+# Redis: Your workflow’s memory
 
-### What Is Redis
+### What is Redis?
 
-**Redis** is what gives your workflow **memory**. It lets your automations remember information between workflow runs to make smarter decisions next time.
+Redis is what gives your workflow memory. It lets your automations remember information between workflow runs to make smarter decisions next time.
 
 Without Redis, your workflow:
 
@@ -25,19 +25,19 @@ With Redis, your workflow:
 
 Think of it as your workflow’s short-term memory, it writes in while working.
 
-### Why is Redis Useful?&#x20;
+### Why is Redis useful?&#x20;
 
 Redis allows workflows to store small pieces of information that make them stateful and smarter over time.
 
-### Real-World Examples
+### Real-world examples
 
-* **Website Monitor:**\
+* **Website monitoring:**\
   Detects if a page’s content changed since the last check.
-* **Customer Notifications:**\
+* **Customer notifications:**\
   Remembers who has already been notified, and avoids sending messages twice.
-* **Report Generation:**\
+* **Report generation:**\
   Saves previous data snapshots and only reports new updates.
-* **Chatbot Memory:**\
+* **Chatbot memory:**\
   Keeps short-term context from a user conversation, so replies stay relevant.
 
 When a workflow runs, Redis acts like a  memory it can write data in:
@@ -48,20 +48,20 @@ When a workflow runs, Redis acts like a  memory it can write data in:
 
 It’s a simple but powerful way to make automations more personal and efficient — without needing a full database.
 
-### Best Practices
+### Best practices
 
 * Use Redis when your workflow needs memory, like remembering settings or checking for new updates.
 * Keep data small and focused as Redis is meant for quick notes, not large files.
 * Let data expire automatically as short memories keep your automations fast and clean.
 * Use it for context, not history it’s great for short-term recall, not long-term storage.
 
-### When Not to Use Redis
+### When not to use Redis
 
 * When you need to store data permanently (use a database instead).
 * When your automation doesn’t need to remember anything.
 * When the information is too large or sensitive to store temporarily.
 
-### How Cody Decides When to Use Redis
+### How Cody decides when to use Redis
 
 You don’t need to worry about when or how to use Redis, Cody handles that automatically.\
 When you describe your automation, Cody analyzes what your workflow needs:
@@ -71,7 +71,7 @@ When you describe your automation, Cody analyzes what your workflow needs:
 
 In short, Cody knows when memory is useful and uses Redis only when it actually improves your automation.
 
-### FAQ
+### FAQs
 
 <details>
 

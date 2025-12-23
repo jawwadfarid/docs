@@ -1,8 +1,8 @@
-# CodeWords MCP Agent: Your AI Development Toolkit
+# CodeWords MCP Agent: Your AI development toolkit
 
 The CodeWords MCP (Model Context Protocol) Agent is an advanced AI assistant designed to streamline and enhance your workflow development on the CodeWords platform. It provides a comprehensive suite of tools to help you build, deploy, manage, and monitor your CodeWords workflows efficiently.
 
-### Overview of Capabilities
+### Overview of capabilities
 
 Our agent empowers you to:
 
@@ -13,11 +13,11 @@ Our agent empowers you to:
 * Utilise Built-in Services: Access a library of pre-built services for common tasks, such as interacting with Large Language Models (LLMs) or web scraping.
 * Follow Best Practices: Leverage embedded documentation and guidance to ensure your workflows are robust and optimised.
 
-### Understanding the Agent's Tools
+### Understanding the agent's tools
 
 The agent's functionalities are organised into distinct categories to help you quickly find the right tool for the job.
 
-#### 1. Information & Exploration Tools
+#### 1. Information and exploration tools
 
 These tools help you understand the CodeWords platform, discover best practices, and explore available resources.
 
@@ -74,7 +74,7 @@ These tools help you understand the CodeWords platform, discover best practices,
     * `execute`: Test actions to understand their output (requires user consent).
   * Critical: You must declare `PIPEDREAM_{APP_SLUG}_ACCESS` in your workflow header for Pipedream integrations to work.
 
-#### 2. Workflow Development Tools
+#### 2. Workflow development tools
 
 These tools assist you directly in writing, editing, and planning your CodeWords workflows.
 
@@ -116,7 +116,7 @@ These tools assist you directly in writing, editing, and planning your CodeWords
     * `workflow_code_or_file_url`: The workflow code directly, a local file path, or a URL to the workflow file.
   * Returns: The validation status and a detailed report of any findings.
 
-#### 3. Deployment & Management Tools
+#### 3. Deployment and management tools
 
 These tools handle the deployment of your workflows to the CodeWords platform and manage their secure configurations.
 
@@ -152,7 +152,7 @@ These tools handle the deployment of your workflows to the CodeWords platform an
   * Security: Secrets are encrypted and only made available to your workflow during execution.
   * Important: You must declare any secrets you intend to use in your workflow's PEP 723 header for them to be accessible.
 
-#### 4. Execution & Monitoring Tools
+#### 4. Execution and monitoring tools
 
 These tools allow you to run your workflows, monitor their progress, and retrieve their outputs and logs.
 
@@ -193,7 +193,7 @@ These tools allow you to run your workflows, monitor their progress, and retriev
   * Returns: A list of recent executions, each with a request ID for detailed analysis.
   * Essential for: Debugging workflows that have been triggered via the UI.
 
-#### 5. File Management Tools
+#### 5. File management tools
 
 These tools enable you to upload and download files to and from CodeWords storage.
 
@@ -218,7 +218,7 @@ These tools enable you to upload and download files to and from CodeWords storag
     * `local_path`: Where to save the file locally (only applicable if `is_local` is true).
   * Supports: CodeWords storage URLs, public URLs, and pre-signed URLs.
 
-#### 6. Sandbox Creation (HTTP Endpoint)
+#### 6. Sandbox creation (HTTP Endpoint)
 
 This special tool allows for the creation of temporary development environments.
 
@@ -233,11 +233,11 @@ This special tool allows for the creation of temporary development environments.
     * `duration_minutes`: How long the sandbox should run (between 1 and 60 minutes).
   * Returns: Connection instructions and the service URI for the newly created sandbox.
 
-### How the Agent Works: Typical Development Workflow
+### How the agent works: Typical development workflow
 
 The CodeWords MCP Agent is designed to guide you through a systematic development process, ensuring best practices are followed at each stage.
 
-#### Phase 0: Intent Understanding (Discovery & Planning)
+#### Phase 0: Intent understanding (discovery and planning)
 
 1. Understand the Goal: Begin by clearly defining what you want your workflow to achieve.
 2. Explore Capabilities:
@@ -247,26 +247,26 @@ The CodeWords MCP Agent is designed to guide you through a systematic developmen
    * Discover out-of-the-box functionalities using `discover_library_services`.
    * Investigate third-party integration possibilities with `discover_pipedream_integrations`.
 
-#### Phase 1: Requirements Analysis
+#### Phase 1: Requirements analysis
 
 1. Gather Context: Ensure you have all necessary information through conversation or research.
 2. Find Inspiration:
    * Use `list_template_workflows` to find similar existing patterns or starting points.
    * If applicable, use `retrieve_workflow` to examine existing implementations that might serve as a reference.
 
-#### Phase 2: Research & Pattern Analysis
+#### Phase 2: Research and pattern analysis
 
 1. Deep Dive into Best Practices: Use `view_practice` to study relevant best practices for your specific implementation.
 2. Integration Exploration: Utilize `discover_pipedream_integrations` with the "search," "actions," and "schema" operations to fully understand potential third-party integrations.
 3. Component Testing: If uncertain about a component's behavior, use the "execute" operations of `discover_library_services` or `discover_pipedream_integrations` to test and understand their outputs.
 
-#### Phase 3: Implementation Planning
+#### Phase 3: Implementation planning
 
 1. Structure Your Plan: Use `create_implementation_plan` to generate a structured plan with embedded best practices.
 2. Document Requirements: Outline any specific integration requirements.
 3. Manage Credentials: Set up necessary API keys and credentials using `manage_user_secrets`.
 
-#### Phase 4: Implementation (Coding)
+#### Phase 4: Implementation (coding)
 
 1. Start with a Skeleton: Begin by using `write_workflow_file` with `workflow_code="workflow_skeleton"` to create the basic structure.
 2. Iterative Development: Follow your implementation plan and use `edit_workflow` sequentially to add your code.
@@ -278,17 +278,17 @@ The CodeWords MCP Agent is designed to guide you through a systematic developmen
 2. Initial Testing: Run your workflow with sample data using `run_workflow`.
 3. Monitor Execution: Use `get_workflow_logs` to monitor the workflow's progress and identify any immediate issues.
 
-#### Phase 6: Iteration & Refinement
+#### Phase 6: Iteration and refinement
 
 1. Analyze History: Use `get_workflow_requests` to review past executions and identify patterns or errors, especially for UI-tested workflows.
 2. Debug and Fix: Based on logs and analysis, use `edit_workflow` to apply fixes, referencing best practices as needed.
 3. Repeat Testing: Continue testing until the workflow meets your requirements and user satisfaction.
 
-### Best Practices for Using the Agent's Tools
+### Best practices for using the agent's tools
 
-To maximise your efficiency and build high-quality workflows, consider these critical success factors and common tool combinations:
+To maximize your efficiency and build high-quality workflows, consider these critical success factors and common tool combinations:
 
-#### Critical Success Factors
+#### Critical success factors
 
 1. Always Study Practices First: Before attempting any implementation, use `view_practice` to understand the recommended approaches.
 2. Test Uncertain Components: Use "execute" operations of integration tools to thoroughly understand their outputs before integrating them into your workflow.
@@ -296,7 +296,7 @@ To maximise your efficiency and build high-quality workflows, consider these cri
 4. Validate Frequently: Regularly use `validate_workflow` after any major code changes to catch issues early.
 5. Monitor Executions: Actively use logging and monitoring tools for debugging and performance analysis.
 
-#### Common Tool Combinations
+#### Common tool combinations
 
 * Exploration: `list_practices` → `view_practice` → `discover_library_services`
 * Integration Research: `discover_pipedream_integrations` (search → actions → schema → check\_auth)
@@ -304,7 +304,7 @@ To maximise your efficiency and build high-quality workflows, consider these cri
 * Testing: `run_workflow` → `get_workflow_logs` → `get_workflow_output`
 * Debugging: `get_workflow_requests` → `get_workflow_logs` → `edit_workflow`
 
-#### Security Considerations
+#### Security considerations
 
 * Secrets Management: Always use `manage_user_secrets` for storing and accessing sensitive credentials (e.g., API keys). Never hardcode them directly in your workflow.
 * Environment Variables: Ensure all secrets or environment variables your workflow needs are declared in your workflow's PEP 723 header.

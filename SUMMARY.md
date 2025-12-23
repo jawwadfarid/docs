@@ -46,9 +46,9 @@
 * [Webhooks](apps-and-integrations/webhooks.md)
 * [Calling CodeWords workflows](apps-and-integrations/calling-codewords-workflows.md)
 * [CodeWords API key](apps-and-integrations/codewords-api-key.md)
-* [External API Integration](apps-and-integrations/external-api-integration.md)
-* [FireCrawl for Web Scraping](apps-and-integrations/firecrawl-for-web-scraping.md)
-* [Redis: Your Workflow’s Memory](apps-and-integrations/redis-your-workflows-memory.md)
+* [External API integration](apps-and-integrations/external-api-integration.md)
+* [Firecrawl for web scraping](apps-and-integrations/firecrawl-for-web-scraping.md)
+* [Redis: Your workflow’s memory](apps-and-integrations/redis-your-workflows-memory.md)
 
 ## Use Cases
 
@@ -89,11 +89,11 @@
 * [Troubleshooting](guides/troubleshooting.md)
 * [Referral Program](guides/referral-program.md)
 * [CodeWords on IDE](guides/codewords-on-ide/README.md)
-  * [Platform Overview](guides/codewords-on-ide/platform-overview.md)
-  * [Quick Start & Setup](guides/codewords-on-ide/quick-start-and-setup.md)
+  * [Platform overview](guides/codewords-on-ide/platform-overview.md)
+  * [Quick start and setup](guides/codewords-on-ide/quick-start-and-setup.md)
   * [Understanding CodeWords](guides/codewords-on-ide/understanding-codewords.md)
-  * [CodeWords MCP Agent: Your AI Development Toolkit](guides/codewords-on-ide/codewords-mcp-agent-your-ai-development-toolkit.md)
-  * [FAQ](guides/codewords-on-ide/faq.md)
+  * [CodeWords MCP Agent: Your AI development toolkit](guides/codewords-on-ide/codewords-mcp-agent-your-ai-development-toolkit.md)
+  * [FAQs](guides/codewords-on-ide/faqs.md)
 * [Tips and Tricks](guides/tips-and-tricks.md)
 * [Glossary](guides/glossary.md)
 * [CodeWords on IDE](guides/codewords-on-ide-1/README.md)

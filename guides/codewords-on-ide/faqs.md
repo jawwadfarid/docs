@@ -1,6 +1,10 @@
-# FAQ
+---
+hidden: true
+---
 
-### FAQ
+# FAQs
+
+### FAQs
 
 #### General Questions
 

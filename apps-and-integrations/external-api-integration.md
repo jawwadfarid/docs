@@ -6,7 +6,7 @@ description: >-
 icon: link
 ---
 
-# External API Integration
+# External API integration
 
 ### Overview
 
@@ -25,7 +25,7 @@ An API key acts like a secure pass that allows CodeWords to communicate with you
 **Pro Tip:**\
 Treat your API key like a password, keep it private, and never share it publicly.
 
-### **2. Connect your app to CodeWords**
+### 2. Connect your app to CodeWords
 
 Now that you have your app’s API key, it’s time to securely link it to CodeWords.
 
