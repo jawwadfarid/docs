@@ -7,6 +7,8 @@ icon: face-smile-relaxed
 
 # Prompt engineering
 
+***
+
 One of the easiest ways to get more out of CodeWords is to learn some tips and tricks that help you prompt and communicate better with LLMs.&#x20;
 
 It's best to view Cody as a way to get advice, ideate, and chat, _as well as_ an AI assistant that builds automations for you. This allows you to get the most out of the CodeWords platform.&#x20;
