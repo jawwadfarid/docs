@@ -8,11 +8,11 @@ icon: whatsapp
 
 # For WhatsApp DMs
 
-### What are WhatsApp DM Automations
+### What are WhatsApp automations for DMs
 
 WhatsApp Direct Messaging (DM) automations allows you to consume codewords workflows that have been connected to your WhatsApp number.&#x20;
 
-### CodeWords WhatsApp Business Number
+### CodeWords WhatsApp business number
 
 **+447424366129** — the official CodeWords WhatsApp Business account.
 
@@ -20,11 +20,11 @@ WhatsApp Direct Messaging (DM) automations allows you to consume codewords workf
 * Users can save it as a contact
 * Available **24/7** for automation
 
-### Setting Up Your First DM Automation
+### Setting up your first DM automation
 
 {% stepper %}
 {% step %}
-#### Build the Automation through chat
+#### Build the automation through chat
 
 Describe the kind of WhatsApp auomation you want to create along with its trigger.
 
@@ -38,7 +38,7 @@ Cody will ask which phone number you want your AI assistant to connect to. Once 
 {% endstep %}
 
 {% step %}
-#### Test your Automation
+#### Test your automation
 
 Send any message — the assistant will detect it and respond through your Custom WhatsApp DM Assistant.
 {% endstep %}
@@ -51,9 +51,9 @@ Send any message — the assistant will detect it and respond through your Custo
 Once your automation is set up, you can manage its WhatsApp trigger directly from the [Triggers](https://codewords.agemo.ai/workflows/triggers) page  including pausing or deleting it at any time.\
 Alternatively, you can simply ask **Cody** to remove the trigger if you no longer want the automation to run.
 
-### What Can you build with the WhatsApp Direct Messaging Automations?
+### What can you build with the WhatsApp automations for direct messaging?
 
-#### Type 1: One-Way Notifications (Simple)
+#### Type 1: One-way notifications (Simple)
 
 Perfect for broadcast-style updates without needing user replies.
 
@@ -65,7 +65,7 @@ Perfect for broadcast-style updates without needing user replies.
 | Daily Digests         | Regular summaries                                | “Your daily news: 3 new articles, 2 tasks due”      |
 | Service Alerts        | System notifications                             | “Your subscription renews in 3 days—update payment” |
 
-#### Type 2: Two-Way Assistant (Interactive)
+#### Type 2: Two-way assistant (Interactive)
 
 Build intelligent conversations where **users** ask questions and get instant help.
 
@@ -74,7 +74,7 @@ Build intelligent conversations where **users** ask questions and get instant he
 | FAQ Assistant     | <p>User: “What does our documentation say about opening times?” </p><p>Assistant: “Mon–Fri 9–6, Sat 10–4!”</p>           |
 | Meeting Assistant | <p>User: “Create a meeting with johndoe@gmail.com for Dec 10 at 2 pm” </p><p>Assistant: “Meeting created foe Dec 10”</p> |
 
-### Supported Message Types
+### Supported message types
 
 | Type     | When You Can Send             | Use For                               |
 | -------- | ----------------------------- | ------------------------------------- |
@@ -89,7 +89,7 @@ Build intelligent conversations where **users** ask questions and get instant he
 | Receiving messages                  | Free                                                           |
 | Sending messages(All Message types) | €0.002 per message (≈ 0.2¢) + Cost of executing the Automation |
 
-### WhatsApp Direct Messaging vs WhatsApp Group Automations
+### WhatsApp automations for direct messaging vs groups&#x20;
 
 | Feature         | Direct Messaging (this guide)                                               | Group                                 |
 | --------------- | --------------------------------------------------------------------------- | ------------------------------------- |
@@ -102,7 +102,7 @@ Build intelligent conversations where **users** ask questions and get instant he
 
 You can use both! Many teams use **Direct Messaging** for user specific needs and **Group** for internal groups.
 
-### FAQ
+### FAQs
 
 <details>
 
@@ -145,7 +145,7 @@ Yes. All interactions occur via the verified CodeWords WhatsApp Business Account
 
 </details>
 
-### Getting Help
+### Getting help
 
 If your Assistant isn’t responding:
 

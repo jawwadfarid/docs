@@ -26,7 +26,7 @@
   * [For WhatsApp groups](more-features/whatsapp-automations/for-whatsapp-groups.md)
   * [For WhatsApp DMs](more-features/whatsapp-automations/for-whatsapp-dms.md)
 * [Web automation](more-features/web-automation/README.md)
-  * [Web Agent](more-features/web-automation/web-agent.md)
+  * [Web agent](more-features/web-automation/web-agent.md)
   * [Chrome Extension](more-features/web-automation/chrome-extension.md)
 
 ## Apps and Integrations

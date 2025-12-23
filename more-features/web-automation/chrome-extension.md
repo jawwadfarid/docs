@@ -65,7 +65,7 @@ Not ideal for:
 
 The Chrome extension trades speed for reliability — perfect when you need consistent results from authenticated websites.
 
-FAQ
+### FAQs
 
 <details>
 

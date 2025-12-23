@@ -8,7 +8,7 @@ icon: whatsapp
 
 # For WhatsApp groups
 
-### What are WhatsApp Group Automations
+### What are WhatsApp group automations
 
 **WhatsApp Group Automations** help you manage your group chats. They can:
 
@@ -48,7 +48,7 @@ Here’s why users choose to build automations for WhatsApp on CodeWords :
 
 {% stepper %}
 {% step %}
-#### The Group
+#### The group
 
 You add the **CodeWords WhatsApp number** (+447466216790) to your WhatsApp group to link an automation.
 {% endstep %}
@@ -60,19 +60,19 @@ The configured automation listens for your defined trigger, key events — like 
 {% endstep %}
 
 {% step %}
-#### Trigger your Automation
+#### Trigger your automation
 
 When a trigger event happens, CodeWords automatically runs your custom Whatsapp Automation.
 {% endstep %}
 
 {% step %}
-#### Processes & Responds
+#### Processes and responses
 
 The workflow automation uses AI to analyze the message, take action, and send a response back to the group — just like a real assistant.
 {% endstep %}
 {% endstepper %}
 
-### Event Types the WhatsApp Automations on CodeWords can Detect
+### Event types the WhatsApp automations on CodeWords can detect
 
 | Event Type         | When It Happens              | Example Uses                         |
 | ------------------ | ---------------------------- | ------------------------------------ |
@@ -81,11 +81,11 @@ The workflow automation uses AI to analyze the message, take action, and send a 
 | `message:update`   | Polls or event changes       | Share updated results                |
 | `message:reaction` | Emoji reaction added         | Track engagement or popular messages |
 
-### Setting Up Your First WhatsApp Assistant
+### Setting up your first WhatsApp assistant
 
 {% stepper %}
 {% step %}
-#### Build the Assistant through chat
+#### Build the assistant through chat
 
 Describe the kind of WhatsApp Assistant you want to create with your defined trigger, this can be a workflow automation.
 
@@ -119,7 +119,7 @@ You’ll see:
 {% endstep %}
 
 {% step %}
-#### Mention the Assistant
+#### Mention the assistant
 
 In your group, type:
 
@@ -135,13 +135,13 @@ Assistant Successfully Linked!
 {% endstep %}
 
 {% step %}
-#### Test your Assistant
+#### Test your assistant
 
 Send any message in the group — the Assistant will detect any trigger and respond through your Custom WhatsApp Group Assistant.
 {% endstep %}
 {% endstepper %}
 
-### Connect an existing WhatsApp Automation template
+### Connect an existing WhatsApp automation template
 
 {% stepper %}
 {% step %}
@@ -195,7 +195,7 @@ Automation Successfully Linked!
 {% endstep %}
 
 {% step %}
-#### Test your Automation
+#### Test your automation
 
 Send any message in the group — the Assistant will detect it and respond through your Custom WhatsApp Group Assistant.
 {% endstep %}
@@ -212,9 +212,9 @@ Alternatively, you can simply ask **Cody** to remove the trigger if you no longe
 | Image, Video, Audio, Document | €0.004 + Cost of executing the Automation | Reports, media summaries                   |
 | Receiving messages            | Free                                      | You only pay for what the Automation sends |
 
-### Privacy & Data Handling
+### Privacy and data aandling
 
-#### Key Principle: Ephemeral by Default
+#### Key principle: Ephemeral by default
 
 Your Automation runs in short-lived sandboxes — fresh for every event and deleted right after.\
 Each run lasts 2–30 seconds, then the environment is destroyed.
@@ -230,7 +230,7 @@ Each run lasts 2–30 seconds, then the environment is destroyed.
 * Data is only kept if you _explicitly choose_ to store it.
 * This ensures privacy-first design — no accidental data retention.
 
-### Getting Help
+### Getting help
 
 If your Assistant isn’t responding:
 
@@ -240,7 +240,7 @@ If your Assistant isn’t responding:
 
 
 
-### FAQ
+### FAQs
 
 <details>
 

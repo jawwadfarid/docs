@@ -5,7 +5,7 @@ description: >-
 icon: computer-classic
 ---
 
-# Web Agent
+# Web agent
 
 ### Overview
 
@@ -13,7 +13,7 @@ The Web Agent is your AI-powered assistant for browser automation. Instead of wr
 
 Think of it as a virtual assistant that can browse the web and complete tasks for you.
 
-### When to use the Web Agent
+### When to use the web agent
 
 1. **Complex research tasks** where you don’t know all the steps
 
@@ -26,7 +26,7 @@ Example: “Search for product reviews and summarize the top 5 complaints.”
 
 4. **Authenticated websites** behind logins (e.g. LinkedIn profiles, private dashboards)
 
-### **How It Works**
+### **How it works**
 
 {% stepper %}
 {% step %}
@@ -38,7 +38,7 @@ Write a few clear, step-by-step instructions to Cody
 {% endstep %}
 
 {% step %}
-#### The Agent executes the task
+#### The agent executes the task
 
 The Web Agent:
 
@@ -50,17 +50,15 @@ The Web Agent:
 {% endstep %}
 
 {% step %}
-#### **Watch It Work**
+#### **Watch it work**
 
 You can watch the Web Agent in real time through a live browser view — perfect for monitoring progress and debugging.
 {% endstep %}
 {% endstepper %}
 
-
-
 <figure><img src="../../.gitbook/assets/web_agent.gif" alt=""><figcaption></figcaption></figure>
 
-FAQ
+### FAQs
 
 <details>
 
