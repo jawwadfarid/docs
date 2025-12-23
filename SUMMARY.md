@@ -85,7 +85,7 @@
 
 ## Guides&#x20;
 
-* [Tips and Tricks](guides/tips-and-tricks.md)
+* [Prompt engineering](guides/prompt-engineering.md)
 * [Troubleshooting](guides/troubleshooting.md)
 * [Referral Program](guides/referral-program.md)
 * [CodeWords on IDE](guides/codewords-on-ide/README.md)
@@ -94,6 +94,7 @@
   * [Understanding CodeWords](guides/codewords-on-ide/understanding-codewords.md)
   * [CodeWords MCP Agent: Your AI Development Toolkit](guides/codewords-on-ide/codewords-mcp-agent-your-ai-development-toolkit.md)
   * [FAQ](guides/codewords-on-ide/faq.md)
+* [Tips and Tricks](guides/tips-and-tricks.md)
 * [Glossary](guides/glossary.md)
 * [CodeWords on IDE](guides/codewords-on-ide-1/README.md)
   * [Platform Overview](guides/codewords-on-ide-1/platform-overview.md)

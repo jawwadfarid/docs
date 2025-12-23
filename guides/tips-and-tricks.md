@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: wand-magic-sparkles
 layout:
   width: default
