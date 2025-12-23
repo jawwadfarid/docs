@@ -6,7 +6,7 @@ description: >-
 icon: whatsapp
 ---
 
-# For WhatsApp Groups
+# For WhatsApp groups
 
 ### What are WhatsApp Group Automations
 
@@ -21,7 +21,7 @@ icon: whatsapp
 
 They are workflow automations that you can use to keep your WhatsApp groups active, organized, and responsive — even when you’re offline.
 
-### Why Build WhatsApp Automations with CodeWords
+### Why build WhatsApp automations with CodeWords
 
 CodeWords makes it easy to build, run, and manage your automations with natural language and no coding required.
 
@@ -32,7 +32,7 @@ Here’s why users choose to build automations for WhatsApp on CodeWords :
 3. Secure & private as your data stays protected
 4. Launch a working WhatsApp automation in under 10 minutes
 
-### What WhatsApp Group Automations Can You Build
+### What WhatsApp group automations can you build
 
 | Use Case           | What It Does                                    | Example                                                        |
 | ------------------ | ----------------------------------------------- | -------------------------------------------------------------- |
@@ -44,7 +44,7 @@ Here’s why users choose to build automations for WhatsApp on CodeWords :
 | Community Manager  | Schedules events and sends reminders            | “Team meeting tomorrow at 10 AM 📅”                            |
 | Execute Workflows  | Executes a workflow you have built on CodeWords | "Run Linkedin Scraper and store summary in Notion"             |
 
-### How WhatsApp Automations Work
+### How WhatsApp automations work
 
 {% stepper %}
 {% step %}

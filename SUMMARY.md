@@ -23,7 +23,7 @@
 ## More features
 
 * [WhatsApp automations](more-features/whatsapp-automations/README.md)
-  * [For WhatsApp Groups](more-features/whatsapp-automations/for-whatsapp-groups.md)
+  * [For WhatsApp groups](more-features/whatsapp-automations/for-whatsapp-groups.md)
   * [For WhatsApp DMs](more-features/whatsapp-automations/for-whatsapp-dms.md)
 * [Web automation](more-features/web-automation/README.md)
   * [Web Agent](more-features/web-automation/web-agent.md)
