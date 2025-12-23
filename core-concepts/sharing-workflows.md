@@ -1,7 +1,7 @@
 ---
 description: >-
   Share the love! It's easy to share what you've created with CodeWords. We'll
-  be developing our sharing functions soon.
+  be developing our shareability soon.
 icon: bullhorn
 ---
 
