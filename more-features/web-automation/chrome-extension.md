@@ -33,7 +33,7 @@ Not ideal for:
 
 ## See the Chrome extension in action
 
-<figure><img src="../.gitbook/assets/CodeWords.ai-chrome-extension.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CodeWords.ai-chrome-extension.gif" alt=""><figcaption></figcaption></figure>
 
 ### What it can do
 

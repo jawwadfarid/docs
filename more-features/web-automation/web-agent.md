@@ -58,7 +58,7 @@ You can watch the Web Agent in real time through a live browser view — perfect
 
 
 
-<figure><img src="../.gitbook/assets/web_agent.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/web_agent.gif" alt=""><figcaption></figcaption></figure>
 
 FAQ
 

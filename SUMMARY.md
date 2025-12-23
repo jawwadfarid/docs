@@ -20,10 +20,14 @@
 * [Sharing workflows](core-concepts/sharing-workflows.md)
 * [Testing and running Workflows](core-concepts/testing-and-running-workflows.md)
 
-## Web Automation
+## More features
 
-* [Web Agent](fundamentals/web-agent.md)
-* [Chrome Extension](fundamentals/chrome-extension.md)
+* [WhatsApp automations](more-features/whatsapp-automations/README.md)
+  * [For WhatsApp Groups](more-features/whatsapp-automations/for-whatsapp-groups.md)
+  * [For WhatsApp DMs](more-features/whatsapp-automations/for-whatsapp-dms.md)
+* [Web automation](more-features/web-automation/README.md)
+  * [Web Agent](more-features/web-automation/web-agent.md)
+  * [Chrome Extension](more-features/web-automation/chrome-extension.md)
 
 ## Apps and Integrations
 
@@ -45,11 +49,6 @@
 * [External API Integration](apps-and-integrations/external-api-integration.md)
 * [FireCrawl for Web Scraping](apps-and-integrations/firecrawl-for-web-scraping.md)
 * [Redis: Your Workflow’s Memory](apps-and-integrations/redis-your-workflows-memory.md)
-
-## WhatsApp Automations
-
-* [For WhatsApp Groups](assistants/whatsapp-group-assistant.md)
-* [For WhatsApp DMs](assistants/whatsapp-dm-assistant.md)
 
 ## Use Cases
 
