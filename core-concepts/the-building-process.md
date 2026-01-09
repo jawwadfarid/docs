@@ -7,6 +7,8 @@ icon: trowel
 
 # The building process
 
+{% embed url="https://www.youtube.com/watch?index=7&list=PL7YjPR6szESdTd48XHREyHb--WijhwbdE&pp=gAQBiAQBsAgC&v=iGOU6tw01T8" %}
+
 We've already gone through how you can [get started](https://docs.codewords.ai/~/revisions/L3KYUYRQXXSgj0yJcK7c/get-started/quickstart) and how to [build your first automation](https://docs.codewords.ai/~/revisions/L3KYUYRQXXSgj0yJcK7c/get-started/build-your-first-automation), but let's go through some more of the details of the building process. &#x20;
 
 You can get started building your own automations simply by prompting. Let's recap what this looks like.&#x20;

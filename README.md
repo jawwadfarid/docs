@@ -19,7 +19,9 @@ layout:
     visible: true
 ---
 
-# Getting started with CodeWords
+# What is CodeWords?
+
+{% embed url="https://www.youtube.com/watch?index=10&list=PL7YjPR6szESdTd48XHREyHb--WijhwbdE&pp=gAQBiAQBsAgC&v=HyLI2FElTH0" %}
 
 ### What is CodeWords?
 

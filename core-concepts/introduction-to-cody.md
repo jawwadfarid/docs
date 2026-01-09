@@ -7,6 +7,8 @@ icon: hand-wave
 
 # Introduction to Cody
 
+{% embed url="https://www.youtube.com/watch?index=1&list=PL7YjPR6szESdTd48XHREyHb--WijhwbdE&pp=gAQBiAQBsAgC&v=b8iriI4Yg2Q" %}
+
 ### What is Cody?
 
 Cody is your AI automation assistant that builds powerful workflows and AI agents through natural conversation. Unlike traditional workflow builders that rely on drag-and-drop blocks, Cody generates real automation code for you, collaborates with you to understand your needs, and handles complex, multi-step logic that other tools can’t.

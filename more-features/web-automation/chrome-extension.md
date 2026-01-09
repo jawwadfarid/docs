@@ -8,6 +8,8 @@ icon: chrome
 
 # Chrome Extension
 
+{% embed url="https://www.youtube.com/watch?index=2&list=PL7YjPR6szESdTd48XHREyHb--WijhwbdE&pp=gAQBiAQBsAgC&v=hVn8ztXOMbc" %}
+
 ### Introduction
 
 The CodeWords Chrome extension automates tasks on websites where you're already logged in. It runs directly in your browser, using your existing sessions to access private content like LinkedIn feeds, dashboards, and member-only pages.
