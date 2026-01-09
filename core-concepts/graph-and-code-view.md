@@ -8,6 +8,8 @@ icon: diagram-project
 
 # Graph and code views
 
+{% embed url="https://www.youtube.com/watch?index=10&list=PL7YjPR6szESdTd48XHREyHb--WijhwbdE&pp=gAQBiAQBsAgC&v=r3CZsqcw8Rw" %}
+
 ### Overview
 
 Every automation you build in CodeWords has two perspectives:
