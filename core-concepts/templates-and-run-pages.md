@@ -86,3 +86,29 @@ For example, these are some edits you might wish to make:&#x20;
 Cody updates the automation automatically, so you can customize without needing to update any code.
 
 <figure><img src="../.gitbook/assets/edit_template.gif" alt=""><figcaption><p>Editing a template</p></figcaption></figure>
+
+### FAQs
+
+<details>
+
+<summary>How does editing a template work with versioning?</summary>
+
+When you ask Cody to edit a template, you can specify whether it's a change that needs to be made to the existing version, or whether you want to create copy the template and alter the new version of it. Just add this to your initial prompt.
+
+</details>
+
+<details>
+
+<summary>How do I keep track of my template versions?</summary>
+
+Next to your template name or description you'll find a pencil icon. Click here to edit the name or description of your template so you can easily keep track of what it does and where it works.&#x20;
+
+</details>
+
+<details>
+
+<summary>The workflow ran into an error on the run page, how do I fix this?</summary>
+
+If CodeWords hits an error on the run page, a 'Fix it' button will appear. Click this button and describe in the chat what happened, then ask Cody to fix it. Cody will run through tests, debug, and troubleshoot the error that occurred. It will then redeploy your workflow so you can continue using it.&#x20;
+
+</details>
