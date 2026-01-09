@@ -2,7 +2,6 @@
 description: >-
   Your security, safety, and privacy is our top priority. We build CodeWords
   accordingly.
-hidden: true
 icon: shield-quartered
 ---
 
