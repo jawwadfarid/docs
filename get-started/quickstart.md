@@ -5,7 +5,7 @@ icon: play
 
 # Quickstart
 
-{% embed url="https://www.youtube.com/watch?v=HyLI2FElTH0" %}
+{% embed url="https://www.youtube.com/watch?index=8&list=PL7YjPR6szESdTd48XHREyHb--WijhwbdE&pp=gAQBiAQBsAgC&v=KvEkMihfoDI" %}
 
 1. **Visit** [**codewords.agemo.ai/login**](https://codewords.agemo.ai/login) and sign in
 2. **Start a new chat** to create your first automation
