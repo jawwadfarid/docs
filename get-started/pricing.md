@@ -13,18 +13,30 @@ icon: money-bill-1-wave
 CodeWords offers two types of pricing models:&#x20;
 
 * **Usage-based**: A credit-based system that let's you pay as you go.&#x20;
-* **Subscription plans**: Charged monthly. Receive a specified top-up so you can keep building.&#x20;
+* **Subscription plans**: Charged monthly. Receive a regular top-up so you can keep building.&#x20;
+* **Manual top-ups**: You can manually top-up your account whenever you like, whether you're on a subscription plan or just paying as you go.&#x20;
+
+As of February 2026, when you subscribe to CodeWords we'll add bonus credits to your account every month, completely on us. Here's how it works:
+
+* **Free Plan:** Get what you pay for
+* **Pro Plan ($20/month):** Get $30 of credits (50% bonus)
+* **Max Plan ($100/month):** Get $200 of credits (100% bonus)
+
+**Plus, subscribers get bonus credits on all manual top-ups.**&#x20;
+
+For every $10 you top up, Pro users get $15 worth of credits, and Max users get $20.
 
 #### Free credits for new users
 
-When you sign up, you automatically receive $5 in free credits.\
-Use them to test, build, and run automations with zero commitment.
+When you sign up, you automatically receive $5 in free credits.
+
+Use them to test, build, and run automations with zero commitment and no payment card required.&#x20;
 
 ### Plans and subscriptions
 
 | Free                             | Pro ($20/Month)                  | Max($100/month)                   |
 | -------------------------------- | -------------------------------- | --------------------------------- |
-| $5 of starter credits (one-time) | $20 in credits added monthly     | $100 in credits added monthly     |
+| $5 of starter credits (one-time) | $30 in credits added monthly     | $200 in credits added monthly     |
 | \~12 workflow builds from chat   | \~50 workflow builds from chat\* | \~250 workflow builds from chat\* |
 | \~2,500 workflow executions      | \~10,000 workflow executions\*   | \~50,000 workflow executions\*    |
 | Basic support                    | Priority support                 | Priority support                  |
@@ -42,7 +54,7 @@ Email **support@agemo.ai** for pricing options, dedicated support, and custom ar
 
 ### What credits are and how they work
 
-Every action, whether building with Cody or running a workflow, consumes a small amount of credits. This is based on the computational resources and integrations involved.
+Every action, whether building with Cody or running a workflow, consumes a small amount of credits. Credit usage is based on token consumption.&#x20;
 
 #### Credits are used when you:
 
@@ -55,7 +67,7 @@ After you've first run a workflow, you'll be able to see its estimated cost per 
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-12-22 at 09.58.24.png" alt=""><figcaption></figcaption></figure>
 
-There are no idle fees, nor background charges.&#x20;
+There are no idle fees or background charges.&#x20;
 
 We're constantly working on making our pricing more transparent.
 
@@ -122,6 +134,19 @@ This allows you to get the most out of CodeWords, without paying for anything yo
 4. Credits will appear instantly
 
 Top-ups are perfect if you prefer pay-as-you-go or need extra credits beyond your subscription.
+
+
+
+### Credit rollover, expiration, and refund queries&#x20;
+
+* Free Credits: One-time free credits are granted to new users who have signed up to CodeWords.&#x20;
+* Monthly Plans: Unused credits from your monthly subscription continue to roll over to subsequent billing periods. You can manually top-up your credits, cancel or downgrade your subscription at any time.&#x20;
+
+Credits are prepaid, non-refundable, and non-redeemable for cash or any other value, as is the industry standard.&#x20;
+
+For more information on credits, refunds, and termination see Section 11.1 of our [Terms and Conditions](https://codewords.ai/terms-conditions?utm_source=google\&utm_medium=paid\&utm_campaign=PmaxLinkedIn\&utm_term=\&utm_content=\&gad_source=1\&gad_campaignid=23352025346\&gbraid=0AAAABA5qoUNdUnRhF0dW-lNWzPhdvw6II\&gclid=CjwKCAiAv5bMBhAIEiwAqP9GuAmixjZXcc_eLDiwuXBVvSS7-mJavamBwz0MK8L5hcwgiPijPaqNmhoCK7gQAvD_BwE).&#x20;
+
+
 
 ### Need help?
 
