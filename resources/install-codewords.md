@@ -27,3 +27,28 @@ Once you've logged in, a popup will also appear on your desktop that allows you 
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-18 at 14.50.10.png" alt=""><figcaption></figcaption></figure>
 
+### FAQs
+
+<details>
+
+<summary>Is this a real app?</summary>
+
+Yes. Once installed, CodeWords launches full screen with no browser chrome — it looks and feels like a native app.
+
+</details>
+
+<details>
+
+<summary>Why isn't it on the App Store?</summary>
+
+This app shortcut delivers the same experience without requiring a download or an app store listing. It installs in seconds and stays up to date automatically.&#x20;
+
+</details>
+
+<details>
+
+<summary>How do I uninstall it?</summary>
+
+Remove it the same way you'd delete any app or icon from your home screen, Dock, or desktop.
+
+</details>
