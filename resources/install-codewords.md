@@ -17,7 +17,12 @@ The CodeWords icon will appear on your home screen, just like any app.
 ### Android, Mac, and Windows&#x20;
 
 1. Open [codewords.app](https://codewords.app) in **Chrome**
-2. Tap the **⋮** menu in the top-right corner
+2. Tap the **⋮** menu in the top-right corner or click the download button in the URL bar.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-18 at 15.01.54.png" alt="" width="167"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-18 at 15.02.17.png" alt="" width="75"><figcaption></figcaption></figure>
+
 3. Tap **Add to Home screen**
 4. Tap **Add** to confirm
 
