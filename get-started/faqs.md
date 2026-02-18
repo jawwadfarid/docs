@@ -1,20 +1,6 @@
 ---
 description: Navigate to or search FAQs for questions related to any specific topic.
 icon: comments-question-check
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # FAQs

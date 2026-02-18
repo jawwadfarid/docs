@@ -3,20 +3,6 @@ description: >-
   Build powerful automations from chat with CodeWords — turn ideas into
   workflows in minutes. This is your shortcut to getting more done.
 icon: hand-wave
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # What is CodeWords?

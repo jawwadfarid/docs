@@ -1,21 +1,4 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
-# Platform Overview
+# Platform overview
 
 CodeWords is a serverless AI automation platform that enables developers to rapidly build, deploy, and scale intelligent workflows.&#x20;
 

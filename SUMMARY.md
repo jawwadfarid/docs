@@ -85,6 +85,7 @@
 
 ## resources&#x20;
 
+* [Install CodeWords](resources/install-codewords.md)
 * [Prompt engineering](resources/prompt-engineering.md)
 * [Troubleshooting](resources/troubleshooting.md)
 * [Referral Program](resources/referral-program.md)
