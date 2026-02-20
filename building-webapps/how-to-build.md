@@ -2,7 +2,6 @@
 description: >-
   Build full apps with CodeWords: dashboards, SaaS, portals, and AI tools guided
   by Cody, end-to-end.
-hidden: true
 ---
 
 # How to Build
@@ -17,7 +16,7 @@ This page explains the **types of apps you can build with CodeWords**, what’s 
 
 You start with a conversation. Describe what you want to build, and Cody generates a live preview so you can immediately see your idea take shape. Refine it through quick iterations adjusting content, layout, design, and features until it matches your vision.&#x20;
 
-Cody manages the underlying logic, data flow, and processing to keep the build stable and scalable. The built-in checks hels to catch edge cases early.
+Cody manages the underlying logic, data flow, and processing to keep the build stable and scalable. The built-in checks helps to catch edge cases early.
 
 ### Types of apps you can build with CodeWords
 

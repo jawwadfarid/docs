@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Database with Supabase
 
 ### Supabase integration for CodeWords
@@ -74,4 +70,13 @@ Copy both the **anon public key** & the **service role secret** and share it wit
 {% endstep %}
 {% endstepper %}
 
-Cody will safetly store all your secrets and help you with integrating a database for your needs.
+Cody will safely store all your secrets and help you with integrating a database for your needs.
+
+When Cody asks you to run SQL queries on supabase, click on the **SQL editor** from your supabase dashboard located at the top right corner or **command +E** shortcut on Mac devices.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-20 at 23.19.03.png" alt=""><figcaption></figcaption></figure>
+
+This will open the **SQL Editor** where you can **copy and paste** the SQL query and click **Run** at the bottom right  to execute the SQL query.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-20 at 23.20.54.png" alt=""><figcaption></figcaption></figure>
+
