@@ -13,7 +13,7 @@ CodeWords helps you create complete applications with both the front-end and bac
 
 This page explains the **types of apps you can build with CodeWords**, what’s included out of the box, and how CodeWords compares to other website builders and no-code tools.
 
-### How building works
+### Building process
 
 You start with a conversation. Describe what you want to build, and Cody generates a live preview so you can immediately see your idea take shape. Refine it through quick iterations adjusting content, layout, design, and features until it matches your vision.&#x20;
 
@@ -30,7 +30,4 @@ With CodeWords, you can build:
 * **AI-powered tools** that generate content, analyze documents, summarize information, or draft smart replies
 * **Landing pages and conversion tools** like lead capture forms, pricing calculators, booking flows, and sign-up pages
 
-
-
-
-
+If you can describe the app you want to build, Cody can create it - no wireframes, technical specs, or prior experience required.
