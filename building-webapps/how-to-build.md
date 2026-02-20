@@ -38,18 +38,18 @@ Every CodeWords app comes with a live URL on `your-name.codewords.run`, a mobile
 
 ### How CodeWords compares
 
-#### Website builders (Wix, Squarespace)
+**Website builders (Wix, Squarespace):**
 
 Traditional website builders are optimized for static pages. CodeWords is built for applications, products that store data, run workflows, manage users, and connect to services.
 
-#### No-code platforms (Bubble, Retool)
+**No-code platforms (Bubble, Retool):**
 
 No-code tools give you a visual editor, but they still come with a learning curve. With CodeWords, you describe the outcome you want and Cody builds it. There’s no editor to master.
 
-#### Hiring a developer
+**Hiring a developer:**
 
 Custom development can take weeks, cost thousands, and requires detailed specs. With CodeWords, you can get to a working version in minutes and iterate as often as you need.
 
-#### AI code tools (Cursor, Bolt)
+**AI code tools (Cursor, Bolt):**
 
 AI code generators still assume you can work with code and handle deployment. CodeWords delivers the full build end-to-end, hosting, updates, and implementation included, so you can stay focused on the product.
