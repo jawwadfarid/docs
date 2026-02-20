@@ -53,7 +53,7 @@
 ## Building WebApps
 
 * [How to Build](building-webapps/how-to-build.md)
-* [Database connection with Supabase](building-webapps/database-connection-with-supabase.md)
+* [Database with Supabase](building-webapps/database-with-supabase.md)
 
 ## Use Cases
 
