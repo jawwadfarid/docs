@@ -17,14 +17,6 @@ This page explains the **types of apps you can build with CodeWords**, what’s 
 
 You start with a conversation. Describe what you want to build, and Cody generates a live preview so you can immediately see your idea take shape. Refine it through quick iterations adjusting content, layout, design, and features until it matches your vision.&#x20;
 
-Image 1
-
-\
-Image 2
-
-\
-Image 3
-
 Cody manages the underlying logic, data flow, and processing to keep the build stable and scalable. The built-in checks hels to catch edge cases early.
 
 ### Types of apps you can build with CodeWords

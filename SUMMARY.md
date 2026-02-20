@@ -54,6 +54,7 @@
 
 * [How to Build](building-webapps/how-to-build.md)
 * [Database with Supabase](building-webapps/database-with-supabase.md)
+* [Payments and subscriptions](building-webapps/payments-and-subscriptions.md)
 
 ## Use Cases
 

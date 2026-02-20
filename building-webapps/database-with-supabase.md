@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# Database connection with Supabase
+# Database with Supabase
 
 ### Supabase integration for CodeWords
 
@@ -74,4 +74,4 @@ Copy both the **anon public key** & the **service role secret** and share it wit
 {% endstep %}
 {% endstepper %}
 
-Cody will saferty store all your secrets and help you with integrating a database for your needs.
+Cody will safetly store all your secrets and help you with integrating a database for your needs.
