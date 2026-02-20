@@ -50,6 +50,10 @@
 * [Firecrawl for web scraping](apps-and-integrations/firecrawl-for-web-scraping.md)
 * [Redis: Your workflow’s memory](apps-and-integrations/redis-your-workflows-memory.md)
 
+## Building WebApps
+
+* [How to Build](building-webapps/how-to-build.md)
+
 ## Use Cases
 
 * [Templates](use-cases/templates/README.md)
