@@ -17,6 +17,14 @@ This page explains the **types of apps you can build with CodeWords**, what’s 
 
 You start with a conversation. Describe what you want to build, and Cody generates a live preview so you can immediately see your idea take shape. Refine it through quick iterations adjusting content, layout, design, and features until it matches your vision.&#x20;
 
+Image 1
+
+\
+Image 2
+
+\
+Image 3
+
 Cody manages the underlying logic, data flow, and processing to keep the build stable and scalable. The built-in checks hels to catch edge cases early.
 
 ### Types of apps you can build with CodeWords
@@ -34,7 +42,7 @@ If you can describe the app you want to build, Cody can create it - no wireframe
 
 ### What every app includes
 
-Every CodeWords app comes with a live URL on `your-name.codewords.run`, a mobile-responsive layout, and a library of 50+ pre-built UI components. Apps include automatic HTTPS encryption and polished social preview cards when someone shares your link.
+Every CodeWords app comes with a live URL on `your-name.codewords.run` with an option to have a custom domain. The app will be in a mobile-responsive layout, and a library of 50+ pre-built UI components and also include automatic HTTPS encryption and polished social preview cards when someone shares your link.
 
 ### How CodeWords compares
 
