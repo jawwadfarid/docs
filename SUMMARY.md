@@ -53,6 +53,7 @@
 ## Building WebApps
 
 * [How to Build](building-webapps/how-to-build.md)
+* [Connecting with a Database](building-webapps/connecting-with-a-database.md)
 
 ## Use Cases
 
