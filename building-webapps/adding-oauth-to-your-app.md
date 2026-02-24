@@ -24,15 +24,11 @@ Before Cody can set up Google OAuth, you'll need:
 
 If you don't have a Supabase project yet, you can create one [here](https://supabase.com/).
 
-
-
-
-
 {% stepper %}
 {% step %}
-###
+**Connect the Supabase with your App**
 
-
+Refer to [connecting to Supabase](https://docs.codewords.ai/building-webapps/database-with-supabase) docs for connecting your codewords app.
 {% endstep %}
 
 {% step %}
