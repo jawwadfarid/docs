@@ -152,7 +152,7 @@ Navigate to **All events** and search for these specific events and add them
 
 
 
-Select **coninue** and for the **Destination Type** choose **Webhook endpoint** and continue.<br>
+Select **continue** and for the **Destination Type** choose **Webhook endpoint** and continue.<br>
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 14.47.46.png" alt=""><figcaption></figcaption></figure>
 
@@ -172,7 +172,7 @@ Test the payment plans by using the [stripe test card](https://docs.stripe.com/t
 {% step %}
 **Switch to live mode and repeat the same steps**
 
-Share the Product ID and the Price IDs of the live products and create an endpoint for the **live mode**.
+Share the **Product ID** and the **Price IDs** of the live products and share the **webhook secret** after an **endpoint** for the **live mode** is created.
 {% endstep %}
 {% endstepper %}
 
