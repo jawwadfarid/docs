@@ -14,9 +14,39 @@ This page explains the **types of apps you can build with CodeWords**, what’s 
 
 ### Building process
 
-You start with a conversation. Describe what you want to build, and Cody generates a live preview so you can immediately see your idea take shape. Refine it through quick iterations adjusting content, layout, design, and features until it matches your vision.&#x20;
+You start with a conversation. Describe what you want to build, and Cody generates a live preview so you can immediately see your idea take shape. Refine it through quick iterations, adjusting content, layout, design, and features until it matches your vision.&#x20;
 
-Cody manages the underlying logic, data flow, and processing to keep the build stable and scalable. The built-in checks helps to catch edge cases early.
+Cody manages the underlying logic, data flow, and processing to keep the build stable and scalable. The built-in checks help to catch edge cases early.
+
+{% stepper %}
+{% step %}
+**Start a chat with Cody**
+
+Describe the app-idea that you want to build, \
+\
+**Example**:&#x20;
+
+_"Build me a client portal where customers can log in, view their invoices, and download reports."_
+
+The more detail you give, the closer the first version will be to what you want — but you can always refine later.
+{% endstep %}
+
+{% step %}
+&#x20;**Cody builds a live preview**
+
+Once the app has been built, you can preview the app from the preview canvas, available to you.&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 17.06.23.png" alt=""><figcaption></figcaption></figure>
+
+You can perform testing directly within the Canvas environment, as demonstrated in the video below. The showcased application includes sample test credentials and mock data for evaluation purposes.
+
+If you require a production-ready setup with persistent user management and data storage, please refer to the [database(with Supabase)](https://docs.codewords.ai/building-webapps/database-with-supabase) documentation for configuration and integration details.
+
+<figure><img src="../.gitbook/assets/Preview app.gif" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
+{% endstepper %}
 
 ### Types of apps you can build with CodeWords
 
