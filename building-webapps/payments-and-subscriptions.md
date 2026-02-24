@@ -94,7 +94,7 @@ In the top-right corner, make sure the **"Test mode"** toggle is turned **ON** (
 {% endstep %}
 
 {% step %}
-**Navigate to the Prouct Catalogue to create a Product**
+**Navigate to the Product Catalogue to create a Product**
 
 This is what your customers will subscribe to.
 
