@@ -30,7 +30,7 @@ You can find both in **Stripe → Developers → API keys**.
 
 Cody will ask for both. The publishable key is used in the frontend. The secret key is stored as a backend-only environment variable and must never be exposed.
 
-### Chat‑driven auto‑setup (recommended) - Cody does the setup
+### Chat‑driven auto‑setup (recommended)
 
 After you connect **Supabase**, just describe what you need:
 
