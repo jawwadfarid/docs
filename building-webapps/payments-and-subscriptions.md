@@ -30,7 +30,7 @@ You can find both in **Stripe → Developers → API keys**.
 
 Cody will ask for both. The publishable key is used in the frontend. The secret key is stored as a backend-only environment variable and must never be exposed.
 
-### Chat‑driven auto‑setup (recommended)
+### Chat‑driven auto‑setup (recommended) - Cody does the setup
 
 After you connect **Supabase**, just describe what you need:
 
@@ -80,7 +80,7 @@ Now that you have confirmed all the tests are working correctly, Cody should be 
 
 Create your plans in **Stripe → Products**. Cody needs the **Price ID** (starts with `price_`) for each plan you want to sell (for example: monthly and annual).
 
-### Setting it up manually
+### Setting it up manually - You create in Stripe, share IDs with Cody
 
 {% stepper %}
 {% step %}
