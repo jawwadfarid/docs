@@ -52,7 +52,7 @@ Add the **callback URL** for **OAuth** in the **Google Cloud Console** under the
 
 Also ensure that your app in the Google Cloud Console is set to the status of **Published** for enabling OAuth on production.
 
-Refer to creating a [Google Cloud Project](https://app.gitbook.com/o/7isqlJn3eTzit1bZKstj/s/C0KQHHlFG9y1F0pBotb8/~/edit/~/changes/617/building-webapps/adding-oauth-to-your-app#creating-a-google-cloud-project) if you are un-sure how to get these.
+Refer to [creating an app in google cloud](https://docs.codewords.ai/building-webapps/database-with-supabase) if you are un-sure how to the client credentials.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 15.34.49.png" alt=""><figcaption></figcaption></figure>
 
