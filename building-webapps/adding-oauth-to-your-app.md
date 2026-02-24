@@ -1,4 +1,4 @@
-# Adding OAuth to your App
+# Authentication
 
 ### Add Google OAuth to your CodeWords app
 

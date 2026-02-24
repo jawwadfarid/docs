@@ -53,9 +53,9 @@
 ## Building WebApps
 
 * [How to Build](building-webapps/how-to-build.md)
-* [Database with Supabase](building-webapps/database-with-supabase.md)
+* [Database (with Supabase)](building-webapps/database-with-supabase.md)
 * [Payments and Subscriptions](building-webapps/payments-and-subscriptions.md)
-* [Authentication](building-webapps/authentication.md)
+* [Authentication](building-webapps/adding-oauth-to-your-app.md)
 
 ## Use Cases
 
