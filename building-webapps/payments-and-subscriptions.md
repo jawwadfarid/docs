@@ -30,7 +30,7 @@ You can find both in **Stripe → Developers → API keys**.
 
 Cody will ask for both. The publishable key is used in the frontend. The secret key is stored as a backend-only environment variable and must never be exposed.
 
-### **Chat‑driven auto‑setup (recommended)**
+### Chat‑driven auto‑setup (recommended)
 
 After you connect **Supabase**, just describe what you need:
 
@@ -176,7 +176,7 @@ Share the Product ID and the Price IDs of the live products and create an endpoi
 {% endstep %}
 {% endstepper %}
 
-### **Summary**
+### Summary
 
 **Create your Stripe account and pricing**\
 Sign up, complete verification, and create your product(s) and price(s) in Stripe.
