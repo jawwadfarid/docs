@@ -1,4 +1,4 @@
-# Database with Supabase
+# Database (with Supabase)
 
 ### Supabase integration for CodeWords
 
@@ -18,7 +18,7 @@ Connecting Supabase gives your app a production-grade backend, including:
   Upload and serve images and files using Supabase Storage—useful for profile photos, attachments, and user uploads.
 * **Real-time updates**\
   Stream changes as data updates. This is useful for chat, live activity feeds, and dashboards that update instantly across users.
-* **Edge Fun**\
+* **Edge Functions**\
   Run serverless backend logic on Supabase using JavaScript/TypeScript. Cody can create and deploy functions for tasks like sending emails, handling webhooks, processing payments, or integrating with external APIs.
 
 ### Why use CodeWords with Supabase?
