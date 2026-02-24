@@ -1,4 +1,4 @@
-# Payments and subscriptions
+# Payments and Subscriptions
 
 When you’re ready to charge for your app—subscriptions, one-time purchases, or usage-based billing, CodeWords connects to Stripe to handle checkout, renewals, and billing management. This page explains what you need, how to set it up, and what happens once payments are live.
 
@@ -31,8 +31,6 @@ You can find both in **Stripe → Developers → API keys**.
 Cody will ask for both. The publishable key is used in the frontend. The secret key is stored as a backend-only environment variable and must never be exposed.
 
 ### Chat‑driven auto‑setup (recommended)
-
-After you connect **Supabase**, just describe what you need:
 
 {% stepper %}
 {% step %}
