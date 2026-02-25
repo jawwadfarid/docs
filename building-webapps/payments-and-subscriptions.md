@@ -59,6 +59,12 @@ Share the **Secret Key** from the **Developers → API keys** to Cody.
 **Share the payment plans you want to implement**
 
 Tell Cody what **subscription** or **one-time payment** you want to create and cody will create them programmatically via the API.
+
+{% code overflow="wrap" fullWidth="false" %}
+```
+"Design a monthly subscription model offering three plans: Basic at $20 per month, Pro at $50 per month, and Business at $100 per month."
+```
+{% endcode %}
 {% endstep %}
 
 {% step %}
