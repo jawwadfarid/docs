@@ -44,7 +44,7 @@ Once the app has been built, you can preview the app from the preview canvas, av
 
 You can click around and test your app right inside the preview — try buttons, fill in forms, and navigate between pages. The preview comes with sample data so you can see how everything looks with real content
 
-"If your app needs to save real data or manage user accounts, check the [Database(with Supabase)](https://docs.codewords.ai/building-webapps/database-with-supabase)  guide to connect a database."&#x20;
+If your app needs to save real data or manage user accounts, check the [Database(with Supabase)](https://docs.codewords.ai/building-webapps/database-with-supabase)  guide to connect a database."&#x20;
 
 <figure><img src="../.gitbook/assets/Preview app.gif" alt=""><figcaption></figcaption></figure>
 
