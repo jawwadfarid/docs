@@ -1,3 +1,7 @@
+---
+icon: chart-line
+---
+
 # Activity
 
 #### What is the Activity page?
