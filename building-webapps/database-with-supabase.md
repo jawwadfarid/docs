@@ -2,7 +2,7 @@
 
 ### Supabase integration for CodeWords
 
-Supabase is not a native CodeWords integration. It’s a **direct API integration**, which means your app connects to Supabase using Supabase client libraries and your own project credentials.
+Supabase is a **direct API integration**, which means your app connects to Supabase using Supabase client libraries and your own project credentials.
 
 This page explains what you need from the user, how to set up the frontend and backend, how authentication works, and the security rules you must follow.
 
