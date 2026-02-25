@@ -18,6 +18,7 @@
 * [Schedules and triggers](core-concepts/schedules-and-triggers.md)
 * [Graph and code views](core-concepts/graph-and-code-view.md)
 * [Sharing workflows](core-concepts/sharing-workflows.md)
+* [Managing your Projects](core-concepts/managing-your-projects.md)
 * [Testing and running Workflows](core-concepts/testing-and-running-workflows.md)
 
 ## More features
