@@ -1,3 +1,7 @@
+---
+icon: rotate-reverse
+---
+
 # Version history and restore (chat)
 
 ### Overview
