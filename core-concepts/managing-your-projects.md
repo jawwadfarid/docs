@@ -1,4 +1,8 @@
 ---
+description: >-
+  Projects are your workflows and apps in CodeWords; folders group them. Learn
+  how to view, create, and organize projects and folders so you can find and
+  manage your automations.
 icon: list-check
 ---
 
