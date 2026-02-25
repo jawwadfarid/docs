@@ -6,53 +6,54 @@ icon: list-check
 
 ### Overview
 
-As the number of automations grows, projects and folders help you keep things organized. You can group related workflows, see them in one place, and filter by project or folder when you run or manage them.
+Projects in CodeWords are your automations: each project is a workflow or an app you build and run. Folders are how you group those projects so you can organize and filter them instead of one long list.
 
 ### What are projects and folders?
 
-* Projects are high-level containers (e.g. “Marketing”, “Support”, “Personal”). Each project can contain multiple workflows and folders.
-* Folders live inside a project and let you group workflows more finely (e.g. “Weekly reports” or “Slack bots” inside “Marketing”).
+* Projects
 
-Together they give you a clear structure instead of one long list of automations.
+A project is a single automation—a workflow or an app. When you create a “project,” you’re creating the thing that runs on a schedule, trigger, or manually. So “projects” and “workflows/apps” are the same thing.
+
+* Folders
+
+Folders are the organizing layer. You put projects (workflows/apps) inside folders (e.g. “Marketing”, “Support”, “Personal”). Folders don’t run; they just help you find and manage your projects.
 
 ### Viewing projects and folders
 
-* Projects page
+* Projects list
 
-You’ll see a list of your projects (often as cards or a list). From here you can open a project to see its workflows and folders.
+You’ll see your projects (your workflows and apps) as cards or a list. Each item is one automation. You can open a project to run it, edit it in chat, or set up schedules and triggers.
 
-* Inside a project
+* Folders
 
-You’ll see folders and individual workflows. You can open a folder to see only the workflows in that folder.
+Folders appear as groups or filters. You can open a folder to see only the projects inside it, or filter the list by folder so you’re not scrolling through everything.
 
 * Filters
 
-In places where you choose which automation to run or manage, you can often filter by project or folder so you only see the relevant automations.
+When choosing which automation to run or manage, you can filter by folder to show only the projects in that folder.
 
 ### Creating and organizing
 
 * Create a project
 
-Use the option to create a new project (e.g. “New project” or “Create project”), give it a name, and optionally a description. Then add workflows or folders to it.
+Creating a new project means creating a new workflow or app. You then build it in the chat with Cody, add steps, and set schedules or triggers as needed.
 
 * Create a folder
 
-Inside a project, use “New folder” or “Create folder”, name it, and move or add workflows into it.
+Create a folder when you want a group (e.g. “Weekly reports”, “Slack bots”). Then move or assign existing projects into that folder, or create new projects inside it.
 
-* Moving workflows
+* Moving projects
 
-When editing or managing a workflow, you can usually change its project or folder so it appears in the right group.
+When editing or managing a project (workflow/app), you can change which folder it’s in so it appears in the right group.
 
 <figure><img src="../.gitbook/assets/Projects&#x26;folders.gif" alt=""><figcaption></figcaption></figure>
 
+### Run page and folder context
 
+When you open a project’s run page, CodeWords knows which folder that project is in. Schedules, triggers, and run options are set per project (per workflow/app); folders only affect how you browse and filter.
 
-### Run page and project context
+### When to use folders
 
-When you open an automation’s run page (where you run it manually or set schedules and triggers), CodeWords knows which project (and folder) that workflow belongs to. That way, any project-level settings or filters stay consistent when you run it or set up schedules and triggers.
-
-### When to use projects and folders
-
-* Projects: Different teams, clients, or areas of life (work vs personal).
-* Folders: Sub-categories inside a project (e.g. “Daily”, “On-demand”, “Slack”).
-* Filters: When you have many automations and want to see only one project or folder at a time.
+* Different teams, clients, or areas (work vs personal).
+* Types of automation (e.g. “Reports”, “Notifications”, “Slack”).
+* Keeping the list manageable by filtering to one folder at a time.
