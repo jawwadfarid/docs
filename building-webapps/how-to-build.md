@@ -44,7 +44,7 @@ Once the app has been built, you can preview the app from the preview canvas, av
 
 You can perform testing directly within the Canvas environment, as demonstrated in the video below. The showcased application includes sample test credentials and mock data for evaluation purposes.
 
-If you require a production-ready setup with persistent user management and data storage, please refer to the [database(with Supabase)](https://docs.codewords.ai/building-webapps/database-with-supabase) documentation for configuration and integration details.
+If you require a production-ready setup with persistent user management and data storage, please refer to the [database(with Supabase)](https://docs.codewords.ai/building-webapps/database-with-supabase) documentation for database configuration and integration details.
 
 <figure><img src="../.gitbook/assets/Preview app.gif" alt=""><figcaption></figcaption></figure>
 
