@@ -42,13 +42,46 @@ Once the app has been built, you can preview the app from the preview canvas, av
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-24 at 17.06.23.png" alt=""><figcaption></figcaption></figure>
 
-You can perform testing directly within the Canvas environment, as demonstrated in the video below. The showcased application includes sample test credentials and mock data for evaluation purposes.
+You can click around and test your app right inside the preview — try buttons, fill in forms, and navigate between pages. The preview comes with sample data so you can see how everything looks with real content
 
-If you require a production-ready setup with persistent user management and data storage, please refer to the [database(with Supabase)](https://docs.codewords.ai/building-webapps/database-with-supabase) documentation for database configuration and integration details.
+"If your app needs to save real data or manage user accounts, check the [Database(with Supabase)](https://docs.codewords.ai/building-webapps/database-with-supabase)  guide to connect a database."&#x20;
 
 <figure><img src="../.gitbook/assets/Preview app.gif" alt=""><figcaption></figcaption></figure>
 
 
+{% endstep %}
+
+{% step %}
+**Refine and iterate**
+
+Your first version won't always be perfect — and that's the point. Tell Cody what to change and the preview updates instantly.
+
+You can adjust anything:
+
+* **Layout & design** — _"Make the header sticky"_, _"Use a darker color scheme"_
+* **Content** — _"Change the hero text to…"_, _"Add a FAQ section at the bottom"_
+* **Features** — _"Add a search bar"_, _"Let users filter results by date"_
+* **New pages** — _"Add a separate pricing page"_, _"Create a settings page"_
+
+Keep going back and forth until the app matches your vision. Each change shows up in the preview right away.
+
+> **Tip:** Be specific. Instead of _"make it look better,"_ try _"increase the heading font size and add a gradient background."_
+{% endstep %}
+
+{% step %}
+**Go live**
+
+Once you're happy with your app, tell Cody you're ready to launch.
+
+Cody will:
+
+1. Run a final check to make sure everything works
+2. Ask you to **choose a name** for your app's URL
+3. Deploy your app to a live link
+
+Your app will be live at `your-chosen-name.codewords.run` — ready to share with customers, your team, or on social media.\
+\
+**After launch:** You can always come back and ask Cody to make changes — add features, update content, or connect new integrations. Every update follows the same cycle: describe → preview → go live.
 {% endstep %}
 {% endstepper %}
 
