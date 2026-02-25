@@ -50,7 +50,7 @@ Search for API Keys in the search bar to navigate to **Developers → API keys**
 {% endstep %}
 
 {% step %}
-Share the **Secret Key** from the **Developers → API keys** to Cody.
+Share the **Publishable Key** & the **Secret Key** from the **Developers → API keys** to Cody.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-23 at 11.12.34.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
