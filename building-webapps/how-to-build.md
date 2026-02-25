@@ -26,7 +26,11 @@ Describe the app-idea that you want to build, \
 \
 **Example**:&#x20;
 
-_"Build me a client portal where customers can log in, view their invoices, and download reports."_
+{% code overflow="wrap" %}
+```
+"Build me a client portal where customers can log in, view their invoices, and download reports."
+```
+{% endcode %}
 
 The more detail you give, the closer the first version will be to what you want — but you can always refine later.
 {% endstep %}
