@@ -85,6 +85,12 @@ Your app will be live at `your-chosen-name.codewords.run` — ready to share wit
 {% endstep %}
 {% endstepper %}
 
+### What every app includes
+
+Every CodeWords app comes with a live URL on `your-name.codewords.run` with an option to have a custom domain. The app will be in a mobile-responsive layout, and a library of 50+ pre-built UI components and also include automatic HTTPS encryption and polished social preview cards when someone shares your link.
+
+If you would like to have custom domain for your app, please reach out to support@codewords.ai.
+
 ### Types of apps you can build with CodeWords
 
 With CodeWords, you can build:
@@ -97,10 +103,6 @@ With CodeWords, you can build:
 * **Landing pages and conversion tools** like lead capture forms, pricing calculators, booking flows, and sign-up pages
 
 If you can describe the app you want to build, Cody can create it - no wireframes, technical specs, or prior experience required.
-
-### What every app includes
-
-Every CodeWords app comes with a live URL on `your-name.codewords.run` with an option to have a custom domain. The app will be in a mobile-responsive layout, and a library of 50+ pre-built UI components and also include automatic HTTPS encryption and polished social preview cards when someone shares your link.
 
 ### How CodeWords compares
 
