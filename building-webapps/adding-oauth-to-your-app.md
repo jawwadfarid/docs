@@ -104,7 +104,7 @@ You'll receive a **Client ID** and **Client Secret**.
 {% step %}
 &#x20;**Test the flow**
 
-Verify the same steps as Option A:
+Verify the steps:
 
 * Sign-in button appears
 * Redirect to Google works
