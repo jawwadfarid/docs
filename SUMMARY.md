@@ -21,6 +21,7 @@
 * [Managing your Projects](core-concepts/managing-your-projects.md)
 * [Testing and running Workflows](core-concepts/testing-and-running-workflows.md)
 * [Version history and restore (chat)](core-concepts/version-history-and-restore-chat.md)
+* [Activity](core-concepts/activity.md)
 
 ## More features
 
