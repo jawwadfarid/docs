@@ -1,12 +1,12 @@
 # Authentication
 
-### Add Google OAuth to your CodeWords app
+### Add Google OAuth to your CodeWords build
 
-Add Google sign-in to your CodeWords app using Supabase Authentication. Users can log in with their Google account instead of creating a password.
+Add Google sign-in to your CodeWords SaaS using Supabase Authentication. Users can log in with their Google account instead of creating a password.
 
 ### Overview
 
-CodeWords apps use **Supabase** for authentication. Supabase handles the OAuth flow: redirects, token exchange, session management - so your app never deals with raw tokens or sensitive auth logic directly.
+CodeWords SaaS use **Supabase** for authentication. Supabase handles the OAuth flow: redirects, token exchange, session management - so your app never deals with raw tokens or sensitive auth logic directly.
 
 Google OAuth can be configured in two ways:
 
@@ -19,14 +19,14 @@ Both options provide the same sign-in experience for your users.
 
 Before Cody can set up Google OAuth, you'll need:
 
-1. A **Supabase project** connected to your CodeWords app
+1. A **Supabase project** connected to your CodeWords SaaS
 2. **(Optional)** A Google Cloud project with OAuth credentials, if you want to use your own
 
 If you don't have a Supabase project yet, you can create one [here](https://supabase.com/).
 
 {% stepper %}
 {% step %}
-**Connect the Supabase with your App**
+**Connect the Supabase with your SaaS**
 
 Refer to [connecting to Supabase](https://docs.codewords.ai/building-webapps/database-with-supabase) docs for connecting your codewords app.
 {% endstep %}

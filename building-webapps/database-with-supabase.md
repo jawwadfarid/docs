@@ -2,20 +2,20 @@
 
 ### Supabase integration for CodeWords
 
-Supabase is a **direct API integration**, which means your app connects to Supabase using Supabase client libraries and your own project credentials.
+Supabase is a **direct API integration**, which means your SaaS connects to Supabase by using Supabase client libraries and your own project credentials.
 
-This page explains what you need from the user, how to set up the frontend and backend, how authentication works, and the security rules you must follow.
+This page explains what's needed from the user, how to set up the frontend and backend, how authentication works, and the security rules you must follow.
 
-### What Supabase adds to your CodeWords app
+### What Supabase adds to your CodeWords project
 
-Connecting Supabase gives your app a production-grade backend, including:
+Connecting Supabase gives your SaaS a production-grade backend, including:
 
 * **Database (PostgreSQL)**\
-  Store and query your app’s data with full SQL support. Tell Cody what your app needs to remember, and Cody can create the tables and schema that match your data.
+  Store and query your data with full SQL support. Tell Cody what your interface needs to show and what your database needs to include, and Cody can create the tables and schema that match your data.
 * **User authentication**\
-  Add secure sign-ups, logins, and access control. Cody can generate authentication flows (like email/password) and connect them to the right pages and permissions in your app.
+  Add secure sign-ups, logins, and access control. Cody can generate authentication flows (like email/password) and connect them to the right pages and permissions in your SaaS.
 * **File storage**\
-  Upload and serve images and files using Supabase Storage—useful for profile photos, attachments, and user uploads.
+  Upload and serve images and files using Supabase Storage — useful for profile photos, attachments, and user uploads.
 * **Real-time updates**\
   Stream changes as data updates. This is useful for chat, live activity feeds, and dashboards that update instantly across users.
 * **Edge Functions**\
@@ -23,16 +23,16 @@ Connecting Supabase gives your app a production-grade backend, including:
 
 ### Why use CodeWords with Supabase?
 
-Supabase gives you the backend building blocks—database, auth, storage, and server-side logic. CodeWords makes them easy to use without stitching together separate tools.
+Supabase gives you the backend building blocks — database, auth, storage, and server-side logic. CodeWords makes them easy to use without stitching together separate tools.
 
-Instead of designing a UI in one place and setting up the backend somewhere else, you describe what you want in a conversation with Cody. Cody builds the interface and configures the Supabase pieces behind it—tables, permissions, and any supporting logic—so everything works together from the start.
+Instead of designing a UI in one place and setting up the backend somewhere else, you describe what you want in a conversation with Cody. Cody builds the interface and configures the Supabase pieces behind it — tables, permissions, and any supporting logic — so everything works together from the start.
 
 For example, you can say:\
 “Add a user feedback form and save responses to the database.”
 
-Cody can generate the form UI and create the Supabase table to store submissions in the same flow. The result is faster iteration, fewer integration steps, and a smoother path from idea to a working app - whether you’re starting from scratch or moving quickly on an existing product.
+Cody can generate the form UI and create the Supabase table to store submissions in the same flow. The result is faster iteration, fewer integration steps, and a smoother path from idea to a working app/SaaS — whether you’re starting from scratch or moving quickly on an existing product.
 
-### Getting Started - Connecting CodeWords with Supabase
+### Getting started — connecting CodeWords with Supabase
 
 {% stepper %}
 {% step %}

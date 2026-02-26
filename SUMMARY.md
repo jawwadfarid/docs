@@ -55,10 +55,10 @@
 
 ## Building end-to-end
 
-* [CodeWords UI](building-end-to-end/codewords-ui.md)
-* [Database (with Supabase)](building-end-to-end/database-with-supabase.md)
-* [Payments and Subscriptions](building-end-to-end/payments-and-subscriptions.md)
-* [Authentication](building-end-to-end/authentication.md)
+* [CodeWords UI](building-webapps/how-to-build.md)
+* [Database (with Supabase)](building-webapps/database-with-supabase.md)
+* [Payments and Subscriptions](building-webapps/payments-and-subscriptions.md)
+* [Authentication](building-webapps/adding-oauth-to-your-app.md)
 
 ## Use Cases
 

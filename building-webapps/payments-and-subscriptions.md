@@ -1,6 +1,12 @@
+---
+description: Turn your projects into products with automations and CodeWords UI.
+---
+
 # Payments and Subscriptions
 
-When you’re ready to charge for your app—subscriptions, one-time purchases, or usage-based billing, CodeWords connects to Stripe to handle checkout, renewals, and billing management. This page explains what you need, how to set it up, and what happens once payments are live.
+When you’re ready to charge for your SaaS, and turn it into a product — subscriptions, one-time purchases, or usage-based billing, CodeWords connects to Stripe to handle checkout, renewals, and billing management.&#x20;
+
+This page explains what you need, how to set it up, and what happens once payments are live.
 
 ### How it works
 
