@@ -1,3 +1,7 @@
+---
+icon: check
+---
+
 # Authentication
 
 ### Add Google OAuth to your CodeWords build

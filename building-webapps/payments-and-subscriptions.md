@@ -1,5 +1,6 @@
 ---
 description: Turn your projects into products with automations and CodeWords UI.
+icon: cart-shopping
 ---
 
 # Payments and Subscriptions

@@ -2,6 +2,7 @@
 description: >-
   Build full interfaces and end-to-end products with CodeWords: dashboards,
   SaaS, portals, and AI tools.
+icon: palette
 ---
 
 # CodeWords UI

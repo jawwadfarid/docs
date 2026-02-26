@@ -1,3 +1,7 @@
+---
+icon: server
+---
+
 # Database (with Supabase)
 
 ### Supabase integration for CodeWords
