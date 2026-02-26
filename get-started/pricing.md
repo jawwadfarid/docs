@@ -20,11 +20,16 @@ As of February 2026, when you subscribe to CodeWords we'll add bonus credits to 
 
 * **Free Plan:** Get what you pay for
 * **Pro Plan ($20/month):** Get $30 of credits (50% bonus)
-* **Max Plan ($100/month):** Get $200 of credits (100% bonus)
+* **Business Plan ($100/month):** Get $200 of credits (100% bonus)
 
 **Plus, subscribers get bonus credits on all manual top-ups.**&#x20;
 
-For every $10 you top up, Pro users get $15 worth of credits, and Max users get $20.
+For every $10 you top up, Pro users get $15 worth of credits, and Max users get $20.\
+\
+You can also subscribe to the **Annual Subscription**:
+
+* **Pro Plan ($200/Year):** Get $300 of credits
+* **Business Plan ($1000/Year):** Get $2000 of credits
 
 #### Free credits for new users
 
