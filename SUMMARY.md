@@ -53,12 +53,12 @@
 * [Firecrawl for web scraping](apps-and-integrations/firecrawl-for-web-scraping.md)
 * [Redis: Your workflow’s memory](apps-and-integrations/redis-your-workflows-memory.md)
 
-## Building WebApps
+## Building end-to-end
 
-* [How to Build](building-webapps/how-to-build.md)
-* [Database (with Supabase)](building-webapps/database-with-supabase.md)
-* [Payments and Subscriptions](building-webapps/payments-and-subscriptions.md)
-* [Authentication](building-webapps/adding-oauth-to-your-app.md)
+* [CodeWords UI](building-end-to-end/codewords-ui.md)
+* [Database (with Supabase)](building-end-to-end/database-with-supabase.md)
+* [Payments and Subscriptions](building-end-to-end/payments-and-subscriptions.md)
+* [Authentication](building-end-to-end/authentication.md)
 
 ## Use Cases
 
