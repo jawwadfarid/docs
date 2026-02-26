@@ -1,17 +1,16 @@
 ---
-description: Discover and customize pre-built automation templates and run pages.
+description: Discover and customize pre-built automation templates.
 icon: file
 ---
 
-# Templates and run pages
+# Templates
 
-{% embed url="https://www.youtube.com/watch?v=IOoiylD6TQM" %}
+### What are automation templates?
 
-### What are automation templates and run pages?
+**Templates** are packaged and ready-to-use automations or tools. There are usually two types.&#x20;
 
-**Templates** are packaged and ready-to-use automations. They allow you to start automating your workflows without needing to build anything from scratch.&#x20;
-
-**Run pages** are how you can use and access a template in order to run that automation. They contain a selection of preset input fields so you can enter your data, run automations instantly, and receive a preset output.&#x20;
+* Automations that don't have an interface, but can be run via schedules, adding triggers, or through the chat.&#x20;
+* End-to-end tools that have both a backend automation and frontend interface. You can use these tools by interacting through the interface.&#x20;
 
 Each template is tested, optimized, and ready to use, so you can focus on your goals instead of setup. Templates give you immediate access to powerful, no-code workflows that replace hours of manual or technical work.&#x20;
 
@@ -27,16 +26,18 @@ Whether you’re tracking competitors, enriching leads, summarizing content, or 
 
 There are two main places you'll have access to templates:
 
-* [**Template Gallery**](https://codewords.agemo.ai/template-gallery): A collection of pre-built automation templates from the CodeWords community.&#x20;
-* [**My Workflows**](https://codewords.agemo.ai/workflows/library): Where you'll find all the automations that you've built with CodeWords. After Cody has finished building your automation in the chat, you'll be given a URL that takes you straight to your template's run page. You'll be able to return to those templates in the My Workflows section.&#x20;
+* [**Templates**](https://codewords.agemo.ai/template-gallery): A collection of pre-built automation templates from the CodeWords community.&#x20;
+* [**Projects**](https://codewords.agemo.ai/workflows/library): Where you'll find all the automations and tools that you've built with CodeWords.&#x20;
+  * After Cody has finished building your automation in the chat, you'll be given a URL that takes you straight to your template's run page. You'll be able to return to those templates in the Projects section.&#x20;
 
-You can find specific automation templates for your use case by using the search bar or picking a preset category tag, for example WhatsApp, Productivity, or Sales.&#x20;
+You can find specific automation templates for your use case by using the search bar or picking a preset category tag on the Templates page, for example for WhatsApp, Productivity, or Sales.&#x20;
 
 Templates in both locations allow you to do the following:
 
-* **Access the run page**: Click to head straight to the template's run page. From here you can run that automation manually.&#x20;
-* **Click to Remix**: Click `Remix` to edit or update the template.&#x20;
+* **Run your automation**: Click to a template to head straight to its overview page. From here you can run that automation by clicking `Run`, set up a schedule, add in a trigger, or customize the template via the chat.
+* **Click to Open Chat**: Click `Open Chat` to run, edit, or update the template.&#x20;
 * **Schedule**: Click the template and select `Schedule` to automatically run the automation at set times.&#x20;
+* **Set up trigger:** Click the template and select&#x20;
 * **Share**: Click the template and select `Share` to share this workflow template with friends, teammates, or to social media.&#x20;
 
 ### How to use templates and run pages
