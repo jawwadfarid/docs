@@ -1,9 +1,9 @@
 ---
-description: Discover and customize pre-built automation templates.
+description: Discover and customize pre-built automation templates and tools built by you.
 icon: file
 ---
 
-# Templates
+# Templates and Projects
 
 ### What are automation templates?
 
@@ -26,25 +26,29 @@ Whether you’re tracking competitors, enriching leads, summarizing content, or 
 
 There are two main places you'll have access to templates:
 
-* [**Templates**](https://codewords.agemo.ai/template-gallery): A collection of pre-built automation templates from the CodeWords community.&#x20;
+* [**Templates**](https://codewords.agemo.ai/template-gallery): A collection of pre-built automation templates from the CodeWords community. You can take the following actions from these templates:&#x20;
+  * **Use template**: Run the automation, set up schedules or triggers, or customize the template to make it your own, all via the chat.&#x20;
+  * **View app**: When there's both a backend automation and interface for a template, you can head straight to the app to use straightaway.&#x20;
 * [**Projects**](https://codewords.agemo.ai/workflows/library): Where you'll find all the automations and tools that you've built with CodeWords.&#x20;
   * After Cody has finished building your automation in the chat, you'll be given a URL that takes you straight to your template's run page. You'll be able to return to those templates in the Projects section.&#x20;
 
 You can find specific automation templates for your use case by using the search bar or picking a preset category tag on the Templates page, for example for WhatsApp, Productivity, or Sales.&#x20;
 
-Templates in both locations allow you to do the following:
+The **Templates** page allows you to do the following:
 
-* **Run your automation**: Click to a template to head straight to its overview page. From here you can run that automation by clicking `Run`, set up a schedule, add in a trigger, or customize the template via the chat.
-* **Click to Open Chat**: Click `Open Chat` to run, edit, or update the template.&#x20;
-* **Schedule**: Click the template and select `Schedule` to automatically run the automation at set times.&#x20;
-* **Set up trigger:** Click the template and select&#x20;
+* **Run the automation**: Select a template, click `Use Template`, and you'll be taken to the chat. From here, you can run that automation, set up a schedule, add in a trigger, or customize the template — all via the chat.&#x20;
+* **Set up schedules and triggers**: Select a template, click `Use Template` and from the chat you'll be able to ask for a schedule or trigger of your choice to be added.&#x20;
+
+The **Projects** page allows you to do the following:&#x20;
+
+* **View and manage your automations and apps:** Click a template and you'll be taken to its overview page. Here you can head to the chat, copy and customize the workflow, setup and manage schedules and triggers, view costs, and see all versions.  &#x20;
 * **Share**: Click the template and select `Share` to share this workflow template with friends, teammates, or to social media.&#x20;
 
-### How to use templates and run pages
+### How to use templates
 
 #### 1. Explore available templates
 
-Browse the [**Template Gallery**](https://codewords.agemo.ai/template-gallery) to see pre-built automations for and range of use cases.
+Browse the [**Templates**](https://codewords.agemo.ai/template-gallery) page to see pre-built automations and apps for and range of use cases.
 
 For example:&#x20;
 
@@ -61,14 +65,12 @@ Pick a template that fits a real use case in your workflow.&#x20;
 
 Testing with actual data helps you learn faster and see value immediately.
 
-<figure><img src="../.gitbook/assets/templates.gif" alt=""><figcaption><p>Accessing a template from the Template Gallery</p></figcaption></figure>
-
 #### 3. Run the template
 
 Running a template is simple:
 
 1. Click a template.
-2. Connect to any required integrations by selecting the integrations dropdown.
+2. Select `Use template` and you'll be taken to the chat interface. Here you'll be prompted to add in your integrations so you can use it.&#x20;
 3. Fill in your input data according to the required fields.&#x20;
 4. Click `Run` . You'll be able to see the estimated cost and time it takes to run this automation from the run button.&#x20;
 
@@ -76,7 +78,7 @@ Your automation will run and deliver your output.
 
 #### 4. Edit a template
 
-If you want to edit a template to better-align with your use case and tech stack, click `Edit` and describe what you'd like to happen.&#x20;
+If you want to edit a template to better-align with your use case and tech stack, click `Use template` and you'll be taken straight to the chat. From there, you can update and customize the template to fit your intended outputs and tools.&#x20;
 
 For example, these are some edits you might wish to make:&#x20;
 
@@ -85,8 +87,6 @@ For example, these are some edits you might wish to make:&#x20;
 * "Use Telegram instead of WhatsApp"&#x20;
 
 Cody updates the automation automatically, so you can customize without needing to update any code.
-
-<figure><img src="../.gitbook/assets/edit_template.gif" alt=""><figcaption><p>Editing a template</p></figcaption></figure>
 
 ### FAQs
 

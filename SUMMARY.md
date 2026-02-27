@@ -14,7 +14,7 @@
 * [Introduction to Cody](core-concepts/introduction-to-cody.md)
 * [The building process](core-concepts/the-building-process.md)
 * [Running automations](core-concepts/running-automations.md)
-* [Templates](core-concepts/templates-and-run-pages.md)
+* [Templates and Projects](core-concepts/templates-and-projects.md)
 * [Schedules and triggers](core-concepts/schedules-and-triggers.md)
 * [Graph and code views](core-concepts/graph-and-code-view.md)
 * [Sharing workflows](core-concepts/sharing-workflows.md)
