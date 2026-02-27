@@ -26,7 +26,7 @@ As of February 2026, when you subscribe to CodeWords we'll add bonus credits to 
 
 For every $10 you top up, Pro users get $15 worth of credits, and Max users get $20.\
 \
-You can also subscribe to the **Annual Subscription**:
+You can also subscribe to the **Annual Subscription** (17% Discount):
 
 * **Pro Plan ($200/Year):** Get $300 of credits
 * **Business Plan ($1000/Year):** Get $2000 of credits
@@ -125,9 +125,9 @@ You can view a precise breakdown of all your usage in the [**History**](https://
 
 Visit [**History**](https://codewords.agemo.ai/workflows/history) inside your dashboard.
 
-### [Wallet and top-ups](https://codewords.agemo.ai/account/wallet)
+### Wallet and top-ups
 
-You can always add more credits, even if you’re on a subscription.
+Once you are subscribed you can add more credits to you account.
 
 This allows you to get the most out of CodeWords, without paying for anything you don't use.&#x20;
 
