@@ -25,6 +25,10 @@ You can open version history from the chat interface:
 * A short description of the version
 * Option to preview or restore
 
+You can also view the versions from the projects page within the specific project
+
+
+
 ### Previewing a version
 
 Before you restore an old version, you can preview it:
