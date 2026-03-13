@@ -3,12 +3,10 @@ description: >-
   Connect your own domain to your CodeWords app. Tell Cody the domain you want,
   add one DNS record at your provider, and your app is live at your custom
   address. SSL is automatic, no code changes needed
-icon: lines-leaning
+icon: globe
 ---
 
 # Custom Domain
-
-When your app is live on CodeWords, it gets a `*.codewords.run` URL by default. If you want to use your own domain instead — like `app.yourcompany.com` , you can connect it in a few steps.
 
 ### How it works
 
@@ -27,8 +25,6 @@ Before you can connect a custom domain, you'll need:
 {% endhint %}
 
 ### Connecting your domain
-
-
 
 {% stepper %}
 {% step %}
